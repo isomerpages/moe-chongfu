@@ -62,3 +62,10 @@ To provide the breadth and depth of learning local art as part of students’ un
 ![](/images/aesthetics16.png)
 ![](/images/aesthetics17.png)
 ![](/images/aesthetics18.png)
+
+**Isle of Tune**
+
+Digital Music Module for Primary 4
+
+<img src="/images/1.jpeg" 
+     style="width:40%">
