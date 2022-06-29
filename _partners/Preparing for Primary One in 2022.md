@@ -47,3 +47,11 @@ _Please submit the completed application form and supporting documents by **15 
 
 **Student Care Service**
 *   [Student Care Registration](https://forms.office.com/pages/responsepage.aspx?id=qZfrxe8FzUqIHrfB8FGIi2mCRfWRZLdHtdyGfbkB6UtUNk9JT0pZUDBZQUhORUpPRTNORDNLTk5OTC4u)
+
+**Parent Support Group (PASSION) and Alumni Classes**
+
+*   [Passion Application Form\_FormSG](https://go.gov.sg/5dtkyp)
+*   [The Dads@Chongfu Video](http://shorturl.at/cwF14)
+*   [Parent Support Group (PASSION) Video](https://tinyurl.com/y6rhd9vy)
+*   [Chongfu Alumni - Notification to Parents](/files/Notification-to-Parents.pdf)
+*   [Chongfu Alumni Classes Information](/files/CFS_P1_Alumni_Classes_2022.pdf)
