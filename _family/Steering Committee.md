@@ -119,3 +119,46 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-citn" colspan="2"><span style="font-weight:bold;color:#333">Lead/Senior Teachers</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lm9i">Mrs Lim Meng Wah</td>
+    <td class="tg-lm9i">Senior Teacher/English</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Mdm Chew Geik Bee Angeline</td>
+    <td class="tg-lm9i">Senior Teacher/English</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Mdm Koh Siew Geok</td>
+    <td class="tg-lm9i">Senior Teacher/Mathematics</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Mdm Eng Hwee Yen</td>
+    <td class="tg-lm9i">Senior Teacher/Mathematics</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Mdm Toh Guat Lay</td>
+    <td class="tg-lm9i">Senior Teacher/Mathematics</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Ms Chiang Yu Rong</td>
+    <td class="tg-lm9i">Senior Teacher/Chinese Language</td>
+  </tr>
+</tbody>
+</table>
