@@ -2,14 +2,14 @@ collections:
   heritage:
     output: true
     order:
+      - History.md
+      - Our Vision & Mission.md
+      - Core Values.md
+      - School Crest.md
+      - School Motto.md
+      - School Flag.md
+      - School Song.md
       - School Information/.keep
       - School Information/School Information.md
       - School Information/School Hours.md
       - School Information/School Calender.md
-      - School Song.md
-      - School Flag.md
-      - School Motto.md
-      - School Crest.md
-      - History.md
-      - Our Vision & Mission.md
-      - Core Values.md
