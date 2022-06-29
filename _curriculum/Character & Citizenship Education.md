@@ -195,3 +195,11 @@ The Cyber Wellness Framework guides schools in planning for a cyber wellness pro
 It highlights two principles to guide students in their actions describes a 3-step process to explore cyber wellness issues. The school has already embarked on a cyberwellness programme to help students know how to manage themselves in cyberspace. We hope parents would be able to join us in inculcating the right values to our young.
 
 ![](/images/cce4.png)
+**CCE Development Protocol**<br>  
+As part of our school’s continued efforts to develop our students holistically, the CCE Development Protocol premised on a set of core values GRACIOUSLY was developed to help our students chart their development of character and citizenship. Values can be manifested through the students’ social and emotional competencies which are qualities and dispositions that will equip students to succeed for life.
+
+**Rationale**<br> 
+Though families play the most important role in supporting the growth of a child’s citizenship, personal development and character, schools share in these responsibilities as well. As teachers, it is our responsibility to help our students in their character development above academic success. And because what get measured matters, it is important to develop a tool to measure the presence and absence of these values identified.
+
+**Tool**<br>
+The protocol includes both a CCE Development card and the use of Teacher Student Conference. The card is a formative assessment tool based specifically on teachers’ observations of the student in their daily behaviour and also teachers’ interaction with them. Teachers who are also Character Coaches then use the conference as the opportunities to have meaningful conversations around the development of character. The conference serves as a vehicle for people to talk about character in a rigorous and nuanced manner. Teachers and parents can get to know each student as a whole child before deciding on the best way to help them level up their competencies. Students can also use feedback from the CCE development card to develop self-understanding and to take ownership of their personal growth by planning the next steps to improve.
