@@ -50,3 +50,10 @@ To create opportunities and platforms for students to showcase their passion and
 **Chongfu Celebrates teacher artist**
 
 To share students and teacher’s artworks and educate students with the various museum etiquette.
+
+![](/images/aesthetics13.png)
+![](/images/aesthetics14.png)
+
+**Art Club Learning Journey**
+
+To provide the breadth and depth of learning local art as part of students’ understanding and appreciation of Singapore heritage. (23 March 2018)
