@@ -29,3 +29,13 @@ Anchored on the CCE Framework are our core values GRACIOUSLY, which are intercon
 \-to stay devoted to one’s values and roots  
 **朝气 Youthful**  
 \-to be vigorous, fresh and energetic
+
+The approach adopted for the Character and Citizenship Education of our students is to develop them in 5 core areas, namely:
+
+**德 Moral** <br>  
+**智 Intellectual** <br> 
+**体 Physical** <br>
+**群 Social** <br>  
+**美 Aesthetics**
+
+and thereby preparing them for the 21st century.
