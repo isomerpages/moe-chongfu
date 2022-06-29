@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Aesthetics Department.md
       - English (WIP).md
       - Mathematics (WIP).md
       - Science Department.md
