@@ -25,3 +25,9 @@ Below are some blogs of previous overseas learning journeys:
 * [Chongfu School Suzhou Trip 2012](http://blog.sina.com.cn/u/2761420854)  
 * [Chongfu School Beijing Trip 2012](http://blog.sina.com.cn/u/2764812670)  
 * [Chongfu School Hong Kong Trip 2012](http://www.cfshk2012.blogspot.com/)
+
+
+### Beijing, China Visit
+
+<img src="/images/P5-Beijing.jpeg" 
+     style="width:50%">
