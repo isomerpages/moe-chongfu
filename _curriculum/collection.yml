@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Sexuality Education.md
       - Character & Citizenship Education.md
       - English (WIP).md
       - Mathematics (WIP).md
