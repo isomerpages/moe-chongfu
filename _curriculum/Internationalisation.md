@@ -31,3 +31,4 @@ Below are some blogs of previous overseas learning journeys:
 
 <img src="/images/P5-Beijing.jpeg" 
      style="width:50%">
+![](/images/beijing.png)
