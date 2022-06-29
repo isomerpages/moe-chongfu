@@ -171,3 +171,15 @@ Programmes are designed and delivered so that students understand and are able t
 
 <img src="/images/cce2.png" 
      style="width:50%">
+		 
+**Life Skills Series**<br>
+As part of character and citizenship education, the school aims to equip students with relevant life skills to help them deal effectively with demands and challenges of their everyday life. The life skills series in the form of a pamphlet is given to all students to provide basic tips to help them develop their personal growth. This series encompasses thinking skill, social skill, negotiation skill and other life skills.  
+A modular approach is adopted to teach SEL-infused Lifeskills to P1 to P6 students in the following areas:
+
+* Social & Mental Health  
+* Coping with Changes  
+* Camp Survival Skills  
+* Friendships  
+* Exam Skills  
+* How to study  
+* Peer Pressure
