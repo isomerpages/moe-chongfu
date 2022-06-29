@@ -72,3 +72,19 @@ Digital Music Module for Primary 4
 A 10 week module which introduces students to basic music theory and different functions on the app. At the end of the module, students would be equipped with the knowledge and skills to compose a melodic phrase of at least 4 bars as well as an accompanying rhythmic ostinato.
 
 ![](/images/aesthetics19.png)
+
+**Singapore Youth Festival (SYF) Art Exhibition 2021**
+
+ In view of the current COVID situation, the SYF Art Exhibition will be carried out virtually using immersive 360-degree technology. Instead of showcasing the selected artworks at the Art Gallery.
+
+Members of the public, staff and students will be able to view over 260 selected artworks set against a digitalised backdrop of the National Gallery.
+
+ We are happy to announce the results of our school's entries;
+
+1. **Category A (Primary 2) - Certificate of Participation**
+
+2. **Category B (Primary 4) - Certificate of Recognition** 
+
+3. **Category C (Primary 6) - Certificate of Recognition**
+
+**( Selected and showcased on the SYF Virtual Art Exhibition. Click on Search By School on**) [https://www.syf.gov.sg/syf/virtualexhibition/gallery-2](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2)
