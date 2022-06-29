@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Science Department.md
       - Home Based Learning.md
       - English.md
