@@ -32,3 +32,66 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-emotion
 10.  The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
 
 ### At Chongfu School, the following lessons from the Growing Years Programme will be taught in 2022:
+
+<strong><u>Primary 6</strong></u>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ukh9{background-color:#FFF;color:#808080;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-e404{background-color:#FFF;color:#808080;text-align:center;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ukh9"><span style="font-weight:bold">Date</span></th>
+    <th class="tg-ukh9"><span style="font-weight:bold">Unit</span></th>
+    <th class="tg-ukh9"><span style="font-weight:bold">Topics/ Lessons</span></th>
+    <th class="tg-ukh9"><span style="font-weight:bold">GY Learning Outcomes</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e404" rowspan="2">Thursday, 20 January (7.45am - 8.45am)</td>
+    <td class="tg-e404" rowspan="5">Are We More Than Friends</td>
+    <td class="tg-e404">Lesson 1<br><br>Who Are My Friends?</td>
+    <td class="tg-lm9i">identify the qualities of a healthy friendship<br>recognise the importance of making wise choices in friendship</td>
+  </tr>
+  <tr>
+    <td class="tg-e404">Lesson 2<br><br>Am I A Good Friend?</td>
+    <td class="tg-lm9i">identify the qualities that they have as a friend<br>recognise  the  importance of  developing  in  oneself the qualities of a good friend</td>
+  </tr>
+  <tr>
+    <td class="tg-e404" rowspan="3">Thursday, 3 February (7.45am – 8.45am)</td>
+    <td class="tg-e404">Lesson 3<br><br>What is Love?</td>
+    <td class="tg-lm9i">identify the characteristics of love and infatuation<br>distinguish between the characteristics of love versus infatuation</td>
+  </tr>
+  <tr>
+    <td class="tg-e404">Lesson 4<br><br>Am I Falling In Love?</td>
+    <td class="tg-lm9i">identify strong feelings arising from infatuation.<br>manage strong feelings arising from infatuation<br>identify  ways  to  manage  and cope with teasing from peers</td>
+  </tr>
+  <tr>
+    <td class="tg-e404">Lesson 5<br><br>Task</td>
+    <td class="tg-lm9i">They will consider the issues that their peers would face and craft questions and answers that they believe that their peers would benefit most from knowing.</td>
+  </tr>
+  <tr>
+    <td class="tg-e404" rowspan="3">Thursday, 24 February<br>(7.45am – 8.45am)</td>
+    <td class="tg-e404" rowspan="3">Friends<br>or<br>Foes</td>
+    <td class="tg-e404">Lesson 6<br><br>Are You Really My Friend?</td>
+    <td class="tg-lm9i">identify  the  pros  and  cons  of forming  relationships  through social networking websites<br>know ways to keep themselves safe  when  using  social networking websites</td>
+  </tr>
+  <tr>
+    <td class="tg-e404">Lesson 7<br><br>Is It All Safe?</td>
+    <td class="tg-lm9i">know that some information (like pornography) received through the Internet may be harmful<br>know ways to keep themselves safe when using the Internet</td>
+  </tr>
+  <tr>
+    <td class="tg-e404">Lesson 8<br><br>Main Task</td>
+    <td class="tg-lm9i">Students  are  to  apply  their understanding  of  Safety  in  a variety  of  scenarios  where  the main  character  could  be  in  a precarious  situation.  They  will consider  the  situation  from the  point  of  view  of  the  main character,  discuss what  they think and feel about the situation and  what  they  will  do  or  say to  ensure  their  safety.    These scenarios will provide pupils with the  opportunity  to  demonstrate their  understanding  of  Safety and  that  safety  is  a  right  and  a responsibility.</td>
+  </tr>
+</tbody>
+</table>
+
