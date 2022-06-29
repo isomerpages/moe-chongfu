@@ -44,3 +44,30 @@ As part of a strategic move to develop our niches in Aesthetics and Sports, Chon
 **P3 SwimSafer Programme**
 
 SwimSafer is a national water safety programme in Singapore introduced in July 2010 by the National Water Safety Council (NWSC), a council appointed by the then Ministry of Community, Youth and Sports (MCYS). In 2013, NWSC transferred full ownership of SwimSafer to Sport Singapore. The swimsafer programme consists of 6 progressive stages and caters to all students regardless of their swimming proficiency and is open up to all the P3 students.
+
+# Co-Curricular Activities
+
+**These are the CCAs offered in Chongfu School.**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-soxn"><span style="font-weight:bold">Sports &amp; Games</span><br><br>-Table Tennis<br>-Wushu<br>-Track &amp; Field<br>-Floorball<br>-Fun and Fitness</th>
+    <th class="tg-soxn"><span style="font-weight:bold">Performing Arts</span><br><br>-Chinese Dance<br>-Malay Dance<br>-Indian Dance<br>-Chinese Orchestra<br>-Guzheng</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Uniformed Groups</span><br><br>-Scouts<br>-Red Cross<br>-Brownies</td>
+    <td class="tg-soxn"><span style="font-weight:bold">Clubs and Society</span><br><br>-Art Club<br>-Environmental club<br>-ICT club<br>-English Club<br>-Chinese Club<br>-Prefectorial Board</td>
+  </tr>
+</tbody>
+</table>
