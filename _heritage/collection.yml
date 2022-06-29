@@ -2,4 +2,5 @@ collections:
   heritage:
     output: true
     order:
+      - Our Vision & Mission.md
       - History.md
