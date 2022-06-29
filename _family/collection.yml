@@ -2,4 +2,5 @@ collections:
   family:
     output: true
     order:
+      - Steering Committee.md
       - School Management Committee.md
