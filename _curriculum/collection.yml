@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Information & Communication Technology.md
       - Programme for Active Learning (PAL) (WIP).md
       - Internationalisation.md
       - Sexuality Education.md
