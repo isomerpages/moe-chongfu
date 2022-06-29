@@ -203,3 +203,5 @@ Though families play the most important role in supporting the growth of a child
 
 **Tool**<br>
 The protocol includes both a CCE Development card and the use of Teacher Student Conference. The card is a formative assessment tool based specifically on teachers’ observations of the student in their daily behaviour and also teachers’ interaction with them. Teachers who are also Character Coaches then use the conference as the opportunities to have meaningful conversations around the development of character. The conference serves as a vehicle for people to talk about character in a rigorous and nuanced manner. Teachers and parents can get to know each student as a whole child before deciding on the best way to help them level up their competencies. Students can also use feedback from the CCE development card to develop self-understanding and to take ownership of their personal growth by planning the next steps to improve.
+
+![](/images/cce6.png)
