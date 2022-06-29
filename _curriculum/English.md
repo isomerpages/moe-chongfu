@@ -26,13 +26,3 @@ To align with the aim of MOE’s EL Syllabus 2010 to develop effective language 
 The department focuses on the students’ acquisition and development of these main skills of language learning, namely, Reading & Listening, Speaking & Writing and Viewing & Representing.
 
 
-<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
-    <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
-    </div>
-  </li>
-
