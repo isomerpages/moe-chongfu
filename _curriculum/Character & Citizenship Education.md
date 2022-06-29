@@ -159,3 +159,11 @@ With the aim to develop gracious, patriotic and global thinkers, the CCE program
   </tr>
 </tbody>
 </table>
+
+**CCE Lessons (Mother Tongue)**<br>
+CCE Lessons (Mother Tongue) focuses on developing the moral and social well-being of our pupils by helping them acquire and live by the values that guide them to make appropriate decisions. It not only plays a critical role in instilling sound moral values in our pupils so that they will be equipped with knowledge and life skills, it also nurtures them with the correct attitudes so that they will develop into morally upright, caring and responsible individuals and citizens.
+
+Our school has been worked with SHHK Education committee and the other 4 SHHK (Primary) schools to jointly develop lesson package using SHHK graded storybooks to extend and reinforce teaching points aligned with the philosophy of our SHHK’s founder, Mr Tan Kah Kee, whilst maintaining the CCE (MT) syllabus/curriculum that espoused the R3ICH values, namely Respect, Responsibility, Resilience, Integrity, Caring and Harmony,.
+
+**Social and Emotional Learning**<br> 
+Programmes are designed and delivered so that students understand and are able to effectively manage the personal and emotional aspects of one’s life. They will learn to understand the importance of relationships with others and be able to effectively manage these relationships. They will acquire skills and knowledge that facilitate life-long learning or prepare them for their future careers. They will also possess skills, knowledge, values and attitudes to lead a healthy lifestyle and meaningful life and be gracious individuals.
