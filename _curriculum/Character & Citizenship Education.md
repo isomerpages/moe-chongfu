@@ -106,3 +106,56 @@ Our tagline for student leadership is Every Chongfu student, A Leader advocates 
 With good citizenship education, every Chongfu child appreciates cultural differences and good governance. We want our Chongfu students to possess a sense of belonging to the home, school, community and Singapore.
 
 With the aim to develop gracious, patriotic and global thinkers, the CCE programmes are specially tailored.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-zrb3{background-color:#FFF;color:#F85125;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-soxn"><span style="font-weight:bold">FORMAL CURRICULUM</span></th>
+    <th class="tg-soxn"><span style="font-weight:bold">MODULES</span></th>
+    <th class="tg-soxn"><span style="font-weight:bold">EXPERIENCES</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lm9i">CCE Lessons (MT)</td>
+    <td class="tg-lm9i">Education &amp; Career Guidance (ECG)</td>
+    <td class="tg-zrb3"><a href="https://chongfu.moe.edu.sg/community-involvement-programme-cip-service-learning/"><span style="text-decoration:none;color:#F85125;background-color:transparent">Values In Action (VIA)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Form Teacher Guidance Period (FTGP)</td>
+    <td class="tg-zrb3"><a href="https://chongfu.moe.edu.sg/curriculum/character-citizenship-education/sexuality-education/"><span style="text-decoration:none;color:#F85125;background-color:transparent">Sexuality Education (SEd)</span></a></td>
+    <td class="tg-zrb3"><a href="https://chongfu.moe.edu.sg/community-involvement-programme-cip-service-learning/"><span style="text-decoration:none;color:#F85125;background-color:transparent">Service Learning</span></a><br><a href="https://chongfu.moe.edu.sg/community-involvement-programme-cip-service-learning/"><span style="text-decoration:none;color:#F85125;background-color:transparent">(Student Initiated Projects)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Lifeskills Package (Social Skills Lessons &amp; Learning Series)</td>
+    <td class="tg-lm9i">Cyber Wellness</td>
+    <td class="tg-lm9i">NE Commemorative Days</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Infusion across all subjects</td>
+    <td class="tg-lm9i">Social and Emotional Well-being and Support</td>
+    <td class="tg-lm9i"></td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Social Studies</td>
+    <td class="tg-lm9i"></td>
+    <td class="tg-lm9i"></td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i"> Assembly Programme (Values Talk)</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
