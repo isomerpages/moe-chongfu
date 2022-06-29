@@ -16,3 +16,14 @@ With today’s emphasis on technology, it is imperative that our pupils have a h
 2. Touch-Typing Skills  
 3. AskNLearn Learning Management System (LMS) Orientation  
 4. Basic Microsoft Word
+
+### Primary 2
+
+1. Intermediate Microsoft Word  
+2. Mother Tongue Touch-Typing (Tamil and Chinese)
+
+### Primary 3
+
+1. Introduction to iPad  
+2.  Introduction to Padlet  
+3. Intermediate Microsoft PowerPoint
