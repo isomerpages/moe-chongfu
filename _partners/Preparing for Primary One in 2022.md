@@ -35,3 +35,12 @@ _Please submit the completed application form and supporting documents by **15 
 
 * [P1 Booklist](/files/CFS-2022-P1-Booklist.pdf)
 * [Sales Dates for Textbooks & Stationery](/files/Selling-Dates.pdf)
+
+**School Essential Supplies - Uniform**
+* [CFS Uniform Selling Dates](/files/CFS-Uniform-Selling-Dates-1-converted.pdf)
+* *   [Online Purchase/Appointment link for Walk-in Purchases](https://euniforms.com.sg/shop/primary-1-orientation/chongfu-school-2022-primary-1/)
+
+**Application for Bus Transport**
+*   [School Bus Registration](http://www.tongtar.com/) (Please register by 30 November 2021)
+*   Contact: 6261 5537 / 9773 0426 (Whatsapp or SMS)
+*   Email: chongfu@tongtar.com
