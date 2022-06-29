@@ -2,8 +2,8 @@ collections:
   curriculum:
     output: true
     order:
-      - Mathematics.md
       - English.md
+      - Mathematics.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Department.md
       - Mother Tongue/Malay Department.md
