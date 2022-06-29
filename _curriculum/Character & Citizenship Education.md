@@ -183,3 +183,5 @@ A modular approach is adopted to teach SEL-infused Lifeskills to P1 to P6 studen
 * Exam Skills  
 * How to study  
 * Peer Pressure
+
+![](/images/cce3.png)
