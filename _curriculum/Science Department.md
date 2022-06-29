@@ -49,3 +49,75 @@ Chongfu School has always been committed in doing her part for the environment. 
 
 ![](/images/sci_04.png)
 ![](/images/sci_05.png)
+
+In 2014, a superhero has also emerged to raise awareness to the environmental movement. Imbued with a strong sense of environmental protection, Chongfu’s very own Green Commando is determined to defeat the Evil Queen Pollutant, the inner side of mankind that encourages wastage. In order to deliver his message on the 4Rs (Reduce, Reuse, Recycle and Rethink), the Green Commando made his special appearances during the school’s green events.
+
+Chongfu’s continued partnership with our corporate partner, Senoko Power Ltd has been recognised by the NEA as we received our 10th year Sustained Partnership Award in 2013 under the Corporate and School Partnership Programme.
+
+Chongfu has received the following awards for all the environmental efforts:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5xgq{background-color:#FFF;color:#808080;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-soxn"><span style="font-weight:bold">Achievements</span></th>
+    <th class="tg-soxn"><span style="font-weight:bold">Year</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-5xgq">Senoko Sustainability Challenge – 2nd Runner-up</td>
+    <td class="tg-5xgq">2013</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">SEC-Starhub School Green Awards – Lotus Award</td>
+    <td class="tg-5xgq">2014</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">4R Award – Gold</td>
+    <td class="tg-5xgq">2014</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">SembCorp Go Green Fund Competition – Consolation</td>
+    <td class="tg-5xgq">2014</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">SEC-Starhub School Green Awards – Lotus Award</td>
+    <td class="tg-5xgq">2015</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">4R Award – Gold</td>
+    <td class="tg-5xgq">2015</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">SEC-Starhub School Green Awards – Lotus Sustained Achievement Award</td>
+    <td class="tg-5xgq">2016</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">SembCorp Go Green Fund Competition – 2nd</td>
+    <td class="tg-5xgq">2016</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">North West Outstanding School Partner – Bronze Award</td>
+    <td class="tg-5xgq">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">SEC-Starhub School Green Awards – Lotus Sustained Achievement Award</td>
+    <td class="tg-5xgq">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">SembCorp Go Green Fund Competition – Consolation</td>
+    <td class="tg-5xgq">2017</td>
+  </tr>
+</tbody>
+</table>
+
+Beyond winning these awards, we hope that through our continuous efforts and reminders, students will be able to care more for the environment and help spread the green messages to their family and friends.
