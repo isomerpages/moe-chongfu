@@ -57,3 +57,8 @@ To share students and teacher’s artworks and educate students with the various
 **Art Club Learning Journey**
 
 To provide the breadth and depth of learning local art as part of students’ understanding and appreciation of Singapore heritage. (23 March 2018)
+
+![](/images/aesthetics15.png)
+![](/images/aesthetics16.png)
+![](/images/aesthetics17.png)
+![](/images/aesthetics18.png)
