@@ -2,6 +2,6 @@ collections:
   heritage:
     output: true
     order:
-      - Core Values.md
-      - Our Vision & Mission.md
       - History.md
+      - Our Vision & Mission.md
+      - Core Values.md
