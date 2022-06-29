@@ -94,3 +94,5 @@ third_nav_title: School Information
   </tr>
 </tbody>
 </table>
+
+* CCAs will continue to be held on every Tuesday and/or Friday. Your child/ward may be required to attend CCA on Tuesday and/or Friday depending on the nature/schedule of his/her CCA.
