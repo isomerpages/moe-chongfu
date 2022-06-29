@@ -46,3 +46,7 @@ To create opportunities and platforms for students to showcase their passion and
 ![](/images/aesthetics10.png)
 ![](/images/aesthetics11.png)
 ![](/images/aesthetics12.png)
+
+**Chongfu Celebrates teacher artist**
+
+To share students and teacher’s artworks and educate students with the various museum etiquette.
