@@ -193,3 +193,5 @@ With the cyberspace being more accessible to students, Cyber Wellness becomes mo
 
 The Cyber Wellness Framework guides schools in planning for a cyber wellness programme.  
 It highlights two principles to guide students in their actions describes a 3-step process to explore cyber wellness issues. The school has already embarked on a cyberwellness programme to help students know how to manage themselves in cyberspace. We hope parents would be able to join us in inculcating the right values to our young.
+
+![](/images/cce4.png)
