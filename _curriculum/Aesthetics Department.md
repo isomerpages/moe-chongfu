@@ -70,3 +70,5 @@ Digital Music Module for Primary 4
 <img src="/images/1.jpeg" 
      style="width:40%">
 A 10 week module which introduces students to basic music theory and different functions on the app. At the end of the module, students would be equipped with the knowledge and skills to compose a melodic phrase of at least 4 bars as well as an accompanying rhythmic ostinato.
+
+![](/images/aesthetics19.png)
