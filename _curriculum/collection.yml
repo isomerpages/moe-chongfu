@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Chinese Department.md
       - Mother Tongue/.keep
       - Science Department.md
       - Home Based Learning.md
