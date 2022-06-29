@@ -27,3 +27,19 @@ With today’s emphasis on technology, it is imperative that our pupils have a h
 1. Introduction to iPad  
 2.  Introduction to Padlet  
 3. Intermediate Microsoft PowerPoint
+
+### Primary 4
+
+1.  Introduction to Google Docs and Shared Documents  
+2.  Mindmapping skill using Popplet  
+3.  Internet Research Skills  
+4.  Application of ShowMe app for Mathematics
+ 
+### Primary 5
+
+1. Introduction to Scratch  
+2. Application of Internet Research Skills in Google Docs
+
+### Primary 6
+
+1. Using Microsoft Powerpoint to design Christmas Cards for patients in KKH
