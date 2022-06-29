@@ -2,10 +2,10 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue/Tamil Department.md
-      - Mother Tongue/Malay Department.md
-      - Mother Tongue/Chinese Department.md
       - Mother Tongue/.keep
+      - Mother Tongue/Chinese Department.md
+      - Mother Tongue/Malay Department.md
+      - Mother Tongue/Tamil Department.md
       - Science Department.md
       - Home Based Learning.md
       - English.md
