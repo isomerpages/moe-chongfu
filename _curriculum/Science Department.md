@@ -21,3 +21,16 @@ Inquiry-based Learning involves the following 5Es:
 * Evaluate : To determine/assess if the students have attained understanding of concepts and knowledge
 
 ![](/images/sci_02.png)
+
+### Holistic Assessment
+
+In Chongfu School, we believe that a sound Science curriculum not only prepares pupils for the national exams but also equips them with the competencies and right attitudes which would ensure that they are adequately proficient to contribute in this technologically-driven world.
+
+Programmes are designed to develop pupils in the various domains and holistic assessment tasks are crafted to monitor pupils’ progress. Each holistic assessment task is carefully aligned to the department’s learning outcomes and serves as a planning document for future instruction. To assess attitudes and skills, tasks beyond pen and paper have been designed with varied modes of feedback.
+
+The following are examples of Science holistic tasks:  
+– Concept Cartoons  
+– Spelling  
+– Lab Work  
+– Practical Tests  
+– Projects
