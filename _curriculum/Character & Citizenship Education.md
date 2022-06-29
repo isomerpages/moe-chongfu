@@ -185,3 +185,11 @@ A modular approach is adopted to teach SEL-infused Lifeskills to P1 to P6 studen
 * Peer Pressure
 
 ![](/images/cce3.png)
+
+Teachers as Character Coaches lead students in reflecting and discussing relevant issues and scenarios. Students record their reflections which include knowledge and skills learnt in their journal.
+
+**Cyber Wellness**<br>
+With the cyberspace being more accessible to students, Cyber Wellness becomes more important as part of character and citizenship education which take care of the positive well-being of our young Internet users. It involves an understanding of the risks of harmful online behaviours, an awareness of how to protect oneself and other Internet users from such behaviours. The Framework focuses on developing the child’s instinct to protect himself and empower him to take responsibility for his own well-being in cyberspace.
+
+The Cyber Wellness Framework guides schools in planning for a cyber wellness programme.  
+It highlights two principles to guide students in their actions describes a 3-step process to explore cyber wellness issues. The school has already embarked on a cyberwellness programme to help students know how to manage themselves in cyberspace. We hope parents would be able to join us in inculcating the right values to our young.
