@@ -1,4 +1,5 @@
 collections:
   family:
     output: true
-    order: []
+    order:
+      - School Management Committee.md
