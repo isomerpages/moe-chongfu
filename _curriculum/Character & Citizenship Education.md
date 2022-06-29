@@ -100,3 +100,9 @@ Leveraging on school values, the range of activities in our programme is planned
 
 <img src="/images/cce1.png" 
      style="width:70%">
+		 
+Our tagline for student leadership is Every Chongfu student, A Leader advocates that Chongfu students are leaders who are able to lead, motivate and inspire others. They are confident, innovative and possess the courage and conviction to stand firm in overcoming challenges and obstacles. Under Personal and Social development, Chongfu students are taught to be gracious and socially responsible. They work effectively in teams and care for the community and the environment. They continually strive for excellence and take pride in all they do.
+
+With good citizenship education, every Chongfu child appreciates cultural differences and good governance. We want our Chongfu students to possess a sense of belonging to the home, school, community and Singapore.
+
+With the aim to develop gracious, patriotic and global thinkers, the CCE programmes are specially tailored.
