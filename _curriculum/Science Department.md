@@ -34,3 +34,18 @@ The following are examples of Science holistic tasks:
 – Lab Work  
 – Practical Tests  
 – Projects
+
+### Excellence 2000 (E2K) Science Programme for P4 to P6
+
+Chongfu School is working with the Gifted Education Branch, Ministry of Education (MOE) to pilot an enrichment programme to cater to high progress learners in Science in primary schools.
+
+This programme, known as the Excellence 2000 (E2K) Science Programme, is based on a curriculum for talented students in Israel. The instructional methodology and materials are designed to be relevant to the learners’ lives, with a strong focus on process and thinking skills in Science. They are aimed at stimulating curiosity while developing and strengthening abilities to study phenomena and their possible causes. Through the programme, we want to motivate the learners to be confident and independent researchers in their own right.
+
+![](/images/sci_03.png)
+
+### Chongfu's Green Efforts
+
+Chongfu School has always been committed in doing her part for the environment. Besides being actively involved in newspaper recycling projects, the school promotes environmental messages through assembly talks, activities in conjunction with international environmental events and student-led activities organised by the Environmental Club. Through all these exposure, students acquire understanding of environmentally-friendly habits and learn to take care of the environment.
+
+![](/images/sci_04.png)
+![](/images/sci_05.png)
