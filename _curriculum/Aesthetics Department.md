@@ -87,4 +87,4 @@ Members of the public, staff and students will be able to view over 260 selected
 
 3. **Category C (Primary 6) - Certificate of Recognition**
 
-**( Selected and showcased on the SYF Virtual Art Exhibition. Click on Search By School on**) [https://www.syf.gov.sg/syf/virtualexhibition/gallery-2](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2)
+**( Selected and showcased on the SYF Virtual Art Exhibition. Click on Search By School on**)  [https://www.syf.gov.sg/syf/virtualexhibition/gallery-2](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2)
