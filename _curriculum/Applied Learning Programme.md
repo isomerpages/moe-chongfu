@@ -19,3 +19,5 @@ The 5 non-linear processes students will experience are briefly explained below:
 
 <img src="/images/ALP-Tables-2.png" 
      style="width:75%">
+
+Click on the links below to view the projects done by the Primary 3 students:
