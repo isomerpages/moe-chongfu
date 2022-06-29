@@ -19,3 +19,9 @@ Every child to be visually literate and to appreciate the arts
 With Visual Arts, our students are able to observe and understand and make meaning in what they see. They are also able to communicate their ideas by using and creating visuals. This helps students to see the value and recognise the relevance of art in their lives.
 
 ![](/images/aesthetics2.png)
+
+**Performing Arts**
+
+Performing Arts is an integral part of our society and it helps to enrich students’ social, cultural and historical awareness.
+
+![](/images/aesthetics3.png)
