@@ -71,3 +71,226 @@ SwimSafer is a national water safety programme in Singapore introduced in July 2
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0yyb{background-color:#CCC;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0yyb">Sports</th>
+    <th class="tg-0yyb">Days</th>
+    <th class="tg-0yyb">Venue</th>
+    <th class="tg-0yyb">Time</th>
+    <th class="tg-0yyb">Remarks</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lm9i">Table Tennis</td>
+    <td class="tg-lm9i">Monday, Tuesday and Friday</td>
+    <td class="tg-lm9i">TKKH Hall</td>
+    <td class="tg-lm9i">1.45pm – 4.45pm (3hrs)</td>
+    <td class="tg-lm9i">Tuesdays – Recreational players only.<br><br>Monday, Tuesday and Friday – School team players</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Wushu</td>
+    <td class="tg-lm9i">Tuesday and Friday</td>
+    <td class="tg-lm9i">ISH</td>
+    <td class="tg-lm9i">1.45pm – 4.45pm (3hrs)</td>
+    <td class="tg-lm9i"></td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Athletics</td>
+    <td class="tg-lm9i">Tuesday(P3/P4) and Friday(P5/P6)</td>
+    <td class="tg-lm9i">New Block Assembly Area</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+    <td class="tg-lm9i"></td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Fun &amp; Fitness</td>
+    <td class="tg-lm9i">Friday</td>
+    <td class="tg-lm9i">CCA Rooms</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+    <td class="tg-lm9i"></td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Floorball</td>
+    <td class="tg-lm9i">Tuesday(P3/P4) and Friday(P5/P6)</td>
+    <td class="tg-lm9i">Basketball Court</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0yyb{background-color:#CCC;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0yyb">Aesthetics</th>
+    <th class="tg-0yyb">Days</th>
+    <th class="tg-0yyb">Venue</th>
+    <th class="tg-0yyb">Time</th>
+    <th class="tg-0yyb"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lm9i">Chinese Dance</td>
+    <td class="tg-lm9i">Tuesday and Friday</td>
+    <td class="tg-lm9i">PAL Rooms</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+    <td class="tg-lm9i">Chinese Dance (P3 Boys) – Wednesdays from 1.30 to 3.30pm.</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Indian Dance</td>
+    <td class="tg-lm9i">Tuesday and Friday</td>
+    <td class="tg-lm9i">Teaching Lab</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+    <td class="tg-lm9i"></td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Malay Dance</td>
+    <td class="tg-lm9i">Tuesday and Friday</td>
+    <td class="tg-lm9i">Dance Room</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+    <td class="tg-lm9i"></td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Guzheng</td>
+    <td class="tg-lm9i">Tuesday and Friday</td>
+    <td class="tg-lm9i">Guzheng Room</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+    <td class="tg-lm9i"></td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Chinese Orchestra</td>
+    <td class="tg-lm9i">Tuesday and Friday</td>
+    <td class="tg-lm9i">Various Rooms + Music Rooms + Resource Room</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+    <td class="tg-lm9i"></td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Chinese Opera(till April)</td>
+    <td class="tg-lm9i">Tuesday and Friday</td>
+    <td class="tg-lm9i">Chinese Room</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0yyb{background-color:#CCC;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0yyb">Clubs</th>
+    <th class="tg-0yyb">Days</th>
+    <th class="tg-0yyb">Venue</th>
+    <th class="tg-0yyb">Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lm9i">Art Club</td>
+    <td class="tg-lm9i">Tuesday(P3/P4) and Friday(P5/P6)</td>
+    <td class="tg-lm9i">Art Rooms</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">ICT</td>
+    <td class="tg-lm9i">Tuesday(P3/P4) and Friday(P5/P6)</td>
+    <td class="tg-lm9i">Computer Labs</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Chinese Club</td>
+    <td class="tg-lm9i">Tuesday</td>
+    <td class="tg-lm9i">Classrooms</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">English Club</td>
+    <td class="tg-lm9i">Friday</td>
+    <td class="tg-lm9i">Classrooms</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Environmental Club</td>
+    <td class="tg-lm9i">Tuesday</td>
+    <td class="tg-lm9i">Classrooms</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Prefectorial Board</td>
+    <td class="tg-lm9i">Tuesdays/Fridays</td>
+    <td class="tg-lm9i">Classrooms</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktjs{background-color:#cccccc;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ktjs">Uniformed Groups</th>
+    <th class="tg-ktjs">Days</th>
+    <th class="tg-ktjs">Venue</th>
+    <th class="tg-ktjs">Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lm9i">Scouts</td>
+    <td class="tg-lm9i">Tuesday(P3/P4) and Friday(P5/P6)</td>
+    <td class="tg-lm9i">Classrooms</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Red Cross</td>
+    <td class="tg-lm9i">Tuesday(P3/P4) and Friday(P5/P6)</td>
+    <td class="tg-lm9i">Classrooms</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Brownies</td>
+    <td class="tg-lm9i">Tuesday(P3/P4) and Friday(P5/P6)</td>
+    <td class="tg-lm9i">Classrooms</td>
+    <td class="tg-lm9i">1.45pm – 3.45pm</td>
+  </tr>
+</tbody>
+</table>
