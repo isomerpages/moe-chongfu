@@ -129,3 +129,63 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-emotion
   </tr>
 </tbody>
 </table>
+
+<strong><u>P5 Sexuality Education Topics (2022) to be conducted in Term 2</strong></u>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ukh9{background-color:#FFF;color:#808080;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-e404{background-color:#FFF;color:#808080;text-align:center;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ukh9"><span style="font-weight:bold">Unit</span></th>
+    <th class="tg-ukh9"><span style="font-weight:bold">Topics/ Lessons</span></th>
+    <th class="tg-ukh9"><span style="font-weight:bold">GY Learning Outcomes</span></th>
+    <th class="tg-ukh9"><span style="font-weight:bold">Action by</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ukh9" rowspan="4"><span style="font-weight:bold">Gosh! I Am Changing</span></td>
+    <td class="tg-e404">Lesson 1<br><br><span style="font-weight:bold">What is happening to me?</span></td>
+    <td class="tg-lm9i">Know what puberty is<br>Identify  the  physical  changes during puberty</td>
+    <td class="tg-e404" rowspan="2">  Thursday,<br>31 March 2022<br>(7.45am – 8.45am)</td>
+  </tr>
+  <tr>
+    <td class="tg-e404">Lesson 2<br><br><span style="font-weight:bold">What Can I Do? (Part 1)</span></td>
+    <td class="tg-lm9i">Identify  the  stresses  caused by  physical changes during puberty<br>Describe ways to manage the stresses caused  by physical changes during puberty</td>
+  </tr>
+  <tr>
+    <td class="tg-e404">Lesson 3<br><br><span style="font-weight:bold">What Can I Do? (Part 2)</span></td>
+    <td class="tg-lm9i">Identify  the  stresses  caused by  physical  changes during puberty<br>Describe ways to manage the stresses  caused  by  physical changes during puberty</td>
+    <td class="tg-e404" rowspan="2">Thursday,<br>21 April 2022<br>(7.45am – 8.45am)</td>
+  </tr>
+  <tr>
+    <td class="tg-e404">Lesson 4<br><br><span style="font-weight:bold">Main Task</span></td>
+    <td class="tg-lm9i">Students are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the  situation  from  the  point  of view of the peer and share ways to  help  him/her  cope  with  the changes he/she is going through.</td>
+  </tr>
+  <tr>
+    <td class="tg-ukh9" rowspan="2"><span style="font-weight:bold">Where I Belong</span></td>
+    <td class="tg-e404">Lesson 5<br><br><span style="font-weight:bold">What are Families?</span></td>
+    <td class="tg-lm9i">Know  that  there  are  different types of family structures<br>Know that every family is unique.<br>State  that  the  three basic functions  of  families  are  to provide  love,  protection  and guidance.<br>Identify  the  right  sources  of help to turn to when in need</td>
+    <td class="tg-e404" rowspan="2">Thursday,<br>5 May 2022<br>(7.45am – 8.45am)<br>Zoom lesson in class</td>
+  </tr>
+  <tr>
+    <td class="tg-e404">Lesson 6<br><br><span style="font-weight:bold">What is My Role?</span></td>
+    <td class="tg-lm9i">Choose  not  to  stereotype  by gender</td>
+  </tr>
+  <tr>
+    <td class="tg-ukh9"><span style="font-weight:bold">How Do I Keep</span><br><span style="font-weight:bold">Myself Safe?</span></td>
+    <td class="tg-e404">Lesson 7<br><br><span style="font-weight:bold">What is Safety?</span></td>
+    <td class="tg-lm9i">Know what sexual abuse is<br>Know  that  there  are  laws  in Singapore  that  can  protect them from sexual abuse<br>Know  their  rights  in  keeping themselves  safe  from  sexual abuse</td>
+    <td class="tg-e404">Thursday,<br>19 May 2022<br>(7.45am – 8.45am)</td>
+  </tr>
+</tbody>
+</table>
