@@ -3,7 +3,7 @@ title: Character & Citizenship Education
 permalink: /curriculum/character-citizenship-education/
 description: ""
 ---
-**Introduction**
+### Introduction
 
 The school’s Character and Citizenship Education programmes aim to equip our students with socio-emotional competencies and skills to exercise responsible citizenship so as to become gracious, persevering, confident and resilient leaders of tomorrow.
 
@@ -37,3 +37,9 @@ The approach adopted for the Character and Citizenship Education of our students
 **群 Social** <br> **美 Aesthetics**
 
 and thereby preparing them for the 21st century.
+
+### CCE Learning Outcomes
+
+CCE is central to the 21st Century Competencies Framework. It emphasizes the interconnectedness of the core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are critical for character and citizenship development of our students.
+
+The learning outcomes of CCE state what we want our students to learn and attain in CCE, and guide the development of the curriculum for CCE.
