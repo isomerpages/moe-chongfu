@@ -189,3 +189,8 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-emotion
   </tr>
 </tbody>
 </table>
+
+**Information for Parents**
+
+8.  Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+9.  Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [opt out form](/files/opt-out-form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the form teacher.
