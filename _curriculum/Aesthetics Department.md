@@ -32,3 +32,17 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 
 ![](/images/aesthetics6.png)
 ![](/images/aesthetic7.png)
+
+**Lower Primary Portrait/ Sculpture Module (2018)**
+
+![](/images/aesthetics8.png)
+![](/images/aesthetics9.png)
+_Students expressing through self-portraits and postures, experiencing and exploring materials, and excelling at their art making._
+
+**Appreciation of the Arts**
+
+To create opportunities and platforms for students to showcase their passion and talent in the domain of visual arts, music and performing arts and to build their confidence performing for their friends and teachers.
+
+![](/images/aesthetics10.png)
+![](/images/aesthetics11.png)
+![](/images/aesthetics12.png)
