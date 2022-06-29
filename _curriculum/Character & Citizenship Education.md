@@ -167,3 +167,7 @@ Our school has been worked with SHHK Education committee and the other 4 SHHK (P
 
 **Social and Emotional Learning**<br> 
 Programmes are designed and delivered so that students understand and are able to effectively manage the personal and emotional aspects of one’s life. They will learn to understand the importance of relationships with others and be able to effectively manage these relationships. They will acquire skills and knowledge that facilitate life-long learning or prepare them for their future careers. They will also possess skills, knowledge, values and attitudes to lead a healthy lifestyle and meaningful life and be gracious individuals.
+
+
+<img src="/images/cce2.png" 
+     style="width:50%">
