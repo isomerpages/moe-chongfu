@@ -20,3 +20,18 @@ description: ""
 *   [Application for EPSO](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59)
 
  _*Please submit the original signed form to the school’s General Office upon completion by **19 November 2021**_
+ 
+ **Declaration on Medical Conditions/ Special Educational Needs**
+ * Declaration form (Link not found)
+
+
+**Financial Assistance Scheme (FAS)**
+
+* [MOE_FAS_Pamphlet](/files/MOE_FAS_Pamphlet_2022.pdf)
+* [MOE FAS Application Form](/files/MOE-FAS-application-form.pdf)
+_Please submit the completed application form and supporting documents by **15 November 2021**_
+
+**School Essential Supplies - Textbooks & Stationeries**
+
+* [P1 Booklist](/files/CFS-2022-P1-Booklist.pdf)
+* [Sales Dates for Textbooks & Stationery](/files/Selling-Dates.pdf)
