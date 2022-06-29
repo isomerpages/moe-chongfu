@@ -1,4 +1,5 @@
 collections:
   heritage:
     output: true
-    order: []
+    order:
+      - History.md
