@@ -2,6 +2,7 @@ collections:
   heritage:
     output: true
     order:
+      - School Information/School Calender.md
       - School Information/School Information.md
       - School Information/School Hours.md
       - School Information/.keep
