@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Programme for Active Learning.md
       - Internationalisation.md
       - Sexuality Education.md
       - Character & Citizenship Education.md
