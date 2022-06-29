@@ -95,3 +95,37 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-emotion
 </tbody>
 </table>
 
+<u><strong>Outstanding Lessons from Primary Five:</u></strong>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ukh9{background-color:#FFF;color:#808080;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-e404{background-color:#FFF;color:#808080;text-align:center;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ukh9"><span style="font-weight:bold">Date</span></th>
+    <th class="tg-ukh9"><span style="font-weight:bold">Unit</span></th>
+    <th class="tg-ukh9"><span style="font-weight:bold">Topics/ Lessons</span></th>
+    <th class="tg-ukh9"><span style="font-weight:bold">GY Learning Outcomes</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e404" rowspan="2">Thursday, 3 March (7.45am - 8.45am)</td>
+    <td class="tg-e404" rowspan="2">How Do I Keep Myself Safe?</td>
+    <td class="tg-e404">Lesson 7<br>What is Safety?<br> </td>
+    <td class="tg-lm9i">know what sexual abuse is<br>know  that  there  are  laws  in Singapore  that  can  protect them from sexual abuse<br>know their  rights  in  keeping themselves  safe  from  sexual abuse<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-e404">Lesson 8<br>Stop It! Run! Tell!</td>
+    <td class="tg-lm9i">protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm<br> </td>
+  </tr>
+</tbody>
+</table>
