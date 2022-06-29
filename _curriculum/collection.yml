@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Programme for Active Learning.md
+      - Programme for Active Learning (PAL) (WIP).md
       - Internationalisation.md
       - Sexuality Education.md
       - Character & Citizenship Education.md
