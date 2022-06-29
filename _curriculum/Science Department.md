@@ -19,3 +19,5 @@ Inquiry-based Learning involves the following 5Es:
 * Explain : To connect to previous experiences and begin to make conceptual sense by developing an explanation  
 * Elaborate: To expand on the concepts learnt, make connections to other related concepts and apply understanding to the world around us  
 * Evaluate : To determine/assess if the students have attained understanding of concepts and knowledge
+
+![](/images/sci_02.png)
