@@ -2,6 +2,6 @@ collections:
   family:
     output: true
     order:
-      - Teaching Staff.md
+      - Teaching Staff (WIP).md
       - Steering Committee.md
       - School Management Committee.md
