@@ -44,3 +44,6 @@ _Please submit the completed application form and supporting documents by **15 
 *   [School Bus Registration](http://www.tongtar.com/) (Please register by 30 November 2021)
 *   Contact: 6261 5537 / 9773 0426 (Whatsapp or SMS)
 *   Email: chongfu@tongtar.com
+
+**Student Care Service**
+*   [Student Care Registration](https://forms.office.com/pages/responsepage.aspx?id=qZfrxe8FzUqIHrfB8FGIi2mCRfWRZLdHtdyGfbkB6UtUNk9JT0pZUDBZQUhORUpPRTNORDNLTk5OTC4u)
