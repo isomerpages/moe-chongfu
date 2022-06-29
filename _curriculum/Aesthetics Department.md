@@ -88,3 +88,9 @@ Members of the public, staff and students will be able to view over 260 selected
 3. **Category C (Primary 6) - Certificate of Recognition**
 
 **( Selected and showcased on the SYF Virtual Art Exhibition. Click on Search By School on**)  [https://www.syf.gov.sg/syf/virtualexhibition/gallery-2](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2)
+
+You can also view the artworks in greater detail in our very own Chongfu's SYF Virtual tour that was created by Ms Toh Shu Ting using this link [https://orbix360.com/t/DKbjvtEdwqgPZQuOmPMlrLSsbaA3/4653408912932864](https://orbix360.com/t/DKbjvtEdwqgPZQuOmPMlrLSsbaA3/4653408912932864)
+
+We hope you will enjoy looking at our students' creative artworks. Through this competition, our students **E**njoyed and **E**xperienced the process of making art with their friends.
+
+We will continue to provide more platforms for them to **E**xcel and pursue their passion for the Arts.
