@@ -25,3 +25,5 @@ With Visual Arts, our students are able to observe and understand and make meani
 Performing Arts is an integral part of our society and it helps to enrich students’ social, cultural and historical awareness.
 
 ![](/images/aesthetics3.png)
+![](/images/aesthetics4.png)
+![](/images/aesthetics5.png)
