@@ -10,3 +10,12 @@ description: ""
 **Introduction**
 
 Every child to be visually literate and to appreciate the arts
+
+<img src="/images/aesthetics1.png" 
+     style="width:80%">
+		 
+**Visual Arts**
+
+With Visual Arts, our students are able to observe and understand and make meaning in what they see. They are also able to communicate their ideas by using and creating visuals. This helps students to see the value and recognise the relevance of art in their lives.
+
+![](/images/aesthetics2.png)
