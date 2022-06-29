@@ -27,3 +27,6 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 ![](/images/aesthetics3.png)
 ![](/images/aesthetics4.png)
 ![](/images/aesthetics5.png)
+
+**Singapore Youth Festival 2019 Art Exhibition – Opening Ceremony at National Museum Singapore (5 July 2019)**
+
