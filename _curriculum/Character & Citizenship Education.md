@@ -43,3 +43,60 @@ and thereby preparing them for the 21st century.
 CCE is central to the 21st Century Competencies Framework. It emphasizes the interconnectedness of the core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are critical for character and citizenship development of our students.
 
 The learning outcomes of CCE state what we want our students to learn and attain in CCE, and guide the development of the curriculum for CCE.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-soxn"><span style="font-weight:bold">Learning Outcome 1:</span></th>
+    <th class="tg-lm9i">Develop self-awareness and self-management skills to achieve personal well-being and effectiveness.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 2:</span></td>
+    <td class="tg-lm9i">Apply moral reasoning, display responsibility in decision making, and demonstrate integrity to stand by moral principles and shared values.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 3:</span></td>
+    <td class="tg-lm9i">Develop social awareness and demonstrate interpersonal skills to build and maintain positive relationships.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 4:</span></td>
+    <td class="tg-lm9i">Demonstrate resilience in the face of individual, community and national challenges, and develop the ability to turn challenges into opportunities.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 5:</span></td>
+    <td class="tg-lm9i">Appreciate our national identity, develop a sense of belonging to Singapore, and demonstrate commitment to the well-being, security and defence of the nation.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 6:</span></td>
+    <td class="tg-lm9i">Demonstrate socio-cultural sensitivity and promote social cohesion and harmony in Singapore as a multi-cultural society.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 7:</span></td>
+    <td class="tg-lm9i">Demonstrate care for and contribute actively towards improving the lives of others to build a bright future for ourselves and to progress together as one nation.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 8:</span></td>
+    <td class="tg-lm9i">Demonstrate the ability to reflect on and respond to community, national and global issues, as an informed and responsible citizen.</td>
+  </tr>
+</tbody>
+</table>
+
+Ideal Chongfu Student with good CCE values  
+Leveraging on school values, the range of activities in our programme is planned under 3 domains to create an ideal pupil with good CCE values.  
+* Leadership  
+* Character Education (Personal and Social Development) 
+* Citizenship Education
+
+<img src="/images/cce1.png" 
+     style="width:70%">
