@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - FAQ for P1 Registration.md
       - Forms Download.md
