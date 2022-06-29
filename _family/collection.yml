@@ -2,6 +2,7 @@ collections:
   family:
     output: true
     order:
+      - Chongfu Alumni.md
       - Executive & Administrative Staff.md
       - Teaching Staff (WIP).md
       - Steering Committee.md
