@@ -221,4 +221,19 @@ The protocol includes both a CCE Development card and the use of Teacher Student
 <p>In line with MOE’s reading thrusts, funds have been allocated to purchase varied and interesting titles for students of all levels within the school. These books further complement and add on to what the school library already offers. Through the variety of titles available, students are exposed to a myriad of text-types and writing styles. Students are encouraged to write short synopses and complete interesting post-reading activities e.g. design a bookmark, comment on their favourite character, construct an alternate story ending etc., and these serve as deliverables to the programme.</p>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion2">  
+	<label for="accordion2"><b>Speaking and Listening</b></label>  
+    <div>  
+<b>Nursery Rhymes/ Poetry Recitation (P1-P2)</b>  
+<p>Having been exposed to the diverse collections of nursery rhymes and poems in their STELLAR learning units, students are encouraged to use their recite them in class, sometimes using props and other resources to complement their presentation.</p>
+
+<b>Spelling Bee (P3-P4)</b>  <br>
+<p>With its concept thought to have originated from the United States, a Spelling Bee is a competition where contestants are asked to verbally spell English words. At our school level, top spellers are carefully selected to represent their classes in an intra-school competition. With this programme in mind, the department also hopes to cultivate good reading habits, one which leads to vocabulary acquisition – over mere rote learning of words. Oracy skills are also enhanced in the spelling process as student-participants are required to express their thoughts in words.</p>  
+<img src="/images/cce5.png" style="width: 50%">>
+<b>Show & Tell (P1-P2)</b>
+<p>To build confidence in public speaking, Show & Tell was introduced as a form of formative assessment for the Lower Primary students, where students are required a bring an item from home and using vivid and precise language, describe why they have chosen the particular item, where they got it from and other relevant information. Students are also taught and encouraged to pose questions to the presenters, honing their listening and thinking skills.</p>
+<img src="/images/cce%207.png" style="width:50%">>
+    </div>  
+</li>
 </ul>
