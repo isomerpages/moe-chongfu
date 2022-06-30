@@ -28,3 +28,18 @@ Mathematics is undeniably part of our daily lives, from making sense of simple i
 <img src="/images/math1.png" 
      style="width:75%">
 The mathematics framework has been a feature of Singapore’s mathematics curriculum since 1990, and is still relevant to date. The central focus of the framework is mathematical problem solving, that is, using mathematics to solve problems.
+
+<ul class="jekyllcodex\_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+		<label for="accordion1"><b>Math Made Simple</b></label>  
+    <div>  
+			<p><u>Chongfu’s Curriculum Focus</u></p>
+
+<p>In Chongfu School, we focus on problem solving, where it encompasses skills and functions that are important in our daily lives. We also aim to develop mathematical thinkers who are able to solve real-world problems. In addition, students should be able to understand math by having deep learning and mastery. Only with deep understanding, can students be able to reason mathematically and apply their mathematical concepts to real-life problems. Through our extensive range of math programmes, we hope students will value and enjoy learning mathematics.</p>  
+			<u>Approach 1:</u>
+<img src="/images/math2.png" 
+     style="width:80%">
+    </div>  
+</li>
+</ul>
