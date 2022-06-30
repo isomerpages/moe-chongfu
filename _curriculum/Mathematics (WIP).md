@@ -111,4 +111,11 @@ Tangram was introduced to the Lower Primary students in Chongfu School. Students
 <img src="/images/math%2016.png">
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion5">  
+	<label for="accordion5"><b>Self-directed learning (SDL) - Koobits</b></label>  
+    <div>  
+      <p>video player</p>  
+    </div>  
+</li>
 </ul>
