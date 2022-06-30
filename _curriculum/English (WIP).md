@@ -76,4 +76,12 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 <p>Reflective Journaling allows students to recount and reflect on experiences by stating their emotions, and give their opinions and feelings on events/ issues/ learning, thereby stretching their meta-cognitive skills and ability to make in-depth connections. Through reading their views and thoughts on issues, reflective journalling gives teachers the opportunity to build stronger rapport and forge closer ties with students, strengthening teacher-student relationship.</p>
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion4">  
+	<label for="accordion4"><b>Enrichment</b></label>  
+    <div>  
+<b>Theatrical Exposure and Experience</b><br>
+<p>To inculcate in pupils the love and passion for the learning and appreciation of the English Language through literature and arts, P1-P6 students will have the opportunity to attend plays appropriate to their respective age groups. Through such exposure, students will get to experience creative expression of language arts.</p>
+    </div>  
+</li>
 </ul>
