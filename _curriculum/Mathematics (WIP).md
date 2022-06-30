@@ -80,4 +80,21 @@ Tangram was introduced to the Lower Primary students in Chongfu School. Students
 <img src= "/images/math%2011.png">
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion3">  
+	<label for="accordion3"><b>Math Made Meaningful</b></label>  
+    <div>  
+			<p><u>Math Experiential Learning</u></p>
+
+<p>Students take part in experiential learning activities which lead them to find out that mathematics is part of their daily lives. They also discover the fun and exhilarating side of mathematics. Through these hands-on activities, students develop their thinking skills and apply their mathematical concepts in real-life problems. In addition, they learn to work together as a team and tap on one another’s strengths.</p>  
+			
+<img src="/images/math%2012.png">
+<p><u>Performance Tasks</u></p>
+
+<p>In order to assess if students are able to apply their mathematical concepts in a real-life problem, performance tasks were introduced as part of alternative assessment. Students are required to solve different tasks using manipulatives and record their answers in appropriate mathematical language. Manipulatives include money, cubes, beads and weighing scales. This gives them the opportunity to apply what they have learnt in the mathematics topics. These performance tasks hope to inject fun in learning mathematics through hands-on activities, rather than doing mundane tests.</p>
+
+<img src="/images/math%2013.png" 
+     style="width:75%">
+    </div>  
+</li>
 </ul>
