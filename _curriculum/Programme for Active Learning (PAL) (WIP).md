@@ -102,7 +102,7 @@ After each session, students will learn how to provide constructive feedback to 
       <p>Children naturally love playing games and what better way to set them on the path of healthy living and inculcate the fun of being physically active if not via Sports and Games?<br>
 
 Students get to engage in various physical activities which require team work and perseverance. Students learn to cooperate with one another to achieve the goal and build trust amongst their team members.</p>  
-<img src="/images/PAL%204.png">
+<img src="/images/PAL%204.png" style="width: 70%">
     </div>  
 </li>
 </ul>
