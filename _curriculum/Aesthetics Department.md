@@ -94,3 +94,6 @@ You can also view the artworks in greater detail in our very own Chongfu's SYF V
 We hope you will enjoy looking at our students' creative artworks. Through this competition, our students **E**njoyed and **E**xperienced the process of making art with their friends.
 
 We will continue to provide more platforms for them to **E**xcel and pursue their passion for the Arts.
+
+
+
