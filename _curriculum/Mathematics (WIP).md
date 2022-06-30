@@ -27,3 +27,4 @@ Mathematics is undeniably part of our daily lives, from making sense of simple i
 
 <img src="/images/math1.png" 
      style="width:75%">
+The mathematics framework has been a feature of Singapore’s mathematics curriculum since 1990, and is still relevant to date. The central focus of the framework is mathematical problem solving, that is, using mathematics to solve problems.
