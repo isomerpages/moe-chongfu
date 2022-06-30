@@ -65,4 +65,15 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 <p>A new initiative launched by the department, for all levels, to complement the upcoming C2015 Curriculum. Students are exposed to Podcasting, one of many multimodal ICT tools, as a way to enhance their active listening skills.</p>
 	</div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion3">  
+	<label for="accordion3"><b>Writing</b></label>  
+    <div>  
+<b>Modular Writing Packages (P1-P6)</b><br>
+<p>What started out as a project for the school’s Learning Circle has been transformed into unique writing packages for the different levels, targeting at improving students’ writing and text comprehension skills. Currently, teachers in the various levels are presented with an ease-of-use writing package that includes lessons ranging from Plot development and Characterisation to writing conventions.</p>
+
+<b>Reflective Journaling (P3-P6)</b><br>
+<p>Reflective Journaling allows students to recount and reflect on experiences by stating their emotions, and give their opinions and feelings on events/ issues/ learning, thereby stretching their meta-cognitive skills and ability to make in-depth connections. Through reading their views and thoughts on issues, reflective journalling gives teachers the opportunity to build stronger rapport and forge closer ties with students, strengthening teacher-student relationship.</p>
+    </div>  
+</li>
 </ul>
