@@ -47,6 +47,7 @@ Click on the links below to view the projects done by the Primary 3 students:
 <img src="/images/ALP6.png">
 <img src="/images/ALP7.png">
 <img src="/images/ALP8.jpg">
-	<center><a>https://phys.org/news/2020-03-lego-colourful-plastic-bricks-green.html</a></center><a>
-&nbsp;&nbsp;&nbsp;&nbsp;</a></div><a>  
-</a></li></ul>
+	<center>https://phys.org/news/2020-03-lego-colourful-plastic-bricks-green.html</center>
+	</div>
+	</li>
+</ul>
