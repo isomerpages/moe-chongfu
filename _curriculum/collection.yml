@@ -2,12 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Applied Learning Programme.md
-      - Information & Communication Technology.md
-      - Programme for Active Learning (PAL) (WIP).md
-      - Internationalisation.md
-      - Sexuality Education.md
-      - Character & Citizenship Education.md
       - English (WIP).md
       - Mathematics (WIP).md
       - Science Department.md
@@ -17,5 +11,11 @@ collections:
       - Mother Tongue/Tamil Department.md
       - Aesthetics Department.md
       - PE & CCA.md
+      - Character & Citizenship Education.md
+      - Sexuality Education.md
+      - Internationalisation.md
+      - Programme for Active Learning (PAL) (WIP).md
+      - Information & Communication Technology.md
+      - Applied Learning Programme.md
       - Home Based Learning.md
       - Student Learning Space (SLS).md
