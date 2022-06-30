@@ -4,10 +4,14 @@ permalink: /family/teaching-staff
 description: ""
 ---
 <ul class="jekyllcodex_accordion">  
-  <li>  
-    <input type="checkbox" id="accordion1">  
-    <label for="accordion1">Primary 1</label>  
-    <div>  
+&nbsp;&nbsp;<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">  
+		<label for="accordion1"><b>2022 Primary 1</b></label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+			<b>2022 Primary One</b>
+			<b>Assistant Year Head&nbsp;(P1)</b><br>
+Mdm Nur Lailie Bte Jamal<br>
+<a>nur_lailie_jamal@moe.edu.sg</a>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -80,14 +84,14 @@ description: ""
 </tbody>
 </table>
 			
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
-	  <li>  
-    <input type="checkbox" id="accordion2">  
-    <label for="accordion2">Simple</label>  
-    <div>  
-      <p>This is a simple one line item</p>  
-    </div>  
+	&nbsp;&nbsp;<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Simple</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>This is a simple one line item</p>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 
 </ul>
