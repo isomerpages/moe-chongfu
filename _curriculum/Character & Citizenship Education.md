@@ -130,12 +130,12 @@ With the aim to develop gracious, patriotic and global thinkers, the CCE program
   <tr>
     <td class="tg-lm9i">CCE Lessons (MT)</td>
     <td class="tg-lm9i">Education &amp; Career Guidance (ECG)</td>
-    <td class="tg-zrb3"><a href="https://chongfu.moe.edu.sg/community-involvement-programme-cip-service-learning/"><span style="text-decoration:none;color:#F85125;background-color:transparent">Values In Action (VIA)</span></a></td>
+    <td class="tg-zrb3"><span style="text-decoration:none;color:#F85125;background-color:transparent">Values In Action (VIA)</span></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Form Teacher Guidance Period (FTGP)</td>
-    <td class="tg-zrb3"><a href="https://chongfu.moe.edu.sg/curriculum/character-citizenship-education/sexuality-education/"><span style="text-decoration:none;color:#F85125;background-color:transparent">Sexuality Education (SEd)</span></a></td>
-    <td class="tg-zrb3"><a href="https://chongfu.moe.edu.sg/community-involvement-programme-cip-service-learning/"><span style="text-decoration:none;color:#F85125;background-color:transparent">Service Learning</span></a><br><a href="https://chongfu.moe.edu.sg/community-involvement-programme-cip-service-learning/"><span style="text-decoration:none;color:#F85125;background-color:transparent">(Student Initiated Projects)</span></a></td>
+    <td class="tg-zrb3"><a href="https://moe-chongfu-staging.netlify.app/curriculum/sexuality-education"><span style="text-decoration:none;color:#F85125;background-color:transparent">Sexuality Education (SEd)</span></a></td>
+    <td class="tg-zrb3"><span style="text-decoration:none;color:#F85125;background-color:transparent">Service Learning</span><br><span style="text-decoration:none;color:#F85125;background-color:transparent">(Student Initiated Projects)</span></td>
   </tr>
   <tr>
     <td class="tg-lm9i">Lifeskills Package (Social Skills Lessons &amp; Learning Series)</td>
