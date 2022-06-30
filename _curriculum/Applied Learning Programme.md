@@ -37,3 +37,11 @@ Click on the links below to view the projects done by the Primary 3 students:
 <img src="/images/ALP%204.png">
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion2">  
+    <label for="accordion2"><b>Featured Project 2</b></label>  
+    <div>  
+<b>Featured Project 2</b>
+      <p>This is a simple one line item</p>  
+    </div>  
+</li>
