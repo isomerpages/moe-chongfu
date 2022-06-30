@@ -62,11 +62,11 @@ Tangram was introduced to the Lower Primary students in Chongfu School. Students
      style="width:85%">
 <p>Students also play an extremely popular game in Japan, Sudoku. They have to solve the puzzle by determining patterns, which develops their cognitive and observation skills. Students are trained to be patient and focussed, which help them to be more disciplined in learning. An inter-class Sudoku Challenge is held every year for students to master the game.</p>
 <img src="/images/math%206.png" 
-     style="width:75%">
+     style="width:50%">
 <img src="/images/math%207.png" 
-     style="width:75%">
+     style="width:50%">
 <img src="/images/mth%208.png" 
-     style="width:75%">
+     style="width:50%">
 <p>Math Warrior, as the name suggests, grooms students to be champion fighters in math. It was started for P3 students to develop their number sense. Students also learn to count mentally. This is important as it helps build a strong foundation before progressing to more difficult math sums.</p>
 <img src= "/images/math%209.png">
 <p>For the Upper Primary, students play Math Arithmetiq where they have to create Mathematical equations using scrabble like tiles. This greatly simulates their cognitive minds and encourages them to think on their feet.</p>
