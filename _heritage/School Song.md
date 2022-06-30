@@ -3,11 +3,10 @@ title: School Song
 permalink: /heritage/school-song
 description: ""
 ---
-
 <img src="/images/pic_schoolsong.jpeg" 
      style="width:70%">
 		 
-<strong><center> Our School Song</strong></center>
+<strong><center> Our School Song</center></strong>
 
 We cheer, we sing for our Chongfu. We cheer, we sing for our Chongfu.
 
