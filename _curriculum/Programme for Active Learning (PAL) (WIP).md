@@ -3,7 +3,6 @@ title: Programme for Active Learning (PAL) (WIP)
 permalink: /curriculum/applied-learning-programme/programme-for-active-learning/
 description: ""
 ---
-
 ### Objectives of PAL:
 
 *   Provides students with broad exposure to a range of sports and arts programmes in a fun and creative manner
@@ -60,3 +59,18 @@ Each domain consists of 7 lessons, conducted over 4 periods. Learning resources 
 Through each lesson, students will learn more about themselves and their friends, and experience authentic socialisation experiences which allow them to acquire important life skills that will hold them in good stead in the future.
 
 _Click on the following links to find out more._
+
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+		<label for="accordion1"><b>Outdoor Education (OE)</b></label>  
+    <div>  
+      <p>We inculcate the joy of learning in the outdoors through meaningful activities such as exploring the environment (P1) to basic orienteering (P2).
+
+Students also get to apply essential life skills such as packing for excursions and learning more about nature.
+
+The interplay between the 5 senses for each OE lesson is enhanced as students are encouraged to observe their surroundings and enjoy nature at its best.</p>  
+<img src="/images/PAL%201.png">
+    </div>  
+</li>
+</ul>
