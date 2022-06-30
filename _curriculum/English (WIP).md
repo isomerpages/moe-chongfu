@@ -53,11 +53,11 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 <b>Spelling Bee (P3-P4)</b><br>
 <p>With its concept thought to have originated from the United States, a Spelling Bee is a competition where contestants are asked to verbally spell English words. At our school level, top spellers are carefully selected to represent their classes in an intra-school competition. With this programme in mind, the department also hopes to cultivate good reading habits, one which leads to vocabulary acquisition – over mere rote learning of words. Oracy skills are also enhanced in the spelling process as student-participants are required to express their thoughts in words.</p>  
 <img src="/images/EL%202.png" 
-     style="width:60%">
+     style="width:50%">
 <b>Show & Tell (P1-P2)</b><br>
 <p>To build confidence in public speaking, Show & Tell was introduced as a form of formative assessment for the Lower Primary students, where students are required a bring an item from home and using vivid and precise language, describe why they have chosen the particular item, where they got it from and other relevant information. Students are also taught and encouraged to pose questions to the presenters, honing their listening and thinking skills.</p>
 <img src="/images/EL%201.png" 
-     style="width:60%">
+     style="width:50%">
 <b>Airtime (P3-P6)</b> 
 <p>An extension to Show & Tell, the Middle and Upper Primary students are encouraged to speak freely and critically for about two minutes on a given topic, without assistance or prompts from teachers. Topics range from local, international current affairs to issues pertaining to their personal lives. This ensures that students are kept abreast of the latest news happenings and further provides a platform for meaningful sharing and interaction in the classroom.</p>
 
