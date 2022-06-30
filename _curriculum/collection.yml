@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English.md
-      - Mathematics (WIP).md
+      - Mathematics.md
       - Science Department.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Department.md
