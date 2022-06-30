@@ -92,7 +92,6 @@ Tangram was introduced to the Lower Primary students in Chongfu School. Students
 <p><u>Performance Tasks</u></p>
 
 <p>In order to assess if students are able to apply their mathematical concepts in a real-life problem, performance tasks were introduced as part of alternative assessment. Students are required to solve different tasks using manipulatives and record their answers in appropriate mathematical language. Manipulatives include money, cubes, beads and weighing scales. This gives them the opportunity to apply what they have learnt in the mathematics topics. These performance tasks hope to inject fun in learning mathematics through hands-on activities, rather than doing mundane tests.</p>
-
 <img src="/images/math%2013.png" 
      style="width:75%">
     </div>  
