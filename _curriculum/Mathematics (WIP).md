@@ -46,4 +46,15 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
      style="width:65%">
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion2">  
+	<label for="accordion2"><b>Math Made Fun</b></label>  
+    <div>  
+			<p><u>Mathematics Games Programme</u></p>
+
+<p>This is probably the part of mathematics where all students look forward to. Math games were initiated to reveal an interesting and enjoyable side to learning math. A range of math games was made available for students to play and apply their mathematical concepts in a fun way. For example, students can play games at the Piece of Mine during their recesses. The games are progressively introduced to students based on their level of complexity.</p>  
+<img src="/images/math4.png" 
+     style="width:85%">
+    </div>  
+</li>
 </ul>
