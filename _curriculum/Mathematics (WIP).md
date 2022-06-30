@@ -55,6 +55,18 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <p>This is probably the part of mathematics where all students look forward to. Math games were initiated to reveal an interesting and enjoyable side to learning math. A range of math games was made available for students to play and apply their mathematical concepts in a fun way. For example, students can play games at the Piece of Mine during their recesses. The games are progressively introduced to students based on their level of complexity.</p>  
 <img src="/images/math4.png" 
      style="width:85%">
+<p> Examples of the games include Sudoku, Math Warrior, Tangram, Kakuro, Maths Arithmetiq and Math Puzzles.<br>
+
+Tangram was introduced to the Lower Primary students in Chongfu School. Students are required to apply their geometrical math concepts and manipulate the shapes, such that they form a picture. This trains students to be creative and observant.</p>
+<img src="/images/math%205.png" 
+     style="width:85%">
+<p>Students also play an extremely popular game in Japan, Sudoku. They have to solve the puzzle by determining patterns, which develops their cognitive and observation skills. Students are trained to be patient and focussed, which help them to be more disciplined in learning. An inter-class Sudoku Challenge is held every year for students to master the game.</p>
+<img src="/images/math%206.png" 
+     style="width:75%">
+<img src="/images/math%207.png" 
+     style="width:75%">
+<img src="/images/mth%208.png" 
+     style="width:75%">
     </div>  
 </li>
 </ul>
