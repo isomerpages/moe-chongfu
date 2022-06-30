@@ -233,7 +233,12 @@ The protocol includes both a CCE Development card and the use of Teacher Student
 <img src="/images/cce5.png" style="width: 50%">>
 <b>Show & Tell (P1-P2)</b>
 <p>To build confidence in public speaking, Show & Tell was introduced as a form of formative assessment for the Lower Primary students, where students are required a bring an item from home and using vivid and precise language, describe why they have chosen the particular item, where they got it from and other relevant information. Students are also taught and encouraged to pose questions to the presenters, honing their listening and thinking skills.</p>
-<img src="/images/cce%207.png" style="width:50%">>
+<img src="/images/cce%207.png" style="width:50%">
+<b>Airtime (P3-P6)</b>  
+<p>An extension to Show & Tell, the Middle and Upper Primary students are encouraged to speak freely and critically for about two minutes on a given topic, without assistance or prompts from teachers. Topics range from local, international current affairs to issues pertaining to their personal lives. This ensures that students are kept abreast of the latest news happenings and further provides a platform for meaningful sharing and interaction in the classroom.</p>
+
+<b>Podcasting (P1-P6)</b>
+<p>A new initiative launched by the department, for all levels, to complement the upcoming C2015 Curriculum. Students are exposed to Podcasting, one of many multimodal ICT tools, as a way to enhance their active listening skills.</p>
     </div>  
 </li>
 </ul>
