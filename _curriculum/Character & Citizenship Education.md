@@ -211,7 +211,7 @@ The protocol includes both a CCE Development card and the use of Teacher Student
     <input type="checkbox" id="accordion1">  
 		<label for="accordion1"><b>Reading Programmes</b></label>  
     <div>  
-      <b>Uninterrupted Sustained Silent Reading (P1-P6)</b><br>  
+<b>Uninterrupted Sustained Silent Reading (P1-P6)</b><br>  
 <p>USSR is a pre-assembly reading programme where students read silently before the commencement of the daily Flag Raising Ceremony. English story books are read from Mondays to Wednesdays while Mother Tongues books are read on Thursdays and Fridays. Through USSR, majority of students are ensured a daily dose of reading of at least 5-15 minutes. Mass reading inculcates in students the importance of reading.</p>
 
 <b>Buddy Reading (P1-P4)</b><br>  
