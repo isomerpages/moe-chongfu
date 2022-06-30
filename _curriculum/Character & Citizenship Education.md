@@ -239,6 +239,25 @@ The protocol includes both a CCE Development card and the use of Teacher Student
 
 <b>Podcasting (P1-P6)</b>
 <p>A new initiative launched by the department, for all levels, to complement the upcoming C2015 Curriculum. Students are exposed to Podcasting, one of many multimodal ICT tools, as a way to enhance their active listening skills.</p>
+<li>  
+    <input type="checkbox" id="accordion3">  
+	<label for="accordion3"><b>Writing</b></label>  
+    <div>  
+<b>Modular Writing Packages (P1-P6)</b>
+<p>What started out as a project for the school’s Learning Circle has been transformed into unique writing packages for the different levels, targeting at improving students’ writing and text comprehension skills. Currently, teachers in the various levels are presented with an ease-of-use writing package that includes lessons ranging from Plot development and Characterisation to writing conventions.</p>
+
+<b>Reflective Journaling (P3-P6)</b>
+<p>Reflective Journaling allows students to recount and reflect on experiences by stating their emotions, and give their opinions and feelings on events/ issues/ learning, thereby stretching their meta-cognitive skills and ability to make in-depth connections. Through reading their views and thoughts on issues, reflective journalling gives teachers the opportunity to build stronger rapport and forge closer ties with students, strengthening teacher-student relationship.</p>
+<li>  
+    <input type="checkbox" id="accordion4">  
+	<label for="accordion4"><b>Enrichment</b></label>  
+    <div>  
+<b>Theatrical Exposure and Experience</b>
+<p>To inculcate in pupils the love and passion for the learning and appreciation of the English Language through literature and arts, P1-P6 students will have the opportunity to attend plays appropriate to their respective age groups. Through such exposure, students will get to experience creative expression of language arts.</p>  
+    </div>  
+</li>
+    </div>  
+</li>
     </div>  
 </li>
 </ul>
