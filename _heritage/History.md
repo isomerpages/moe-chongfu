@@ -4,8 +4,9 @@ permalink: /heritage/history
 description: ""
 ---
 <img src="/images/Pic_Chongfu.jpeg" 
-     style="width:55%">
-<strong><center>Our School Compounds </strong></center>
+     style="width:45%">
+		 
+<center><strong>Our School Compounds</center></strong>
 
 Chongfu School, formerly known as Chong Hock Girls’ School, was founded on 16 April 1915 by Mr Wang Huiyi, a Supervisor of Schools with the Singapore Hokkien Huay Kuah (SHHK). It was the only school for girls at that time and was situated at Chongwen Ge beside the Thian Hock Keng Temple at Telok Ayer Street. At that time, there was only an enrolment of about 30 female students and lessons were conducted by Madam Lin Suqin, the Principal herself, in Hokkien.In 1930, the school underwent a revamp. Its building was extended to Stanley Street and a new committee was voted in at the Hokkien Huay Kuan with Mr Tan Kah Kee as the President of the association. In the same year, Mandarin became the medium of instruction.Over the years, the school saw success in its increasing enrolment and good academic results till the Japanese Occupation in 1942. The school was then forced to close and it reopened in 1945, a month after the war ended. In 1949, it had the first intake of boys and became a fully government-aided school in 1957.The year 1985 marked a new chapter in the history of Chongfu Primary School when it was relocated to a more populated area. This was largely due to the decreasing enrolment as more and more city dwellers moved out of the city to settle in the new towns all over the island. On 23 December 1985, the Singapore Hokkien Huay Kuan accepted the new school premises at Yishun New Town under an agreement with the Ministry of Education. After the relocation, Chongfu started taking in pupils of all races and offering all three Mother Tongue languages, namely, Chinese, Malay, Tamil. Another new chapter began with the school undergoing PRIME in 2000. New and special facilities were added to better equip the school in its delivery of a holistic education.
 
