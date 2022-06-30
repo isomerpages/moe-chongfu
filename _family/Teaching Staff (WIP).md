@@ -453,4 +453,50 @@ Mdm Nur Lailie Bte Jamal<br>
 </table>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion7">  
+    <label for="accordion7">Other Teachers</label>  
+    <div>  
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5xgq{background-color:#FFF;color:#808080;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-soxn"><span style="font-weight:bold">FLEXI-ADJUNCT</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-5xgq">Mdm Normah Bte Ismail</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">Ms Wang Shi Yun Jaslyn</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">NIE TRAINEES</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">Mr Shaik Muhammad Bin Mohamed Haleem</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">Ms Srinidta Gobinathan</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">Ms Chong Yue Yen Juliana</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">Ms Sunitha Pillay</td>
+  </tr>
+</tbody>
+</table>  
+    </div>  
+</li>  
+  <li>
 </ul>
