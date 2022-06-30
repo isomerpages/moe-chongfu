@@ -1,10 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Menu Title
+  - title: Heritage
+    collection: heritage
+  - title: Family
+    collection: family
+  - title: Curriculum
     collection: curriculum
-  - title: Test
-    collection: test
+  - title: Achievements
+    collection: achievements
+  - title: Partners
+    collection: partners
