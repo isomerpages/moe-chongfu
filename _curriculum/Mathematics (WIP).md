@@ -96,4 +96,19 @@ Tangram was introduced to the Lower Primary students in Chongfu School. Students
      style="width:75%">
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion4">  
+	<label for="accordion4"><b>Math Support</b></label>  
+    <div>  
+			<p><u>Parents’ Support for Mathematics (PSM) Programme</u></p>
+
+<p>A parents’ support group was set up in 2007 to individually coach P6 students who find learning math challenging. The primary aim is to better equip these students with basic numeracy skills so that they are more prepared for the upcoming PSLE examinations. Besides imparting math skills, the dedicated tutors also give encouragement and help boost the students’ confidence in solving math problems.</p>  
+<img src= "/images/math%2014.png">
+<img src="/images/math%2015.png">
+			<u>Progressive Learning for Mathematics (PLM) Programme</u>
+
+<p>It is aimed to build a strong mathematical foundation in our P5 students who find learning maths a challenge. It is a self-directed learning approach with students progressing at their own pace. They begin at a level which he or she is confident and move on to the next level of increasing difficulty when a perfect score is achieved. Teaching videos with explicit explanations and examples are clearly illustrated before students attempt questions on their own. With every worksheet graded by the computer system as soon as they complete, it gives them instant feedback. With constant practice, students will build up their confidence and self-esteem in tackling mathematical questions.</p>
+<img src="/images/math%2016.png">
+    </div>  
+</li>
 </ul>
