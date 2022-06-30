@@ -47,7 +47,7 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
     <input type="checkbox" id="accordion2">  
 	<label for="accordion2"><b>Speaking and Listening</b></label>  
     <div>  
-      <b>Nursery Rhymes/ Poetry Recitation (P1-P2)</b><br>  
+<b>Nursery Rhymes/ Poetry Recitation (P1-P2)</b><br>  
 <p>Having been exposed to the diverse collections of nursery rhymes and poems in their STELLAR learning units, students are encouraged to use their recite them in class, sometimes using props and other resources to complement their presentation.</p>
 
 <b>Spelling Bee (P3-P4)</b><br>
