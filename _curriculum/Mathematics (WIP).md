@@ -67,6 +67,17 @@ Tangram was introduced to the Lower Primary students in Chongfu School. Students
      style="width:75%">
 <img src="/images/mth%208.png" 
      style="width:75%">
+<p>Math Warrior, as the name suggests, grooms students to be champion fighters in math. It was started for P3 students to develop their number sense. Students also learn to count mentally. This is important as it helps build a strong foundation before progressing to more difficult math sums.</p>
+<img src= "/images/math%209.png">
+<p>For the Upper Primary, students play Math Arithmetiq where they have to create Mathematical equations using scrabble like tiles. This greatly simulates their cognitive minds and encourages them to think on their feet.</p>
+
+<u>Self-Directed Learning (SDL)</u>
+
+<p>We encourage students to take responsibility and initiative of their own learning. They login to these learning sites at least 2-3 times a week to complete assigned e-learning or e-homework. They may also watch videos and study the solutions of difficult math questions. Thus, they practice various mathematical skills in a fun and engaging way.</p>
+
+<p>The recommended websites are students’ learning management portal (LMS) and MonsWorld. MonsWorld has generated many positive feedbacks due to the high variability and quality of the questions set. The students also enjoyed the games.</p>
+<img src="/images/math%2010.png">
+<img src= "/images/math%2011.png">
     </div>  
 </li>
 </ul>
