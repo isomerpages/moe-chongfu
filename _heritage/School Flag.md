@@ -3,9 +3,8 @@ title: School Flag
 permalink: /heritage/school-flag
 description: ""
 ---
-
 <img src="/images/pic_schoolflag.jpeg" 
-     style="width:85%">
+     style="width:50%">
 		 
 **Orange Background**  <br>
 Purity and vivacity of children
