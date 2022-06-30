@@ -40,6 +40,6 @@ This programme aims to to help struggling readers to improve their oral reading 
 <p><b>MOE’s IREAD Programme (P1-P6)</b><br>
 In line with MOE’s reading thrusts, funds have been allocated to purchase varied and interesting titles for students of all levels within the school. These books further complement and add on to what the school library already offers. Through the variety of titles available, students are exposed to a myriad of text-types and writing styles. Students are encouraged to write short synopses and complete interesting post-reading activities e.g. design a bookmark, comment on their favourite character, construct an alternate story ending etc., and these serve as deliverables to the programme.</p>
     </div>  
-	</li>
+</li>
 
 </ul>
