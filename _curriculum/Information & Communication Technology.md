@@ -54,4 +54,13 @@ On the day of the exercises, our pupils were not required to report to school. T
 Families with no PC or internet access at home could access internet at the National Libraries or share PCs with their friends. Through this e-learning exercise, our children were more prepared should there be a need to close the school as our pupils embark on this enriching online learning experience.</p>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion2">  
+	<label for="accordion2"><b>UNSW ICAS Computer Skills Papers</b></label>  
+    <div>  
+<p>From 2010, the ICAS Computer Skills Paper are offered to all interested P4 to P6 pupils who are keen to undergo an independent assessment of their own computing skills and benchmark it against peers internationally.<br>
+ICAS is administered by Educational Assessment Australia, which is a not-for-profit organisation wholly owned and operated by the University of New South Wales (UNSW).<br>
+For over 20 years ICAS has taken place each year in schools throughout Australia, New Zealand, Singapore, Malaysia, Brunei, the Pacific region and South Africa.</p>  
+    </div>  
+</li>
 </ul>
