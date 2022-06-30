@@ -88,7 +88,7 @@ Mdm Nur Lailie Bte Jamal<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">  
 	<label for="accordion2"><b>Primary 2</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-		<b>2022 Primary One</b>
+		<b>2022 Primary Two</b>
 			<b>Assistant Year Head&nbsp;(P2)</b><br>
 			Ms Madihah Binte Ghazali<br>
 <a>madihah_ghazali@moe.edu.sg</a>
@@ -172,8 +172,8 @@ Mdm Nur Lailie Bte Jamal<br>
 		<label for="accordion3"><b>Primary 3</b></label>  
     <div>  
 			
-<b>2022 Primary Three</b>
-			<b>Year Head  (Lower Primary)</b><br>
+<b>2022 Primary Three</b><br>
+<b>Year Head  (Lower Primary)</b><br>
 				Mdm Ong Shu Ying<br>
 <a>ong_shu_ying@moe.edu.sg</a>
       <style type="text/css">
