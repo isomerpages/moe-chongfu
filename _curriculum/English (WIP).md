@@ -84,4 +84,25 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 <p>To inculcate in pupils the love and passion for the learning and appreciation of the English Language through literature and arts, P1-P6 students will have the opportunity to attend plays appropriate to their respective age groups. Through such exposure, students will get to experience creative expression of language arts.</p>
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion5">  
+	<label for="accordion5"><b>Chongfu Anthology 2020</b></label>  
+    <div>  
+<p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.
+
+The anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.
+
+[P1 Poems](https://cdn.flipsnack.com/widget/v2/widget.html?hash=unqza2e95e)
+
+[P2 Poems](https://cdn.flipsnack.com/widget/v2/widget.html?hash=tn5r80sk9s)
+
+[P3 Poems and Haikus](https://cdn.flipsnack.com/widget/v2/widget.html?hash=h9q1q423f2)
+
+[P4 Poems and Haikus](https://cdn.flipsnack.com/widget/v2/widget.html?hash=xn0x0wym8y)
+
+[P5 Poems and Haikus](https://cdn.flipsnack.com/widget/v2/widget.html?hash=7xuqc9nvxn)
+
+[P6 Poems and Haikus](https://cdn.flipsnack.com/widget/v2/widget.html?hash=1c96mf5tk5)</p>  
+    </div>  
+</li>
 </ul>
