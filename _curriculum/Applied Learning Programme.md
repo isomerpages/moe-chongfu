@@ -21,3 +21,19 @@ The 5 non-linear processes students will experience are briefly explained below:
      style="width:75%">
 
 Click on the links below to view the projects done by the Primary 3 students:
+
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+		<label for="accordion1"><b>Featured Project 1</b></label>  
+    <div>  
+<b><u>Featured Project 1</b></u>
+      <p>A group of students from 3 Achieving (2021) saw the potential in redesigning their existing highlighter during <b>The Chongfu Design Thinkers’ Programme</b>, as seen below:</p>
+
+<b>Photo of Prototype:</b>  
+<img src="/images/ALP1.jpg" style=width:70%>
+<img src="/images/ALP%202.png">
+<img src="/images/ALP%203.png">
+<img src="/images/ALP%204.png">
+    </div>  
+</li>
