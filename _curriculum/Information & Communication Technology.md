@@ -43,3 +43,15 @@ With today’s emphasis on technology, it is imperative that our pupils have a h
 ### Primary 6
 
 1. Using Microsoft Powerpoint to design Christmas Cards for patients in KKH
+
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+		<label for="accordion1"><b>E-learning Days</b></label>  
+    <div>  
+<p>In view of the possible outbreak of a flu pandemic and that schools need to close (after consultation with MOH), MOE and schools are required to ensure that students remain engaged in learning during school closure, particularly through the use of online learning platforms. Hence, as part of our preparation for this online learning, the school conducts regular E-Learning Exercises. <br>
+On the day of the exercises, our pupils were not required to report to school. They were instead doing online learning tasks and assignments from home via Student Learning Space.  <br>
+Families with no PC or internet access at home could access internet at the National Libraries or share PCs with their friends. Through this e-learning exercise, our children were more prepared should there be a need to close the school as our pupils embark on this enriching online learning experience.</p>  
+    </div>  
+</li>
+</ul>
