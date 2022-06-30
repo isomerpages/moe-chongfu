@@ -388,7 +388,7 @@ Mdm Nur Lailie Bte Jamal<br>
 		<b>2022 Primary Six</b><br>
 <b> Year Head (Upper Primary)</b><br>
 				Ms Yap Xin Yi Filicia<br>
-<a>yap_xin_yi_filicia@moe.edu.sg</a>
+<a>soh_jingsi@moe.edu.sg</a>
       <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
