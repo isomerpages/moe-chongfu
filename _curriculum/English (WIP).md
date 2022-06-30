@@ -28,7 +28,7 @@ The department focuses on the students’ acquisition and development of these m
 <ul class="jekyllcodex_accordion">
 <li>  
     <input type="checkbox" id="accordion1">  
-    <label for="accordion1">Reading Programmes</label>  
+	<label for="accordion1"><b>Reading Programmes</b></label>  
     <div>  
 			<p><b>Uninterrupted Sustained Silent Reading (P1-P6)</b><br>  
 USSR is a pre-assembly reading programme where students read silently before the commencement of the daily Flag Raising Ceremony. English story books are read from Mondays to Wednesdays while Mother Tongues books are read on Thursdays and Fridays. Through USSR, majority of students are ensured a daily dose of reading of at least 5-15 minutes. Mass reading inculcates in students the importance of reading.</p>
