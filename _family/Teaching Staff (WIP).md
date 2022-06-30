@@ -3,7 +3,7 @@ title: Teaching Staff (WIP)
 permalink: /family/teaching-staff
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">Primary 1</label>  
