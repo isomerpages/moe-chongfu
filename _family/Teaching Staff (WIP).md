@@ -382,4 +382,75 @@ Mdm Nur Lailie Bte Jamal<br>
 </table>
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion6">  
+	<label for="accordion6"><b>Primary 6</b></label>  
+    <div>  
+			<b>2022 Primary Six</b><br>
+			<b>Year Head (Upper Primary)</b><br>
+							Ms Yap Xin Yi Filicia<br>
+			<a>yap_xin_yi_filicia@moe.edu.sg</a>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ukh9{background-color:#FFF;color:#808080;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5xgq{background-color:#FFF;color:#808080;text-align:left;vertical-align:middle}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ukh9"><span style="font-weight:bold">Class</span></th>
+    <th class="tg-ukh9"><span style="font-weight:bold">Form Teacher</span></th>
+    <th class="tg-ukh9"><span style="font-weight:bold">Co-form Teacher</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ukh9"><span style="font-weight:bold">6 Gracious</span></td>
+    <td class="tg-5xgq">Mdm Koh Siew Geok<br><a href="mailto:koh_siew_geok@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">koh_siew_geok@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mdm Yong Yock Hone Katherine<br><a href="mailto:yong_yock_hone_katherine@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">yong_yock_hone_katherine@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ukh9"><span style="font-weight:bold">6 Respectful</span></td>
+    <td class="tg-5xgq">Mdm Chua Jennifer Joanne<br><a href="mailto:chua_jennifer_joanne@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">chua_jennifer_joanne@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mr Ng Ai Peng Jason<br><a href="mailto:ng_ai_peng_jason@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ng_ai_peng_jason@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ukh9"><span style="font-weight:bold">6 Achieving</span></td>
+    <td class="tg-lm9i">Ms Sangeetha Annadoray<br><a href="mailto:sangeetha_annadoray@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">sangeetha_annadoray@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mr Lee Shi Ren<br><a href="mailto:lee_shi_ren@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lee_shi_ren@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ukh9"><span style="font-weight:bold">6 Caring</span></td>
+    <td class="tg-5xgq">Mr Ng Keh Siong<br><a href="mailto:ng_keh_siong@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ng_keh_siong@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mr Ng Min Zhou Jonathan<br><a href="mailto:ng_min_zhou_jonathan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ng_min_zhou_jonathan@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ukh9"><span style="font-weight:bold">6 Innovative</span></td>
+    <td class="tg-5xgq">Mr Yong Chung Wan<br><a href="mailto:yong_chung_wan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">yong_chung_wan@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Ms Yap Xin Yi Filicia<br><a href="mailto:yap_xin_yi_filicia@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">yap_xin_yi_filicia@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ukh9"><span style="font-weight:bold">6 Observant</span></td>
+    <td class="tg-5xgq">Mdm Chew Geik Bee Angeline<br><a href="mailto:chew_geik_bee_angeline@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">chew_geik_bee_angeline@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mr Sarkunan S/O Shanmugam<br><a href="mailto:sarkunan_shanmugam@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">sarkunan_shanmugam@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ukh9"><span style="font-weight:bold">6 United</span></td>
+    <td class="tg-5xgq">Mdm Aini Bte Bujang<br><a href="mailto:aini_bujang@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">aini_bujang@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Ms Zheng Yijun Elaine<br><a href="mailto:zheng_yijun_elaine@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">zheng_yijun_elaine@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ukh9"><span style="font-weight:bold">6 Sincere</span></td>
+    <td class="tg-5xgq">Mdm Bharvindar Regina Kaur<br><a href="mailto:bharvindar_regina_kaur@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">bharvindar_regina_kaur@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Ms Lin Wan Ting Joli 林纨廷<br><a href="mailto:lin_wanting_joli@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lin_wanting_joli@moe.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>  
+    </div>  
+</li>
 </ul>
