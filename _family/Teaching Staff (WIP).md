@@ -167,7 +167,7 @@ Mdm Nur Lailie Bte Jamal<br>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 	
-	<li>  
+<li>  
     <input type="checkbox" id="accordion3">  
 		<label for="accordion3"><b>Primary 3</b></label>  
     <div>  
@@ -239,6 +239,7 @@ Mdm Nur Lailie Bte Jamal<br>
 </table> 
     </div>  
 	</li>
+	
 <li>  
     <input type="checkbox" id="accordion4">  
 	<label for="accordion4"><b>Primary 4</b></label>  
