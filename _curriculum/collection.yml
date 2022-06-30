@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - English (WIP).md
+      - English.md
       - Mathematics (WIP).md
       - Science Department.md
       - Mother Tongue/.keep
