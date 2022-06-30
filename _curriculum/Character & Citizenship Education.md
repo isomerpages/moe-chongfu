@@ -205,3 +205,21 @@ Though families play the most important role in supporting the growth of a child
 The protocol includes both a CCE Development card and the use of Teacher Student Conference. The card is a formative assessment tool based specifically on teachers’ observations of the student in their daily behaviour and also teachers’ interaction with them. Teachers who are also Character Coaches then use the conference as the opportunities to have meaningful conversations around the development of character. The conference serves as a vehicle for people to talk about character in a rigorous and nuanced manner. Teachers and parents can get to know each student as a whole child before deciding on the best way to help them level up their competencies. Students can also use feedback from the CCE development card to develop self-understanding and to take ownership of their personal growth by planning the next steps to improve.
 
 ![](/images/cce6.png)
+
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+		<label for="accordion1"><b>Reading Programmes</b></label>  
+    <div>  
+      <p>
+				<b>Uninterrupted Sustained Silent Reading (P1-P6)</b><br>  
+USSR is a pre-assembly reading programme where students read silently before the commencement of the daily Flag Raising Ceremony. English story books are read from Mondays to Wednesdays while Mother Tongues books are read on Thursdays and Fridays. Through USSR, majority of students are ensured a daily dose of reading of at least 5-15 minutes. Mass reading inculcates in students the importance of reading.
+
+<b>Buddy Reading (P1-P4)</b><br>  
+This programme aims to to help struggling readers to improve their oral reading fluency, word recognition and ultimately raise their reading age to be on par with their peers in the same level, enabling them to participate actively during English lessons and progress well in their language learning. On designated days of the week, students (tutees) arrive earlier in school – 6.50 to 7.10 am, to be tutored in reading. Their peer tutors comprise selected Primary 3 & 4 students, who have been specially selected. Tutees assessed to have improved in terms of oral reading fluency will be deemed suitable for discharge from the programme but will remain closely monitored in their learning.
+
+<b>MOE’s IREAD Programme (P1-P6)</b><br>
+In line with MOE’s reading thrusts, funds have been allocated to purchase varied and interesting titles for students of all levels within the school. These books further complement and add on to what the school library already offers. Through the variety of titles available, students are exposed to a myriad of text-types and writing styles. Students are encouraged to write short synopses and complete interesting post-reading activities e.g. design a bookmark, comment on their favourite character, construct an alternate story ending etc., and these serve as deliverables to the programme.</p>  
+    </div>  
+</li>
+</ul>
