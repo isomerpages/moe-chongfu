@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Student Learning Space (SLS).md
       - Applied Learning Programme.md
       - Information & Communication Technology.md
       - Programme for Active Learning (PAL) (WIP).md
