@@ -85,12 +85,12 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion5" type="checkbox">  
 	<label for="accordion5"><b>Chongfu Anthology 2020</b></label>  
-&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+<div>  
 <p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.
 
 The anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.
-
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=unqza2e95e">P1 Poems</a></p>
 </p>  
-&nbsp;&nbsp;&nbsp;&nbsp;</div>  
+</div>  
 </li>
 </ul>
