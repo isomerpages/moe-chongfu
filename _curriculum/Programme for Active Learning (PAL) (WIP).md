@@ -73,4 +73,26 @@ The interplay between the 5 senses for each OE lesson is enhanced as students ar
 <img src="/images/PAL%201.png">
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion2">  
+	<label for="accordion2"><b>Performing Arts (PA)</b></label>  
+    <div>  
+      <p>Learning how to express their emotions through music and bodily movements make PA sessions an experience that students look forward to each week!<br>
+
+Students are exposed to various rhythm and tempo, different genres of music and the creation of different ethnic dances. The activities in each lesson serve as platforms for teachers to nurture confidence, curiosity and cooperative skills in students. Students express their creativity in performing arts through experiential learning in a fun and enjoyable environment.</p>
+<img src="/images/PAL%202.png">
+    </div>  
+</li>
+<li>  
+    <input type="checkbox" id="accordion3">  
+	<label for="accordion3"><b>Visual Arts (VA)</b></label>  
+    <div>  
+      <p>The freedom to create their masterpieces usually evoke plenty of laughter and create lasting memories in our students.<br>
+
+Using a variety of mediums, students treasure these moments in the classroom where they unleash their creativity to the fullest!<br>
+
+After each session, students will learn how to provide constructive feedback to one another, bearing in mind the school’s values of GRACIOUSLY. It is an important life skill that they will practise, being effective communicators who are gracious in their words and actions.</p>  
+<img src="/images/PAL%203.png">
+    </div>  
+</li>
 </ul>
