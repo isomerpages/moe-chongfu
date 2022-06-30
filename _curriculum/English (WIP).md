@@ -88,9 +88,14 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 <div>  
 <p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.
 
-The anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.
+The anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.</p>
 <p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=unqza2e95e">P1 Poems</a></p>
-</p>  
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tn5r80sk9s">P2 Poems</a></p>
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=h9q1q423f2">P3 Poems and Haikus</a></p>
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=xn0x0wym8y">P4 Poems and Haikus</a></p>
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=7xuqc9nvxn">P5 Poems and Haikus</a></p>
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=1c96mf5tk5">P6 Poems and Haikus</a></p>
+  
 </div>  
 </li>
 </ul>
