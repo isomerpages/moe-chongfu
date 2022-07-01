@@ -32,4 +32,11 @@ For more information on the eligibility of phases for the Primary One registrati
 Parents will be notified should the applicant be shortlisted.</p>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion4">  
+    <label for="accordion4">When are my child’s long days?</label>  
+    <div>  
+      <p>Please refer to the following link: <a href="https://moe-chongfu-staging.netlify.app/heritage/school-information/school-hours">/heritage/school-information/school-hours/</a> .This information is also available in the Term 1 letter which is distributed to all students in the first week of Term 1.</p>  
+    </div>  
+</li>
 </ul>
