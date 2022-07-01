@@ -90,4 +90,19 @@ You can view the PASSION facebook page here: <a href="https://www.facebook.com/C
 For more information on Chongfu Alumni, please refer to:<a href="http://www.chongfualumni.com/">http://www.chongfualumni.com/</a>. Alternatively, you can contact them at 6257 6656 on Saturdays.</p>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion11">  
+    <label for="accordion11">What is PAL?</label>  
+    <div>  
+      <p><p>PAL stands for “Programme for Active Learning”, and is conducted for Primary 1 and Primary 2 students. The objectives of PAL are to:</p>
+<ul>
+<li>Provide students with broad exposure to a range of sports and arts programmes in a fun and creative manner</li>
+<li>Nurture students to be confident, to arouse their curiosity of their surroundings and to instil cooperation skills</li>
+<li>Create authentic socialisation experiences for acquisition of socio-emotional competencies and to facilitate holistic development</li>
+</ul>
+<p>The four domains of PAL are Outdoor Education (OE), Performing Arts (PA), Visual Arts (VA) and Sports and Games (S&amp;G). Each domain consists of 7 lessons, conducted over 4 periods each.</p>
+For more details, please refer to the following link on our website: <a href="https://moe-chongfu-staging.netlify.app/curriculum/applied-learning-programme/programme-for-active-learning/">/curriculum/programme-for-active-learning/</a>
+</p>  
+    </div>  
+</li>
 </ul>
