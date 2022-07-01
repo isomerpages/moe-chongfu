@@ -2,6 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Preparing for Primary One in 2022.md
-      - FAQ for P1 Registration.md
       - Forms Download.md
+      - FAQ for P1 Registration.md
+      - Preparing for Primary One in 2022.md
