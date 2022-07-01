@@ -44,3 +44,9 @@ description: ""
 #### Total Defence Day (Fri, 15 Feb)
 
 <iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdIWXizyY6GoIl6gSI2AWFrNQhB5KFGna7yfLX8MeBLAR7EhCjMfrQPXqH2b5g9gbKOirlA0LZTdLg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+
+
+<a href="https://www.facebook.com/pages/category/Community/Chongfu-School-Passion-Parent-Support-Group-260164957352971/">
+<img src="/images/PSG9.png" >
+</a></p>
