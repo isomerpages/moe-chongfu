@@ -81,4 +81,13 @@ If you are interested to join PASSION, please download and complete the followin
 You can view the PASSION facebook page here: <a href="https://www.facebook.com/Chongfu-School-Passion-Parent-Support-Group-260164957352971/">https://www.facebook.com/Chongfu-School-Passion-Parent-Support-Group-260164957352971/</a></p>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion10">  
+    <label for="accordion10">How do I become a member of the Chongfu Alumni?</label>  
+    <div>  
+      <p>To apply for Chongfu Alumni member, the application form can be downloaded from the Chongfu Alumni website.
+
+For more information on Chongfu Alumni, please refer to:<a href="http://www.chongfualumni.com/">http://www.chongfualumni.com/</a>. Alternatively, you can contact them at 6257 6656 on Saturdays.</p>  
+    </div>  
+</li>
 </ul>
