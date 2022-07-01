@@ -23,4 +23,13 @@ For more information on the Primary One Registration Exercise, please refer to t
 For more information on the eligibility of phases for the Primary One registration exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)</p>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion3">  
+    <label for="accordion3">Currently, my child is studying in XXX School. As we will be shifting to Yishun, we wish to transfer my child to Chongfu School. What are the procedures for applying for transfer to Chongfu School?</label>  
+    <div>  
+      <p>To place your child on the transfer-in waiting list, please complete the transfer-in waiting list application form which can be downloaded at <a href="https://moe-chongfu-staging.netlify.app/partners/form-downloads">/partners/form-downloads/</a>
+
+Parents will be notified should the applicant be shortlisted.</p>  
+    </div>  
+</li>
 </ul>
