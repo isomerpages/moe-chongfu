@@ -10,7 +10,7 @@ description: ""
     <div>  
       <p>The Primary One Registration Exercise is conducted from June to September every year. Parents should refer to the registration phases and procedures to find out which phase their children are eligible for, how to register and the documents required for registration posted on the MOE website.
 
-For more information on the Primary One Registration Exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)</p>  
+For more information on the Primary One Registration Exercise, please refer to the following website: <a href="https://www.moe.gov.sg/admissions/primary-one-registration">https://www.moe.gov.sg/admissions/primary-one-registration</a></p>  
     </div>  
 </li>
 <li>  
@@ -20,7 +20,7 @@ For more information on the Primary One Registration Exercise, please refer to t
       <p>The application period for Parent Volunteers (for child born between 2nd Jan 2018 to 1st Jan 2019) is from 1 August 2022 to 31 October 2022. Shortlisted applicants will be contacted via email by end December 2022. The application form will be available at the following link during the application period: 
 <a href="https://moe-chongfu-staging.netlify.app/partners/form-downloads">/partners/form-downloads/</a>
 				
-For more information on the eligibility of phases for the Primary One registration exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)</p>  
+For more information on the eligibility of phases for the Primary One registration exercise, please refer to the following website:< a href="https://www.moe.gov.sg/admissions/primary-one-registration">https://www.moe.gov.sg/admissions/primary-one-registration</a></p>  
     </div>  
 </li>
 <li>  
@@ -78,7 +78,7 @@ PASSION aims to strengthen its partnership with the school through greater colla
 
 If you are interested to join PASSION, please download and complete the following application <a href="/files/Passion-Recruitment-Form-2013_letter-head.pdf">Passion Recruitment Form</a> and submit it to the General Office.
 
-You can view the PASSION facebook page here: [https://www.facebook.com/Chongfu-School-Passion-Parent-Support-Group-260164957352971/](https://www.facebook.com/Chongfu-School-Passion-Parent-Support-Group-260164957352971/)</p>  
+You can view the PASSION facebook page here: <a href="https://www.facebook.com/Chongfu-School-Passion-Parent-Support-Group-260164957352971/">https://www.facebook.com/Chongfu-School-Passion-Parent-Support-Group-260164957352971/</a></p>  
     </div>  
 </li>
 </ul>
