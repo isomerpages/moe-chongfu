@@ -3,7 +3,7 @@ title: FAQ
 permalink: /partners/FAQ
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">How do I register for Primary One for my child/ward?</label>  
