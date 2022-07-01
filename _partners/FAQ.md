@@ -47,4 +47,11 @@ Parents will be notified should the applicant be shortlisted.</p>
 <a href="/files/Calendar-of-Events-2022-Sem-1.pdf">Calendar of Events 2022 Sem 1</a></p>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion6">  
+    <label for="accordion6">How do I travel to Chongfu School by public transport?</label>  
+    <div>  
+      <p>Please refer to the following link: <a href ="https://moe-chongfu-staging.netlify.app/heritage/school-information"> School Information</a></p>  
+    </div>  
+</li>
 </ul>
