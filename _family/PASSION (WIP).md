@@ -7,6 +7,30 @@ description: ""
 ![](/images/PSG1.png)
 ![](/images/PSG2.png)
 
+# Our PASSION 2019 committee
+![](/images/PSG3.png)
+#### Our **PASSION** aims to:
+
+* serve as a bridge between school and parents
+    
+* strengthen relationships among parents and share parenting tips
+    
+* support the school in creating a conducive learning environment for our children
+    
+* develop positive attitudes and social behaviour in our children through showing support and interest in their school life
+    
+* provide school with constructive and valuable feedback
+    
+* foster close ties with the school through supporting school programmes
+
+### Our 2019 PASSION Executive Committee (EXCO)
+![](/images/Committee-1024x724.jpeg)
+
+### Our 3 WINGS:
+![](/images/PSG5.png)
+![](/images/PSG6.png)
+![](/images/PSG7.png)
+![](/images/PSG8.png)
 # PASSION NEWS &amp; EVENT PICTURES
 
 ![](/images/Key-Passion-Event.jpg)
