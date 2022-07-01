@@ -65,12 +65,7 @@ Parents will be notified should the applicant be shortlisted.</p>
     <input type="checkbox" id="accordion8">  
     <label for="accordion8">How do I find the school vendor information?</label>  
     <div>  
-      <p>Please click <a href ="https://moe-chongfu-staging.netlify.app/heritage/school-information"> here</a> for information on the School's Vendors:
-
-*   Uniform Supplier
-*   Book Shop
-*   Dental Clinic
-*   School Bus Service</p>  
+      <p>Please click <a href ="https://moe-chongfu-staging.netlify.app/heritage/school-information"> here</a> for information on the School's Vendors</p>  
     </div>  
 </li>
 <li>  
