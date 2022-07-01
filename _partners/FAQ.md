@@ -13,3 +13,14 @@ description: ""
 For more information on the Primary One Registration Exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)</p>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion2">  
+    <label for="accordion2">How do I register as a Parent Volunteer to be eligible for Phase 2B during the Primary One registration exercise?</label>  
+    <div>  
+      <p>The application period for Parent Volunteers (for child born between 2nd Jan 2018 to 1st Jan 2019) is from 1 August 2022 to 31 October 2022. Shortlisted applicants will be contacted via email by end December 2022. The application form will be available at the following link during the application period: 
+<a href="https://moe-chongfu-staging.netlify.app/partners/form-downloads">/partners/form-downloads/</a>
+				
+For more information on the eligibility of phases for the Primary One registration exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)</p>  
+    </div>  
+</li>
+</ul>
