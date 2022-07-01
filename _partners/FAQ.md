@@ -54,4 +54,11 @@ Parents will be notified should the applicant be shortlisted.</p>
       <p>Please refer to the following link: <a href ="https://moe-chongfu-staging.netlify.app/heritage/school-information"> School Information</a></p>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion7">  
+    <label for="accordion7">How do I contact Chongfu School?</label>  
+    <div>  
+      <p>Please refer to the following link: <a href="https://moe-chongfu-staging.netlify.app/contact-us/">Contact Us</a></p>  
+    </div>  
+</li>
 </ul>
