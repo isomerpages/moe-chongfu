@@ -12,4 +12,7 @@ description: ""
 ![](/images/Key-Passion-Event.jpg)
 
 #### Forest Adventure with Dad 2019 (Sun, 17 Mar)
-<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5wIQYy4ouKMsv1BGNZ7mlwCKS3F2fZkpFPbvi2QbIU4MQJDqWXBNdjK3t6np6Qz_6ixhLa50MLMZD/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5wIQYy4ouKMsv1BGNZ7mlwCKS3F2fZkpFPbvi2QbIU4MQJDqWXBNdjK3t6np6Qz_6ixhLa50MLMZD/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="560" height="560" allowfullscreen="true"></iframe>
+
+#### International Friendship Day 2019 (Thurs, 11 Apr)
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRvRUpLOrW3Yt097PCLWE4lwOQfEXb-6keL-9tJ8gGILVPkVWMELW1NGyHQtrp4jj1hpdL_c2eYFsL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
