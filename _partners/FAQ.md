@@ -73,4 +73,17 @@ Parents will be notified should the applicant be shortlisted.</p>
 *   School Bus Service</p>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion9">  
+    <label for="accordion9">Is there a parents support group in Chongfu School?</label>  
+    <div>  
+      <p>Yes, the parent support group in Chongfu is called “PASSION” which stands for “Parents Assisting School Successfully and Investing in the future of Our Nation”.
+
+PASSION aims to strengthen its partnership with the school through greater collaboration and more effective communication so as to provide a conducive learning environment for pupils.
+
+If you are interested to join PASSION, please download and complete the following application <a href="/files/Passion-Recruitment-Form-2013_letter-head.pdf">Passion Recruitment Form</a> and submit it to the General Office.
+
+You can view the PASSION facebook page here: [https://www.facebook.com/Chongfu-School-Passion-Parent-Support-Group-260164957352971/](https://www.facebook.com/Chongfu-School-Passion-Parent-Support-Group-260164957352971/)</p>  
+    </div>  
+</li>
 </ul>
