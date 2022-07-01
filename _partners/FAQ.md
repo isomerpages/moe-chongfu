@@ -39,4 +39,12 @@ Parents will be notified should the applicant be shortlisted.</p>
       <p>Please refer to the following link: <a href="https://moe-chongfu-staging.netlify.app/heritage/school-information/school-hours">/heritage/school-information/school-hours/</a> .This information is also available in the Term 1 letter which is distributed to all students in the first week of Term 1.</p>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion5">  
+    <label for="accordion5">Where do I find the Calendar of Events?</label>  
+    <div>  
+      <p>Please refer to the following link below:
+<a href="/files/Calendar-of-Events-2022-Sem-1.pdf">Calendar of Events 2022 Sem 1</a></p>  
+    </div>  
+</li>
 </ul>
