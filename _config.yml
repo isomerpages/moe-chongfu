@@ -52,3 +52,8 @@ plugins:
 staging: https://moe-chongfu-staging.netlify.app
 prod: https://moe-chongfu-prod.netlify.app
 resources_name: news
+shareicon: /images/school-logo.jpeg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
