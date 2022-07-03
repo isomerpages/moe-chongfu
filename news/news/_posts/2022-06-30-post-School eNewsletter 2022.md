@@ -5,3 +5,6 @@ date: 2022-06-30
 layout: post
 description: ""
 ---
+# 30th June 2022
+
+Please click [here](http://tinyurl.com/2p9cz83j) to view the school’s eNewsletter 2022
