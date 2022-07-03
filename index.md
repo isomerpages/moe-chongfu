@@ -8,9 +8,5 @@ notification: ""
 sections:
   - hero:
       title: Chong Fu School
-      background: /images/hero-banner.png
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+      background: /images/hero banner.gif
 ---
