@@ -14,3 +14,12 @@ Girl Guides Singapore International Camp 2022 was graced by both our President H
 We are proud of our Brownies and we thank our teachers, parents and community for their continued support of our students.
 
 Please click [here](https://girlguides.org.sg/upcoming-events/international-camp-2022-2/) to view camp details.
+
+![](/images/gg1.jpeg)
+![](/images/gg2.jpeg)
+![](/images/gg3.jpeg)
+Photography credits MCI
+![](/images/gg4.jpeg)
+Photography credits MCI
+![](/images/gg5.jpeg)
+Ms Low's Facebook post
