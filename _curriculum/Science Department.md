@@ -123,7 +123,7 @@ The learning activities are designed to develop pupils in various domains and ho
 </li>
 <li>
     <input type="checkbox" id="accordion5">
-	<label for="accordion1"><b>5. Competitions, Enrichment Programmes & Olympiads</b></label>
+	<label for="accordion5"><b>5. Competitions, Enrichment Programmes & Olympiads</b></label>
     <div>
       <p>We participate in selected competitions, enrichment programmes and Olympiads, in order to provide selected students with wider opportunities and exposure to platforms beyond the school for them to apply the scientific skills and knowledge, learnt in school in authentic contexts.</p>
 
