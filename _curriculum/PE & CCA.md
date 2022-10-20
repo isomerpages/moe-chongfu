@@ -72,4 +72,19 @@ When designing the school’s PE department programme, the PE and CCA department
       <p>As part of a strategic move to develop our niches in Aesthetics and Sports, Chongfu started MCP in 1999 to incorporate dance lessons as part of the PE curriculum in Primary 1. Today, MCP has evolved to numerous specialized programmes in areas of Aesthetics and Sports. Through the MCPs, students with strong potential are identified to join additional training to groom them further.</p>
     </div>
 </li>
+<li>
+    <input type="checkbox" id="accordion6">
+		<label for="accordion6"><b>P3 SwimSafer Programme</b></label>
+    <div>
+      <p>SwimSafer is a national water safety programme in Singapore introduced in July 2010 by the National Water Safety Council (NWSC), a council appointed by the then Ministry of Community, Youth and Sports (MCYS). In 2013, NWSC transferred full ownership of SwimSafer to Sport Singapore. The swimsafer programme consists of 6 progressive stages and caters to all students regardless of their swimming proficiency and is open up to all the P3 students.</p>
+    </div>
+</li>
+<li>
+    <input type="checkbox" id="accordion7">
+		<label for="accordion7"><b>Co-Curricular Activities</b></label>
+    <div>
+      <p>These are the CCAs offered in Chongfu School.</p>
+
+    </div>
+</li>
 </ul>
