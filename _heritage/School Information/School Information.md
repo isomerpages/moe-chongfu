@@ -4,8 +4,7 @@ permalink: /heritage/School-Information/
 description: ""
 third_nav_title: School Information
 ---
-School Information
-==================
+
 #### SCHOOL ADDRESS
 Chongfu School<br>
 170 Yishun Avenue 6<br>
@@ -48,7 +47,6 @@ Fax: 6758 9290
 Ms Ang Yoke Hoo (Dental Therapist)<br>
 Tel: 8518 7296<br>
 
-#### Operating Hours:
+**Operating Hours:** <br>
 8.00am to 5.30pm (Monday to Thursday)<br>
 8.00am to 5.00pm (Friday)
-
