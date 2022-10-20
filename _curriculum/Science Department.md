@@ -110,7 +110,7 @@ The learning activities are designed to develop pupils in various domains and ho
 </li>
  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">4. Excellence 2000 (E2K) Science Programme (for P4, P5, and P6 students)</label>
+    <label for="accordion4"><b>4. Excellence 2000 (E2K) Science Programme (for P4, P5, and P6 students)</b></label>
     <div>
       <p>Chongfu School works closely with the Gifted Education Branch (MOE) in piloting and implementing an enrichment programme known as the Excellence 2000 (E2K) Science Programme. This programme is for selected students who demonstrate strong interest and aptitude in Science.</p>
 
@@ -118,6 +118,17 @@ The learning activities are designed to develop pupils in various domains and ho
 
 <p>Just as scientists make mistakes in the real world, E2K Science students are encouraged to be broad-thinking, adventurous and not be afraid to make mistakes in their investigations. Through the programme, we motivate the learners to be confident and independent researchers in their own right. Students are also given the opportunity to share their interest areas and learning with the school by virtual science busking.</p>
 <img src="/images/Science_Pic_9.jpg" 
+     style="width:70%">
+    </div>
+</li>
+<li>
+    <input type="checkbox" id="accordion5">
+	<label for="accordion1"><b>5. Competitions, Enrichment Programmes & Olympiads</b></label>
+    <div>
+      <p>We participate in selected competitions, enrichment programmes and Olympiads, in order to provide selected students with wider opportunities and exposure to platforms beyond the school for them to apply the scientific skills and knowledge, learnt in school in authentic contexts.</p>
+
+<p>Some of our students have done our school proud with their resilience and stellar performance. Some of these activities are listed below.</p>
+<img src="/images/Science_Pic_10.jpg" 
      style="width:70%">
     </div>
 </li>
