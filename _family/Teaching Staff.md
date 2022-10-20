@@ -320,7 +320,7 @@ Mdm Nur Lailie Bte Jamal<br>
 			<b>Assistant Year Head</b><br>
 							Ms Soh Jingsi<br>
 			<a>soh_jingsi@moe.edu.sg</a>
-&nbsp;&nbsp;<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -361,7 +361,7 @@ Mdm Nur Lailie Bte Jamal<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">5 Innovative</span></td>
     <td class="tg-5xgq">Ms Tan Jie Ying Rachel<br><a href="mailto:tan_jie_ying_rachel@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tan_jie_ying_rachel@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Mdm Nur Atikah Binte Juraimi<br><a href="mailto:nur_atikah_juraimi@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">nur_atikah_juraimi@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mr Ghazali Bin Abdol Wahab<br><a href="mailto:ghazali_abdol_wahab@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ghazali_abdol_wahab@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">5 Observant</span></td>
@@ -376,7 +376,7 @@ Mdm Nur Lailie Bte Jamal<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">5 Sincere</span></td>
     <td class="tg-5xgq">Ms Beh Audrey<br><a href="mailto:beh_audrey@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">beh_audrey@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Ms Abby Wong Yik Chin<br><a href="mailto:abby_wong_yik_chin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">abby_wong_yik_chin@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Ms Nor Adilah Bte Abdul Hamid<br><a href="mailto:nor_adilah_abdul_hamid@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">nor_adilah_abdul_hamid@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
