@@ -50,7 +50,7 @@ The learning activities are designed to develop pupils in various domains and ho
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><b>Environment Education @ Chongfu</b></label>
+		<label for="accordion1"><b>1. Environment Education @ Chongfu</b></label>
     <div>
       <p>Chongfu School stands committed to doing our part for the environment and in actively nurturing our students to learn, practise and contribute to a sustainable Singapore.</p>
 
@@ -80,7 +80,7 @@ The learning activities are designed to develop pupils in various domains and ho
  <li>
 
     <input type="checkbox" id="accordion2">
-	 <label for="accordion2"><b>Play to Learn @ Chongfu Grace (Recess Activities)</b></label>
+	 <label for="accordion2"><b>2. Play to Learn @ Chongfu Grace (Recess Activities)</b></label>
     <div>
       <p>Chongfu’s Grace is an outdoor learning space which is equipped with Science toys, an indoor nursery, and eco-friendly features such as solar panels that power the fans and lights, a rainwater harvesting tank with an auto-irrigation function, and a green wall.</p>
 
@@ -99,13 +99,26 @@ The learning activities are designed to develop pupils in various domains and ho
 	
 <li>
     <input type="checkbox" id="accordion3">
-	<label for="accordion3"><b>Science Learning Journeys</b></label>
+	<label for="accordion3"><b>3. Science Learning Journeys</b></label>
     <div>
       <p>Learning Journeys help to extend the learning of Science beyond the classrooms. They help to provide authentic experiences of Science in the real world.</p>
 <ul>
 	<li><b>P3 & 4:</b> Post-exam workshops at the Singapore Science Centre</li>
 	<li><b>P5 & 6:</b> Post-exam workshops on Bacteria Outbreak and DNA Detective at the Singapore Science Centre</li>
 			</ul>
+    </div>
+</li>
+ <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">4. Excellence 2000 (E2K) Science Programme (for P4, P5, and P6 students)</label>
+    <div>
+      <p>Chongfu School works closely with the Gifted Education Branch (MOE) in piloting and implementing an enrichment programme known as the Excellence 2000 (E2K) Science Programme. This programme is for selected students who demonstrate strong interest and aptitude in Science.</p>
+
+<p>This is based on a curriculum for talented students in Israel. The instructional methodology and materials are designed to be relevant to the learners’ lives, with a strong focus on process and thinking skills in Science. They are aimed at stimulating curiosity while developing and strengthening abilities to study phenomena and their possible causes.</p>
+
+<p>Just as scientists make mistakes in the real world, E2K Science students are encouraged to be broad-thinking, adventurous and not be afraid to make mistakes in their investigations. Through the programme, we motivate the learners to be confident and independent researchers in their own right. Students are also given the opportunity to share their interest areas and learning with the school by virtual science busking.</p>
+<img src="/images/Science_Pic_9.jpg" 
+     style="width:70%">
     </div>
 </li>
 </ul>
