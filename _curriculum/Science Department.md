@@ -64,6 +64,12 @@ The learning activities are designed to develop pupils in various domains and ho
 	<li>upcycling projects; and</li>
 	<li>Design Thinking projects (tie in with the ALP)</li>
 
-Through the years, we have received several awards for our sustained environmental efforts.</p>
+<p>Through the years, we have received several awards for our sustained environmental efforts.</p>
+<img src="/images/Science_Table_1.jpg" 
+     style="width:70%">
+<p>The Science department partners with our parent volunteers in the maintenance of the Eco garden. Where possible, the school also strives to leverage community partnerships to offer students more environment-related learning opportunities, and a better understanding of future “green jobs.” Our sustained efforts to collaborate with and contribute to the North West community have been recognised through our achievement of the Outstanding School Partner Awards through the years.</p>
+<img src="/images/Science_Table_2.jpg" 
+     style="width:70%">
+
     </div>
 </li>
