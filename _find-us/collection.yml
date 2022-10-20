@@ -1,4 +1,5 @@
 collections:
   find-us:
     output: true
-    order: []
+    order:
+      - Social Media.md
