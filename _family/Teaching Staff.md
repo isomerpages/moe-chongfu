@@ -1,12 +1,11 @@
 ---
 title: Teaching Staff
-permalink: /family/teaching-staff
+permalink: /family/teaching-staff/
 description: ""
 ---
-
 <ul class="jekyllcodex_accordion">  
 &nbsp;&nbsp;<li>  
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">  
 		<label for="accordion1"><b>Primary 1</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 			<b>2022 Primary One</b><br>
@@ -86,7 +85,7 @@ Mdm Nur Lailie Bte Jamal<br>
 </table>
 			
 </div></li><li>  
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
 	<label for="accordion2"><b>Primary 2</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 		<b>2022 Primary Two</b><br>
@@ -94,7 +93,7 @@ Mdm Nur Lailie Bte Jamal<br>
 			Ms Madihah Binte Ghazali<br>
 <a>madihah_ghazali@moe.edu.sg</a>
 			
-&nbsp;<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -116,7 +115,7 @@ Mdm Nur Lailie Bte Jamal<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Gracious</span></td>
     <td class="tg-lm9i">Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">madihah_ghazali@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Nor Adilah Bte Abdul Hamid</span><br><a href="mailto:nor_adilah_abdul_hamid@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">nor_adilah_abdul_hamid@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Chong Yue Yen Juliana</span><br><a href="mailto:chong_yue_yen_juliana@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">chong_yue_yen_juliana@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Respectful</span></td>
@@ -126,12 +125,12 @@ Mdm Nur Lailie Bte Jamal<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Achieving</span></td>
     <td class="tg-lm9i">Mdm Zakiah Bte Samani<br><a href="mailto:zakiah_samani@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">zakiah_samani@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Mdm Serene Lim Jing Yi<br><a href="mailto:lim_jing_yi_serene@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lim_jing_yi_serene@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Sunitha Pillay<br><a href="mailto:s_sunitha_pillay@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">s_sunitha_pillay@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Caring</span></td>
-    <td class="tg-lm9i">Ms Wee Sze Hui Priscilla<br><a href="mailto:wee_sze_hui_priscilla@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">wee_sze_hui_priscilla@moe.edu.sg</span></a></td>
     <td class="tg-lm9i">Ms Hong Meirong 洪美荣<br><a href="mailto:hong_mei_rong@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">hong_mei_rong@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Mdm Ngiam Wen Yuan<br><a href="mailto:ngiam_wen_yuan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ngiam_wen_yuan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Innovative</span></td>
@@ -151,7 +150,7 @@ Mdm Nur Lailie Bte Jamal<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Sincere</span></td>
     <td class="tg-lm9i">Ms Tan Shi Ling 陈诗铃<br><a href="mailto:tan_shi_ling@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tan_shi_ling@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Mrs Jennifer Wei<br><a href="mailto:king_jennifer_lilian@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">king_jennifer_lilian@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Srinidta Gobinathan<br><a href="mailto:srinidta_gobinathan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">srinidta_gobinathan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Loyal</span></td>
@@ -161,7 +160,7 @@ Mdm Nur Lailie Bte Jamal<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold"> 2 Youthful</span></td>
     <td class="tg-lm9i">Mdm Toh Guat Lay<br><a href="mailto:toh_guat_lay@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">toh_guat_lay@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Mdm Goh Siew Peng 吴秀萍<a href="mailto:goh_siew_peng@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">goh_siew_peng@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mdm Goh Siew Peng 吴秀萍<br><a rel="noopener noreferrer" target="_blank" href="mailto:goh_siew_peng@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">goh_siew_peng@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -169,15 +168,15 @@ Mdm Nur Lailie Bte Jamal<br>
 </li>
 	
 <li>  
-    <input type="checkbox" id="accordion3">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">  
 		<label for="accordion3"><b>Primary 3</b></label>  
-    <div>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
 			
 <b>2022 Primary Three</b><br>
-<b>Year Head  (Lower Primary)</b><br>
-				Mdm Ong Shu Ying<br>
+<b>Year Head&nbsp;&nbsp;(Lower Primary)</b><br>
+				Mdm&nbsp;Ong Shu Ying<br>
 <a>ong_shu_ying@moe.edu.sg</a>
-      <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -238,19 +237,19 @@ Mdm Nur Lailie Bte Jamal<br>
   </tr>
 </tbody>
 </table> 
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 	</li>
 	
 <li>  
-    <input type="checkbox" id="accordion4">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion4" type="checkbox">  
 	<label for="accordion4"><b>Primary 4</b></label>  
-    <div> 
+&nbsp;&nbsp;&nbsp;&nbsp;<div> 
 			<b>2022 Primary Four</b><br>
 			<b>Assistant Year Head</b><br>
 							Mdm Ngiam Wen Yuan<br>
 			<a>ngiam_wen_yuan@moe.edu.sg</a>
 			
-      <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -310,18 +309,18 @@ Mdm Nur Lailie Bte Jamal<br>
   </tr>
 </tbody>
 </table>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 	
 <li>  
-    <input type="checkbox" id="accordion5">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion5" type="checkbox">  
 	<label for="accordion5"><b>Primary 5</b></label>  
-    <div>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
 			<b>2022 Primary Five</b><br>
 			<b>Assistant Year Head</b><br>
 							Ms Soh Jingsi<br>
 			<a>soh_jingsi@moe.edu.sg</a>
-  <style type="text/css">
+&nbsp;&nbsp;<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -381,17 +380,17 @@ Mdm Nur Lailie Bte Jamal<br>
   </tr>
 </tbody>
 </table>
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion6">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion6" type="checkbox">  
 	<label for="accordion6"><b>Primary 6</b></label>  
-    <div>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
 			<b>2022 Primary Six</b><br>
 			<b>Year Head (Upper Primary)</b><br>
 							Ms Yap Xin Yi Filicia<br>
 			<a>yap_xin_yi_filicia@moe.edu.sg</a>
-      <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -452,13 +451,13 @@ Mdm Nur Lailie Bte Jamal<br>
   </tr>
 </tbody>
 </table>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion7">  
-    <label for="accordion7">Other Teachers</label>  
-    <div>  
-      <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion7" type="checkbox">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">Other Teachers</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -497,7 +496,7 @@ Mdm Nur Lailie Bte Jamal<br>
   </tr>
 </tbody>
 </table>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
-  
+&nbsp;&nbsp;
 </ul>
