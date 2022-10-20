@@ -30,3 +30,17 @@ c. Character and Citizenship Education (CCE)
 
 6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 7. The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
+
+**At Chongfu School, the following lessons from the Growing Years Programme will be taught in 2022:**
+
+![](/images/SexualityEducation-Table-1.jpg)
+![](/images/SexualityEducation-Table-2.jpg)
+![](/images/SexualityEducation-Table-3.jpg)
+![](/images/SexualityEducation-Table-4.jpg)
+
+**Information for Parents**
+
+8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Parent-Opt-Out-Form-2022.pdf). The completed opt-out form is to be submitted by 18/01/2022 (Primary Six) or 15/02/2022 (Primary Five).
+10. Parents can contact the school at [cfs@moe.edu.sg](mailto:cfs@moe.edu.sg) / 6758 5527 for discussion or to seek clarification about the school’s sexuality education programme.
+11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements
