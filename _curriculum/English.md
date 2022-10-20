@@ -93,15 +93,15 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
      style="width:70%">
       <p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, students are taught the different types of poems across the levels (e.g. Rhyming, Acrostic, Reverse poems, Haiku, Tanka, Cinquain).</p>
 
-<p>Chongfu School participated in the 17th World Children’s Haiku Contest organised by the JAL Foundation in conjunction with the Haiku International Association, and supported by Ministry of Foreign Affairs, Agency for Cultural Affairs, Japan Committee for UNICEF and the Japan Foundation.</p>
+			<p>Chongfu School participated in the 17th World Children’s Haiku Contest organised by the JAL Foundation in conjunction with the Haiku International Association, and supported by Ministry of Foreign Affairs, Agency for Cultural Affairs, Japan Committee for UNICEF and the Japan Foundation.</p>
 
-<p>The theme of the 17th contest is ' Towns '. The haiku must be accompanied by hand-drawn or hand-crafted artwork.</p>
+			<p>The theme of the 17th contest is ' Towns '. The haiku must be accompanied by hand-drawn or hand-crafted artwork.</p>
 
-<p>Out of the 1731 entries received, the organiser have selected 7 JAL Grand Prize, 30 JAL Prize and 5 Regional Manager Prize from Singapore.</p>
+			<p>Out of the 1731 entries received, the organiser have selected 7 JAL Grand Prize, 30 JAL Prize and 5 Regional Manager Prize from Singapore.</p>
 
-<p>Chongfu School received 1 JAL Grand Prize, 8 JAL Prize and 1 Regional Manager Prize.</p>
+			<p>Chongfu School received 1 JAL Grand Prize, 8 JAL Prize and 1 Regional Manager Prize.</p>
 
-<p>Congratulations to all winners!</p>
+			<p>Congratulations to all winners!</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
