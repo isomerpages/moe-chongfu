@@ -249,7 +249,7 @@ Mdm Nur Lailie Bte Jamal<br>
 							Mdm Ngiam Wen Yuan<br>
 			<a>ngiam_wen_yuan@moe.edu.sg</a>
 			
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -285,12 +285,12 @@ Mdm Nur Lailie Bte Jamal<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">4 Caring</span></td>
     <td class="tg-5xgq">Ms Gu Xiaoyan<br><a href="mailto:gu_xiaoyan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">gu_xiaoyan@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Mr Gan Kok Onn 颜国安<br><a href="mailto:gan_kok_onn@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">gan_kok_onn@moe.edu.sg</span></a>Ms Lim Li Min Eunice<br><a href="mailto:lim_li_min_eunice@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lim_li_min_eunice@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mr Gan Kok Onn 颜国安<br><a href="mailto:gan_kok_onn@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">gan_kok_onn@moe.edu.sg</span></a><br><br>Ms Lim Li Min Eunice<br><a href="mailto:lim_li_min_eunice@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lim_li_min_eunice@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">4 Innovative</span></td>
     <td class="tg-5xgq">Ms Nachammai D/O Selva Nachiappan<br><a href="mailto:nachammai_selva_nachiappan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">nachammai_selva_nachiappan@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Mr Andy Soh Lee Ming<br><a href="mailto:andy_soh_lee_ming@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">andy_soh_lee_ming@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mr Shaik Muhammad Bin Mohamed Haleem<br><a href="mailto:shaik_muhammad_mohamed_haleem@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">shaik_muhammad_mohamed_haleem@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">4 Observant</span></td>
@@ -308,7 +308,7 @@ Mdm Nur Lailie Bte Jamal<br>
     <td class="tg-5xgq">Ms Woon Hui Ting 温慧婷<br><a href="mailto:woon_hui_ting@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">woon_hui_ting@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
-</table>  
+</table>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 	
