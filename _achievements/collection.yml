@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - 2022.md
       - 2021.md
       - 2020.md
       - 2019.md
