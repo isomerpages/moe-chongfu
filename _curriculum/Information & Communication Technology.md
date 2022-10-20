@@ -120,5 +120,3 @@ With today’s emphasis on technology, it is imperative that our pupils have a h
     </div>
 </li>
 </ul>
-
-
