@@ -457,7 +457,7 @@ Mdm Nur Lailie Bte Jamal<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion7" type="checkbox">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">Other Teachers</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -480,22 +480,25 @@ Mdm Nur Lailie Bte Jamal<br>
     <td class="tg-5xgq">Ms Wang Shi Yun Jaslyn</td>
   </tr>
   <tr>
+    <td class="tg-5xgq">Mdm Lim Jing Yi Serene</td>
+  </tr>
+  <tr>
+    <td class="tg-5xgq">Ms Shona Cha Siew Lian</td>
+  </tr>
+  <tr>
     <td class="tg-soxn"><span style="font-weight:bold">NIE TRAINEES</span></td>
   </tr>
   <tr>
-    <td class="tg-5xgq">Mr Shaik Muhammad Bin Mohamed Haleem</td>
+    <td class="tg-5xgq">Ms Nur Natasha Binte Mohamed Khairuddin</td>
   </tr>
   <tr>
-    <td class="tg-5xgq">Ms Srinidta Gobinathan</td>
+    <td class="tg-5xgq">Ms Xu Xiaojie</td>
   </tr>
   <tr>
-    <td class="tg-5xgq">Ms Chong Yue Yen Juliana</td>
-  </tr>
-  <tr>
-    <td class="tg-5xgq">Ms Sunitha Pillay</td>
+    <td class="tg-5xgq">Ms Vanna Tan</td>
   </tr>
 </tbody>
-</table>  
+</table>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>  
 &nbsp;&nbsp;
