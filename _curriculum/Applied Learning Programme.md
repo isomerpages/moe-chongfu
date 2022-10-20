@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme
-permalink: /curriculum/applied-learning-programme
+permalink: /curriculum/applied-learning-programme/
 description: ""
 ---
 Chongfu School aims to nurture a community of thinkers who are patriotic, gracious and global in outlook. To achieve this, students will have to be equipped with skills and knowledge, social and emotional competencies and life skills to develop into concerned citizens and active contributors. The school is constantly looking for opportunities to impart students with the skills, abilities, mind-set and values for long-term growth.
@@ -51,3 +51,17 @@ Click on the links below to view the projects done by the Primary 3 students:
 	</div>
 	</li>
 </ul>
+
+### Collaborations and Further Developments
+
+To further develop creative confidence in our students with intentionality, in 2022, Chongfu School collaborated with the National Agency for Design, DesignSingapore Council (Dsg), and EYEYAH!, a President’s Design Award Recipient which specialised in using vibrant images and animations in developing creative confidence in young students. The outcome was a course on creative confidence for our P4 students to sharpen their Design Thinking skills.
+
+Students have given feedback that they have learnt a lot through the teachers’ skillful facilitation of the arresting, thought-provoking, well-designed illustrations in the worksheets and slides, empowered by technological affordances (e.g. Augmented Reality) and enhanced by gamification (e.g. Kahoot quizzes) as well as timely peer-to-peer and teacher feedback (e.g. through Padlet, Nearpod, face-to-face communication)
+
+**PIC 1**
+
+![](/images/ALP_Pic2-2048x1701.png)
+
+Through teacher and student survey results as well as the student artefacts, this course can be seen to have helped students improve in not just creative confidence, but also empathy, experimentation and collaboration, all valuable and important 21st Century Competencies to help our students navigate a VUCA (Volative, Uncertain, Complex, Ambiguous) environment.
+
+![](/images/ALP_Pic3-2048x868.png)
