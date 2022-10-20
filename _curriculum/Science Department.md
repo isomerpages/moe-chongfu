@@ -30,3 +30,15 @@ We hope that our students would be **inspired by Science,** and have opportuni
 		 
 <img src="/images/Science_Pic_3.jpg" 
      style="width:80%">
+		 
+### Science Curriculum and Holistic Assessment
+
+The Science curriculum is implemented in the classroom through teacher-facilitated hands-on activities, experiments and discussion. Where meaningful, students also practise Thinking Routines such as **“I See – I Think – I Wonder”** during the inquiry process and **“Claim – Evidence – Reasoning”** when giving scientific explanations.
+
+The learning activities are designed to develop pupils in various domains and holistic assessment tasks are crafted to monitor pupils’ progress. Each holistic assessment task is carefully aligned to learning outcomes and students’ performance will inform teachers of the intervention required. To assess attitudes and skills, tasks beyond the traditional pen and paper tests have been designed. Some examples of Science holistic tasks include:
+
+– Model-making projects
+
+– Concept Cartoons
+
+– Performance tasks
