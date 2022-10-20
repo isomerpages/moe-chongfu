@@ -24,3 +24,14 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 ### Enjoy, Experience, Excel Approach
 	
 ![](/images/3Es-Picture-V2-1024x588.jpg)
+
+### Enjoy
+
+<a href="https://photos.google.com/share/AF1QipPOKglHpHUZdf2hgByvfk2RGqPOLE0nM06_JFun_WJbZoMtR2pY4603woqoPnyO-A?key=dXFEcGEyb0hSZ0RlbDZwZEhyS2NnTDVLeWZSamd3">
+<img src="/images/Label_Enjoy_V3-768x498.png" style="width:75%"></a>
+
+### Experience
+
+
+<a href="https://photos.google.com/share/AF1QipOoRDVkx8Y5tlsK2PzW4tD9h4-H8PMtjFXGSt8F2G0iWCk-phrJ3f4MlGnDhUHlQg?key=cS0tOENyVFgxWGFsVE05R0VaSXMzeFozSjZ1M19R">
+<img src="/images/Label_Experience_V3-2048x1003.png" style="width:75%"></a>
