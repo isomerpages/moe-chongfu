@@ -8,4 +8,4 @@ third_nav_title: Mother Tongue
 双文化华文优选课程</b></center>
 
 
-### **_(_**_Singapore Hokkien Huay Kuan Bicultural Chinese Preferred Course)_
+<center><b>Singapore Hokkien Huay Kuan Bicultural Chinese Preferred Course</b></center>
