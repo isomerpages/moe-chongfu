@@ -45,3 +45,25 @@ The learning activities are designed to develop pupils in various domains and ho
 
 <img src="/images/Science_Pic_4.jpg" 
      style="width:80%">
+		 
+### Department Programme Highlights
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+		<label for="accordion1"><b>Environment Education @ Chongfu</b></label>
+    <div>
+      <p>Chongfu School stands committed to doing our part for the environment and in actively nurturing our students to learn, practise and contribute to a sustainable Singapore.</p>
+
+<p>Beyond the Science, and CCE core curricula which have integrated the teaching and learning of sustainability concepts, the Science department is working to <b>advocate for sustainability practices that students can adopt as daily habits</b> such as saving energy and water and reducing food waste. This strengthens the importance of sustainability as an integral part of our culture. Some of the activities conducted as part of Environment Education include:</p>
+<ul>
+	<li>school-wide newspaper recycling project;</li>
+	<li>assembly talks;</li>
+	<li>activities in conjunction with international environmental events;</li>
+	<li>student-led activities organised by the Environmental Club CCA and the Prefectorial Board;</li>
+	<li>upcycling projects; and</li>
+	<li>Design Thinking projects (tie in with the ALP)</li>
+
+Through the years, we have received several awards for our sustained environmental efforts.</p>
+    </div>
+</li>
