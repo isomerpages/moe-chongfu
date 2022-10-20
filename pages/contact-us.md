@@ -20,4 +20,11 @@ contacts:
       - email: cfs@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "<b>Bus service to Yishun Ave 6</b><br> SBS Transit: 670, 811, 811T  <br>
+          <b>Nearest MRT Station, Yishun </b><br>Opposite Yishun MRT Station
+          Exit B, board SBS Transit 811"
+    title: Getting There
 ---
