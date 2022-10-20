@@ -390,7 +390,7 @@ Mdm Nur Lailie Bte Jamal<br>
 			<b>Year Head (Upper Primary)</b><br>
 							Ms Yap Xin Yi Filicia<br>
 			<a>yap_xin_yi_filicia@moe.edu.sg</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -427,7 +427,7 @@ Mdm Nur Lailie Bte Jamal<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">6 Caring</span></td>
     <td class="tg-5xgq">Mr Ng Keh Siong<br><a href="mailto:ng_keh_siong@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ng_keh_siong@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Mr Ng Min Zhou Jonathan<br><a href="mailto:ng_min_zhou_jonathan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ng_min_zhou_jonathan@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mr Ng Min Zhou Jonathan<br><a href="mailto:ng_min_zhou_jonathan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ng_min_zhou_jonathan@moe.edu.sg</span></a><br><br>Mr Andy Soh Lee Ming<br><a href="mailto:andy_soh_lee_ming@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">andy_soh_lee_ming@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">6 Innovative</span></td>
@@ -450,7 +450,7 @@ Mdm Nur Lailie Bte Jamal<br>
     <td class="tg-5xgq">Ms Lin Wan Ting Joli 林纨廷<br><a href="mailto:lin_wanting_joli@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lin_wanting_joli@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
-</table>  
+</table>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
