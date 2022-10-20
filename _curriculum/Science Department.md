@@ -62,7 +62,7 @@ The learning activities are designed to develop pupils in various domains and ho
 	<li>student-led activities organised by the Environmental Club CCA and the Prefectorial Board;</li>
 	<li>upcycling projects; and</li>
 	<li>Design Thinking projects (tie in with the ALP)</li>
-
+			</ul>
 <p>Through the years, we have received several awards for our sustained environmental efforts.</p>
 <img src="/images/Science_Table_1.jpg" 
      style="width:70%">
@@ -74,6 +74,25 @@ The learning activities are designed to develop pupils in various domains and ho
 <img src="/images/Science_Pic_6.jpg" 
      style="width:70%">
 <img src="/images/Science_Pic_7.jpg" 
+     style="width:70%">
+    </div>
+</li>
+ <li>
+
+    <input type="checkbox" id="accordion2">
+	 <label for="accordion2"><b>Play to Learn @ Chongfu Grace (Recess Activities)</b></label>
+    <div>
+      <p>Chongfu’s Grace is an outdoor learning space which is equipped with Science toys, an indoor nursery, and eco-friendly features such as solar panels that power the fans and lights, a rainwater harvesting tank with an auto-irrigation function, and a green wall.</p>
+
+<p>The department provide exciting opportunities for students to engage in science-based unstructured play and exploration with their peers during recess at Chongfu’s Grace. Some of these activities students could do include:</p>
+
+<ul>
+	<li>playing with Science toys;</li>
+	<li>the active exploration of the Eco garden; and</li>
+	<li>performing self-directed experiments.</li>
+			</ul>
+<p>These experiences allow opportunities for incidental learning and can spark interest in the learning of Science.</p>
+<img src="/images/Science_Pic_8.jpg" 
      style="width:70%">
     </div>
 </li>
