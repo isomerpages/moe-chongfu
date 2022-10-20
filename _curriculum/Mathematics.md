@@ -1,9 +1,8 @@
 ---
 title: Mathematics
-permalink: /curriculum/mathematics
+permalink: /curriculum/mathematics/
 description: ""
 ---
-
 _“Making Math Simple, Making Math Fun and Making Math Meaningful.”_
 
 *   **Math Made Simple**
@@ -77,8 +76,9 @@ Tangram was introduced to the Lower Primary students in Chongfu School. Students
 <p>We encourage students to take responsibility and initiative of their own learning. They login to these learning sites at least 2-3 times a week to complete assigned e-learning or e-homework. They may also watch videos and study the solutions of difficult math questions. Thus, they practice various mathematical skills in a fun and engaging way.</p>
 
 <p>The recommended websites are students’ learning management portal (LMS) and MonsWorld. MonsWorld has generated many positive feedbacks due to the high variability and quality of the questions set. The students also enjoyed the games.</p>
-<img src="/images/math%2010.png">
-<img src= "/images/math%2011.png">
+<img src="/images/maths_picture_1.png">
+<img src= "/images/Maths_Picture_2.png">
+<img src= "/images/Maths_Picture_3.png">
     </div>  
 </li>
 <li>  
