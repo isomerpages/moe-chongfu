@@ -166,7 +166,8 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 <img src="/images/EnglishDept_PictureUpdate_2.jpg" 
      style="width:70%">
     </div>
-</li>
+	</li>
+	
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion6" type="checkbox">  
 	<label for="accordion5"><b>Chongfu Anthology 2020</b></label>  
