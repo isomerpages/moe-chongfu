@@ -95,7 +95,18 @@ With today’s emphasis on technology, it is imperative that our pupils have a h
      style="width:70%">
     </div>
 </li>
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">P5 Scratch Programming</label>
+    <div>
+<img src="/images/Scratch-Programming-MainPicture-V2.jpg" 
+     style="width:70%">
+<img src="/images/Scratch-Programming-Graphs-and-Angles-V2.jpg" 
+     style="width:70%">
+<img src="/images/ScratchProgramming_Picture5.jpg" 
+     style="width:70%">
+<img src="/images/ScratchProgramming_Picture2-2048x1087.png" 
+     style="width:70%">
+    </div>
+</li>
 </ul>
-
-
-
