@@ -58,4 +58,12 @@ When designing the school’s PE department programme, the PE and CCA department
 <img src="/images/CampInspire_2022_Pic3.jpg" style="width:60%">
     </div>
 </li>
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Chongfu Mass Run</label>
+    <div>
+      <p>This annual event brings home to the students the message of the importance of living an active life. P4 to P6 pupils look forward to the event and start training early in the year in preparation for the run. This in turn helps to keep them fit and healthy.</p>
+    </div>
+
+</li>
 </ul>
