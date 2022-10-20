@@ -63,3 +63,13 @@ third_nav_title: Mother Tongue
 ![](/images/National_Chinese_Storytelling_Competition_Picture1.jpg)
 
 ![](/images/National_Chinese_Storytelling_Competition_Picture2.jpg)
+
+<center><b>Mother Tongue Languages (MTL) Reading Programme</b></center>
+
+Our MTL Reading Programme aims to build a strong foundation in the Mother Tongue Languages by exposing our students to different genres of writing and fostering a love for reading. A ‘Reading Passport’ is given to each student to track his/ her reading progress through a variety of activities. The passport also guides them to select appropriate books to read and after each term, they will be able to redeem bookmarks as rewards for completing the activities.
+
+During MTL lessons, our students enjoy a myriad of reading activities, which include storytelling, book recommendations, and the making of animal bookmarks and paper puppets etc. Outstanding pieces of work from our students are then selected and showcased at our Media Resource Library.
+
+To further raise awareness of the importance of reading, the MTL Department organised the Bookmark Design & Creativity Competition last year, which received overwhelming participation from our students.
+
+![](/images/MTL-Chinese-Picture-A.jpg)
