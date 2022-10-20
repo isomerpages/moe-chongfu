@@ -84,8 +84,91 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 <p>To inculcate in pupils the love and passion for the learning and appreciation of the English Language through literature and arts, P1-P6 students will have the opportunity to attend plays appropriate to their respective age groups. Through such exposure, students will get to experience creative expression of language arts.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
+<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion1">Achievements</label>
+    <div>
+			<p><b>17th World Children’s Haiku Contest</b></p>
+<img src="/images/EnglishDept_PictureUpdate_1.jpg" 
+     style="width:70%">
+      <p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, students are taught the different types of poems across the levels (e.g. Rhyming, Acrostic, Reverse poems, Haiku, Tanka, Cinquain).</p>
+
+<p>Chongfu School participated in the 17th World Children’s Haiku Contest organised by the JAL Foundation in conjunction with the Haiku International Association, and supported by Ministry of Foreign Affairs, Agency for Cultural Affairs, Japan Committee for UNICEF and the Japan Foundation.</p>
+
+<p>The theme of the 17th contest is ' Towns '. The haiku must be accompanied by hand-drawn or hand-crafted artwork.</p>
+
+<p>Out of the 1731 entries received, the organiser have selected 7 JAL Grand Prize, 30 JAL Prize and 5 Regional Manager Prize from Singapore.</p>
+
+<p>Chongfu School received 1 JAL Grand Prize, 8 JAL Prize and 1 Regional Manager Prize.</p>
+
+<p>Congratulations to all winners!</p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-uuu7{background-color:#FFF;color:#F60;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-zt6k{background-color:#FFF;color:#36F;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-zeu3{background-color:#FFF;color:#36F;text-align:left;vertical-align:top}
+.tg .tg-hooy{background-color:#FFF;color:#F60;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zt6k"><span style="font-weight:bold">1 JAL Grand Prize</span></th>
+    <th class="tg-zeu3"><span style="color:#36F">Leroy Ho Xian Yang</span></th>
+    <th class="tg-zeu3"><span style="color:#36F">4 Gracious</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uuu7" rowspan="8"><span style="font-weight:bold">8 JAL Prize</span></td>
+    <td class="tg-hooy"><span style="color:#F60">Kesha Poh Yi Ning</span></td>
+    <td class="tg-hooy"><span style="color:#F60">3 Gracious</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hooy"><span style="color:#F60">Wei Yi Eleen</span></td>
+    <td class="tg-hooy"><span style="color:#F60">3 Gracious</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hooy"><span style="color:#F60">Neha Ramkumar</span></td>
+    <td class="tg-hooy"><span style="color:#F60">3 Respectful</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hooy"><span style="color:#F60">Goh Xin Chen Lyra</span></td>
+    <td class="tg-hooy"><span style="color:#F60">4 Gracious</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hooy"><span style="color:#F60">Goh Wen Ze</span></td>
+    <td class="tg-hooy"><span style="color:#F60">4 Gracious</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hooy"><span style="color:#F60">Isabel Ang</span></td>
+    <td class="tg-hooy"><span style="color:#F60">4 Gracious</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hooy"><span style="color:#F60">Candra Seah Yong En</span></td>
+    <td class="tg-hooy"><span style="color:#F60">5 Gracious</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hooy"><span style="color:#F60">Zenith Koh</span></td>
+    <td class="tg-hooy"><span style="color:#F60">6 Respectful</span></td>
+  </tr>
+  <tr>
+    <td class="tg-zt6k"><span style="font-weight:bold">1 Regional Manager Prize   </span></td>
+    <td class="tg-zeu3"><span style="color:#36F">Luo Xin Ru</span></td>
+    <td class="tg-zeu3"><span style="color:#36F">6 Caring</span></td>
+  </tr>
+</tbody>
+</table>
+<p><b>Wits & Words: Inter-school Debate Championship 2022</b></p>
+<img src="/images/EnglishDept_PictureUpdate_2.jpg" 
+     style="width:70%">
+    </div>
+</li>
 <li>  
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion5" type="checkbox">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion6" type="checkbox">  
 	<label for="accordion5"><b>Chongfu Anthology 2020</b></label>  
 <div>  
 <p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.
@@ -101,7 +184,7 @@ The anthology captures the different types of poems that students embark on. Be 
 </div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion6">  
+    <input type="checkbox" id="accordion7">  
 	<label for="accordion6"><b>Chongfu Anthology 2021</b></label>  
     <div>  
 <p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.</p>
