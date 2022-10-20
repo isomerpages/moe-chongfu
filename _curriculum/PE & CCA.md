@@ -44,14 +44,18 @@ When designing the school’s PE department programme, the PE and CCA department
     <div>
       <p>From the initial format of a P5 Camp, the Camp iNspire programme has been undergoing constant expansion since 2005, involving children at more and more levels to build life skills and resilience. At 2007, camps were organised for Primary 4, 5 and 6 pupils. In 2008, Camp iNspire was extended to Primary 1 to Primary 3. Each camp focuses on different aspects of character development and incorporates Social Emotional Learning (SEL) components. The format and activities of the camps were also closely guided by the Outdoor Adventure framework as stated in the PE syllabus 2014.</p>
 
-			<p><b>P6 Camp iNspire 2022</b></p>
+<p><b>P6 Camp iNspire 2022</b></p>
 
-			<p><b>Camp Theme : Relationship Management</b></p>
+<p><b>Camp Theme : Relationship Management</b></p>
 
 <p>For our Primary Six cohort who have missed out on major in-person activities for the last two years due to Covid-19 restrictions, Camp iNspire was certainly an event which they looked forward to. Through Camp iNspire, the school hopes to nurture healthy, active and confident students through outdoor education. On 22 and 23 June 2022 of the June Holidays, our students returned to school for supplementary lessons in the morning before attending the half-day non-residential camp in the afternoon.</p>
 
 <p>In the spirit of Camp iNspire being an adventure learning programme, our graduating cohort was introduced to Dragon Boating and the theme of the camp hinges on Relationship Management. It was a fun-filled afternoon spent at the Singapore Dragon Boat Association as students familiarised themselves with basic commands and picked up paddling strokes that allow them to work in their teams. Exhilaration was written all over their faces as many of the students were experiencing dragon boating for the very first time.</p>
-
+<img src="/images/CampInspire_2022_Pic1.jpg" style="width:60%">
+<img src="/images/CampInspire_2022_Pic2.jpg" style="width:60%">
+<img src="/images/CampInspire_2022_Pic5.jpg" style="width:60%">
+<img src="/images/CampInspire_2022_Pic4.jpg" style="width:60%">
+<img src="/images/CampInspire_2022_Pic3.jpg" style="width:60%">
     </div>
 </li>
 </ul>
