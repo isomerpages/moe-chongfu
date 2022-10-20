@@ -1,9 +1,21 @@
 ---
 title: Tamil Department
-permalink: /curriculum/Mother-Tongue/tamil-department
+permalink: /curriculum/Mother-Tongue/tamil-department/
 description: ""
 third_nav_title: Mother Tongue
 ---
+### Mother Tongue Languages (MTL) Reading Programme
+
+Our MTL Reading Programme aims to build a strong foundation in the Mother Tongue Languages by exposing our students to different genres of writing and fostering a love for reading. A ‘Reading Passport’ is given to each student to track his/ her reading progress through a variety of activities. The passport also guides them to select appropriate books to read and after each term, they will be able to redeem bookmarks as rewards for completing the activities.
+
+During MTL lessons, our students enjoy a myriad of reading activities, which include storytelling, book recommendations, and the making of animal bookmarks and paper puppets etc. Outstanding pieces of work from our students are then selected and showcased at our Media Resource Library.
+
+To further raise awareness of the importance of reading, the MTL Department organised the Bookmark Design & Creativity Competition last year, which received overwhelming participation from our students.
+
+
+<img src="/images/MTL-Tamil-Picture-A.jpg" 
+     style="width:65%">
+
 **Learning Journey – Pongal Festival**
 
 Our Tamil pupils go on a Learning Journey to Little India to witness the celebration of Pongal Festival, during which Hindus all over the world offer their gratitude to the sun. Though an annual affair for Hindus, in 2014, non-Indian pupils also participated in the learning Journey to Little India as a form of National Education.
