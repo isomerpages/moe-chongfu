@@ -109,4 +109,16 @@ With today’s emphasis on technology, it is imperative that our pupils have a h
      style="width:70%">
     </div>
 </li>
+<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">P6 Code for Fun</label>
+    <div>
+<img src="/images/CodeForFun_MainPicture.jpg" 
+     style="width:70%">
+<img src="/images/CodeForFun_StudentsPicture-2048x1101.png" 
+     style="width:70%">
+    </div>
+</li>
 </ul>
+
+
