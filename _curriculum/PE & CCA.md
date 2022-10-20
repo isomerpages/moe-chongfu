@@ -60,10 +60,16 @@ When designing the school’s PE department programme, the PE and CCA department
 </li>
 <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Chongfu Mass Run</label>
+		<label for="accordion4"><b>Chongfu Mass Run</b></label>
     <div>
       <p>This annual event brings home to the students the message of the importance of living an active life. P4 to P6 pupils look forward to the event and start training early in the year in preparation for the run. This in turn helps to keep them fit and healthy.</p>
     </div>
-
+</li>
+<li>
+    <input type="checkbox" id="accordion5">
+		<label for="accordion5"><b>Mass Customisation Programmes(MCP)</b></label>
+    <div>
+      <p>As part of a strategic move to develop our niches in Aesthetics and Sports, Chongfu started MCP in 1999 to incorporate dance lessons as part of the PE curriculum in Primary 1. Today, MCP has evolved to numerous specialized programmes in areas of Aesthetics and Sports. Through the MCPs, students with strong potential are identified to join additional training to groom them further.</p>
+    </div>
 </li>
 </ul>
