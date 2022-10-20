@@ -1,6 +1,6 @@
 ---
 title: PE & CCA
-permalink: /curriculum/pecca
+permalink: /curriculum/pecca/
 description: ""
 ---
 # PE Department (Programmes)
