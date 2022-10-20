@@ -96,4 +96,16 @@ The learning activities are designed to develop pupils in various domains and ho
      style="width:70%">
     </div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion3">
+	<label for="accordion3"><b>Science Learning Journeys</b></label>
+    <div>
+      <p>Learning Journeys help to extend the learning of Science beyond the classrooms. They help to provide authentic experiences of Science in the real world.</p>
+<ul>
+	<li><b>P3 & 4:</b> Post-exam workshops at the Singapore Science Centre</li>
+	<li><b>P5 & 6:</b> Post-exam workshops on Bacteria Outbreak and DNA Detective at the Singapore Science Centre</li>
+			</ul>
+    </div>
+</li>
 </ul>
