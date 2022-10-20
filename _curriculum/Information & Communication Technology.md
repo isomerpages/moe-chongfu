@@ -65,7 +65,16 @@ With today’s emphasis on technology, it is imperative that our pupils have a h
      style="width:70%">
     </div>
 </li>
+<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">P2 Google Documents</label>
+    <div>
+<img src="/images/GoogleDocuments_MainPicture.jpg" 
+     style="width:70%">
+<img src="/images/GoogleDocuments_StudentsPicture2-2048x1138.png" 
+     style="width:70%">
+<img src="/images/GoogleDocuments_StudentsPicture3-2048x1139.png" 
+     style="width:70%">
+    </div>
+</li>
 </ul>
-
-
-
