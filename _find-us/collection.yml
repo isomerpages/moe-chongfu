@@ -1,0 +1,4 @@
+collections:
+  find-us:
+    output: true
+    order: []
