@@ -9,6 +9,13 @@ sections:
   - hero:
       title: Chong Fu School
       background: /images/hero banner.gif
+      button: Contact Us
+      url: /contact-us
+      key_highlights:
+        - title: Find Us
+          description: Find our Social Media here
+          url: /find-us/
+        - title: Useful Links
+          description: Click here for useful links
+          url: ""
 ---
-
-
