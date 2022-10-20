@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Chongfu School
 description: An Isomer site of the Singapore Government
 image: /images/school logo 1.jpeg
 permalink: /
@@ -10,4 +10,5 @@ sections:
       title: Chong Fu School
       background: /images/hero banner.gif
 ---
+
 
