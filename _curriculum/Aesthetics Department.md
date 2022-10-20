@@ -50,3 +50,8 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 <a href="https://photos.google.com/share/AF1QipNy-1lyXVjbdHYPByUp6UyYYA97d175sqjZ7DM0p9xI-DKVcSQXhe8TxXMUM7nfJA?key=eGxZR1FOc0lVbU1va2dxYkpvanVaRTd5S2w2QmVR">
 <img src="/images/Label_Excel_Staff_V4-2048x1357.png" style="width:75%"></a>
 
+
+<a href="https://www.artsteps.com/view/61bf2cbcbf72e0ea45675bdc?currentUser">
+<img src="/images/CFS-Virtual-Exhibition-2.jpg" style="width:50%"></a>
+
+_**( Selected and showcased on the SYF Virtual Art Exhibition. Click on Search By School)**_ on [https://www.syf.gov.sg/syf/virtualexhibition/gallery-2](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2)
