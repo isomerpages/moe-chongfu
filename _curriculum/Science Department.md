@@ -42,3 +42,6 @@ The learning activities are designed to develop pupils in various domains and ho
 – Concept Cartoons
 
 – Performance tasks
+
+<img src="/images/Science_Pic_4.jpg" 
+     style="width:80%">
