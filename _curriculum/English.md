@@ -86,7 +86,7 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 </li>
 <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion1">Achievements</label>
+	<label for="accordion1"><b>Achievements</b></label>
     <div>
 			<p><b>17th World Children’s Haiku Contest</b></p>
 <img src="/images/EnglishDept_PictureUpdate_1.jpg" 
