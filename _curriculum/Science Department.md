@@ -14,7 +14,7 @@ Our students are diverse, with different needs, interests and aptitudes for Scie
 ![](/images/Science_Pic_1-2048x1793.png)
 		 
 
-### BSCS 5E Instructional Model and Inquiry-Based Learning**
+### BSCS 5E Instructional Model and Inquiry-Based Learning
 
 We use the **BSCS 5E Instructional Model** for the teaching and learning of Science. Using this model, the learning experience is sequenced to enable learners to construct their understanding of a science key concept over time. Each phase of the learning sequence can be described using five words that begin with E: engage, explore, explain, elaborate, and evaluate.
 
