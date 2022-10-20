@@ -38,3 +38,12 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 
 <a href="https://photos.google.com/share/AF1QipPY4t2_FReMWXezjm9BTjQFjGyzYe8WMHuECsnWl_D-UU26IQERZFdWvBf0St1DWw?key=eEo2Ylh1OGN2NlN6TGJFYmo0UzR5Uy1CRjZXVG93">
 <img src="/images/Label_MuseumBasedLearning_V3-2048x1104.png" style="width:75%"></a>
+
+### Excel
+
+<a href="https://photos.google.com/share/AF1QipO4jjlGlLQogyMaOTl-6Gqz3Nhr4A-63yxWjpOJ1-vIDBMfd5udjQWAoh6HtzqS5A?key=a0U3LXNBcUVQNDVPdk9GSjd2ZnVkZEM3OFo5NEtR">
+<img src="/images/Label_Excel_SOTA_V3-2048x1135.png" style="width:75%"></a>
+
+<a href="https://photos.google.com/share/AF1QipOpQgWiiO-3oBuy5amOoYh-9vh7KN-OkckIXHunpzud2BMIpwpANZanjxZf9fg_8w?key=cjV1aS1iRm5ja0NRdnZIMGdFSU5yRDBhdHZvWHRB">
+<img src="/images/Label_Excel_SYF_V6-1024x586.png" style="width:75%"></a>
+
