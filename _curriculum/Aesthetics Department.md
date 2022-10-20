@@ -47,3 +47,6 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 <a href="https://photos.google.com/share/AF1QipOpQgWiiO-3oBuy5amOoYh-9vh7KN-OkckIXHunpzud2BMIpwpANZanjxZf9fg_8w?key=cjV1aS1iRm5ja0NRdnZIMGdFSU5yRDBhdHZvWHRB">
 <img src="/images/Label_Excel_SYF_V6-1024x586.png" style="width:75%"></a>
 
+<a href="https://photos.google.com/share/AF1QipNy-1lyXVjbdHYPByUp6UyYYA97d175sqjZ7DM0p9xI-DKVcSQXhe8TxXMUM7nfJA?key=eGxZR1FOc0lVbU1va2dxYkpvanVaRTd5S2w2QmVR">
+<img src="/images/Label_Excel_Staff_V4-2048x1357.png" style="width:75%"></a>
+
