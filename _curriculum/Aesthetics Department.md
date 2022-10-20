@@ -19,6 +19,8 @@ With Visual Arts, our students are able to observe and understand and make meani
 Performing Arts is an integral part of our society and it helps to enrich students’ social, cultural and historical awareness.
 
 <a href="https://photos.google.com/share/AF1QipOoUHw70dU8W4G0PM-U0cJJU1s6Bp3mXGepDFy75Rn_jtP9mSK-LnAZl2xa0fgRKA?key=aTZfUE9YcGxBXzM2aTRJcFpmdTFEeXoyS2tXN3Z3">
-<img src="/images/Label_PerformingArts_V3-1024x530.png" style="width:75%">
+<img src="/images/Label_PerformingArts_V3-1024x530.png" style="width:75%"></a>
 	
 ### Enjoy, Experience, Excel Approach
+	
+![](/images/3Es-Picture-V2-1024x588.jpg)
