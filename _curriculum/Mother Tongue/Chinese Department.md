@@ -54,3 +54,12 @@ third_nav_title: Mother Tongue
 ![](/images/Zongzi-Picture-1.jpg)
 
 ![](/images/Zongzi-Picture-2.jpg)
+
+<center><b>2022年全国小学华语讲故事比赛<br>
+	2022 National Primary School Chinese Storytelling Competition)</b></center>
+	
+2022年全国小学华语讲故事比赛于7月9日，在崇福嘉庚堂举行。今年的比赛吸引了来自39所学校的74名学生参加，其中还包括了2名居家教育的孩子。虽然疫情尚未结束，但我们在福建会馆及中学华文教师会的支持下还是决定举行实体比赛。阔别两年，许多学生这还是第一次在台上大显身手。因此，对孩子们来说，这是一个非常难得的机会。这场比赛吸引了超过两百名观众到场支持，场面颇为盛大。
+
+![](/images/National_Chinese_Storytelling_Competition_Picture1.jpg)
+
+![](/images/National_Chinese_Storytelling_Competition_Picture2.jpg)
