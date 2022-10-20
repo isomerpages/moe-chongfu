@@ -120,7 +120,7 @@ The anthology captures the different types of poems that students embark on. Be 
     </div>  
 </li>
 <li>
-    <input type="checkbox" id="accordion5">
+    <input type="checkbox" id="accordion7">
 	<label for="accordion1"><b>Achievements</b></label>
     <div>
 			<p><b>17th World Children’s Haiku Contest</b></p>
