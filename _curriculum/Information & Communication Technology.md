@@ -14,7 +14,7 @@ With today’s emphasis on technology, it is imperative that our pupils have a h
 
 1. Introduction to Computer Desktop and Application Software  
 2. Touch-Typing Skills  
-3. AskNLearn Learning Management System (LMS) Orientation  
+3. SLS and Student iCON onboarding
 4. Basic Microsoft Word
 
 ### Primary 2
@@ -27,40 +27,45 @@ With today’s emphasis on technology, it is imperative that our pupils have a h
 1. Introduction to iPad  
 2.  Introduction to Padlet  
 3. Intermediate Microsoft PowerPoint
+4. New Media Literacy Skills (e.g. Fake News detection)  
+5. Isle of Tunes
 
 ### Primary 4
 
-1.  Introduction to Google Docs and Shared Documents  
-2.  Mindmapping skill using Popplet  
-3.  Internet Research Skills  
-4.  Application of ShowMe app for Mathematics
+1. Introduction to Google Docs and Shared Documents  
+2. Introduction to Thinkercad  
+3. Internet Research Skills  
+4. New Media Literacy Skills  
+5. Stopmotion
  
 ### Primary 5
 
-1. Introduction to Scratch  
+1. Introduction to Scratch  
 2. Application of Internet Research Skills in Google Docs
 
 ### Primary 6
 
-1. Using Microsoft Powerpoint to design Christmas Cards for patients in KKH
+1. Code for Fun  
+2. Using Microsoft Powerpoint to design Christmas Cards for patients in KKH
 
-<ul class="jekyllcodex_accordion">  
-  <li>  
-    <input type="checkbox" id="accordion1">  
-		<label for="accordion1"><b>E-learning Days</b></label>  
-    <div>  
-<p>In view of the possible outbreak of a flu pandemic and that schools need to close (after consultation with MOH), MOE and schools are required to ensure that students remain engaged in learning during school closure, particularly through the use of online learning platforms. Hence, as part of our preparation for this online learning, the school conducts regular E-Learning Exercises. <br>
-On the day of the exercises, our pupils were not required to report to school. They were instead doing online learning tasks and assignments from home via Student Learning Space.  <br>
-Families with no PC or internet access at home could access internet at the National Libraries or share PCs with their friends. Through this e-learning exercise, our children were more prepared should there be a need to close the school as our pupils embark on this enriching online learning experience.</p>  
-    </div>  
-</li>
-<li>  
-    <input type="checkbox" id="accordion2">  
-	<label for="accordion2"><b>UNSW ICAS Computer Skills Papers</b></label>  
-    <div>  
-<p>From 2010, the ICAS Computer Skills Paper are offered to all interested P4 to P6 pupils who are keen to undergo an independent assessment of their own computing skills and benchmark it against peers internationally.<br>
-ICAS is administered by Educational Assessment Australia, which is a not-for-profit organisation wholly owned and operated by the University of New South Wales (UNSW).<br>
-For over 20 years ICAS has taken place each year in schools throughout Australia, New Zealand, Singapore, Malaysia, Brunei, the Pacific region and South Africa.</p>  
-    </div>  
+### Program Highlights
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">P1 Touch Typing Techniques</label>
+    <div>
+<img src="/images/TouchTypingLesson_MainPage.jpg" 
+     style="width:70%">
+<img src="/images/TouchTypingLesson_SecondPage.jpg" 
+     style="width:70%">
+<img src="/images/MatDanceTyping_StudentsPic1-2048x1059.png" 
+     style="width:70%">
+<img src="/images/MatDanceTyping_StudentsPic2-2048x1165.png" 
+     style="width:70%">
+    </div>
 </li>
 </ul>
+
+
+
