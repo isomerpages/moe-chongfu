@@ -81,12 +81,21 @@ With today’s emphasis on technology, it is imperative that our pupils have a h
     <input type="checkbox" id="accordion3">
     <label for="accordion3">P4 Tinkercad 3D Modeling</label>
     <div>
-      <p>This is a simple one line item</p>
+<img src="/images/TinkerCad_MainPicture.jpg" 
+     style="width:70%">
+<img src="/images/TinkerCad_StudPic1-2048x949.png" 
+     style="width:70%">
+<img src="/images/TinkerCad_StudPic2-2048x927.png" 
+     style="width:70%">
+<img src="/images/TinkerCad_StudentsSession-1536x882.png" 
+     style="width:70%">
+<img src="/images/TinkerCad_SampleProject_1.jpg" 
+     style="width:70%">
+<img src="/images/TinkerCad_SampleProject_2V2.jpg" 
+     style="width:70%">
     </div>
 </li>
 </ul>
 
-![](/images/TinkerCad_MainPicture.jpg)
-![](/images/TinkerCad_SampleProject_1.jpg)
-![](/images/TinkerCad_SampleProject_2V2.jpg)
-![](/images/TinkerCad_StudentsSession-1536x882.png)
+
+
