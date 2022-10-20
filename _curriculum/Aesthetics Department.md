@@ -20,3 +20,5 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 
 <a href="https://photos.google.com/share/AF1QipOoUHw70dU8W4G0PM-U0cJJU1s6Bp3mXGepDFy75Rn_jtP9mSK-LnAZl2xa0fgRKA?key=aTZfUE9YcGxBXzM2aTRJcFpmdTFEeXoyS2tXN3Z3">
 <img src="/images/Label_PerformingArts_V3-1024x530.png" style="width:75%">
+	
+### Enjoy, Experience, Excel Approach
