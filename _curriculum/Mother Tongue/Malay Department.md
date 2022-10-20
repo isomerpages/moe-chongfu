@@ -1,9 +1,18 @@
 ---
 title: Malay Department
-permalink: /curriculum/Mother-Tongue/malay-department
+permalink: /curriculum/Mother-Tongue/malay-department/
 description: ""
 third_nav_title: Mother Tongue
 ---
+### Mother Tongue Languages (MTL) Reading Programme
+Our MTL Reading Programme aims to build a strong foundation in the Mother Tongue Languages by exposing our students to different genres of writing and fostering a love for reading. A ‘Reading Passport’ is given to each student to track his/ her reading progress through a variety of activities. The passport also guides them to select appropriate books to read and after each term, they will be able to redeem bookmarks as rewards for completing the activities.
+
+During MTL lessons, our students enjoy a myriad of reading activities, which include storytelling, book recommendations, and the making of animal bookmarks and paper puppets etc. Outstanding pieces of work from our students are then selected and showcased at our Media Resource Library.
+
+To further raise awareness of the importance of reading, the MTL Department organised the Bookmark Design & Creativity Competition last year, which received overwhelming participation from our students.
+
+![](/images/MTL-Malay-Picture-A.jpg)
+
 **Malay Language Committee Activities 2013**
 
 1.  **PROGRAMME**
@@ -18,7 +27,7 @@ Varieties of story books of different genres have been bought for Primary 1 to P
 
 ‘Reading Malay story books improve my Malay Language usage.’ – Ahmad Taufiq, 4 Gracious
 
-![](/images/ml1.png)
+![](/images/ML%201.png)
 
 **Proverbs Practice (Peribahasa Pagi)**
 
@@ -29,7 +38,7 @@ Primary 3 and Primary 6 pupils are encouraged to attend this programme every mor
 
 ‘I treat this as challenge so that I will be excused much earlier than my friends.’ – Muhammad Lutfil Hazieq, 6 Loyal
 
-![](/images/ml2.png)
+![](/images/ML%202.png)
 
 **Tracking for Words (Jejak Kata)**
 
@@ -40,7 +49,7 @@ Tracking for Words is a technique to use the Malay dictionary for Primary 3 to P
 
 ‘I am able to search words for meaning or spelling quicker without having to ask for my teacher’s assistance.’ – Nur Elmira, 6 Observant
 
-![](/images/ml3.png)
+![](/images/ML%203.png)
 
 **Mother Tongue Language Fortnight Part 1 (Pesta Bahasa Chongfu)**
 
@@ -51,7 +60,7 @@ Mother Tongue Fortnight Part 1 was conducted in Term 2. Pesta Bahasa Chongfu aim
 
 ‘We had fun advertising our product!’ – Irra Umairah & Nurfaizah, 5 United
 
-![](/images/ml4.png)
+![](/images/ML%204.png)
 
 **Mother Tongue Language Fortnight Part 2 (Pesta Budaya Chongfu)**
 
@@ -62,7 +71,7 @@ Mother Tongue Fortnight Part 2 was conducted in Term 3. Pesta Budaya Chongfu aim
 
 ‘Writing Hari Raya card to my friend was great.’ – Siti Nurriyani, 4 Innovative
 
-![](/images/ml5.png)
+![](/images/ML%205.png)
 
 **Mass Borrowing @ MRL (Pinjam Buku Lambak di Perpustakaan)**
 
@@ -73,7 +82,7 @@ Mass Borrowing @ MRL was organized by the Library Committee. Pinjam Buku Lambak 
 
 ‘I look forward to next year’s mass borrowing programme.’ – Nur Azizie Adrieana, 5 Achieving
 
-![](/images/ml6.png)
+![](/images/ML%206.png)
 
 **Learning Using ICT (Pembelajaran Canggih)**
 
@@ -84,7 +93,7 @@ Learning Using ICT attracts pupils to learn the Malay Language in a fun interact
 
 ‘My friends contributed ideas by typing them via Padlet.’ – Muhammad Ilhan, 3 Achieving
 
-![](/images/ml7.png)
+![](/images/ML%207.png)
 
 **Malay Cultural Camp (Pesta Budaya Chongfu)**
 
@@ -95,9 +104,9 @@ The Malay Cultural Camp was organised for Primary 3 to Primary 6 Malay Language 
 
 ‘Kompang was my favourite instrument.’ – Nurin Qistina, 3 Innovative
 
-![](/images/ml8.png)
+![](/images/ML%208.png)
 
-2. **SHARING**
+**2\. SHARING**
 
 **N2 Cluster PLT Sharing of Best Practices in ML Teaching & Learning (Primary) (Sesi Perkongsian Kelompok Utara 2)**
 
@@ -108,7 +117,7 @@ Chongfu School was given the opportunity to host the N2 Cluster PLT Sharing of B
 
 ‘Other schools commended on our sharing on P6 Oral Conversation technique.’ – Cikgu Nor Adilah
 
-![](/images/ml9.png)
+![](/images/ML%209.png)
 
 **Malay Language Seminar (Seminar Bahasa Melayu)**
 
@@ -119,9 +128,9 @@ Chongfu School was invited by the Malay Language Centre of Singapore (MLCS) to d
 
 ‘Several Malay Language teachers, including Senior Teachers from other schools gave positive reviews about our unique strategy.’ – Cikgu Nor Adilah
 
-![](/images/ml10.png)
+![](/images/ML%2010.png)
 
-3. **COMPETITIONS**
+**3\. COMPETITIONS**
 
 **National Poetry Recitation (Pesta Syair)**
 
@@ -132,16 +141,15 @@ Comments from participants:
 
 ‘I’ll train harder for next year’s competition.’ – Uzma Humaira, 4 Gracious
 
-![](/images/ml11.png)
+![](/images/ML%2011.png)
 
-**Northern Malay Language Fiesta (Pesta Bahasa Utara)**
+Northern Malay Language Fiesta (Pesta Bahasa Utara)
 
 Participants from Primary 1 to Primary 6 took part in the Northern Malay Language Fiesta 2014, organized by North 2 (N2) Cluster PLT (ML) Primary School, Co-chaired by Cikgu Mohamed Hizammuddin. Pesta Bahasa Utara aims to provide a platform for primary school pupils to showcase their talent in Malay literature for children.
 
 **Comments from participants:**  
-
 ‘My P2 friends and I won the Cerita Rakyat category!’ – Asheefa Anees Hameed, 2 Respectful.
 
 ‘I’ll put in more effort so that I can be the champion next year!’ – Muhammad Kabir, 5 United
 
-![](/images/ml12.png)
+![](/images/ML%2012.png)
