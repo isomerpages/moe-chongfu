@@ -11,8 +11,7 @@ Our students are diverse, with different needs, interests and aptitudes for Scie
     take responsible actions in their daily lives; and  
 2.  **provide** strong Science fundamentals for students to innovate and pursue STEM for their future learning and work.
 
-<img src="/images/Science_Pic_1-2048x1793.png" 
-     style="width:75%">
+![](/images/Science_Pic_1-2048x1793.png)
 		 
 
 ### BSCS 5E Instructional Model and Inquiry-Based Learning**
