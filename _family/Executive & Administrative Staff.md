@@ -22,11 +22,6 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lm9i">Mr Oh Chee Beng</td>
-    <td class="tg-lm9i">Operations Manager (OM)</td>
-    <td class="tg-zrb3"><a href="mailto:oh_chee_beng@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">oh_chee_beng@moe.edu.sg</span></a><br>ext: 153</td>
-  </tr>
-  <tr>
     <td class="tg-lm9i">Mdm Mardiana Bte Omar<br></td>
     <td class="tg-lm9i">Administration Executive (AE)</td>
     <td class="tg-zrb3"><a href="mailto:mardiana_omar@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">mardiana_omar@moe.edu.sg</span></a><br><br>ext: 105</td>
@@ -112,7 +107,12 @@ description: ""
     <td class="tg-zrb3"><a href="mailto:yakub.hussain.mohamed.elias@ncs.com.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">yakub.hussain.mohamed.elias@ncs.com.sg</span></a><br><br>ext: 126</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Ms Nur Andini Shahirah Binte Irwan</td>
+    <td class="tg-lm9i">Mr Ravinder Supparamaiam</td>
+    <td class="tg-lm9i">Desktop Engineer (DE)</td>
+    <td class="tg-zrb3"><a href="mailto:yakub.hussain.mohamed.elias@ncs.com.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ravinder.supparamaiam@ncs.com.sg</span></a><br><br>ext: 126</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Ms Natasha Norhazman</td>
     <td class="tg-lm9i">Librarian</td>
     <td class="tg-lm9i">ext: 151</td>
   </tr>
