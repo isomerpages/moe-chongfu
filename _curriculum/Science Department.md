@@ -13,6 +13,7 @@ Our students are diverse, with different needs, interests and aptitudes for Scie
 
 <img src="/images/Science_Pic_1-2048x1793.png" 
      style="width:75%">
+		 
 
 ### BSCS 5E Instructional Model and Inquiry-Based Learning**
 
@@ -23,3 +24,9 @@ We use the **BSCS 5E Instructional Model** for the teaching and learning of Sc
 In the use of these approaches to design Science lessons, we seek to inculcate in students a **sense of curiosity and wonderment** about the things around them. We strive to provide opportunities for them to **relate scientific concepts to real-life phenomena** and to encourage them to **ask questions about the world around them.** With these, the learning of Science will then become more meaningful and joyful.
 
 We hope that our students would be **inspired by Science,** and have opportunities to **inquire like Scientists** such that they will be empowered to **innovate using Science** to solve problems of the future.
+
+<img src="/images/Science_Pic_2.jpg" 
+     style="width:80%">
+		 
+<img src="/images/Science_Pic_3.jpg" 
+     style="width:80%">
