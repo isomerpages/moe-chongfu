@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/Brownies.md
       - Uniformed Groups/Red Cross.md
