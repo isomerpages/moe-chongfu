@@ -14,3 +14,6 @@ Mdm Kuek Hwee San <br>
 Ms Zelda Mak Teng Fong <br>
 Ms Shang Lingru <br>
 Ms Beh Audrey
+
+![](/images/mcd%201.png)
+![](/images/mcd%202.png)
