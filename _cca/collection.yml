@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/Brownies.md
       - Uniformed Groups/.keep
