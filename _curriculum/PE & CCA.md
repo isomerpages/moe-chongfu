@@ -284,3 +284,15 @@ When designing the school’s PE department programme, the PE and CCA department
 
 ### Uniformed Groups
 
+<a href="https://moe-chongfu-staging.netlify.app/cca-brownies/">
+<img src="/images/Brownies-Main-Picture.jpg" style="width:50%">
+</a>
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-red-cross/">
+<img src="/images/Red-Cross-Title-Image-225x300.jpg" style="width:50%">
+</a>
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-cub-scouts/">
+<img src="/images/CubScouts_TitleImage.jpg" style="width:50%">
+</a>
+
