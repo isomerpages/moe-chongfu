@@ -40,3 +40,9 @@ third_nav_title: For Parents
 * [P5 BiCEP Online Immersion](/files/MOECFSLTP_2022_0061_P5BiCEP_online-Immersion_Li-XS.pdf)
 * [P6 Camp iNspire 2022](/files/MOECFSLTP_2022_0062_P6-Camp-iNspire-2022.pdf)
 * [P6 Supplementary lessons during June holidays 2022](/files/MOECFSLTP_2022_0065_P6-June-Supp-Class_Filicia.pdf)
+
+### June 2022
+
+* [Term 3 Letter to Parents](/files/MOECFSLTP_2022_0069_Term-3-Letter-to-Parents-1.pdf)
+* [Purchase of Festive Drums Jersey](/files/MOECFSLTP_2022_0067_Purchase-of-Festive-Drums-Jersey-1.pdf)
+* [P6 Prelim Oral Examination 2022](/files/MOECFSLTP_2022_0070_P6-Prelim-Oral_Goh-SP.pdf)
