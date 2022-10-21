@@ -46,3 +46,11 @@ third_nav_title: For Parents
 * [Term 3 Letter to Parents](/files/MOECFSLTP_2022_0069_Term-3-Letter-to-Parents-1.pdf)
 * [Purchase of Festive Drums Jersey](/files/MOECFSLTP_2022_0067_Purchase-of-Festive-Drums-Jersey-1.pdf)
 * [P6 Prelim Oral Examination 2022](/files/MOECFSLTP_2022_0070_P6-Prelim-Oral_Goh-SP.pdf)
+
+### July 2022
+
+### August 2022
+
+* [National Day Celebration 2022](/files/National-Day-Celebration-2022.pdf)
+* [P5 Camp iNspire](/files/MOECFSLTP_2022_0082_P5-Camp-iNspire.pdf)
+* [P6 Prelim Written Examination 2022](/files/MOECFSLTP_2022_0083_P6-Prelim_Written_final.pdf)
