@@ -298,3 +298,30 @@ When designing the school’s PE department programme, the PE and CCA department
 <img src="/images/CubScouts_TitleImage.jpg" style="width:50%">
 </a>
 <p><center><a href="https://moe-chongfu-staging.netlify.app/cca-cub-scouts/">Scouts</a></center></p>
+
+### Performing Arts
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-guzheng-ensemble/">
+<img src="/images/Guzheng_TitleImage-1.jpg" style="width:50%">
+</a>
+<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-guzheng-ensemble/">Guzheng Ensemble</a></center></p>
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-festive-drums/">
+<img src="/images/FestiveDrums_TitleImage-768x432.jpg" style="width:50%">
+</a>
+<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-festive-drums/">Festive Drums</a></center></p>
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-chinese-orchestra/">
+<img src="/images/Chinese-Orchestra-Main-Picture-768x429.jpg" style="width:50%">
+</a>
+<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-chinese-orchestra/">Chinese Orchestra</a></center></p>
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-modern-contemporary-dance/">
+<img src="/images/Contemporary-Dance-Main-Picture-768x646.jpg" style="width:50%">
+</a>
+<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-modern-contemporary-dance/">Modern Contemporary Dance</a></center></p>
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-malay-dance/">
+<img src="/images/P6-2022-768x576.jpg" style="width:50%">
+</a>
+<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-malay-dance/">Malay Dance</a></center></p>
