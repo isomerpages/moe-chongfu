@@ -53,3 +53,14 @@ description: ""
 
 * [UNSW Global Competition](https://unswglobal.janisoninsights.com/auth/login/?returnUrl=%2F)
 
+<a href="https://workspace.google.com/dashboard">
+<img src="/images/Google-logos-768x427.jpg" style="width:50%">
+</a>
+
+* [Student Google iCON](https://workspace.google.com/dashboard)
+
+<a href="https://contests.heymath.com/RI22">
+<img src="/images/HEYMATH.png" style="width:50%">
+</a>
+
+* [HeyMath! Contests](https://contests.heymath.com/RI22)
