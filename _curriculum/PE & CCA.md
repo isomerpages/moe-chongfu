@@ -325,3 +325,33 @@ When designing the school’s PE department programme, the PE and CCA department
 <img src="/images/P6-2022-768x576.jpg" style="width:50%">
 </a>
 <p><center><a href="https://moe-chongfu-staging.netlify.app/cca-malay-dance/">Malay Dance</a></center></p>
+
+### Clubs & Society
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-english-club/">
+<img src="/images/EnglishClub_TitlePicture-300x225.jpg" style="width:50%">
+</a>
+<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-english-club/">English Club</a></center></p>
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-chinese-club/">
+<img src="/images/ChineseClub_TitlePicture-768x384.jpg" style="width:50%">
+</a>
+<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-chinese-club/">Chinese Club</a></center></p>
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-ict-club/">
+<img src="/images/ICT_Club_TitlePicture-1.jpg" style="width:50%">
+</a>
+<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-ict-club/">ICT Club</a></center></p>
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-arts-club/">
+<img src="/images/ArtClub_Picture1-1.jpg" style="width:50%">
+</a>
+<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-arts-club/">Art Club</a></center></p>
+
+<a href="https://moe-chongfu-staging.netlify.app/cca-environmental-club/">
+<img src="/images/EnvironmentalClub_TitlePicture.jpg" style="width:50%">
+</a>
+<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-environmental-club/">Environmental Club</a></center></p>
+
+
+### Sports & Games
