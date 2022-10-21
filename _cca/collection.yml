@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports & Games/Wushu.md
       - Sports & Games/Athletics Club.md
       - Sports & Games/.keep
       - Clubs and Society/.keep
