@@ -27,3 +27,16 @@ third_nav_title: For Parents
 * [Confirmation as School Prefects 2022](/files/MOECFSLTP_2022_0047_Confirmation-as-School-Prefects-2022_Nacha.pdf)
 * [P4 and P6 Mid Year Examination 2022](/files/MOECFSLTP_2022_0052_P4P6-MYE-Schedule-LC-Written.pdf)
 * [BICEP Chinese Painting 2022](/files/MOECFSLTP_2022_0053_BiCEP_ChinesePainting_Li-XS.pdf)
+
+### May 2022
+
+* [School Health Screening and Immunisation 2022](/files/MOECFSLTP_2022_0055_P1-to-P6-School-Health-Screening_Kat-Khor.pdf)
+* [Meet the Parents Session 2022](/files/MOECFSLTP_2022_0056_MTP_Filicia.pdf)
+* [P1 and P5 Health Booklet Collection](/files/MOECFSLTP_2022_0056_P1-and-P5-Health-Booklet-Collection_Kat-Khor.pdf)
+* [P5 Swim Safer Program](/files/MOECFSLTP_2022_0057_P5SwimSafe_Programme.pdf)
+* [Post PSLE Activity - P6 Swim Safer Program](/files/MOECFSLTP_2022_0058_P6Post-PSLE_Activity_SwimSafer_Programme.pdf)
+* [P3 Camp iNspire 2022](/files/MOECFSLTP_2022_0060_P4_Camp_iNspire2022.pdf)
+* [P4 Camp iNspire 2022](/files/MOECFSLTP_2022_0060_P4_Camp_iNspire2022.pdf)
+* [P5 BiCEP Online Immersion](/files/MOECFSLTP_2022_0061_P5BiCEP_online-Immersion_Li-XS.pdf)
+* [P6 Camp iNspire 2022](/files/MOECFSLTP_2022_0062_P6-Camp-iNspire-2022.pdf)
+* [P6 Supplementary lessons during June holidays 2022](/files/MOECFSLTP_2022_0065_P6-June-Supp-Class_Filicia.pdf)
