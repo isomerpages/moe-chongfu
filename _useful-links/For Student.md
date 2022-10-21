@@ -64,3 +64,9 @@ description: ""
 </a>
 
 * [HeyMath! Contests](https://contests.heymath.com/RI22)
+
+<a href="https://mathigon.org/polypad">
+<img src="/images/Mathigon-300x300.png" style="width:50%">
+</a>
+
+* [Mathigon (Math ICT Lessons)](https://mathigon.org/polypad)
