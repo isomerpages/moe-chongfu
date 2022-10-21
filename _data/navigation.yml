@@ -12,3 +12,5 @@ links:
     collection: partners
   - title: News
     resource_room: true
+  - title: CCA
+    collection: cca
