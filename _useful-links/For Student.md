@@ -34,3 +34,9 @@ description: ""
 </a>
 
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+
+<a href="https://www.csa.gov.sg/Programmes/sg-cyber-safe-students/about-sg-cyber-safe-students">
+<img src="/images/ICT-CONNECTION-1-300x179.png" style="width:50%">
+</a>
+
+* [Navigate Safely in Cyberspace](https://www.csa.gov.sg/Programmes/sg-cyber-safe-students/about-sg-cyber-safe-students)
