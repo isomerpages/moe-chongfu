@@ -6,11 +6,11 @@ links:
     collection: family
   - title: Curriculum
     collection: curriculum
+  - title: CCA
+    collection: cca
   - title: Achievements
     collection: achievements
   - title: Partners
     collection: partners
   - title: News
     resource_room: true
-  - title: CCA
-    collection: cca
