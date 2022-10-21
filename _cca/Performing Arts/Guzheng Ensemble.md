@@ -29,5 +29,3 @@ Opportunities such as promoting and marketing the CCA to the P2s during CCA Open
 <img src="/images/Guzheng.png">
 <figcaption> <strong>Combined and Sectional Practice Sessions</strong> </figcaption>
 </figure>
-
-
