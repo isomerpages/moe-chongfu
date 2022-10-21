@@ -70,3 +70,9 @@ description: ""
 </a>
 
 * [Mathigon (Math ICT Lessons)](https://mathigon.org/polypad)
+
+<a href="https://apps.mathlearningcenter.org/pattern-shapes/">
+<img src="/images/Math-Learning-Center.png" style="width:50%">
+</a>
+
+* [Math Learning Center](https://apps.mathlearningcenter.org/pattern-shapes/)
