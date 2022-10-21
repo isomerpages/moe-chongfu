@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/Malay Dance.md
       - Performing Arts/Modern Contemporary Dance.md
       - Performing Arts/Chinese Orchestra.md
       - Performing Arts/Festive Drums.md
