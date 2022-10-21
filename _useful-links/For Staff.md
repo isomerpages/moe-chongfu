@@ -60,3 +60,33 @@ description: ""
 </a>
 
 *   [iExam](https://www.seab.gov.sg/)
+
+<a href="https://schoolcockpit.moe.gov.sg/">
+<img src="/images/school-cockpit.jpg" style="width:50%">
+</a>
+
+*   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
+
+<a href="https://pg.moe.edu.sg/">
+<img src="/images/Parents-Gateway-V2-768x307.png" style="width:50%">
+</a>
+
+*   [Parents Gateway](https://pg.moe.edu.sg/)
+
+<a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx">
+<img src="/images/MOE-HR-Online-V2.jpg" style="width:50%">
+</a>
+
+*   [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
+
+<a href="https://www.hrp.gov.sg/">
+<img src="/images/HRP.jpg" style="width:50%">
+</a>
+
+*   [HRP](https://www.hrp.gov.sg/)
+
+<a href="https://academyofsingaporeteachers.moe.edu.sg/">
+<img src="/images/Singapore-Teachers-Academy.jpg" style="width:50%">
+</a>
+
+*   [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
