@@ -46,3 +46,10 @@ description: ""
 </a>
 
 * [Primary - MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+
+<a href="https://unswglobal.janisoninsights.com/auth/login/?returnUrl=%2F">
+<img src="/images/UNSW-GLOBAL.png" style="width:50%">
+</a>
+
+* [UNSW Global Competition](https://unswglobal.janisoninsights.com/auth/login/?returnUrl=%2F)
+
