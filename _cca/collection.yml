@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Society/.keep
       - Performing Arts/.keep
       - Performing Arts/Guzheng Ensemble.md
       - Performing Arts/Festive Drums.md
