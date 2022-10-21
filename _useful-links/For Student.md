@@ -40,3 +40,9 @@ description: ""
 </a>
 
 * [Navigate Safely in Cyberspace](https://www.csa.gov.sg/Programmes/sg-cyber-safe-students/about-sg-cyber-safe-students)
+
+<a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">
+<img src="/images/MYSKILLFUTURE.png" style="width:50%">
+</a>
+
+* [Primary - MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
