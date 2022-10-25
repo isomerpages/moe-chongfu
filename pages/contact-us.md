@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 7.00am - 6.00pm
         description: ""
-    maps_link: ""
+    maps_link: https://goo.gl/maps/xsJfq1PfKFvkmA9Q6
     title: General Office
 contacts:
   - content:
