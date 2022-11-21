@@ -1,6 +1,6 @@
 ---
 title: History
-permalink: /heritage/history
+permalink: /heritage/history/
 description: ""
 ---
 <img src="/images/Pic_Chongfu.jpeg" 

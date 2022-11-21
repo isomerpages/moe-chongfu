@@ -1,6 +1,6 @@
 ---
 title: School Crest
-permalink: /heritage/school-crest
+permalink: /heritage/school-crest/
 description: ""
 ---
 <img src="/images/school-logo.jpeg" 

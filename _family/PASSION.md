@@ -1,6 +1,6 @@
 ---
 title: PASSION
-permalink: /family/passion
+permalink: /family/passion/
 description: ""
 ---
 

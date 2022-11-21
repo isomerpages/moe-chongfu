@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /heritage/school-song
+permalink: /heritage/school-song/
 description: ""
 ---
 <img src="/images/pic_schoolsong.jpeg" 

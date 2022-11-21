@@ -1,6 +1,6 @@
 ---
 title: School Flag
-permalink: /heritage/school-flag
+permalink: /heritage/school-flag/
 description: ""
 ---
 <img src="/images/pic_schoolflag.jpeg" 

@@ -1,6 +1,6 @@
 ---
 title: Internationalisation
-permalink: /curriculum/internationalisation
+permalink: /curriculum/internationalisation/
 description: ""
 ---
 As part of our Character Development and Enrichment programme to prepare our children for the challenges of a globalised world, the school organizes various educational and cultural overseas learning journeys with the following objectives:
