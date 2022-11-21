@@ -1,6 +1,6 @@
 ---
 title: FAQ for P1 Registration
-permalink: /partners/faq-for-p1-registration
+permalink: /partners/faq-for-p1-registration/
 description: ""
 ---
 Please refer to the link below for full details on the registration exercise: [Ministry of Education website](https://www.moe.gov.sg/education/admissions/primary-one-registration/)  

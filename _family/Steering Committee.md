@@ -1,6 +1,6 @@
 ---
 title: Steering Committee
-permalink: /family/steering-committee
+permalink: /family/steering-committee/
 description: ""
 ---
 <img src="/images/mdm-foo-mui-chuw-3-768x1024.jpeg" 

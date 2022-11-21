@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space (SLS)
-permalink: /curriculum/student-learning-space-sls
+permalink: /curriculum/student-learning-space-sls/
 description: ""
 ---
 **Student Learning Space (SLS) Support**

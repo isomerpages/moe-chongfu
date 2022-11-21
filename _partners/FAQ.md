@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /partners/FAQ
+permalink: /partners/FAQ/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">  
