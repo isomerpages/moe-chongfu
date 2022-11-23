@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-chongfu-staging.netlify.app
-prod: https://moe-chongfu-prod.netlify.app
+staging: https://staging.dfcdms4506gic.amplifyapp.com
+prod: https://master.dfcdms4506gic.amplifyapp.com
 resources_name: news
 shareicon: /images/school logo 1.jpeg
 is_government: false
