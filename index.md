@@ -19,9 +19,7 @@ sections:
           description: Click here for useful links
           url: /links-for-parents/
   - infobar:
-      title: Booklists 2023
-      subtitle: P1 to P6
-      description: Click on the link below for details
+      title: News & Updates
       button: Click here
       url: /news
 ---
