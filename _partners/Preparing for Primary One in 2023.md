@@ -3,56 +3,46 @@ title: Preparing for Primary One in 2023
 permalink: /links-for-parents/preparing-for-p1-in-2022/
 description: ""
 ---
-
 **Preparing for Primary One in 2023**
 
-<strong><u>Information for Parents</strong></u>
-
-* [Parent's Handbook](/files/2021-P1-Orientation-Information-for-Parents-1.pdf)
-*  P1 Orientation file > 5MB, unable to upload
-
-
-<strong><u>GIRO and Enrichment Programme Standing Order (EPSO) for Edusave Account</strong></u>
+<strong><u>GIRO and Enrichment Programme Standing Order (EPSO) for Edusave Account</u></strong>
 
 *   [Information on GIRO Scheme](https://www.moe.gov.sg/financial-matters/fees?toggle-id=giro)
-*   [Application for GIRO Scheme (for DBS/POSB and OCBC account holders)](https://www.form.gov.sg/#!/5d95490c7f5cfb0013133875)
-* [Application for GIRO Scheme* (for other bank account holders)](/files/giro_application_form_oct_2021.pdf)
+* [GIRO Application Form](https://chongfu.moe.edu.sg/wp-content/uploads/2022/10/GIRO-Application-Form-1.pdf)
 *   [Information on Edusave Account](https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds?toggle-id=moe-funded-schools)
-*   [Application for EPSO](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59)
+*   [Application for EPSO](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
 
- _*Please submit the original signed form to the school’s General Office upon completion by **19 November 2021**_
+ _*Please submit the original signed form to the school’s General Office upon completion by **24 November 2022**_
  
- **Declaration on Medical Conditions/ Special Educational Needs**
- * Declaration form (Link not found)
+ **<u>Declaration on Medical Conditions/ Special Educational Needs</u>**
+ * [Declaration Form](https://form.gov.sg/6350c016e765ca0012187d07)
 
 
-**Financial Assistance Scheme (FAS)**
+**<u>Financial Assistance Scheme (FAS)</u>**
 
-* [MOE_FAS_Pamphlet](/files/MOE_FAS_Pamphlet_2022.pdf)
-* [MOE FAS Application Form](/files/MOE-FAS-application-form.pdf)
-_Please submit the completed application form and supporting documents by **15 November 2021**_
+* [MOE FAS Pamphlet#](https://chongfu.moe.edu.sg/wp-content/uploads/2021/10/MOE_FAS_Pamphlet_2022.pdf)
+* [MOE FAS Application Form](https://form.gov.sg/632432ba67747a0011d4a0cc)
+<br><small>#The income eligibility criteria for MOE FAS will be revised from 1 Jan 2023, please click [here](https://www.moe.gov.sg/news/press-releases/20221014-more-than-10000-students-to-benefit-from-revised-income-criteria-for-moe-financial-assistance-schemes-and-increased-ite-bursary-quanta) for more information.</small>
 
-**School Essential Supplies - Textbooks & Stationeries**
+**<u>School Essential Supplies - Textbooks & Stationeries</u>**
 
-* [P1 Booklist](/files/CFS-2022-P1-Booklist.pdf)
-* [Sales Dates for Textbooks & Stationery](/files/Selling-Dates.pdf)
+* [P1 Booklist](https://chongfu.moe.edu.sg/wp-content/uploads/2022/10/Primary-1-Booklist.pdf)
+* [Online Purchase](https://www.pacificbookstores.com/public/)
 
-**School Essential Supplies - Uniform**
-* [CFS Uniform Selling Dates](/files/CFS-Uniform-Selling-Dates-1-converted.pdf)
-* *   [Online Purchase/Appointment link for Walk-in Purchases](https://euniforms.com.sg/shop/primary-1-orientation/chongfu-school-2022-primary-1/)
+**<u>School Essential Supplies - Uniform</u>**
+* [CFS Uniform Selling Dates](https://chongfu.moe.edu.sg/wp-content/uploads/2022/10/Uniform_2022-Sales-Date.pdf)
+* [Online Purchase](https://www.euniforms.com.sg/shop/product-category/primary-schools/cfps/)
 
-**Application for Bus Transport**
-*   [School Bus Registration](http://www.tongtar.com/) (Please register by 30 November 2021)
+**<u>Application for Bus Transport</u>**
+*   [School Bus Resistration](https://www.tongtar.com) (Please register by 30 November 2022)
 *   Contact: 6261 5537 / 9773 0426 (Whatsapp or SMS)
 *   Email: chongfu@tongtar.com
 
-**Student Care Service**
-*   [Student Care Registration](https://forms.office.com/pages/responsepage.aspx?id=qZfrxe8FzUqIHrfB8FGIi2mCRfWRZLdHtdyGfbkB6UtUNk9JT0pZUDBZQUhORUpPRTNORDNLTk5OTC4u)
+**<u>Student Care Service</u>**
+*  [Student Care Registration](https://chongfu.moe.edu.sg/wp-content/uploads/2022/10/Student-Care-Registration.pdf)
 
-**Parent Support Group (PASSION) and Alumni Classes**
+**<u>Parent Support Group (PASSION) and Alumni Classes</u>**
 
-*   [Passion Application Form\_FormSG](https://go.gov.sg/5dtkyp)
+*   [Passion Application Form_FormSG](https://form.gov.sg/63479c95c42bfe00128d68be)
 *   [The Dads@Chongfu Video](http://shorturl.at/cwF14)
 *   [Parent Support Group (PASSION) Video](https://tinyurl.com/y6rhd9vy)
-*   [Chongfu Alumni - Notification to Parents](/files/Notification-to-Parents.pdf)
-*   [Chongfu Alumni Classes Information](/files/CFS_P1_Alumni_Classes_2022.pdf)
