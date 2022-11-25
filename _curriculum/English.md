@@ -202,4 +202,26 @@ The anthology captures the different types of poems that students embark on. Be 
 <p><a href="https://www.flipsnack.com/p4chongfuanthology2021/p6-anthology-2021-1magisitk5.html">P6 Chongfu Anthology 2021</a></p>
     </div>  
 </li>
+	<li>  
+    <input type="checkbox" id="accordion8">  
+	<label for="accordion8"><b>Chongfu Anthology 2022</b></label>  
+		 <div>
+		<p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.
+
+<p>This year, the anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.
+	
+<p>Here are the links to the flipbook copies:
+<br>
+	<a href="">P1 - Chongfu Anthology 2022 P1</a>	
+<br>
+	<a href="">P2 - Chongfu Anthology 2022 P2</a>	<br>
+	<a href="">P3 - Chongfu Anthology 2022 P3</a>	
+<br>
+	<a href="">P4 - Chongfu Anthology 2022 P4</a>	
+<br>
+	<a href="">P5 - Chongfu Anthology 2022 P5</a>	
+<br>
+	<a href="">P6 - Chongfu Anthology 2022 P6</a>	
+		</div>  
+</li>
 </ul>
