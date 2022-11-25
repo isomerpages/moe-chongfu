@@ -212,10 +212,10 @@ The anthology captures the different types of poems that students embark on. Be 
 	
 <p>Here are the links to the flipbook copies:
 <br>
-	<a href="">P1 - Chongfu Anthology 2022 P1</a>	
+	<a href="https://heyzine.com/flip-book/e8705d2c8f.html">P1 - Chongfu Anthology 2022 P1</a>	
 <br>
-	<a href="">P2 - Chongfu Anthology 2022 P2</a>	<br>
-	<a href="">P3 - Chongfu Anthology 2022 P3</a>	
+	<a href="https://heyzine.com/flip-book/f24a2303d5.html">P2 - Chongfu Anthology 2022 P2</a>	<br>
+	<a href="https://heyzine.com/flip-book/70fa0c9b05.html">P3 - Chongfu Anthology 2022 P3</a>	
 <br>
 	<a href="">P4 - Chongfu Anthology 2022 P4</a>	
 <br>
