@@ -84,44 +84,9 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 <p>To inculcate in pupils the love and passion for the learning and appreciation of the English Language through literature and arts, P1-P6 students will have the opportunity to attend plays appropriate to their respective age groups. Through such exposure, students will get to experience creative expression of language arts.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
-<li>  
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion5" type="checkbox">  
-	<label for="accordion5"><b>Chongfu Anthology 2020</b></label>  
-<div>  
-<p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.
-
-The anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.</p>
-<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=unqza2e95e">P1 Poems</a></p>
-<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tn5r80sk9s">P2 Poems</a></p>
-<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=h9q1q423f2">P3 Poems and Haikus</a></p>
-<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=xn0x0wym8y">P4 Poems and Haikus</a></p>
-<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=7xuqc9nvxn">P5 Poems and Haikus</a></p>
-<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=1c96mf5tk5">P6 Poems and Haikus</a></p>
-  
-</div>  
-</li>
-<li>  
-    <input type="checkbox" id="accordion6">  
-	<label for="accordion6"><b>Chongfu Anthology 2021</b></label>  
-    <div>  
-<p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.</p>
- 
-
-<p>This year, the anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.</p>
- 
-
-<p>Here are the links to the flipbook copies:</p>  
-<p><a href="https://www.flipsnack.com/p1chongfuanthology2021/p1-anthology-2021-v7t5v1vqwd.html">P1 Chongfu Anthology 2021</a></p>
-<p><a href="https://www.flipsnack.com/p1chongfuanthology2021/p2-anthology-2021-d1klzuz2gx.html">P2 Chongfu Anthology 2021</a></p>
-<p><a href="https://www.flipsnack.com/p1chongfuanthology2021/p3-anthology-2021-dh32kmkrzp.html">P3 Chongfu Anthology 2021</a></p>
-<p><a href="https://www.flipsnack.com/p4chongfuanthology2021/p4-anthology-2021-dxciv1vqwd.html">P4 Chongfu Anthology 2021</a></p>
-<p><a href="https://www.flipsnack.com/p4chongfuanthology2021/p5-anthology-2021-h956j5j7t9.html">P5 Chongfu Anthology 2021</a></p>
-<p><a href="https://www.flipsnack.com/p4chongfuanthology2021/p6-anthology-2021-1magisitk5.html">P6 Chongfu Anthology 2021</a></p>
-    </div>  
-</li>
 <li>
-    <input type="checkbox" id="accordion7">
-	<label for="accordion7"><b>Achievements</b></label>
+    <input type="checkbox" id="accordion5">
+	<label for="accordion5"><b>Achievements</b></label>
     <div>
 			<p><b>17th World Children’s Haiku Contest</b></p>
 <img src="/images/EnglishDept_PictureUpdate_1.jpg" 
@@ -202,4 +167,39 @@ The anthology captures the different types of poems that students embark on. Be 
      style="width:70%">
     </div>
 	</li>
+<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion6" type="checkbox">  
+	<label for="accordion6"><b>Chongfu Anthology 2020</b></label>  
+<div>  
+<p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.
+
+The anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.</p>
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=unqza2e95e">P1 Poems</a></p>
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tn5r80sk9s">P2 Poems</a></p>
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=h9q1q423f2">P3 Poems and Haikus</a></p>
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=xn0x0wym8y">P4 Poems and Haikus</a></p>
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=7xuqc9nvxn">P5 Poems and Haikus</a></p>
+<p><a href="https://cdn.flipsnack.com/widget/v2/widget.html?hash=1c96mf5tk5">P6 Poems and Haikus</a></p>
+  
+</div>  
+</li>
+<li>  
+    <input type="checkbox" id="accordion7">  
+	<label for="accordion7"><b>Chongfu Anthology 2021</b></label>  
+    <div>  
+<p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.</p>
+ 
+
+<p>This year, the anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.</p>
+ 
+
+<p>Here are the links to the flipbook copies:</p>  
+<p><a href="https://www.flipsnack.com/p1chongfuanthology2021/p1-anthology-2021-v7t5v1vqwd.html">P1 Chongfu Anthology 2021</a></p>
+<p><a href="https://www.flipsnack.com/p1chongfuanthology2021/p2-anthology-2021-d1klzuz2gx.html">P2 Chongfu Anthology 2021</a></p>
+<p><a href="https://www.flipsnack.com/p1chongfuanthology2021/p3-anthology-2021-dh32kmkrzp.html">P3 Chongfu Anthology 2021</a></p>
+<p><a href="https://www.flipsnack.com/p4chongfuanthology2021/p4-anthology-2021-dxciv1vqwd.html">P4 Chongfu Anthology 2021</a></p>
+<p><a href="https://www.flipsnack.com/p4chongfuanthology2021/p5-anthology-2021-h956j5j7t9.html">P5 Chongfu Anthology 2021</a></p>
+<p><a href="https://www.flipsnack.com/p4chongfuanthology2021/p6-anthology-2021-1magisitk5.html">P6 Chongfu Anthology 2021</a></p>
+    </div>  
+</li>
 </ul>
