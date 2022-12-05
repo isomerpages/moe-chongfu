@@ -16,9 +16,8 @@ third_nav_title: For Parents
 
 * [Instructions and FAQs for Student Learning Space](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)
 
-* P1 Parents' Dialogue 25Feb2022 - Webinar Presentation Slides **File size more than 5MB**
+* [P1 Parents' Dialogue on 25Feb2022 - Webinar Presentation Slides](/files/P1_ParentsDialogue_Webinar_25Feb2022)
 
 * [P2 Parents' Engagement Session 9March2022 - Presentation Slides](/files/P2-Parents-Engagement-Session-9-March-2022.pdf)
 
 * [P5 and P6 Parents' Engagement Session 1April2022 - Presentation Slides](/files/P5-P6-Parent-Engagement-Session-1April2022.pdf)
-
