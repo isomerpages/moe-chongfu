@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Chong Fu School
-      background: /images/hero banner.gif
+      background: /images/herobanner.gif
       button: Contact Us
       url: /contact-us
       key_highlights:
