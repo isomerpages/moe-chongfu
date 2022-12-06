@@ -1,0 +1,203 @@
+---
+title: Character & Citizenship Education
+permalink: /curriculum/character-citizenship-education/
+description: ""
+---
+### Introduction
+
+The school’s Character and Citizenship Education programmes aim to equip our students with socio-emotional competencies and skills to exercise responsible citizenship so as to become gracious, persevering, confident and resilient leaders of tomorrow.
+
+Anchored on the CCE Framework are our core values GRACIOUSLY, which are interconnected with Social and Emotional Learning (SEL). The values are unpacked as follows:
+
+**优雅 Gracious**  
+\-to be polite, kind, pleasant and generous  
+**恭敬 Respectful**  
+\-to believe in one’s own self-worth and the intrinsic worth of other people  
+**成就 Achieving**  
+\-to accomplish one’s purpose, attain his goal and to succeed  
+**关怀 Caring**  
+\-to act with kindness and compassion and contributes to the betterment of the community and the world  
+**革新 Innovative**  
+\-to be creative and come up with new ideas, new inventions, and new ways of doing things  
+**敏锐 Observant**  
+\-to be sensitive to the environment and have a keen perception of things  
+**团结 United**  
+\-to stand together for a common purpose  
+**真诚 Sincere**  
+\-to be honest and true  
+**忠诚 Loyal**  
+\-to stay devoted to one’s values and roots  
+**朝气 Youthful**  
+\-to be vigorous, fresh and energetic
+
+The approach adopted for the Character and Citizenship Education of our students is to develop them in 5 core areas, namely:
+
+**德 Moral** <br>**智 Intellectual** <br> 
+**体 Physical** <br>
+**群 Social** <br> **美 Aesthetics**
+
+and thereby preparing them for the 21st century.
+
+### CCE Learning Outcomes
+
+CCE is central to the 21st Century Competencies Framework. It emphasizes the interconnectedness of the core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are critical for character and citizenship development of our students.
+
+The learning outcomes of CCE state what we want our students to learn and attain in CCE, and guide the development of the curriculum for CCE.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-soxn"><span style="font-weight:bold">Learning Outcome 1:</span></th>
+    <th class="tg-lm9i">Develop self-awareness and self-management skills to achieve personal well-being and effectiveness.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 2:</span></td>
+    <td class="tg-lm9i">Apply moral reasoning, display responsibility in decision making, and demonstrate integrity to stand by moral principles and shared values.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 3:</span></td>
+    <td class="tg-lm9i">Develop social awareness and demonstrate interpersonal skills to build and maintain positive relationships.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 4:</span></td>
+    <td class="tg-lm9i">Demonstrate resilience in the face of individual, community and national challenges, and develop the ability to turn challenges into opportunities.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 5:</span></td>
+    <td class="tg-lm9i">Appreciate our national identity, develop a sense of belonging to Singapore, and demonstrate commitment to the well-being, security and defence of the nation.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 6:</span></td>
+    <td class="tg-lm9i">Demonstrate socio-cultural sensitivity and promote social cohesion and harmony in Singapore as a multi-cultural society.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 7:</span></td>
+    <td class="tg-lm9i">Demonstrate care for and contribute actively towards improving the lives of others to build a bright future for ourselves and to progress together as one nation.</td>
+  </tr>
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">Learning Outcome 8:</span></td>
+    <td class="tg-lm9i">Demonstrate the ability to reflect on and respond to community, national and global issues, as an informed and responsible citizen.</td>
+  </tr>
+</tbody>
+</table>
+
+Ideal Chongfu Student with good CCE values  
+Leveraging on school values, the range of activities in our programme is planned under 3 domains to create an ideal pupil with good CCE values.  
+* Leadership  
+* Character Education (Personal and Social Development) 
+* Citizenship Education
+
+<img src="/images/cce1.png" 
+     style="width:70%">
+		 
+Our tagline for student leadership is Every Chongfu student, A Leader advocates that Chongfu students are leaders who are able to lead, motivate and inspire others. They are confident, innovative and possess the courage and conviction to stand firm in overcoming challenges and obstacles. Under Personal and Social development, Chongfu students are taught to be gracious and socially responsible. They work effectively in teams and care for the community and the environment. They continually strive for excellence and take pride in all they do.
+
+With good citizenship education, every Chongfu child appreciates cultural differences and good governance. We want our Chongfu students to possess a sense of belonging to the home, school, community and Singapore.
+
+With the aim to develop gracious, patriotic and global thinkers, the CCE programmes are specially tailored.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-soxn{background-color:#FFF;color:#808080;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-zrb3{background-color:#FFF;color:#F85125;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-soxn"><span style="font-weight:bold">FORMAL CURRICULUM</span></th>
+    <th class="tg-soxn"><span style="font-weight:bold">MODULES</span></th>
+    <th class="tg-soxn"><span style="font-weight:bold">EXPERIENCES</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lm9i">CCE Lessons (MT)</td>
+    <td class="tg-lm9i">Education &amp; Career Guidance (ECG)</td>
+    <td class="tg-lm9i">Values In Action (VIA)</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Form Teacher Guidance Period (FTGP)</td>
+    <td class="tg-zrb3"><a href="https://moe-chongfu-staging.netlify.app/curriculum/sexuality-education"><span style="text-decoration:none;color:#F85125;background-color:transparent">Sexuality Education (SEd)</span></a></td>
+    <td class="tg-lm9i">CCA Values Education</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Lifeskills Package (Social Skills Lessons &amp; Learning Series)</td>
+    <td class="tg-lm9i">Cyber Wellness</td>
+    <td class="tg-lm9i">NE Commemorative Days</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Infusion across all subjects</td>
+    <td class="tg-lm9i">Social and Emotional Well-being and Support</td>
+    <td class="tg-lm9i">Cohort Learning Journeys</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i">Social Studies</td>
+    <td class="tg-lm9i"></td>
+    <td class="tg-lm9i">Outdoor Adventure Cohort Camps</td>
+  </tr>
+  <tr>
+    <td class="tg-lm9i"> Assembly Programme (Values Talk)</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+**CCE Lessons**
+
+CCE Lessons These lessons which include CCE Form Teacher Guidance Period (FTGP), CCE Mother Tongue Languages (MTL) and Programme for Active Learning (PAL) provide the time for teachers to engage and build relationships with their students through discussions and effective classroom strategies. In addition to the syllabus of character and citizenship education, the school aims to equip students with relevant life skills to help them deal effectively with demands and challenges of their everyday life. The life skills lessons provide basic tips to help them develop their personal growth across P1 to P6 levels in the following areas:
+
+* Social & Mental Health  
+* Coping with Changes  
+* Study Skills
+
+Teachers as Character Coaches lead students in reflecting and discussing relevant issues and scenarios. Students record their reflections which include knowledge and skills learnt in their FTGP journals and CCE Values Education Package.
+
+**CCE Lessons (Mother Tongue)**<br>
+CCE Lessons (Mother Tongue) focuses on developing the moral and social well-being of our pupils by helping them acquire and live by the values that guide them to make appropriate decisions. It not only plays a critical role in instilling sound moral values in our pupils so that they will be equipped with knowledge and life skills, it also nurtures them with the correct attitudes so that they will develop into morally upright, caring and responsible individuals and citizens.
+
+Our school has been worked with SHHK Education committee and the other 4 SHHK (Primary) schools to jointly develop lesson package using SHHK graded storybooks to extend and reinforce teaching points aligned with the philosophy of our SHHK’s founder, Mr Tan Kah Kee, whilst maintaining the CCE (MT) syllabus/curriculum that espoused the R3ICH values, namely Respect, Responsibility, Resilience, Integrity, Caring and Harmony,.
+
+**Social and Emotional Learning**<br> 
+Programmes are designed and delivered so that students understand and are able to effectively manage the personal and emotional aspects of one’s life. They will learn to understand the importance of relationships with others and be able to effectively manage these relationships. They will acquire skills and knowledge that facilitate life-long learning or prepare them for their future careers. They will also possess skills, knowledge, values and attitudes to lead a healthy lifestyle and meaningful life and be gracious individuals.
+
+
+<img src="/images/cce2.png" 
+     style="width:50%">
+	
+Teachers as Character Coaches lead students in reflecting and discussing relevant issues and scenarios. Students record their reflections which include knowledge and skills learnt in their journal.
+
+**Cyber Wellness**<br>
+With the cyberspace being more accessible to students, Cyber Wellness becomes more important as part of character and citizenship education which take care of the positive well-being of our young Internet users. It involves an understanding of the risks of harmful online behaviours, an awareness of how to protect oneself and other Internet users from such behaviours. The Framework focuses on developing the child’s instinct to protect himself and empower him to take responsibility for his own well-being in cyberspace.
+
+The Cyber Wellness Framework guides schools in planning for a cyber wellness programme.  
+It highlights two principles to guide students in their actions describes a 3-step process to explore cyber wellness issues. The school has already embarked on a cyberwellness programme to help students know how to manage themselves in cyberspace. We hope parents would be able to join us in inculcating the right values to our young.
+
+![](/images/cce4.png)
+**CCE Development Protocol**<br>  
+As part of our school’s continued efforts to develop our students holistically, the CCE Development Protocol premised on a set of core values GRACIOUSLY was developed to help our students chart their development of character and citizenship. Values can be manifested through the students’ social and emotional competencies which are qualities and dispositions that will equip students to succeed for life.
+
+**Rationale**<br> 
+Though families play the most important role in supporting the growth of a child’s citizenship, personal development and character, schools share in these responsibilities as well. As teachers, it is our responsibility to help our students in their character development above academic success. And because what get measured matters, it is important to develop a tool to measure the presence and absence of these values identified.
+
+**Tool**<br>
+The protocol includes both a CCE Development card and the use of Teacher Student Conference. The card is a formative assessment tool based specifically on teachers’ observations of the student in their daily behaviour and also teachers’ interaction with them. Teachers who are also Character Coaches then use the conference as the opportunities to have meaningful conversations around the development of character. The conference serves as a vehicle for people to talk about character in a rigorous and nuanced manner. Teachers and parents can get to know each student as a whole child before deciding on the best way to help them level up their competencies. Students can also use feedback from the CCE development card to develop self-understanding and to take ownership of their personal growth by planning the next steps to improve.
+
+
