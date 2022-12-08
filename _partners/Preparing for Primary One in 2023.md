@@ -39,7 +39,7 @@ description: ""
 *   Email: chongfu@tongtar.com
 
 **<u>Student Care Service</u>**
-*  [Student Care Registration](https://chongfu.moe.edu.sg/wp-content/uploads/2022/10/Student-Care-Registration.pdf)
+*  [Student Care Registration](/files/BigHeart@Chongfu 2023 P1 Interest Link (Website).pdf)
 
 **<u>Parent Support Group (PASSION) and Alumni Classes</u>**
 
