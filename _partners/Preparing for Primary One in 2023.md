@@ -9,7 +9,7 @@ description: ""
 
 *   [Information on GIRO Scheme](https://www.moe.gov.sg/financial-matters/fees?toggle-id=giro)
 *   [MOE eGIRO Services](https://www.moe.gov.sg/financial-matters/fees/egiro)
-* [GIRO Application Form](https://chongfu.moe.edu.sg/wp-content/uploads/2022/10/GIRO-Application-Form-1.pdf)
+* [GIRO Application Form](/files/GiroApplicationForm.pdf)
 *   [Information on Edusave Account](https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds?toggle-id=moe-funded-schools)
 *   [Application for EPSO](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
 
@@ -21,18 +21,19 @@ description: ""
 
 **<u>Financial Assistance Scheme (FAS)</u>**
 
-* [MOE FAS Pamphlet#](/files/FAS%20pamphlet%202023.pdf)
+* [MOE FAS Pamphlet](/files/MOEFASPamphlet.pdf)
 
 * [MOE FAS Application Form](https://form.gov.sg/632432ba67747a0011d4a0cc)
 <br><small>#The income eligibility criteria for MOE FAS will be revised from 1 Jan 2023, please click [here](https://www.moe.gov.sg/news/press-releases/20221014-more-than-10000-students-to-benefit-from-revised-income-criteria-for-moe-financial-assistance-schemes-and-increased-ite-bursary-quanta) for more information.</small>
 
 **<u>School Essential Supplies - Textbooks & Stationeries</u>**
 
-* [P1 Booklist](https://chongfu.moe.edu.sg/wp-content/uploads/2022/10/Primary-1-Booklist.pdf)
+* [P1 Booklist](/files/P1Booklist.pdf)
+
 * [Online Purchase](https://www.pacificbookstores.com/public/)
 
 **<u>School Essential Supplies - Uniform</u>**
-* [CFS Uniform Selling Dates](https://chongfu.moe.edu.sg/wp-content/uploads/2022/10/Uniform_2022-Sales-Date.pdf)
+* [CFS Uniform Selling Dates](/files/CFSUniformSellingDates.pdf))
 * [Online Purchase](https://www.euniforms.com.sg/shop/product-category/primary-schools/cfps/)
 
 **<u>Application for Bus Transport</u>**
