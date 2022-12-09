@@ -7,10 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Chong Fu School
+      title: Chongfu School
       background: /images/herobanner.gif
-      button: Contact Us
-      url: /contact-us
       key_highlights:
         - title: Find Us
           description: Find our Social Media here
