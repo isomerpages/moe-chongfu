@@ -17,5 +17,5 @@ description: ""
 
 <a href="https://www.shhk.com.sg/">
 <img src="/images/Singapore%20Hokkien%20Huay%20Kuan%20Website.png" alt="Singapore Hokkien Huay  
-Kuan Website" width="100" height="132">
+Kuan Website" width="50" height="70">
 </a>
