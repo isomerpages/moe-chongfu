@@ -10,13 +10,13 @@ sections:
       title: Chongfu School
       background: /images/Main_Image1.jpg
       key_highlights:
-        - title: Find Us
-          description: Find our Social Media here
-          url: /find-us/
-        - title: Useful Links
-          description: Click here for useful links
-          url: /links-for-parents/
-        - title: Announcements
-          description: Click here for News & Updates
+        - title: NEWS AND UPDATES
+          description: View Our Latest Happenings!
           url: /news
+        - title: SOCIAL MEDIA
+          description: View Our Latest Happenings!
+          url: /find-us/
+        - title: USEFUL LINKS
+          description: Click Here for Useful Links
+          url: /links-for-parents/
 ---
