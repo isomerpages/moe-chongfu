@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Chongfu School
-      background: /images/herobanner.gif
+      background: /images/Main_Image1.jpg
       key_highlights:
         - title: Find Us
           description: Find our Social Media here
