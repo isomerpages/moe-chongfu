@@ -3,7 +3,7 @@ url: https://chongfu.moe.edu.sg
 favicon: /images/school logo 1.jpeg
 colors:
   primary-color: "#3a7fd0"
-  secondary-color: "#000000"
+  secondary-color: "#f0132d"
   media-colors:
     - title: media-color-one
       color: "#49759a"
