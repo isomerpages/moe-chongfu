@@ -17,7 +17,7 @@ sections:
           description: Click here for useful links
           url: /links-for-parents/
         - title: Announcements
-          description: News & Updates
+          description: Click here for News & Updates
           url: /news
   - infobar:
       title: News & Updates
