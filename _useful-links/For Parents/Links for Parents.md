@@ -22,3 +22,10 @@ third_nav_title: For Parents
 * [P2 Parents' Engagement Session 9March2022 - Presentation Slides](/files/P2-Parents-Engagement-Session-9-March-2022.pdf)
 
 * [P5 and P6 Parents' Engagement Session 1April2022 - Presentation Slides](/files/P5-P6-Parent-Engagement-Session-1April2022.pdf)
+
+### Links to alumni and SHHK
+
+* [Chongfu Alumni](https://www.chongfualumni.com/)
+
+* [Singapore Hokkien Huay Kuan, SHHK](https://www.shhk.com.sg/)
+
