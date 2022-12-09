@@ -59,7 +59,7 @@ description: ""
 <img src="/images/SEAB-2.png" style="width:50%">
 </a>
 
-*   [iExam](https://www.seab.gov.sg/)
+*   [iExam](https://iexams.seab.gov.sg/login)
 
 <a href="https://schoolcockpit.moe.gov.sg/">
 <img src="/images/school-cockpit.jpg" style="width:50%">

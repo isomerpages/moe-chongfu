@@ -7,19 +7,16 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Chong Fu School
-      background: /images/herobanner.gif
-      button: Contact Us
-      url: /contact-us
+      title: Chongfu School
+      background: /images/Main_Image1.jpg
       key_highlights:
-        - title: Find Us
-          description: Find our Social Media here
+        - title: NEWS AND UPDATES
+          description: View Our Latest Happenings!
+          url: /news
+        - title: SOCIAL MEDIA
+          description: View Our Latest Happenings!
           url: /find-us/
-        - title: Useful Links
-          description: Click here for useful links
+        - title: USEFUL LINKS
+          description: Click Here for Useful Links
           url: /links-for-parents/
-  - infobar:
-      title: News & Updates
-      button: Click here
-      url: /news
 ---
