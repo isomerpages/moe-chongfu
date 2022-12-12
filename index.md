@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Chongfu School
       background: /images/Main_Image1.jpg
       key_highlights:
         - title: NEWS AND UPDATES
