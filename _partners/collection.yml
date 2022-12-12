@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Chongfu Alumni.md
       - Forms Download.md
       - FAQ.md
       - Preparing for Primary One in 2023.md
