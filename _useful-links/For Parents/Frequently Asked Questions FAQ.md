@@ -1,9 +1,11 @@
 ---
-title: Frequently Asked Questions, FAQ
-permalink: /useful-links/For-Parents/permalink/
+title: Frequently Asked Questions FAQ
+permalink: /useful-links/For-Parents/Frequently-Asked-Questions-FAQ/
 description: ""
 third_nav_title: For Parents
 ---
+
+
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  

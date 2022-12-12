@@ -1,8 +1,10 @@
 ---
 title: PASSION
-permalink: /partners/permalink/
+permalink: /partners/passion/
 description: ""
 ---
+
+
 ![](/images/Main-Pic.jpeg)
 ![](/images/PSG1.png)
 ![](/images/PSG2.png)

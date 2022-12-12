@@ -1,9 +1,10 @@
 ---
 title: Preparing for Primary One in 2023
-permalink: /useful-links/For-Parents/permalink/
+permalink: /useful-links/For-Parents/Preparing-for-Primary-One-in-2023/
 description: ""
 third_nav_title: For Parents
 ---
+
 **Preparing for Primary One in 2023**
 
 <strong><u>GIRO and Enrichment Programme Standing Order (EPSO) for Edusave Account</u></strong>

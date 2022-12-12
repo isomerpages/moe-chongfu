@@ -1,9 +1,10 @@
 ---
 title: Forms Download
-permalink: /useful-links/For-Parents/permalink/
+permalink: /useful-links/For-Parents/Forms-Download/
 description: ""
 third_nav_title: For Parents
 ---
+
 Dear Parents,
 
 Please find below the forms you may need.
