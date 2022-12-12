@@ -11,7 +11,7 @@ third_nav_title: For Parents
 * [Parenting](https://moe-chongfu-staging.netlify.app/links-for-parents/parenting/)
 * [Content](https://moe-chongfu-staging.netlify.app/links-for-parents/content/)
 * [Primary - MySkillsFuture](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2020501419&gclid=EAIaIQobChMIlPLt8Y6N9QIVy-h3Ch0dnwCqEAAYASAAEgLUS_D_BwE)
-* [Forms Download](https://moe-chongfu-staging.netlify.app/links-for-parents/parenting/)
+* [Forms Download](https://moe-chongfu-staging.netlify.app/links-for-parents/forms-download/)
 * [FAQ](https://moe-chongfu-staging.netlify.app/links-for-parents/frequently-asked-questions-faq/)
 * [Preparing for Primary One in 2023](https://moe-chongfu-staging.netlify.app/links-for-parents/preparing-for-primary-one-in-2023/)
 ### For Your References
