@@ -9,7 +9,7 @@ description: ""
 <center>Mdm Foo Mui Chuw</center>
 
 
-<img src="images/Soon-WS.jpeg" 
+<img src="images/MrSoonWS_V2.jpg" 
      style="width:30%">
 <center><b>Vice Principal</b></center>
 <center>Mr Soon Woo Sin</center>
