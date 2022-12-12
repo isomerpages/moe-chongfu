@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Chong Fu School
+agency_name: Chongfu School
 locations:
   - address:
       - "170 Yishun Avenue 6 "
