@@ -11,9 +11,10 @@ third_nav_title: For Parents
 * [Parenting](https://moe-chongfu-staging.netlify.app/links-for-parents/parenting/)
 * [Content](https://moe-chongfu-staging.netlify.app/links-for-parents/content/)
 * [Primary - MySkillsFuture](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2020501419&gclid=EAIaIQobChMIlPLt8Y6N9QIVy-h3Ch0dnwCqEAAYASAAEgLUS_D_BwE)
-* [Forms Download](https://moe-chongfu-staging.netlify.app/links-for-parents/forms-download/)
-* [FAQ](https://moe-chongfu-staging.netlify.app/links-for-parents/frequently-asked-questions-faq/)
-* [Preparing for Primary One in 2023](https://moe-chongfu-staging.netlify.app/links-for-parents/preparing-for-primary-one-in-2023/)
+* [Forms Download](https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Forms-Download/)
+* [FAQ](https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Frequently-Asked-Questions-FAQ/)
+* [Preparing for Primary One in 2023](https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Preparing-for-Primary-One-in-2023/)
+
 ### For Your References
 
 * [Instructions and FAQs for Student Learning Space](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)
