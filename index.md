@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main_Image1.jpg
+      background: /images/CFS_GIFWebsiteMainPage.gif
       key_highlights:
         - title: NEWS AND UPDATES
           description: View Our Latest Happenings!
