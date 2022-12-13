@@ -4,7 +4,6 @@ permalink: /useful-links/For-Parents/Preparing-for-Primary-One-in-2023/
 description: ""
 third_nav_title: For Parents
 ---
-
 **Preparing for Primary One in 2023**
 
 <strong><u>GIRO and Enrichment Programme Standing Order (EPSO) for Edusave Account</u></strong>
@@ -35,7 +34,7 @@ third_nav_title: For Parents
 * [Online Purchase](https://www.pacificbookstores.com/public/)
 
 **<u>School Essential Supplies - Uniform</u>**
-* [CFS Uniform Selling Dates](/files/CFSUniformSellingDates.pdf))
+* [CFS Uniform Selling Dates](/files/CFSUniformSellingDates.pdf)
 * [Online Purchase](https://www.euniforms.com.sg/shop/product-category/primary-schools/cfps/)
 
 **<u>Application for Bus Transport</u>**
