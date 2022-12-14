@@ -5,7 +5,7 @@ description: ""
 ---
 **Student Learning Space (SLS) Support**
 
-The SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg/).
+The SLS can be accessed via the link below,  [https://vle.learning.moe.edu.sg/mrv/login](https://vle.learning.moe.edu.sg/mrv/login)
 
 Your child’s SLS user ID is usually the first 5 characters of his/her full name and last 4 digits of his/ her birth cert or NRIC together with the alphabet, e.g. _TANAH2345X._
 
