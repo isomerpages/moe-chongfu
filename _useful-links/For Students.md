@@ -131,4 +131,3 @@ description: ""
 <p style="text-align:center;">	
 <a href="https://apps.mathlearningcenter.org/pattern-shapes/">Math Learning Center</a>
 </p>
-
