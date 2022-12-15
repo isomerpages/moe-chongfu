@@ -3,7 +3,6 @@ title: For Students
 permalink: /links-for-students/
 description: ""
 ---
-
 <a href="https://kahoot.it/">
 <img src="/images/kahoot.png" style="width:30%">
 </a>
@@ -63,40 +62,72 @@ description: ""
 <img src="/images/ICT-CONNECTION-1-300x179.png" style="width:30%">
 </a>
 
-* [Navigate Safely in Cyberspace](https://www.csa.gov.sg/Programmes/sg-cyber-safe-students/about-sg-cyber-safe-students)
+<p style="text-align:center;">	
+	<a href="https://www.csa.gov.sg/Programmes/sg-cyber-safe-students/about-sg-cyber-safe-students">Navigate Safely in Cyberspace</a>
+</p>
+
+<hr>
+<br>
 
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">
 <img src="/images/MYSKILLFUTURE.png" style="width:30%">
 </a>
+<p style="text-align:center;">	
+<a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">Primary - MySkillsFuture</a>
+</p>
 
-* [Primary - MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+<hr>
+<br>
 
 <a href="https://unswglobal.janisoninsights.com/auth/login/?returnUrl=%2F">
 <img src="/images/UNSW-GLOBAL.png" style="width:30%">
 </a>
 
-* [UNSW Global Competition](https://unswglobal.janisoninsights.com/auth/login/?returnUrl=%2F)
+<p style="text-align:center;">	
+<a href="https://unswglobal.janisoninsights.com/auth/login/?returnUrl=%2F">UNSW Global Competition</a>
+</p>
+
+<hr>
+<br>
 
 <a href="https://workspace.google.com/dashboard">
 <img src="/images/Google-logos-768x427.jpg" style="width:30%">
 </a>
 
-* [Student Google iCON](https://workspace.google.com/dashboard)
+<p style="text-align:center;">	
+<a href="https://workspace.google.com/dashboard">Student Google iCON</a>
+</p>
+
+<hr>
+<br>
+
 
 <a href="https://contests.heymath.com/RI22">
 <img src="/images/HEYMATH.png" style="width:30%">
 </a>
 
-* [HeyMath! Contests](https://contests.heymath.com/RI22)
+<p style="text-align:center;">	
+<a href="https://contests.heymath.com/RI22">HeyMath! Contests</a>
+</p>
+
+<hr>
+<br>
 
 <a href="https://mathigon.org/polypad">
 <img src="/images/Mathigon-300x300.png" style="width:30%">
 </a>
 
-* [Mathigon (Math ICT Lessons)](https://mathigon.org/polypad)
+<p style="text-align:center;">	
+<a href="https://mathigon.org/polypad">Mathigon (Math ICT Lessons)</a>
+</p>
+
+<hr>
+<br>
 
 <a href="https://apps.mathlearningcenter.org/pattern-shapes/">
 <img src="/images/Math-Learning-Center.png" style="width:30%">
 </a>
 
-* [Math Learning Center](https://apps.mathlearningcenter.org/pattern-shapes/)
+<p style="text-align:center;">	
+<a href="https://apps.mathlearningcenter.org/pattern-shapes/">Math Learning Center</a>
+</p>

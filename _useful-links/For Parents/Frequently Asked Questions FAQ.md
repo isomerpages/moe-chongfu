@@ -4,8 +4,6 @@ permalink: /useful-links/For-Parents/Frequently-Asked-Questions-FAQ/
 description: ""
 third_nav_title: For Parents
 ---
-
-
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
@@ -21,7 +19,7 @@ For more information on the Primary One Registration Exercise, please refer to t
     <label for="accordion2">How do I register as a Parent Volunteer to be eligible for Phase 2B during the Primary One registration exercise?</label>  
     <div>  
       <p>The application period for Parent Volunteers (for child born between 2nd Jan 2018 to 1st Jan 2019) is from 1 August 2022 to 31 October 2022. Shortlisted applicants will be contacted via email by end December 2022. The application form will be available at the following link during the application period: 
-<a href="https://moe-chongfu-staging.netlify.app/partners/form-downloads">/partners/form-downloads/</a>
+<a href="https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Forms-Download/">/useful-links/for-parents/forms-download/</a>
 				
 For more information on the eligibility of phases for the Primary One registration exercise, please refer to the following website:<a href="https://www.moe.gov.sg/admissions/primary-one-registration">https://www.moe.gov.sg/admissions/primary-one-registration</a></p>  
     </div>  
@@ -30,7 +28,7 @@ For more information on the eligibility of phases for the Primary One registrati
     <input type="checkbox" id="accordion3">  
     <label for="accordion3">Currently, my child is studying in XXX School. As we will be shifting to Yishun, we wish to transfer my child to Chongfu School. What are the procedures for applying for transfer to Chongfu School?</label>  
     <div>  
-      <p>To place your child on the transfer-in waiting list, please complete the transfer-in waiting list application form which can be downloaded at <a href="https://moe-chongfu-staging.netlify.app/partners/form-downloads">/partners/form-downloads/</a>
+      <p>To place your child on the transfer-in waiting list, please complete the transfer-in waiting list application form which can be downloaded at <a href="https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Forms-Download/">/useful-links/for-parents/forms-download/</a>
 
 Parents will be notified should the applicant be shortlisted.</p>  
     </div>  
@@ -54,7 +52,7 @@ Parents will be notified should the applicant be shortlisted.</p>
     <input type="checkbox" id="accordion6">  
     <label for="accordion6">How do I travel to Chongfu School by public transport?</label>  
     <div>  
-      <p>Please refer to the following link: <a href ="https://moe-chongfu-staging.netlify.app/heritage/school-information"> School Information</a></p>  
+      <p>Please refer to the following link: <a href ="https://www.chongfu.moe.edu.sg/contact-us/"> Contact Us</a></p>  
     </div>  
 </li>
 <li>  
@@ -68,7 +66,7 @@ Parents will be notified should the applicant be shortlisted.</p>
     <input type="checkbox" id="accordion8">  
     <label for="accordion8">How do I find the school vendor information?</label>  
     <div>  
-      <p>Please click <a href ="https://moe-chongfu-staging.netlify.app/heritage/school-information"> here</a> for information on the School's Vendors</p>  
+      <p>Please click <a href ="https://www.chongfu.moe.edu.sg/heritage/School-Information/supplier-information/"> here</a> for information on the School's Vendors</p>  
     </div>  
 </li>
 <li>  
@@ -104,7 +102,7 @@ For more information on Chongfu Alumni, please refer to:<a href="http://www.chon
 <li>Create authentic socialisation experiences for acquisition of socio-emotional competencies and to facilitate holistic development</li>
 </ul>
 <p>The four domains of PAL are Outdoor Education (OE), Performing Arts (PA), Visual Arts (VA) and Sports and Games (S&amp;G). Each domain consists of 7 lessons, conducted over 4 periods each.</p>
-For more details, please refer to the following link on our website: <a href="https://moe-chongfu-staging.netlify.app/curriculum/applied-learning-programme/programme-for-active-learning/">/curriculum/programme-for-active-learning/</a>
+For more details, please refer to the following link on our website: <a href="https://www.chongfu.moe.edu.sg/curriculum/applied-learning-programme/programme-for-active-learning/">/curriculum/programme-for-active-learning/</a>
 </p>  
     </div>  
 </li>
