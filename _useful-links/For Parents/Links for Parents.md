@@ -26,7 +26,7 @@ third_nav_title: For Parents
 
 * [P5 and P6 Parents' Engagement Session 1April2022 - Presentation Slides](/files/P5-P6-Parent-Engagement-Session-1April2022.pdf)
 
-* [2023 Primary 1 Orientation Slides for Parents - Briefing Slides](/files/2023-Primary-One-(P1)-Orientation-Parents-Briefing-Slides.pdf)
+* [2023 Primary 1 Orientation Briefing for Parents - Presentation Slides](/files/2023-Primary-One-(P1)-Orientation-Parents-Briefing-Slides.pdf)
 
 ### Links to alumni and SHHK
 
