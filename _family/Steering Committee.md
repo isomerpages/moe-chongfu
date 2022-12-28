@@ -14,13 +14,12 @@ description: ""
 <center><b>Vice Principal</b></center>
 <center>Mr Soon Woo Sin</center>
 
-
-<img src="/images/Ms_Angelynna_Lim-removebg-preview-1-1.png" 
+<img src="/images/MsAngelynnaLim HweeMienVP2.jpg" 
      style="width:30%">
 <center><b>Vice Principal </b></center>
 <center>Ms Angelynna Lim Hwee Mien</center>
 
-<img src="/images/VPA-3.jpeg" 
+<img src="/images/MrNgeowSiongChyeVPA.jpg" 
      style="width:30%">
 <center><b> Vice Principal </b></center>
 <center>Mr Jeremy Ngeow Siong Chye</center>
