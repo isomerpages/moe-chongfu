@@ -8,7 +8,7 @@ description: ""
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">  
 		<label for="accordion1"><b>Primary 1</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-			<b>2022 Primary One</b><br>
+			<b>2023 Primary One</b><br>
 			<b>Assistant Year Head&nbsp;(P1)</b><br>
 Ms Madihah Binte Ghazali<br>
 <a>madihah_ghazali@moe.edu.sg</a>
@@ -39,7 +39,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Respectful</span></td>
 			<td class="tg-5xgq">Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">madihah_ghazali@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Ms Tan Li 陈俪<br><a href="mailto:zelda_mak_teng_fong@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">email@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Ms Tan Li 陈俪<br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Achieving</span></td>
@@ -89,7 +89,7 @@ Ms Madihah Binte Ghazali<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
 	<label for="accordion2"><b>Primary 2</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-		<b>2022 Primary Two</b><br>
+		<b>2023 Primary Two</b><br>
 			<b>Assistant Year Head&nbsp;(P2)</b><br>
 			Mdm Nur Lailie Bte Jamal<br>
 <a>nur_lailie_jamal@moe.edu.sg</a>
@@ -121,7 +121,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Respectful</span></td>
     <td class="tg-lm9i">Mr Ghazali Bin Abdol Wahab<br><a href="mailto:ghazali_abdol_wahab@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ghazali_abdol_wahab@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Sally Toh</span><br><a href="mailto:email@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">email@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Sally Toh</span><br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Achieving</span></td>
