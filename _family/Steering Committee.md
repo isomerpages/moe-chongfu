@@ -47,7 +47,11 @@ description: ""
     <td class="tg-lm9i">Mr Lee Shi Ren</td>
     <td class="tg-lm9i">HOD PE &amp; CCA</td>
   </tr>
-  <tr>
+    <tr>
+    <td class="tg-lm9i">Ms Lee Huoy Fen</td>
+    <td class="tg-lm9i">HOD Science</td>
+  </tr>
+	<tr>
     <td class="tg-lm9i">Ms Zheng Yijun Elaine</td>
     <td class="tg-lm9i">HOD EL</td>
   </tr>
