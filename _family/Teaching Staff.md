@@ -10,8 +10,8 @@ description: ""
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 			<b>2022 Primary One</b><br>
 			<b>Assistant Year Head&nbsp;(P1)</b><br>
-Mdm Nur Lailie Bte Jamal<br>
-<a>nur_lailie_jamal@moe.edu.sg</a>
+Ms Madihah Binte Ghazali<br>
+<a>madihah_ghazali@moe.edu.sg</a>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
