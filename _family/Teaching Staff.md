@@ -64,7 +64,8 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 United</span></td>
     <td class="tg-lm9i">Ms Sunitha Pillay<br><a href="mailto:s_sunitha_pillay@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">s_sunitha_pillay@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Wee Sze Hui Priscilla<br><a href="mailto:wee_sze_hui_priscilla@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">wee_sze_hui_priscilla@moe.edu.sg</span></a><br></td>
+    <td class="tg-lm9i">Ms Wee Sze Hui Priscilla<br><a href="mailto:wee_sze_hui_priscilla@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">wee_sze_hui_priscilla@moe.edu.sg</span></a><br>
+		Ms Wang Shi Yun Jaslyn</td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Sincere</span></td>
