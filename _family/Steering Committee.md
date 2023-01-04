@@ -96,24 +96,24 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lm9i">Mdm Nur Lailie Bte Jamal</td>
+    <td class="tg-lm9i">Ms Madihah Binte Ghazali</td>
     <td class="tg-lm9i">Assistant Year Head (P1)</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Ms Madihah Binte Ghazali</td>
+    <td class="tg-lm9i">Mdm Nur Lailie Bte Jamal</td>
     <td class="tg-lm9i">Assistant Year Head  (P2)</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Mdm Ong Shu Ying</td>
-    <td class="tg-lm9i">Year Head  (P3)</td>
+    <td class="tg-lm9i">Ms Lau Kui Fang Audrey</td>
+    <td class="tg-lm9i"> Assistant Year Head  (P3)</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Mdm Ngiam Wen Yuan</td>
-    <td class="tg-lm9i">Assistant Year Head  (P4)</td>
+    <td class="tg-lm9i">Mdm Ong Shu Ying</td>
+    <td class="tg-lm9i">Year Head  (P4)</td>
   </tr>
   <tr>
     <td class="tg-lm9i">Ms Soh Jingsi</td>
-    <td class="tg-lm9i">Assistant Year Head  (P5)</td>
+    <td class="tg-lm9i">Assistant Year Head (P5)</td>
   </tr>
   <tr>
     <td class="tg-lm9i">Ms Yap Xin Yi Filicia</td>
