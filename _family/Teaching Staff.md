@@ -475,28 +475,34 @@ Ms Madihah Binte Ghazali<br>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5xgq">Mdm Normah Bte Ismail</td>
+    <td class="tg-5xgq">Ms Sally Toh</td>
   </tr>
   <tr>
     <td class="tg-5xgq">Ms Wang Shi Yun Jaslyn</td>
   </tr>
   <tr>
-    <td class="tg-5xgq">Mdm Lim Jing Yi Serene</td>
+    <td class="tg-5xgq">Ms Seow Shu Feng</td>
   </tr>
   <tr>
     <td class="tg-5xgq">Ms Shona Cha Siew Lian</td>
+  </tr>
+	<tr>
+    <td class="tg-5xgq">Ms Elizabeth D/O Suppiah Jacob</td>
   </tr>
   <tr>
     <td class="tg-soxn"><span style="font-weight:bold">NIE TRAINEES</span></td>
   </tr>
   <tr>
-    <td class="tg-5xgq">Ms Nur Natasha Binte Mohamed Khairuddin</td>
+    <td class="tg-5xgq">Ms Nur Syafiqah Binte Mohamad Sham</td>
   </tr>
   <tr>
-    <td class="tg-5xgq">Ms Xu Xiaojie</td>
+    <td class="tg-5xgq">Ms Geraldine Ann D'Cotta</td>
   </tr>
   <tr>
-    <td class="tg-5xgq">Ms Vanna Tan</td>
+    <td class="tg-5xgq">Mr Kenn Roy Anthony</td>
+  </tr>
+	<tr>
+    <td class="tg-5xgq">Mdm Toh Sio Cheng</td>
   </tr>
 </tbody>
 </table>
