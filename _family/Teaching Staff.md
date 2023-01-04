@@ -33,23 +33,23 @@ Ms Madihah Binte Ghazali<br>
 <tbody>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Gracious</span></td>
-    <td class="tg-5xgq">Mdm Tan Hui Yin<br><a href="mailto:tan_hui_yin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tan_hui_yin@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Li Pei Jie<br><a href="mailto:li_pei_jie@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">li_pei_jie@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mdm Siti Salha Bte Salihoddin<br><a href="mailto:siti_salha_salihoddin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">siti_salha_salihoddin@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Mr Low Yee Leong 罗裕良<br><a href="mailto:low_yee_leong@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">low_yee_leong@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Respectful</span></td>
-    <td class="tg-5xgq">Ms Lau Kui Fang Audrey<br><a href="mailto:lau_kui_fang_audrey@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lau_kui_fang_audrey@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Ms Zelda Mak Teng Fong<br><a href="mailto:zelda_mak_teng_fong@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">zelda_mak_teng_fong@moe.edu.sg</span></a></td>
+			<td class="tg-5xgq">Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">madihah_ghazali@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Ms Tan Li 陈俪<br><a href="mailto:zelda_mak_teng_fong@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">email@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Achieving</span></td>
-    <td class="tg-5xgq">Ms Malani D/O Selvaraj<br><a href="mailto:malani_selvaraj@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">malani_selvaraj@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Mdm Zheng Shanbo 郑珊博<br><a href="mailto:zheng_shanbo@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">zheng_shanbo@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Ms Roshiela Binte Rosly<br><a href="mailto:roshiela_rosly@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">roshiela_rosly@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Tee Sow Chin 郑素青<br><a href="mailto:tee_sow_chin_a@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tee_sow_chin_a@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Caring</span></td>
-    <td class="tg-5xgq">Ms Nur Amirah Sabrina Binte Mohamad<br><a href="mailto:nur_amirah_sabrina_mohamad@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">nur_amirah_sabrina_mohamad@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Shi Jia 石佳<br><a href="mailto:shi_jia@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">shi_jia@moe.edu.sg</span></a><br></td>
+    <td class="tg-5xgq">Mdm Mazlin Bte Ithnin-Zulkifli<br><a href="mailto:mazlin_ithnin-zulkifli@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">mazlin_ithnin-zulkifli@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Mdm Chen Xiuqin 陈秀钦<br><a href="mailto:chen_xiuqin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">chen_xiuqin@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Innovative</span></td>
