@@ -174,7 +174,7 @@ Ms Madihah Binte Ghazali<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 			
 <b>2023 Primary Three</b><br>
-<b>Year Head&nbsp;&nbsp;(Lower Primary)</b><br>
+<b>Assistant Year Head&nbsp;&nbsp;(P3)</b><br>
 				Ms&nbsp;Lau Kui Fang Audrey<br>
 <a>lau_kui_fang_audrey@moe.edu.sg</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
@@ -246,7 +246,7 @@ Ms Madihah Binte Ghazali<br>
 	<label for="accordion4"><b>Primary 4</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div> 
 			<b>2023 Primary Four</b><br>
-			<b>Year Head</b><br>
+			<b>Year Head (Lower Primary)</b><br>
 							Mdm Ong Shu Ying<br>
 			<a>ong_shu_ying@moe.edu.sg</a>
 			
