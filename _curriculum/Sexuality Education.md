@@ -33,10 +33,9 @@ b. Character and Citizenship Education (CCE) <br>
 
 **At Chongfu School, the following lessons from the Growing Years Programme will be taught in 2022:**
 
-![](/images/SexualityEducation-Table-1.jpg)
-![](/images/SexualityEducation-Table-2.jpg)
-![](/images/SexualityEducation-Table-3.jpg)
-![](/images/SexualityEducation-Table-4.jpg)
+![](/images/SEd_Primary5_Schedule_AAA.jpg)
+![](/images/SEd_Primary6_Schedule_AAA.jpg)
+
 
 **Information for Parents**
 
