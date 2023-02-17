@@ -12,4 +12,4 @@ The SOTA Primary 6 Art Competition was launched in 2018 as one of SOTA’s outre
 
  We would like to share that Hoo Zi Cheng Leanne (6 Respectful) titled Candyland has been selected as one of the top 50 Finalists in SOTA’s Primary 6 Art Competition 2023. The list of winners can be found on SOTA school’s website [here](https://www.sota.edu.sg/p6artcom2023). 
 
-You can also view the other entries from our very own Chongfu School students at our Aesthetics Wall of Exhibits (AWE).
+You can also view the other entries from our very own Chongfu School students at our Aesthetics Wall of Exhibits (AWE), facing the parade square.
