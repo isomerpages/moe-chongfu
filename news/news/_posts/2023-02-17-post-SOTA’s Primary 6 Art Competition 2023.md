@@ -16,4 +16,4 @@ We would like to share that Hoo Zi Cheng Leanne (6 Respectful) titled Candyla
 
 The list of winners can be found on SOTA school’s website [here](https://www.sota.edu.sg/p6artcom2023). 
 
-You can also view the other entries from our very own Chongfu School students at our Aesthetics Wall of Exhibits (AWE), facing the parade square.
+You can also view the other entries from our very own Chongfu School students at our Aesthetics Wall of Exhibits (AWE) located near the staffroom.
