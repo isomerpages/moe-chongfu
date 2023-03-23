@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - Community Partners/North West CDC.md
-      - Community Partners/Food from the Heart (FFTH).md
-      - Community Partners/.keep
       - PASSION.md
       - Chongfu Alumni.md
       - Singapore Hokkien Huay Kuan.md
+      - Community Partners/.keep
+      - Community Partners/North West CDC.md
+      - Community Partners/Food from the Heart (FFTH).md
