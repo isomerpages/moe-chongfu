@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Food from the Heart (FFTH).md
       - North West CDC.md
       - PASSION.md
       - Chongfu Alumni.md
