@@ -13,6 +13,8 @@ third_nav_title: Community Partners
 
 Chongfu School has also attained the **Green Living Awards 2022 (Silver)** for demonstrating active participation and programmes quality in environmental initiatives in North West District.
 
+![North West CDC Green Living Awards 2022, Silver Plaque ](/images/NWCDC_GreenLivingAwards_SilverPlaque.jpeg)
+
 The following are some pictures of our students learning about water scarcity around Yishun Pond with the Waterways Watch Explorer (WWE) through a link-up by North West CDC.
 
 ![Students in active participation at the program](/images/Students_GreenLiving1.jpeg)
