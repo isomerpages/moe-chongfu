@@ -177,9 +177,17 @@ Our school has been worked with SHHK Education committee and the other 4 SHHK (P
 **Education and Career Guidance**<br> 
 Education and Career Guidance (ECG) helps students develop a sense of purpose in life. By nurturing self-awareness and self-directedness for lifelong learning, ECG helps students develop a growth mindset, adaptability, and a resilient attitude to embrace future opportunities and appreciate the value of all occupations.
 
-<img src="/images/CareerGuidance_Picture1.jpg" style="width:70%">
+<img src="/images/careerguidance_picture2.jpg" style="width:70%">
+<br>
+<img src="/images/careerguidance_picture3.jpg" style="width:70%">
 
 This programme aims to create an awareness of what is required to fulfil one’s aspiration and ambition through the ECG lessons and MySkillsFuture portal.
+
+<img src="/images/careerguidance_picture1.jpg" style="width:70%">
+<br>
+<img src="/images/careerguidance_picture4.jpg" style="width:70%">
+<br>
+<img src="/images/careerguidance_picture5.jpg" style="width:70%">
 
 Primary 5 and 6 students had fun navigating the rich content in the MySkillsFuture portal where they discovered their interests, abilities, and career aspirations.
 
