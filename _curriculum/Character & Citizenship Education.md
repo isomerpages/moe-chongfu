@@ -1,5 +1,5 @@
 ---
-title: Character & Citizenship Education
+title: Character &amp; Citizenship Education
 permalink: /curriculum/character-citizenship-education/
 description: ""
 ---
@@ -98,8 +98,7 @@ Leveraging on school values, the range of activities in our programme is planned
 * Character Education (Personal and Social Development) 
 * Citizenship Education
 
-<img src="/images/cce1.png" 
-     style="width:70%">
+<img src="/images/cce1.png" style="width:70%">
 		 
 Our tagline for student leadership is Every Chongfu student, A Leader advocates that Chongfu students are leaders who are able to lead, motivate and inspire others. They are confident, innovative and possess the courage and conviction to stand firm in overcoming challenges and obstacles. Under Personal and Social development, Chongfu students are taught to be gracious and socially responsible. They work effectively in teams and care for the community and the environment. They continually strive for excellence and take pride in all they do.
 
@@ -164,7 +163,7 @@ With the aim to develop gracious, patriotic and global thinkers, the CCE program
 
 CCE Lessons These lessons which include CCE Form Teacher Guidance Period (FTGP), CCE Mother Tongue Languages (MTL) and Programme for Active Learning (PAL) provide the time for teachers to engage and build relationships with their students through discussions and effective classroom strategies. In addition to the syllabus of character and citizenship education, the school aims to equip students with relevant life skills to help them deal effectively with demands and challenges of their everyday life. The life skills lessons provide basic tips to help them develop their personal growth across P1 to P6 levels in the following areas:
 
-* Social & Mental Health  
+* Social &amp; Mental Health  
 * Coping with Changes  
 * Study Skills
 
@@ -175,12 +174,28 @@ CCE Lessons (Mother Tongue) focuses on developing the moral and social well-bein
 
 Our school has been worked with SHHK Education committee and the other 4 SHHK (Primary) schools to jointly develop lesson package using SHHK graded storybooks to extend and reinforce teaching points aligned with the philosophy of our SHHK’s founder, Mr Tan Kah Kee, whilst maintaining the CCE (MT) syllabus/curriculum that espoused the R3ICH values, namely Respect, Responsibility, Resilience, Integrity, Caring and Harmony,.
 
+**Education and Career Guidance**<br> 
+Education and Career Guidance (ECG) helps students develop a sense of purpose in life. By nurturing self-awareness and self-directedness for lifelong learning, ECG helps students develop a growth mindset, adaptability, and a resilient attitude to embrace future opportunities and appreciate the value of all occupations.
+
+<img src="/images/careerguidance_picture2.jpg" style="width:70%">
+<br>
+<img src="/images/careerguidance_picture3.jpg" style="width:70%">
+
+This programme aims to create an awareness of what is required to fulfil one’s aspiration and ambition through the ECG lessons and MySkillsFuture portal.
+
+<img src="/images/careerguidance_picture1.jpg" style="width:70%">
+<br>
+<img src="/images/careerguidance_picture4.jpg" style="width:70%">
+<br>
+<img src="/images/careerguidance_picture5.jpg" style="width:70%">
+
+Primary 5 and 6 students had fun navigating the rich content in the MySkillsFuture portal where they discovered their interests, abilities, and career aspirations.
+
 **Social and Emotional Learning**<br> 
 Programmes are designed and delivered so that students understand and are able to effectively manage the personal and emotional aspects of one’s life. They will learn to understand the importance of relationships with others and be able to effectively manage these relationships. They will acquire skills and knowledge that facilitate life-long learning or prepare them for their future careers. They will also possess skills, knowledge, values and attitudes to lead a healthy lifestyle and meaningful life and be gracious individuals.
 
 
-<img src="/images/cce2.png" 
-     style="width:50%">
+<img src="/images/cce2.png" style="width:50%">
 	
 Teachers as Character Coaches lead students in reflecting and discussing relevant issues and scenarios. Students record their reflections which include knowledge and skills learnt in their journal.
 
@@ -199,5 +214,3 @@ Though families play the most important role in supporting the growth of a child
 
 **Tool**<br>
 The protocol includes both a CCE Development card and the use of Teacher Student Conference. The card is a formative assessment tool based specifically on teachers’ observations of the student in their daily behaviour and also teachers’ interaction with them. Teachers who are also Character Coaches then use the conference as the opportunities to have meaningful conversations around the development of character. The conference serves as a vehicle for people to talk about character in a rigorous and nuanced manner. Teachers and parents can get to know each student as a whole child before deciding on the best way to help them level up their competencies. Students can also use feedback from the CCE development card to develop self-understanding and to take ownership of their personal growth by planning the next steps to improve.
-
-
