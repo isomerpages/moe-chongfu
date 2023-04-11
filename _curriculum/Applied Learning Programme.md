@@ -116,7 +116,6 @@ Doing a Divergent Thinking Activity
 <br>
 <img style="width:100%" src="/images/alp_2023_picture10.jpg">
 Brainwriting
-				
 </div>
 	</li>
 				<li>  
@@ -129,12 +128,13 @@ SHHK Thinkers' Programme</b></label>
 <p>Over the March school break, our students had the chance to engage with industry professionals, including a doctor and senior staff from the Ministry of Health and the Health Promotion Board. The knowledge and perspectives shared by these experts helped our students generate ideas and solutions to empower Singaporeans to improve their quality of life by staying healthy.</p>
 				
 <p>Our students will be participating in a Thinkers Showcase where the best teams from all 5 SHHK schools come together and pitch their ideas to a panel of judges.</p>
-			
-<img style="width:" src="/images/ALP5.jpg">
-<img src="/images/ALP6.png">
-<img src="/images/ALP7.png">
-<img src="/images/ALP8.jpg">
-	<a href="https://phys.org/news/2020-03-lego-colourful-plastic-bricks-green.html">https://phys.org/news/2020-03-lego-colourful-plastic-bricks-green.html&nbsp;</a>
+
+<img style="width:100%" src="/images/alp_2023_picture11.jpg">
+Booth at the final showcase in 2022
+<br>
+<br>
+<img style="width:100%" src="/images/alp_2023_picture12.jpg">
+Sharing with judges and guests
 	</div>
 	</li>
 </ul>
