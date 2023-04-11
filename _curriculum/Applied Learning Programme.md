@@ -108,6 +108,14 @@ Click on the links below to view the projects done by the Primary 3 students:
 				
 <img style="width:100%" src="/images/alp_2023_picture8.jpg">
 Innovation Mentor from Nanyang Polytechnic
+<br>
+<br>
+<img style="width:100%" src="/images/alp_2023_picture9.jpg">
+Doing a Divergent Thinking Activity
+<br>
+<br>
+<img style="width:100%" src="/images/alp_2023_picture10.jpg">
+Brainwriting
 				
 </div>
 	</li>
