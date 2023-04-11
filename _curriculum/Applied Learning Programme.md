@@ -17,33 +17,33 @@ Students will be guided through these 5 processes in the Design Thinking Framewo
 
 The 5 non-linear processes students will experience are briefly explained below:
 
-<img src="/images/ALP-Tables-2.png" style="width:75%">
+<img style="width:75%" src="/images/ALP-Tables-2.png">
 
 Click on the links below to view the projects done by the Primary 3 students:
 
 <ul class="jekyllcodex_accordion">  
 &nbsp;&nbsp;<li>  
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">  
 		<label for="accordion1"><b>Featured Project 1</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 <b><u>Featured Project 1</u></b>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>A group of students from 3 Achieving (2021) saw the potential in redesigning their existing highlighter during&nbsp;<b>The Chongfu Design Thinkers’ Programme</b>, as seen below:</p>
 
 <b>Photo of Prototype:</b>  
-<img src="/images/ALP1.jpg" style="width:70%">
+<img style="width:70%" src="/images/ALP1.jpg">
 <img src="/images/ALP%202.png">
 <img src="/images/ALP%203.png">
 <img src="/images/ALP%204.png">
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><b>Featured Project 2</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;<p>In this project, a group of students from 3 Innovative (2021) were particularly invested in the notion of Recycling. During the “Empathy” stage of the Design Thinking Process, these students conducted in-depth interviews with their friends and classmates and discovered that there was a toy that can be found across most households but that has been severely under-utilised in recent years – LEGO.</p>
 
 <p>While Lego has vowed that its iconic bricks will be 100 percent sustainable by 2030, the current reality is that plastic is increasingly being shunned due to the lasting harm its chemical components do to the planet.1&nbsp;With this in mind, the students, with their&nbsp;<b>problem-solving mindset and cognitive flexibility</b>&nbsp;strengthened in the course of&nbsp;<b>The Chongfu Design Thinkers’ Programme</b>, decided to repurpose the LEGO they have at home.</p>  
-<img src="/images/ALP5.jpg" style="width:">
+<img style="width:" src="/images/ALP5.jpg">
 <img src="/images/ALP6.png">
 <img src="/images/ALP7.png">
 <img src="/images/ALP8.jpg">
@@ -51,21 +51,27 @@ Click on the links below to view the projects done by the Primary 3 students:
 	</div>
 	</li>
 	<li>  
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><b>P3 and P4 Programme </b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;<p>All our P3 and P4 students internalise the Design Thinking processes through 20 hours of hands-on activities, discussions, group work, prototype building and presentations where students go through the entire Design Thinking Process, making for a rich learning experience. </p>
 
-<p>Students will have ample opportunities to generate innovative solutions for everyday problems and will be empowered to work with group members to use enterprising ways to care for the environment. Students will learn to build empathy in reframing and resolving problems, practice wearing user-centric lenses, and learn to present with aids such as prototypes and storyboards to garner feedback and spark new ideas as part of the non-linear, iterative Design process. Interacting via Zoom with students from other countries will help open their minds up and help them to challenge assumptions. Students will enjoy the engaging learning process as they develop crucial future-ready skills to face a volatile, uncertain, complex and ambiguous (VUCA) world. </p>  
-<img src="/images/ALP5.jpg" style="width:">
-<img src="/images/ALP6.png">
-<img src="/images/ALP7.png">
-<img src="/images/ALP8.jpg">
-	<a href="https://phys.org/news/2020-03-lego-colourful-plastic-bricks-green.html">https://phys.org/news/2020-03-lego-colourful-plastic-bricks-green.html&nbsp;</a>
-	</div>
-	</li>
-		<li>  
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">  
+<p>Students will have ample opportunities to generate innovative solutions for everyday problems and will be empowered to work with group members to use enterprising ways to care for the environment. Students will learn to build empathy in reframing and resolving problems, practice wearing user-centric lenses, and learn to present with aids such as prototypes and storyboards to garner feedback and spark new ideas as part of the non-linear, iterative Design process. Interacting via Zoom with students from other countries will help open their minds up and help them to challenge assumptions. Students will enjoy the engaging learning process as they develop crucial future-ready skills to face a volatile, uncertain, complex and ambiguous (VUCA) world. </p> 		
+<img style="width:100%" src="/images/alp_2023_picture1.jpg">
+		Students presenting their prototype
+<br>
+<br>		
+<img style="width:100%" src="/images/alp_2023_picture2.jpg">
+		Prototype building	
+<br>
+<br>
+<img style="width:100%" src="/images/alp_2023_picture3.jpg">
+		Students showing off their prototype	
+		
+</div>
+</li>
+<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion4" type="checkbox">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4"><b>Creative Confidence Course</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;<p>To further develop creative confidence in our students with intentionality, in 2022 and 2023, Chongfu School collaborated with the <b>National Agency for Design, DesignSingapore Council (Dsg), and EYEYAH!</b>, a President’s Design Award Recipient which specialised in using vibrant images and animations in developing creative confidence in young students. The outcome was a course on creative confidence for all our P4 students to sharpen their Design Thinking skills.</p>
@@ -79,7 +85,7 @@ Click on the links below to view the projects done by the Primary 3 students:
 
 <p>Students have given feedback that they have learnt a lot through the teachers’ skillful facilitation of the arresting, thought-provoking, well-designed illustrations in the worksheets and slides, empowered by technological affordances (e.g. Augmented Reality) and enhanced by gamification (e.g. Kahoot quizzes) as well as timely peer-to-peer and teacher feedback (e.g. through Padlet, Nearpod, face-to-face communication)</p>
 			
-<img src="/images/ALP5.jpg" style="width:">
+<img style="width:" src="/images/ALP5.jpg">
 <img src="/images/ALP6.png">
 <img src="/images/ALP7.png">
 <img src="/images/ALP8.jpg">
@@ -87,7 +93,7 @@ Click on the links below to view the projects done by the Primary 3 students:
 	</div>
 	</li>
 			<li>  
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion5" type="checkbox">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5"><b>Innovators Programme</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;<p>Selected Primary 5 students join the Innovation Programme (IvP). The IvP aims to promote creative and independent thinking in students. Through the IvP, the students understand real-world problems, generate solutions, and develop innovation prototypes. These aspiring young innovators work actively in groups on a self-selected project under the guidance of their teacher-mentors.</p>
@@ -96,7 +102,7 @@ Click on the links below to view the projects done by the Primary 3 students:
 				
 <p>The IvP culminates in the Young Innovator’s Fair in November, where selected projects will be showcased through a stage presentation and poster exhibition.</p>
 			
-<img src="/images/ALP5.jpg" style="width:">
+<img style="width:" src="/images/ALP5.jpg">
 <img src="/images/ALP6.png">
 <img src="/images/ALP7.png">
 <img src="/images/ALP8.jpg">
@@ -104,7 +110,7 @@ Click on the links below to view the projects done by the Primary 3 students:
 	</div>
 	</li>
 				<li>  
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion6">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion6" type="checkbox">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6"><b>
 SHHK Thinkers' Programme</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
@@ -114,7 +120,7 @@ SHHK Thinkers' Programme</b></label>
 				
 <p>Our students will be participating in a Thinkers Showcase where the best teams from all 5 SHHK schools come together and pitch their ideas to a panel of judges.</p>
 			
-<img src="/images/ALP5.jpg" style="width:">
+<img style="width:" src="/images/ALP5.jpg">
 <img src="/images/ALP6.png">
 <img src="/images/ALP7.png">
 <img src="/images/ALP8.jpg">
