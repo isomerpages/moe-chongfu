@@ -7,7 +7,7 @@ Chongfu School aims to nurture a community of thinkers who are patriotic, gracio
 
 The ALP will focus on the use of Design Thinking practices to deliver the observable, aspirational and achievable outcomes as stated in the table below:
 
-![](/images/ALP-Tables.png)
+<img style="width:100%" src="/images/alp_2023_table1.png">
 
 **APPROACH**
 
@@ -17,7 +17,7 @@ Students will be guided through these 5 processes in the Design Thinking Framewo
 
 The 5 non-linear processes students will experience are briefly explained below:
 
-<img style="width:75%" src="/images/ALP-Tables-2.png">
+<img style="width:100%" src="/images/alp_2023_table2.png">
 
 Click on the links below to view the projects done by the Primary 3 students:
 
