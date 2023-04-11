@@ -67,7 +67,6 @@ Click on the links below to view the projects done by the Primary 3 students:
 <br>
 <img style="width:100%" src="/images/alp_2023_picture3.jpg">
 		Students showing off their prototype	
-		
 </div>
 </li>
 <li>  
@@ -77,19 +76,24 @@ Click on the links below to view the projects done by the Primary 3 students:
 &nbsp;<p>To further develop creative confidence in our students with intentionality, in 2022 and 2023, Chongfu School collaborated with the <b>National Agency for Design, DesignSingapore Council (Dsg), and EYEYAH!</b>, a President’s Design Award Recipient which specialised in using vibrant images and animations in developing creative confidence in young students. The outcome was a course on creative confidence for all our P4 students to sharpen their Design Thinking skills.</p>
 
 <p>This year, we also introduced a Poster Exhibition, Augmented Reality (AR) segment and assembly talk to further enrich the learning process. In the Poster Exhibition, students learnt to slow down and interpret thought-provoking environment-themed posters, building their creative muscle. In the AR segment, P3 students learnt about fun as a creative technique to persuade through personal experience. Through the P3 assembly talk, P3 students were trained in curiosity and creativity. </p>
+	
+<img style="width:100%" src="/images/alp_2023_picture4a.jpg">
+<img style="width:100%" src="/images/alp_2023_picture4b.jpg">
+		
 <p>Students were delighted and challenged with a poster exhibition held in the library, where students learnt to slow down, interpret the posters themed around sustainability, and build their creative muscle though observation, visual learning, making connections and divergent thinking.</p>
 
+<img style="width:100%" src="/images/alp_2023_picture5a.jpg">
+<img style="width:100%" src="/images/alp_2023_picture5b.jpg">
+	
 <p>Students also loved the interactive assembly programme, where students were taught how to think like a designer to train 21st century Design Thinking skills of curiosity and creativity on sustainability topics.</p>
-			
+
+<img style="width:100%" src="/images/alp_2023_picture6.png">
+	
 <p>Students particularly loved the fun Augmented Reality Treasure Hunt, where they grew their creativity muscle as they participated and even pledged to eat even ugly fruit and vegetables (which make up 40% of total food waste!) This incorporation of gamification helped to ignite learning through play.</p>
 
 <p>Students have given feedback that they have learnt a lot through the teachers’ skillful facilitation of the arresting, thought-provoking, well-designed illustrations in the worksheets and slides, empowered by technological affordances (e.g. Augmented Reality) and enhanced by gamification (e.g. Kahoot quizzes) as well as timely peer-to-peer and teacher feedback (e.g. through Padlet, Nearpod, face-to-face communication)</p>
-			
-<img style="width:" src="/images/ALP5.jpg">
-<img src="/images/ALP6.png">
-<img src="/images/ALP7.png">
-<img src="/images/ALP8.jpg">
-	<a href="https://phys.org/news/2020-03-lego-colourful-plastic-bricks-green.html">https://phys.org/news/2020-03-lego-colourful-plastic-bricks-green.html&nbsp;</a>
+
+<img style="width:100%" src="/images/alp_2023_picture7.png">
 	</div>
 	</li>
 			<li>  
@@ -101,13 +105,11 @@ Click on the links below to view the projects done by the Primary 3 students:
 <p>During IvP sessions, students will have opportunities to interact with innovation-mentors from external organisations.</p>
 				
 <p>The IvP culminates in the Young Innovator’s Fair in November, where selected projects will be showcased through a stage presentation and poster exhibition.</p>
-			
-<img style="width:" src="/images/ALP5.jpg">
-<img src="/images/ALP6.png">
-<img src="/images/ALP7.png">
-<img src="/images/ALP8.jpg">
-	<a href="https://phys.org/news/2020-03-lego-colourful-plastic-bricks-green.html">https://phys.org/news/2020-03-lego-colourful-plastic-bricks-green.html&nbsp;</a>
-	</div>
+				
+<img style="width:100%" src="/images/alp_2023_picture8.jpg">
+Innovation Mentor from Nanyang Polytechnic
+				
+</div>
 	</li>
 				<li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion6" type="checkbox">  
