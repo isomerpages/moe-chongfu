@@ -70,7 +70,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Sincere</span></td>
     <td class="tg-lm9i">Mrs Lim Meng Wah <br><a href="mailto:lim_meng_wah@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lim_meng_wah@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Li Pei Jie<br><a href="mailto:li_pei_jie@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">li_pei_jie@moe.edu.sg</span></a><br>Mdm Noraini Bte Amin</td>
+    <td class="tg-lm9i">Ms Li Pei Jie<br><a href="mailto:li_pei_jie@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">li_pei_jie@moe.edu.sg</span></a><br>Mdm Noraini Bte Amin<br><a href="mailto:noraini_amin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">noraini_amin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Loyal</span></td>
@@ -120,13 +120,13 @@ Ms Madihah Binte Ghazali<br>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Respectful</span></td>
+    <td class="tg-lm9i">Ms Geraldine Ann D'Cotta<br><a href="mailto:geraldine_ann_dcotta@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">geraldine_ann_dcotta@moe.edu.sg</span></a></td>
     <td class="tg-lm9i">Mr Ghazali Bin Abdol Wahab<br><a href="mailto:ghazali_abdol_wahab@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ghazali_abdol_wahab@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Sally Toh</span><br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Achieving</span></td>
     <td class="tg-lm9i">Ms Malani D/O Selvaraj<br><a href="mailto:malani_selvaraj@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">malani_selvaraj@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Mdm Noraini Bte Amin<br><a href="mailto:noraini_amin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">noraini_amin@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Sally Toh<br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Caring</span></td>
@@ -141,7 +141,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Observant</span></td>
     <td class="tg-lm9i">Ms Li Xin Xin 李欣欣<br><a href="mailto:li_xin_xin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">li_xin_xin@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Ms Seow Shu Feng<br></td>
+    <td class="tg-lm9i">Ms Wang Shi Yun Jaslyn<br><a href="mailto:wang_shiyun_jaslyn@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">wang_shiyun_jaslyn@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 United</span></td>
@@ -151,7 +151,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Sincere</span></td>
     <td class="tg-lm9i">Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">nur_lailie_jamal@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Yeo Seow Mei Jenny 杨秀美<br><a href="mailto:jenny_yeo_seow_mei@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">jenny_yeo_seow_mei@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Yeo Seow Mei Jenny 杨秀美<br><a href="mailto:jenny_yeo_seow_mei@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">jenny_yeo_seow_mei@moe.edu.sg</span></a><br>Ms Seow Shu Feng<br><a href="mailto:seow_shu_feng@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">seow_shu_feng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Loyal</span></td>
