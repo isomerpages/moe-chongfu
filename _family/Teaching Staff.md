@@ -126,7 +126,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Achieving</span></td>
     <td class="tg-lm9i">Ms Malani D/O Selvaraj<br><a href="mailto:malani_selvaraj@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">malani_selvaraj@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Sally Toh<br></td>
+    <td class="tg-lm9i">Ms Sally Toh<br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Caring</span></td>
