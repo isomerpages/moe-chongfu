@@ -479,7 +479,7 @@ Ms Madihah Binte Ghazali<br>
   </tr>
   
   <tr>
-    <td class="tg-soxn"><span style="font-weight:bold">NIE TRAINEES</span></td>
+    <td class="tg-soxn"><span style="font-weight:bold">NIE TRAINEE</span></td>
   </tr>
   <tr>
     <td class="tg-5xgq">Ms Xu Xiao Jie</td>
