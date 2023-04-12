@@ -423,7 +423,7 @@ Ms Madihah Binte Ghazali<br>
 	<tr>
     <td class="tg-ukh9"><span style="font-weight:bold">6 Achieving</span></td>
     <td class="tg-5xgq">Ms Tan Jie Ying Rachel<br><a href="mailto:tan_jie_ying_rachel@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tan_jie_ying_rachel@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Mdm Koh Siew Geok<br><a href="mailto:koh_siew_geok@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">koh_siew_geok@moe.edu.sg</span></a><br><br>Ms Zheng Yijun Elaine<br><a href="mailto:zheng_yijun_elaine@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">zheng_yijun_elaine@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mdm Koh Siew Geok<br><a href="mailto:koh_siew_geok@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">koh_siew_geok@moe.edu.sg</span></a><br>Ms Zheng Yijun Elaine<br><a href="mailto:zheng_yijun_elaine@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">zheng_yijun_elaine@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">6 Caring</span></td>
@@ -475,35 +475,16 @@ Ms Madihah Binte Ghazali<br>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5xgq">Ms Sally Toh</td>
+    <td class="tg-5xgq">Ms Siti Horrianie Binte Osmen</td>
   </tr>
-  <tr>
-    <td class="tg-5xgq">Ms Wang Shi Yun Jaslyn</td>
-  </tr>
-  <tr>
-    <td class="tg-5xgq">Ms Seow Shu Feng</td>
-  </tr>
-  <tr>
-    <td class="tg-5xgq">Ms Shona Cha Siew Lian</td>
-  </tr>
-	<tr>
-    <td class="tg-5xgq">Ms Elizabeth D/O Suppiah Jacob</td>
-  </tr>
+  
   <tr>
     <td class="tg-soxn"><span style="font-weight:bold">NIE TRAINEES</span></td>
   </tr>
   <tr>
-    <td class="tg-5xgq">Ms Nur Syafiqah Binte Mohamad Sham</td>
+    <td class="tg-5xgq">Ms Xu Xiao Jie</td>
   </tr>
-  <tr>
-    <td class="tg-5xgq">Ms Geraldine Ann D'Cotta</td>
-  </tr>
-  <tr>
-    <td class="tg-5xgq">Mr Kenn Roy Anthony</td>
-  </tr>
-	<tr>
-    <td class="tg-5xgq">Mdm Toh Sio Cheng</td>
-  </tr>
+  
 </tbody>
 </table>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
