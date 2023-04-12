@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<p>Brownies and Guiders from the North Division gathered on 31 March 2023 to celebrate the North Division Day. This year, the celebration hinges on the theme, ‘Our World, Our Peaceful Future’. In line with the United Nations Sustainability Development Goal (SDG) on Climate Action, a wide range of activities have been organized, in hope of empowering a generation of environmentally conscious girls and women to be active eco-stewards. </p>
+<p>Brownies and Guiders from the North Division gathered on 31 March 2023 to celebrate the North Division Day. This year, the celebration hinges on the theme, <b>‘Our World, Our Peaceful Future’</b>. In line with the United Nations Sustainability Development Goal (SDG) on Climate Action, a wide range of activities have been organized, in hope of empowering a generation of environmentally conscious girls and women to be active eco-stewards. </p>
 
 <p>Held at Fuchun Secondary School, more than 1000 girls and leaders from 37 schools from the North Division participated in the Culinary Challenge, Innovative Ideas Challenge, Dance &amp; Fitness Workout Competitions, Wide Game, Telematch, Spoken Word Poetry Recital and 100 Girls Project. </p>
 
