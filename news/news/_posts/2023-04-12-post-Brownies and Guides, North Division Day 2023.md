@@ -11,7 +11,10 @@ image: ""
 <p>Held at Fuchun Secondary School, more than 1000 girls and leaders from 37 schools from the North Division participated in the Culinary Challenge, Innovative Ideas Challenge, Dance &amp; Fitness Workout Competitions, Wide Game, Telematch, Spoken Word Poetry Recital and 100 Girls Project. </p>
 
 <img style="width:100%" src="/images/brownes_north_division_day_2023_picture1.jpg">
-		Students presenting their prototype
+		<br>
+		<img style="width:100%" src="/images/brownes_north_division_day_2023_picture2.jpg">
+		<br>
+		
 
 
 <p>Through these fun-filled activities, our brownies gained an awareness of the role they can play in conservation and sustainability efforts. Having given their best on that day, our brownies have done well in some of the competitions which they have participated in. Let’s celebrate their achievements! </p>
