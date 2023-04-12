@@ -61,16 +61,16 @@ Ms Madihah Binte Ghazali<br>
     <td class="tg-5xgq">Ms Chong Yue Yen Juliana<br><a href="mailto:chong_yue_yen_juliana@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">chong_yue_yen_juliana@moe.edu.sg</span></a></td>
     <td class="tg-lm9i">Ms Luo Huixian Santarina<br><a href="mailto:luo_huixian_santarina@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">luo_huixian_santarina@moe.edu.sg</span></a></td>
   </tr>
-  <tr>
+<tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 United</span></td>
-    <td class="tg-lm9i">Ms Sunitha Pillay<br><a href="mailto:s_sunitha_pillay@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">s_sunitha_pillay@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Wee Sze Hui Priscilla<br><a href="mailto:wee_sze_hui_priscilla@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">wee_sze_hui_priscilla@moe.edu.sg</span></a><br>
-		Ms Wang Shi Yun Jaslyn</td>
-  </tr>
+    <td class="tg-lm9i">Ms Wee Sze Hui Priscilla<br><a href="mailto:wee_sze_hui_priscilla@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">wee_sze_hui_priscilla@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Sunitha Pillay<br><a href="mailto:s_sunitha_pillay@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">s_sunitha_pillay@moe.edu.sg</span></a><br>
+	</td>
+</tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Sincere</span></td>
     <td class="tg-lm9i">Mrs Lim Meng Wah <br><a href="mailto:lim_meng_wah@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lim_meng_wah@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Li Pei Jie<br><a href="mailto:li_pei_jie@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">li_pei_jie@moe.edu.sg</span></a><br></td>
+    <td class="tg-lm9i">Ms Li Pei Jie<br><a href="mailto:li_pei_jie@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">li_pei_jie@moe.edu.sg</span></a><br>Mdm Noraini Bte Amin<br><a href="mailto:noraini_amin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">noraini_amin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Loyal</span></td>
@@ -120,13 +120,13 @@ Ms Madihah Binte Ghazali<br>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Respectful</span></td>
+    <td class="tg-lm9i">Ms Geraldine Ann D'Cotta<br><a href="mailto:geraldine_ann_dcotta@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">geraldine_ann_dcotta@moe.edu.sg</span></a></td>
     <td class="tg-lm9i">Mr Ghazali Bin Abdol Wahab<br><a href="mailto:ghazali_abdol_wahab@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ghazali_abdol_wahab@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Sally Toh</span><br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Achieving</span></td>
     <td class="tg-lm9i">Ms Malani D/O Selvaraj<br><a href="mailto:malani_selvaraj@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">malani_selvaraj@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Mdm Noraini Bte Amin<br><a href="mailto:noraini_amin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">noraini_amin@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Sally Toh<br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Caring</span></td>
@@ -141,7 +141,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Observant</span></td>
     <td class="tg-lm9i">Ms Li Xin Xin 李欣欣<br><a href="mailto:li_xin_xin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">li_xin_xin@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Ms Seow Shu Feng<br></td>
+    <td class="tg-lm9i">Ms Wang Shi Yun Jaslyn<br><a href="mailto:wang_shiyun_jaslyn@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">wang_shiyun_jaslyn@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 United</span></td>
@@ -151,7 +151,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Sincere</span></td>
     <td class="tg-lm9i">Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">nur_lailie_jamal@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Yeo Seow Mei Jenny 杨秀美<br><a href="mailto:jenny_yeo_seow_mei@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">jenny_yeo_seow_mei@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Yeo Seow Mei Jenny 杨秀美<br><a href="mailto:jenny_yeo_seow_mei@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">jenny_yeo_seow_mei@moe.edu.sg</span></a><br>Ms Seow Shu Feng<br><a href="mailto:seow_shu_feng@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">seow_shu_feng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Loyal</span></td>
@@ -204,12 +204,12 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Respectful</span></td>
     <td class="tg-lm9i">Ms Shalini D/O Sandra Mohan<br><a href="mailto:shalini_sandra_mohan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">shalini_sandra_mohan@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Png Jin Yee 方静亿<br><a href="mailto:png_jin_yee@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">png_jin_yee@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Mdm Toh Sio Cheng<br><a href="mailto:toh_sio_cheng@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">toh_sio_cheng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Achieving</span></td>
     <td class="tg-lm9i">Ms Jillyn Woo Wanyi<br><a href="mailto:jillyn_woo_wan_yi@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">jillyn_woo_wan_yi@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Siti Horrianie Binte Osmen<br></td>
+    <td class="tg-lm9i">Mr Kenn Roy Anthony<br><a href="mailto:kenn_roy_anthony@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">kenn_roy_anthony@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Caring</span></td>
@@ -219,7 +219,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Innovative</span></td>
     <td class="tg-5xgq">Ms Tin Yuen Fay<br><a href="mailto:tin_yuen_fay@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tin_yuen_fay@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Minjoot Jacqueline Constance</span><br><a href="mailto:minjoot_jacqueline_constance@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">minjoot_jacqueline_constance@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Minjoot Jacqueline Constance</span><br><a href="mailto:minjoot_jacqueline_constance@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">minjoot_jacqueline_constance@moe.edu.sg</span></a><br>Ms Nur Syafiqah Binte Mohamad Sham<br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Observant</span></td>
@@ -234,7 +234,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Sincere</span></td>
     <td class="tg-lm9i">Ms Lau Kui Fang Audrey<br><a href="mailto:lau_kui_fang_audrey@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lau_kui_fang_audrey@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Raudhah Nafisah Binte Hakim</span><br><a href="mailto:raudhah_nafisah_hakim@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">raudhah_nafisah_hakim@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Raudhah Nafisah Binte Hakim</span><br><a href="mailto:raudhah_nafisah_hakim@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">raudhah_nafisah_hakim@moe.edu.sg</span></a><br>Mdm Sri Rahayu Binte Ramlan<br></td>
   </tr>
 </tbody>
 </table> 
@@ -367,7 +367,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">5 Observant</span></td>
     <td class="tg-5xgq">Mdm Ho Ser Hui<br><a href="mailto:ho_ser_hui@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">ho_ser_hui@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Ms Maria Humairah Binte Roslan<br><a href="mailto:maria_humairah_roslan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">maria_humairah_roslan@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Ms Maria Humairah Binte Roslan<br><a href="mailto:maria_humairah_roslan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">maria_humairah_roslan@moe.edu.sg</span></a><br>Ms Png Jin Yee    方静亿<br><a href="mailto:png_jin_yee@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">png_jin_yee@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">5 United</span></td>
@@ -423,7 +423,7 @@ Ms Madihah Binte Ghazali<br>
 	<tr>
     <td class="tg-ukh9"><span style="font-weight:bold">6 Achieving</span></td>
     <td class="tg-5xgq">Ms Tan Jie Ying Rachel<br><a href="mailto:tan_jie_ying_rachel@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tan_jie_ying_rachel@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Mdm Koh Siew Geok<br><a href="mailto:koh_siew_geok@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">koh_siew_geok@moe.edu.sg</span></a><br><br>Ms Zheng Yijun Elaine<br><a href="mailto:zheng_yijun_elaine@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">zheng_yijun_elaine@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mdm Koh Siew Geok<br><a href="mailto:koh_siew_geok@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">koh_siew_geok@moe.edu.sg</span></a><br>Ms Zheng Yijun Elaine<br><a href="mailto:zheng_yijun_elaine@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">zheng_yijun_elaine@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">6 Caring</span></td>
@@ -475,35 +475,16 @@ Ms Madihah Binte Ghazali<br>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5xgq">Ms Sally Toh</td>
+    <td class="tg-5xgq">Ms Siti Horrianie Binte Osmen</td>
+  </tr>
+  
+  <tr>
+    <td class="tg-soxn"><span style="font-weight:bold">NIE TRAINEE</span></td>
   </tr>
   <tr>
-    <td class="tg-5xgq">Ms Wang Shi Yun Jaslyn</td>
+    <td class="tg-5xgq">Ms Xu Xiao Jie</td>
   </tr>
-  <tr>
-    <td class="tg-5xgq">Ms Seow Shu Feng</td>
-  </tr>
-  <tr>
-    <td class="tg-5xgq">Ms Shona Cha Siew Lian</td>
-  </tr>
-	<tr>
-    <td class="tg-5xgq">Ms Elizabeth D/O Suppiah Jacob</td>
-  </tr>
-  <tr>
-    <td class="tg-soxn"><span style="font-weight:bold">NIE TRAINEES</span></td>
-  </tr>
-  <tr>
-    <td class="tg-5xgq">Ms Nur Syafiqah Binte Mohamad Sham</td>
-  </tr>
-  <tr>
-    <td class="tg-5xgq">Ms Geraldine Ann D'Cotta</td>
-  </tr>
-  <tr>
-    <td class="tg-5xgq">Mr Kenn Roy Anthony</td>
-  </tr>
-	<tr>
-    <td class="tg-5xgq">Mdm Toh Sio Cheng</td>
-  </tr>
+  
 </tbody>
 </table>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
