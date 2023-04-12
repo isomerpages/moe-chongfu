@@ -48,13 +48,13 @@ The 5 non-linear processes students will experience are briefly explained below:
 
 <p>This year, we also introduced a Poster Exhibition, Augmented Reality (AR) segment and assembly talk to further enrich the learning process. In the Poster Exhibition, students learnt to slow down and interpret thought-provoking environment-themed posters, building their creative muscle. In the AR segment, P3 students learnt about fun as a creative technique to persuade through personal experience. Through the P3 assembly talk, P3 students were trained in curiosity and creativity. </p>
 	
-<img style="width:100%" src="/images/alp_2023_picture4a.jpg">
-<img style="width:100%" src="/images/alp_2023_picture4b.jpg">
+<img style="width:75%" src="/images/alp_2023_picture4a.jpg">
+<img style="width:75%" src="/images/alp_2023_picture4b.jpg">
 		
 <p>Students were delighted and challenged with a poster exhibition held in the library, where students learnt to slow down, interpret the posters themed around sustainability, and build their creative muscle though observation, visual learning, making connections and divergent thinking.</p>
 
-<img style="width:100%" src="/images/alp_2023_picture5a.jpg">
-<img style="width:100%" src="/images/alp_2023_picture5b.jpg">
+<img style="width:75%" src="/images/alp_2023_picture5a.jpg">
+<img style="width:75%" src="/images/alp_2023_picture5b.jpg">
 	
 <p>Students also loved the interactive assembly programme, where students were taught how to think like a designer to train 21st century Design Thinking skills of curiosity and creativity on sustainability topics.</p>
 
