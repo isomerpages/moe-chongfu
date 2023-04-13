@@ -219,7 +219,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Innovative</span></td>
     <td class="tg-5xgq">Ms Tin Yuen Fay<br><a href="mailto:tin_yuen_fay@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tin_yuen_fay@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Minjoot Jacqueline Constance</span><br><a href="mailto:minjoot_jacqueline_constance@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">minjoot_jacqueline_constance@moe.edu.sg</span></a><br>Ms Nur Syafiqah Binte Mohamad Sham<br></td>
+    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Minjoot Jacqueline Constance</span><br><a href="mailto:minjoot_jacqueline_constance@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">minjoot_jacqueline_constance@moe.edu.sg</span></a><br>Ms Nur Syafiqah Binte Mohamad Sham<br><a href="mailto:minjoot_jacqueline_constance@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">nur_syafiqah_mohamad_sham@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Observant</span></td>
