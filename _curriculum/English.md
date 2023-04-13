@@ -3,27 +3,16 @@ title: English
 permalink: /curriculum/english/
 description: ""
 ---
-### OUR MOTTO
+### OUR VISION &amp; GOALS
 
-The **A-C-A-P** approach is adopted with the aim of developing our students to become effective and competent language learners:
+<img style="width:100%" src="/images/el_dept_2023_website_vision_goals_picture1.jpg">
+<br>
+<img style="width:100%" src="/images/el_dept_2023_website_vision_goals_picture2.jpg">
 
-**A**vid Reader  <br>
-**C**onfident Speakers  <br>
-**A**ctive Listeners  <br>
-**P**roficient Writers
-
-### OUR CORE FOCUS
-
-To align with the aim of MOE’s EL Syllabus 2010 to develop effective language use – through building a strong foundation and providing rich language for all, the EL Department aims to infuse the following core areas into our curriculum:
-
-1.  **Self-directed & Collaborative Learning through the use of ICT**
-2.  **Creative & Critical Thinking Skills**
-3.  **Socio-Emotional Learning Competencies**
-4.  **Varied modes of formative assessment**
 
 ### OUR PROGRAMMES/ INITIATIVES
 
-The department focuses on the students’ acquisition and development of these main skills of language learning, namely, Reading & Listening, Speaking & Writing and Viewing & Representing.
+The department focuses on the students’ acquisition and development of these main skills of language learning, namely, Reading &amp; Listening, Speaking &amp; Writing and Viewing &amp; Representing.
 
 _Click on the following links to find out more._
 
@@ -85,17 +74,16 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>
-    <input type="checkbox" id="accordion5">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
 	<label for="accordion5"><b>Achievements</b></label>
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 			<p><b>17th World Children’s Haiku Contest</b></p>
-<img src="/images/EnglishDept_PictureUpdate_1.jpg" 
-     style="width:70%">
-      <p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, students are taught the different types of poems across the levels (e.g. Rhyming, Acrostic, Reverse poems, Haiku, Tanka, Cinquain).</p>
+<img src="/images/EnglishDept_PictureUpdate_1.jpg" style="width:70%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, students are taught&nbsp;the different types of poems across the levels (e.g. Rhyming, Acrostic, Reverse poems, Haiku, Tanka, Cinquain).</p>
 
-			<p>Chongfu School participated in the 17th World Children’s Haiku Contest organised by the JAL Foundation in conjunction with the Haiku International Association, and supported by Ministry of Foreign Affairs, Agency for Cultural Affairs, Japan Committee for UNICEF and the Japan Foundation.</p>
+			<p>Chongfu School participated in the&nbsp;17th World Children’s Haiku Contest&nbsp;organised by the JAL Foundation in conjunction with the Haiku International Association, and supported by&nbsp;Ministry of Foreign Affairs,&nbsp;Agency for Cultural Affairs,&nbsp;Japan Committee for UNICEF and the Japan Foundation.</p>
 
-			<p>The theme of the 17th contest is ' Towns '. The haiku must be accompanied by hand-drawn or hand-crafted artwork.</p>
+			<p>The theme of the 17th contest is '&nbsp;Towns&nbsp;'.&nbsp;The haiku must be accompanied by hand-drawn or hand-crafted artwork.</p>
 
 			<p>Out of the 1731 entries received, the organiser have selected 7 JAL Grand Prize, 30 JAL Prize and 5 Regional Manager Prize from Singapore.</p>
 
@@ -162,10 +150,9 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
   </tr>
 </tbody>
 </table>
-<p><b>Wits & Words: Inter-school Debate Championship 2022</b></p>
-<img src="/images/EnglishDept_PictureUpdate_2.jpg" 
-     style="width:70%">
-    </div>
+<p><b>Wits &amp; Words: Inter-school Debate Championship 2022</b></p>
+<img src="/images/EnglishDept_PictureUpdate_2.jpg" style="width:70%">
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 	</li>
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion6" type="checkbox">  
@@ -184,9 +171,9 @@ The anthology captures the different types of poems that students embark on. Be 
 </div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion7">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">  
 	<label for="accordion7"><b>Chongfu Anthology 2021</b></label>  
-    <div>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
 <p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.</p>
  
 
@@ -200,17 +187,17 @@ The anthology captures the different types of poems that students embark on. Be 
 <p><a href="https://www.flipsnack.com/p4chongfuanthology2021/p4-anthology-2021-dxciv1vqwd.html">P4 Chongfu Anthology 2021</a></p>
 <p><a href="https://www.flipsnack.com/p4chongfuanthology2021/p5-anthology-2021-h956j5j7t9.html">P5 Chongfu Anthology 2021</a></p>
 <p><a href="https://www.flipsnack.com/p4chongfuanthology2021/p6-anthology-2021-1magisitk5.html">P6 Chongfu Anthology 2021</a></p>
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 	<li>  
-    <input type="checkbox" id="accordion8">  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion8">  
 	<label for="accordion8"><b>Chongfu Anthology 2022</b></label>  
 		 <div>
 		<p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.
 
-<p>This year, the anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.
+</p><p>This year, the anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.
 	
-<p>Here are the links to the flipbook copies:
+</p><p>Here are the links to the flipbook copies:
 <br>
 	<a href="https://heyzine.com/flip-book/e8705d2c8f.html">P1 - Chongfu Anthology 2022 P1</a>	
 <br>
@@ -222,6 +209,6 @@ The anthology captures the different types of poems that students embark on. Be 
 	<a href="https://heyzine.com/flip-book/ae1917ac58.html">P5 - Chongfu Anthology 2022 P5</a>	
 <br>
 	<a href="https://heyzine.com/flip-book/dcf22b2af1.html">P6 - Chongfu Anthology 2022 P6</a>	
-		</div>  
+		</p></div>  
 </li>
 </ul>
