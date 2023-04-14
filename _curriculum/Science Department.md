@@ -22,11 +22,13 @@ The **BSCS 5E Instructional Model** requires the learning experience to be seque
 
 Using these approaches to design Science lessons, we seek to inculcate in students a **sense of curiosity and wonderment** about the things around them. We strive to provide opportunities for them to **relate scientific concepts to real-life phenomena** and to encourage them to **ask questions about the world around them**. With these, the learning of Science will then become more meaningful and joyful. 
 
-
-
-<img src="/images/Science_Pic_2.jpg" style="width:80%">
-		 
-<img src="/images/Science_Pic_3.jpg" style="width:80%">
+<img style="width:100%" src="/images/scidept2023_picture2a.jpg">  
+<br>
+<img style="width:100%" src="/images/scidept2023_picture3a.jpg">  
+<br>
+<img style="width:100%" src="/images/scidept2023_picture4a.jpg">  
+<br>
+<img style="width:100%" src="/images/scidept2023_picture5a.jpg">  
 		 
 ### Science Curriculum and Holistic Assessment
 
