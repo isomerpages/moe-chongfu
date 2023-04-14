@@ -66,9 +66,13 @@ The learning activities are designed to develop pupils in various domains and ho
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Chongfu School stands committed to doing our part for the environment, reducing carbon emissions and nurturing our students to be Stewards of the Environment.</p>
 
 <p>Beyond the Science, and CCE core curricula which have integrated the teaching and learning of sustainability concepts, the Science department is working to advocate for sustainability practices that students can adopt as daily habits such as saving energy and water and reducing food waste. This strengthens the importance of sustainability as an integral part of our culture. Through the years, we have received several awards in recognition of our sustained environmental efforts. </p>
+
+<img style="width:75%" src="/images/scidept2023_table1a.JPG">	
 	
 <p>The Science department partners with our parent volunteers in the maintenance of the Ecogarden. Where possible, the school also strives to leverage community partnerships to offer students more environment-related learning opportunities. Our sustained efforts to collaborate with and contribute to the North West community have been recognised through our achievement of the Outstanding School Partner Awards through the years.</p>
 
+<img style="width:75%" src="/images/scidept2023_table2a.JPG">	
+<br>	
 <img style="width:100%" src="/images/scidept2023_picture9a.jpg">
 <br>
 <img style="width:100%" src="/images/scidept2023_picture10a.jpg">
