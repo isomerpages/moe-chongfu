@@ -117,7 +117,9 @@ The learning activities are designed to develop pupils in various domains and ho
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>We participate in selected competitions, enrichment programmes and Olympiads, in order to provide selected students with wider opportunities and exposure to platforms beyond the school for them to apply the scientific skills and knowledge, learnt in school in authentic contexts.</p>
 
 <p>Some of our students have done our school proud with their resilience and stellar performance. Some of these activities are listed below.</p>
-<img src="/images/Science_Pic_10.jpg" style="width:70%">
+
+<img style="width:100%" src="/images/scidept2023_table3a.JPG">	
+	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
 </ul>
