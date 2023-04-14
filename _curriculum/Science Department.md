@@ -61,12 +61,20 @@ The learning activities are designed to develop pupils in various domains and ho
 </li>
 &nbsp;<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-	 <label for="accordion2"><b>2. Play to Learn @ Chongfu Grace (Recess Activities)</b></label>
+	 <label for="accordion2"><b>2. Environment Education @ Chongfu</b></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Chongfu’s Grace is an outdoor learning space which is equipped with Science toys, an indoor nursery, and eco-friendly features such as solar panels that power the fans and lights, a rainwater harvesting tank with an auto-irrigation function, and a green wall.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Chongfu School stands committed to doing our part for the environment, reducing carbon emissions and nurturing our students to be Stewards of the Environment.</p>
 
-<p>The department provide exciting opportunities for students to engage in science-based unstructured play and exploration with their peers during recess at Chongfu’s Grace. Some of these activities students could do include:</p>
+<p>Beyond the Science, and CCE core curricula which have integrated the teaching and learning of sustainability concepts, the Science department is working to advocate for sustainability practices that students can adopt as daily habits such as saving energy and water and reducing food waste. This strengthens the importance of sustainability as an integral part of our culture. Through the years, we have received several awards in recognition of our sustained environmental efforts. </p>
+	
+<p>The Science department partners with our parent volunteers in the maintenance of the Ecogarden. Where possible, the school also strives to leverage community partnerships to offer students more environment-related learning opportunities. Our sustained efforts to collaborate with and contribute to the North West community have been recognised through our achievement of the Outstanding School Partner Awards through the years.</p>
 
+<img style="width:100%" src="/images/scidept2023_picture9a.jpg">
+<br>
+<img style="width:100%" src="/images/scidept2023_picture10a.jpg">
+<br>	
+<img style="width:100%" src="/images/scidept2023_picture11a.jpg">  	
+	
 <ul>
 	<li>playing with Science toys;</li>
 	<li>the active exploration of the Eco garden; and</li>
