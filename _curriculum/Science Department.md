@@ -14,16 +14,15 @@ We hope that our students will be **inspired by Science**, and have opportunitie
 
 <img style="width:100%" src="/images/scidept2023_picture1a.jpg">  
 		 
-
 ### Inquiry-Based Learning
 
-We use the&nbsp;**BSCS 5E Instructional Model**&nbsp;for the teaching and learning of Science. Using this model, the learning experience is sequenced to enable learners to construct their understanding of a science key concept over time. Each phase of the learning sequence can be described using five words that begin with E: engage, explore, explain, elaborate, and evaluate.
+The **BSCS 5E Instructional Model** requires the learning experience to be sequenced so as to enable learners to construct their understanding of a science key concept over time. The phases of the learning sequence are to: engage, explore, explain, elaborate, and evaluate. 
 
-**Inquiry-based Science instruction**&nbsp;engages students in the processes of formulating predictions, organising and interpreting data, and communicating results using Science terminology.
+**Inquiry-based Science instruction** engages students in the processes of formulating predictions, organising and interpreting data, and communicating results using Science terminology. 
 
-In the use of these approaches to design Science lessons, we seek to inculcate in students a&nbsp;**sense of curiosity and wonderment**&nbsp;about the things around them. We strive to provide opportunities for them to&nbsp;**relate scientific concepts to real-life phenomena**&nbsp;and to encourage them to&nbsp;**ask questions about the world around them.**&nbsp;With these, the learning of Science will then become more meaningful and joyful.
+Using these approaches to design Science lessons, we seek to inculcate in students a **sense of curiosity and wonderment** about the things around them. We strive to provide opportunities for them to **relate scientific concepts to real-life phenomena** and to encourage them to **ask questions about the world around them**. With these, the learning of Science will then become more meaningful and joyful. 
 
-We hope that our students would be&nbsp;**inspired by Science,**&nbsp;and have opportunities to&nbsp;**inquire like Scientists**&nbsp;such that they will be empowered to&nbsp;**innovate using Science**&nbsp;to solve problems of the future.
+
 
 <img src="/images/Science_Pic_2.jpg" style="width:80%">
 		 
