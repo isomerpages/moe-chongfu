@@ -60,7 +60,6 @@ The learning activities are designed to develop pupils in various domains and ho
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
 &nbsp;<li>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 	 <label for="accordion2"><b>2. Play to Learn @ Chongfu Grace (Recess Activities)</b></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
