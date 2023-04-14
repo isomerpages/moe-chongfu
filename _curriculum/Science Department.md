@@ -100,9 +100,9 @@ The learning activities are designed to develop pupils in various domains and ho
 </li>
 &nbsp;<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4"><b>4. Excellence 2000 (E2K) Science Programme (for P4, P5, and P6 students)</b></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4"><b>4. Excellence 2000 (E2K) Science Programme </b></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Chongfu School works closely with the Gifted Education Branch (MOE) in piloting and implementing an enrichment programme known as the Excellence 2000 (E2K) Science Programme. This programme is for selected students who demonstrate strong interest and aptitude in Science.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Chongfu School works closely with the Gifted Education Branch (MOE) in implementing an enrichment programme known as the Excellence 2000 (E2K) Science Programme. This programme is for selected students who demonstrate strong interest and aptitude in Science.</p>
 
 <p>This is based on a curriculum for talented students in Israel. The instructional methodology and materials are designed to be relevant to the learners’ lives, with a strong focus on process and thinking skills in Science. They are aimed at stimulating curiosity while developing and strengthening abilities to study phenomena and their possible causes.</p>
 
