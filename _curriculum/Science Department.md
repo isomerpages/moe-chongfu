@@ -12,7 +12,7 @@ Our students are diverse, with different interests, aptitudes and learning needs
 
 We hope that our students will be **inspired by Science**, and have opportunities to **inquire like Scientists** such that they will be empowered to **innovate using Science** to solve problems of the future.
 
-<img style="width:100%" src="/images/scidept2023_picture1a.jpg">  
+<img style="width:100%" src="/images/scidept2023_picture1a.JPG">  
 		 
 ### Inquiry-Based Learning
 
@@ -24,7 +24,7 @@ Using these approaches to design Science lessons, we seek to inculcate in studen
 
 <img style="width:100%" src="/images/scidept2023_picture2a.jpg">  
 <br>
-<img style="width:100%" src="/images/scidept2023_picture3a.jpg">  
+<img style="width:100%" src="/images/scidept2023_picture3a.JPG">  
 <br>
 <img style="width:100%" src="/images/scidept2023_picture4a.jpg">  
 <br>
@@ -73,7 +73,7 @@ The learning activities are designed to develop pupils in various domains and ho
 
 <img style="width:75%" src="/images/scidept2023_table2a.JPG">	
 <br>	
-<img style="width:100%" src="/images/scidept2023_picture9a.jpg">
+<img style="width:100%" src="/images/scidept2023_picture9aa.jpg">
 <br>
 <img style="width:100%" src="/images/scidept2023_picture10a.jpg">
 <br>	
@@ -118,7 +118,7 @@ The learning activities are designed to develop pupils in various domains and ho
 
 <p>Some of our students have done our school proud with their resilience and stellar performance. Some of these activities are listed below.</p>
 
-<img style="width:100%" src="/images/scidept2023_table3a.JPG">	
+<img style="width:75%" src="/images/scidept2023_table3a.JPG">	
 	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
