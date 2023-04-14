@@ -5,9 +5,9 @@ description: ""
 ---
 ### OUR VISION &amp; GOALS
 
-<img style="width:100%" src="/images/el_dept_2023_website_vision_goals_picture1.jpg">
+<img style="width:100%" src="/images/el_dept_2023_website_vision_goals_picture1a.jpg">
 <br>
-<img style="width:100%" src="/images/el_dept_2023_website_vision_goals_picture2.jpg">
+<img style="width:100%" src="/images/el_dept_2023_website_vision_goals_picture2a.jpg">
 
 
 ### OUR PROGRAMMES/ INITIATIVES
