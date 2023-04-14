@@ -48,14 +48,15 @@ The learning activities are designed to develop pupils in various domains and ho
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>For Science WANDer, students presented magic tricks to the school during morning assembly. In one instance, the student magicians demonstrated how an egg could be pushed into a bottle using differences in air pressure. They then linked this to the experience of getting “airplane ears” while on a plane.</p>
 
 <p>As part of an intra-school challenge, some of our students embarked on an engineering project, CanBridge Hold'em. Using no more than 50 satay sticks, they are to design and build bridges that could support at least 1kg of mass. The myriad of designs they came up with was incredible!</p>
+
+<img style="width:100%" src="/images/scidept2023_picture7a.jpg">  
 	
-<p>Through the years, we have received several awards for our sustained environmental efforts.</p>
-<img src="/images/Science_Table_1.jpg" style="width:70%">
-<p>The Science department&nbsp;partners with our parent volunteers in the maintenance of the Eco garden.&nbsp;Where possible, the school also strives to leverage community partnerships to offer students more environment-related learning opportunities, and a better understanding of future “green jobs.” Our sustained efforts to collaborate with and contribute to the North West community have been recognised through our achievement of the Outstanding School Partner Awards through the years.</p>
-<img src="/images/Science_Table_2.jpg" style="width:70%">
-<img src="/images/Science_Pic_5.png" style="width:70%">
-<img src="/images/Science_Pic_6.jpg" style="width:70%">
-<img src="/images/Science_Pic_7.jpg" style="width:70%">
+<p>During recess, students can pick up Science magazines at the Scientists’ Reading Lab to read comics related to Science concepts or drop by Chongfu’s Grace to tinker with Science toys and catch insects.</p>
+	
+<p>These are just several ways through which the Science department provides opportunities outside the classroom for students to learn real-life applications of Science, Technology, Engineering and Mathematical (STEM) concepts. With these experiences, learning Science become more meaningful and joyful.</p>
+
+<img style="width:100%" src="/images/scidept2023_picture8a.jpg">  
+
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
 &nbsp;<li>
