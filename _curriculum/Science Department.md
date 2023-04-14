@@ -7,8 +7,8 @@ description: ""
 
 Our students are diverse, with different interests, aptitudes and learning needs for Science. In line with MOE’s Science curriculum framework, we seek to
 
-1.  **enthuse**&nbsp;and nurture all students to be scientifically literate, so that they are able to make informed decisions and take responsible actions in their daily lives; and&nbsp;&nbsp;
-2.  **provide**&nbsp;strong Science fundamentals for students to innovate and pursue STEM for their future learning and work.
+1. **enthuse**&nbsp;and nurture all students to be scientifically literate, so that they are able to make informed decisions and take responsible actions in their daily lives; and&nbsp;&nbsp;
+2. **provide**&nbsp;strong Science fundamentals for students to innovate and pursue STEM for their future learning and work.
 
 We hope that our students will be **inspired by Science**, and have opportunities to **inquire like Scientists** such that they will be empowered to **innovate using Science** to solve problems of the future.
 
@@ -32,17 +32,11 @@ Using these approaches to design Science lessons, we seek to inculcate in studen
 		 
 ### Science Curriculum and Holistic Assessment
 
-The Science curriculum is implemented in the classroom through teacher-facilitated hands-on activities, experiments and discussion. Where meaningful, students also practise Thinking Routines such as&nbsp;**“I See – I Think – I Wonder”**&nbsp;during the inquiry process and&nbsp;**“Claim – Evidence – Reasoning”**&nbsp;when giving scientific explanations.
+The Science curriculum is implemented in the classroom through teacher-facilitated hands-on activities, experiments and discussion. Where meaningful, students also practise Thinking Routines such as **“I See – I Think – I Wonder”** during the inquiry process and **“Claim – Evidence – Reasoning”** when giving scientific explanations. 
 
-The learning activities are designed to develop pupils in various domains and holistic assessment tasks are crafted to monitor pupils’ progress. Each holistic assessment task is carefully aligned to learning outcomes and students’ performance will inform teachers of the intervention required. To assess attitudes and skills, tasks beyond the traditional pen and paper tests have been designed. Some examples of Science holistic tasks include:
+The learning activities are designed to develop pupils in various domains and holistic assessment tasks are crafted to monitor pupils’ progress. To assess attitudes and skills, tasks beyond the traditional pen-and-paper tests have been designed. Some examples of Science holistic tasks include model-making projects and performance tasks.
 
-– Model-making projects
-
-– Concept Cartoons
-
-– Performance tasks
-
-<img src="/images/Science_Pic_4.jpg" style="width:80%">
+<img style="width:100%" src="/images/scidept2023_picture6a.jpg">  
 		 
 ### Department Programme Highlights
 
