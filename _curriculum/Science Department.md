@@ -43,19 +43,12 @@ The learning activities are designed to develop pupils in various domains and ho
 <ul class="jekyllcodex_accordion">
 &nbsp;&nbsp;<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-		<label for="accordion1"><b>1. Environment Education @ Chongfu</b></label>
+		<label for="accordion1"><b>1. Learning Science outside the classroom </b></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Chongfu School stands committed to doing our part for the environment and in actively nurturing our students to learn, practise and contribute to a sustainable Singapore.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>For Science WANDer, students presented magic tricks to the school during morning assembly. In one instance, the student magicians demonstrated how an egg could be pushed into a bottle using differences in air pressure. They then linked this to the experience of getting “airplane ears” while on a plane.</p>
 
-<p>Beyond the Science, and CCE core curricula which have integrated the teaching and learning of sustainability concepts, the Science department is working to&nbsp;<b>advocate for sustainability practices that students can adopt as daily habits</b>&nbsp;such as saving energy and water and reducing food waste. This strengthens the importance of sustainability as an integral part of our culture. Some of the activities conducted as part of Environment Education include:</p>
-<ul>
-	<li>school-wide newspaper recycling project;</li>
-	<li>assembly talks;</li>
-	<li>activities in conjunction with international environmental events;</li>
-	<li>student-led activities organised by the Environmental Club CCA and the Prefectorial Board;</li>
-	<li>upcycling projects; and</li>
-	<li>Design Thinking projects (tie in with the ALP)</li>
-			</ul>
+<p>As part of an intra-school challenge, some of our students embarked on an engineering project, CanBridge Hold'em. Using no more than 50 satay sticks, they are to design and build bridges that could support at least 1kg of mass. The myriad of designs they came up with was incredible!</p>
+	
 <p>Through the years, we have received several awards for our sustained environmental efforts.</p>
 <img src="/images/Science_Table_1.jpg" style="width:70%">
 <p>The Science department&nbsp;partners with our parent volunteers in the maintenance of the Eco garden.&nbsp;Where possible, the school also strives to leverage community partnerships to offer students more environment-related learning opportunities, and a better understanding of future “green jobs.” Our sustained efforts to collaborate with and contribute to the North West community have been recognised through our achievement of the Outstanding School Partner Awards through the years.</p>
