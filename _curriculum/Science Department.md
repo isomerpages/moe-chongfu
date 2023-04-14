@@ -7,8 +7,7 @@ description: ""
 
 Our students are diverse, with different interests, aptitudes and learning needs for Science. In line with MOE’s Science curriculum framework, we seek to
 
-1.  **enthuse**&nbsp;and nurture all students to be scientifically literate, so that they are able to make informed decisions and  
-    take responsible actions in their daily lives; and&nbsp;&nbsp;
+1.  **enthuse**&nbsp;and nurture all students to be scientifically literate, so that they are able to make informed decisions and take responsible actions in their daily lives; and&nbsp;&nbsp;
 2.  **provide**&nbsp;strong Science fundamentals for students to innovate and pursue STEM for their future learning and work.
 
 We hope that our students will be **inspired by Science**, and have opportunities to **inquire like Scientists** such that they will be empowered to **innovate using Science** to solve problems of the future.
