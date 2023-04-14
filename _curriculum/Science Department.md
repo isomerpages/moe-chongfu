@@ -75,13 +75,6 @@ The learning activities are designed to develop pupils in various domains and ho
 <br>	
 <img style="width:100%" src="/images/scidept2023_picture11a.jpg">  	
 	
-<ul>
-	<li>playing with Science toys;</li>
-	<li>the active exploration of the Eco garden; and</li>
-	<li>performing self-directed experiments.</li>
-			</ul>
-<p>These experiences allow opportunities for incidental learning and can spark interest in the learning of Science.</p>
-<img src="/images/Science_Pic_8.jpg" style="width:70%">
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
 	
