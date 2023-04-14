@@ -106,8 +106,8 @@ The learning activities are designed to develop pupils in various domains and ho
 
 <p>This is based on a curriculum for talented students in Israel. The instructional methodology and materials are designed to be relevant to the learners’ lives, with a strong focus on process and thinking skills in Science. They are aimed at stimulating curiosity while developing and strengthening abilities to study phenomena and their possible causes.</p>
 
-<p>Just as scientists make mistakes in the real world, E2K Science students are encouraged to be broad-thinking, adventurous and not be afraid to make mistakes in their investigations.&nbsp;Through the programme, we motivate the learners to be confident and independent researchers in their own right. Students are also given the opportunity to share their interest areas and learning with the school by virtual science busking.</p>
-<img src="/images/Science_Pic_9.jpg" style="width:70%">
+<img style="width:100%" src="/images/scidept2023_picture14a.jpg">	
+
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
 <li>
