@@ -84,13 +84,18 @@ The learning activities are designed to develop pupils in various domains and ho
 	
 <li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-	<label for="accordion3"><b>3. Science Learning Journeys</b></label>
+	<label for="accordion3"><b>3. Urban Farm @ Chongfu</b></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Learning Journeys help to extend the learning of Science beyond the classrooms. They help to provide authentic experiences of Science in the real world.</p>
-<ul>
-	<li><b>P3 &amp; 4:</b>&nbsp;Post-exam workshops at the Singapore Science Centre</li>
-	<li><b>P5 &amp; 6:</b>&nbsp;Post-exam workshops on Bacteria Outbreak and DNA Detective at the Singapore Science Centre</li>
-			</ul>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>In 2023, our school launched the opening of our very own urban farm.</p>
+
+<p>Farming lessons have been incorporated into the P1 and P2 PAL Outdoor Education domain and the Science curriculum. Students from various CCA groups, teachers, as well as parents have also been allocated plots to grow their vegetables.</p>
+
+<p>Compared to traditional soil farming, the soilless farm is cleaner, uses less water and energy, and provides a higher yield. As a food-loving nation, we have to make our food supply more resilient. Through their experiences working on the urban farm, we hope to inspire our students and provide an opportunity for them to develop an interest in this sector.</p>
+
+<img style="width:100%" src="/images/scidept2023_picture12a.jpg">
+<br>	
+<img style="width:100%" src="/images/scidept2023_picture13a.jpg">	
+	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
 &nbsp;<li>
