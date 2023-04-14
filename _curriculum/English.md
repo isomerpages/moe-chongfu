@@ -43,7 +43,7 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 
 <b>Show &amp; Tell (P1-P2)</b><br>
 <p>To build confidence in public speaking, Show &amp; Tell was introduced as a form of formative assessment for the Lower Primary students, where students are required a bring an item from home and using vivid and precise language, describe why they have chosen the particular item, where they got it from and other relevant information. Students are also taught and encouraged to pose questions to the presenters, honing their listening and thinking skills.</p>
-<img style="width:50%" src="/images/EL%201.png">
+<img style="width:75%" src="/images/EL%201.png">
 	<b>Chongfu 811 (Radio Station)</b><br> 
 <p>To encourage students to share their opinions freely, the Chongfu radio station named Chongfu 811 is established in 2021 and broadcasts are carried out weekly. Anchor student DJs are identified and they helm the sessions weekly. The guests are students who have submitted their interest during open call.</p>
 
