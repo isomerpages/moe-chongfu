@@ -4,9 +4,28 @@ permalink: /cca-ict-club/
 description: ""
 third_nav_title: Clubs and Society
 ---
-Serving as an introductory platform to computer science, the Chongfu ICT Club provides our members with opportunities to develop their programming knowledge, create digital media and raise awareness of cyber wellness.
+<p>Serving as an introductory platform to computer science, the Chongfu ICT Club provides our members with opportunities to develop their programming knowledge, create digital media and raise awareness of cyber wellness.</p> 
+	
+<p>The ICT Club aims to cultivate self and relationship management through the incorporation of project work.</p>
 
-The ICT Club aims to cultivate self and relationship management through incorporation of project work.
+**Coding**
+<p>Block-based coding is a form of programming language where the students assign instructions by dragging and dropping blocks. The syntax-free coding encourages the exploration of learning among our younger learners who have just embarked on their journey of computer science. Through familiarization with block-based coding, students learn how to solve challenges critically and creatively.</p>
+
+**Adobe Photoshop and Lightroom**
+
+<p>The editing of photos allows students to express their creativity. They are taught the technicality of picture creation through layering and photo editing. In addition, students develop their competencies in responsible decision making and relationship management through project work.</p>
+
+**Teachers In Charge:**
+
+<p> 
+</p><ul>
+<li> Ms Violet Soh, 
+</li><li> Mr Low Yee Leong, 
+</li><li> Ms Chelvi, 
+</li><li> Ms Kaviya, 
+</li><li> Ms Srinidta
+</li></ul>
+<p></p>
 
 **Coding**
 
