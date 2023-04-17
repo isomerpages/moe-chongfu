@@ -60,8 +60,7 @@ Here are some programmes we take part in:
 <ul>
 <li>Tuesdays, 1.45pm – 3.45pm <br> Seminar room /
 P5 Classroom | <b>P4 &amp; P6</b>
-</li><li>Fridays, 1.45pm – 3.45pm <br> Seminar room /
-P5 Classroom | <b>P3 &amp; P5</b>
+</li><li>Fridays, 1.45pm – 3.45pm <br> Seminar room / P5 Classroom | <b>P3 &amp; P5</b>
 </li></ul>
 
 ![](/images/red%20cross%201.png)
