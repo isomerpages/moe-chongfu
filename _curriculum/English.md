@@ -79,7 +79,7 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 	<label for="accordion5"><b>Achievements</b></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 			<p><b>17th World Children’s Haiku Contest</b></p>
-<img src="/images/EnglishDept_PictureUpdate_1.jpg" style="width:70%">
+<img src="/images/EnglishDept_PictureUpdate_1.jpg" style="width:100%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, students are taught&nbsp;the different types of poems across the levels (e.g. Rhyming, Acrostic, Reverse poems, Haiku, Tanka, Cinquain).</p>
 
 			<p>Chongfu School participated in the&nbsp;17th World Children’s Haiku Contest&nbsp;organised by the JAL Foundation in conjunction with the Haiku International Association, and supported by&nbsp;Ministry of Foreign Affairs,&nbsp;Agency for Cultural Affairs,&nbsp;Japan Committee for UNICEF and the Japan Foundation.</p>
