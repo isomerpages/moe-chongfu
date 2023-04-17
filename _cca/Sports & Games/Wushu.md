@@ -12,14 +12,14 @@ Wushu members learn the various Wushu movements such as Chinese Taijiquan, as we
 
 From P3 onwards, students may be selected to join the Wushu school team to represent the Chongfu School in National Inter-Primary Schools Wushu Championships.
 
-**Teachers In Charge | Tuesdays**
+**Teachers In Charge: Tuesdays**
 
 <ul>
 <li> Mdm Joanne Chua <b>(I/C)</b></li>
 <li> Mdm Zheng Shanbo </li>
 </ul>
 
-**Teachers In Charge | Fridays**
+**Teachers In Charge: Fridays**
 
 <ul>
 <li> Mdm Li Xuesong </li>
