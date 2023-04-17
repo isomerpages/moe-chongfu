@@ -8,14 +8,14 @@ Our Chinese Orchestra CCA aims to create the opportunity for students who have p
 
 We will also develop students confident, teamwork &amp; leadership skills through the musical performances &amp; competitions.
 
-**Teachers In Charge | Tuesdays**
+**Teachers In Charge: Tuesdays**
 
 <ul>
 <li> Mr Quek Chin Peng <b>(I/C)</b></li>
 <li> Mdm Sun Wei Wei  </li>
 </ul>
 
-**Teachers In Charge | Fridays**
+**Teachers In Charge: Fridays**
 
 <ul>
 <li> Mdm Toh Guat Lay  </li>
