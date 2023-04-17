@@ -35,18 +35,33 @@ Red Cross Youth organises a variety of programmes and activities every year to n
 
 Here are some programmes we take part in:
 
-*   **Linkamania** is an annual camp for Red Cross Youth Links (primary school units) in Singapore.
-*   An annual event to raise the awareness of the importance and relevance of first aid among youths, the **National First Aid Competition** is an exciting time where Red Cross Links hone their first aid skills. Chongfu Red Cross unit achieved the Gold Award in the 2022 competition!
-*   **The World Red Cross Day** commemorates the birth anniversary of the founder of the Red Cross and the International Committee of the Red Cross (ICRC) Henry Dunant.
-*   **Singapore Red Cross Annual Fundraising Event - Grateful Hearts** is our annual event when students come together for lifesaving efforts!
+*   **Linkamania**&nbsp;is an annual camp for Red Cross Youth Links (primary school units) in Singapore.
+*   An annual event to raise the awareness of the importance and relevance of first aid among youths, the&nbsp;**National First Aid Competition**&nbsp;is an exciting time where Red Cross Links hone their first aid skills. Chongfu Red Cross unit achieved the Gold Award in the 2022 competition!
+*   **The World Red Cross Day**&nbsp;commemorates the birth anniversary of the founder of the Red Cross and the International Committee of the Red Cross (ICRC) Henry Dunant.
+*   **Singapore Red Cross Annual Fundraising Event - Grateful Hearts**&nbsp;is our annual event when students come together for lifesaving efforts!
 
-**Teachers-in-Charge:**
+**P4 and P6 Teachers In Charge:**
 
-Ms Chiang Yu Rong <br>
-Ms Chow Yin <br>
-Ms Li Xin Xin <br>
-Mdm Ho Ser Hui <br>
-Ms Tan Shi Ling
+<ul>
+<li> Ms Li Xinxin </li>
+<li> Mdm Ho Ser Hui </li>
+</ul>
+
+**P3 and P5 Teachers In Charge:**
+
+<ul>
+<li> Mdm Chiang Yu Rong <b>(I/C)</b></li>
+<li> Mdm Chow Yin </li>
+<li> Ms Tan Shi Ling  </li>
+</ul>
+
+**CCA Day &amp; Venue:**
+
+<ul>
+<li>Tuesdays, 1.45pm – 3.45pm <br> Seminar room /
+P5 Classroom | <b>P4 &amp; P6</b>
+</li><li>Fridays, 1.45pm – 3.45pm <br> Seminar room / P5 Classroom | <b>P3 &amp; P5</b>
+</li></ul>
 
 ![](/images/red%20cross%201.png)
 ![](/images/red%20cross%202.png)

@@ -10,6 +10,28 @@ Senior members help junior members improve their skills by encouraging and coach
 
 Opportunities such as promoting and marketing the CCA to the P2s during CCA Open House are provided for senior members to hone their leadership skills as well.
 
+**Teachers In Charge | Tuesdays**
+
+<ul>
+<li> Mdm Loo Ai Ling </li>
+<li> Ms Li Pei Jie  </li>
+<li> Ms Tan Hui Yin </li>
+</ul>
+
+**Teachers In Charge | Fridays**
+
+<ul>
+<li> Mdm Angeline Chew <b>(I/C)</b> </li>
+<li> Mdm Yao Mei Bin </li>
+</ul>
+
+**CCA Day &amp; Venue:**
+
+<ul>
+<li>Tuesdays, 1.45pm – 3.45pm | Dance Room 
+</li><li>Fridays, 1.45pm – 3.45pm | Dance Room 
+</li></ul>
+
 <figure>
 <img src="/images/Guzheng_TitleImage-1.jpg">
 <figcaption> <strong> Performance at the Istana</strong> </figcaption>

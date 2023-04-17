@@ -2,21 +2,36 @@
 title: Table Tennis
 permalink: /cca-table-tennis/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports &amp; Games
 ---
 Chongfu School Table Tennis aims to provide all players with the opportunity to enjoy the sport regardless of their skill level. Players are provided with the opportunities to develop their skills at their own pace. Players who have the tenacity to train hard are given opportunities to represent schools at the zonal and national competitions.
 
 The objectives of Chongfu School Table Tennis are to nurture and develop discipline, confidence, resilience, and perseverance among our members. In Chongfu School Table Tennis, we believe that a high level of self-discipline brings about a high level of focus, which is a key to high level of achievement. We also inculcate the values of sportsmanship and teamwork during CCAs where players are given opportunities to work with each other and grow together.
 
-During trainings, players will learn different techniques such as stroke play, footwork, ball control, serve, defence and attack strategies. In addition, sparring matches are incorporated during training to increase members’ cooperation, competitiveness and game readiness.
+During trainings, players will learn different techniques such as stroke play, footwork, ball control, serve, defence and attack strategies. In addition, sparring matches are incorporated during training&nbsp;to increase members’ cooperation, competitiveness and game readiness.
 
-**CCA Teachers:** 
+**Teachers In Charge | Tuesdays**
 
-**Teacher IC:**  
-Ms Chan Jing Ling
+<ul>
+<li> Ms Luo Huixian Santarina <b>(I/C)</b></li>
+<li> Mdm Zhou Wei Hua </li>
+<li> Mdm Fan Xia </li>
+</ul>
 
-**Teacher Members:**  
-Mr Brian Reis, Mdm Yep Lee Yong, Mdm Zhou Wei Hua, Ms Eunice Lim, Ms Santarina Luo
+**Teachers In Charge | Fridays**
+
+<ul>
+<li> Ms Chan Jing Ling <b>(I/C)</b></li>
+<li> Mr Brian Reis   </li>
+<li> Mdm Yep Lee Yong </li>
+</ul>
+
+**CCA Day &amp; Venue:**
+
+<ul>
+<li>Tuesdays, 1.45pm – 4.45pm | TKKH Hall &amp; CCA Room</li>
+<li>Fridays, 1.45pm – 4.45pm | TKKH Hall &amp; CCA Room</li>
+</ul>
 
 **CCA Coaches:**  
 Mr Wang Xiaoke, Ms Xu Shuguang

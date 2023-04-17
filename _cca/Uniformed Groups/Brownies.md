@@ -10,8 +10,31 @@ Through the attainment of proficiency badges, Brownies are encouraged to explore
 
 GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for Brownies to start an exciting adventure of their life journey. All activities a Brownie does is full of adventure – it is a world of great discovery, new interests and lasting friendships. Join Us and Be part of our Brownies family!
 
+**P4 and P6 Teachers In Charge:**
+
+<ul>
+<li> Mdm Eng Hwee Yen <b>(I/C)</b></li>
+<li> Mdm Zakiah </li>
+<li> Ms Tan Li </li>
+</ul>
+
+**P3 and P5 Teachers In Charge:**
+
+<ul>
+<li> Ms Yap Xinyi Filicia </li>
+<li> Ms Madihah </li>
+<li> Ms Roshiela Rosly </li>
+</ul>
+
+**CCA Day &amp; Venue:**
+
+<ul>
+<li>Tuesdays, 1.45pm – 3.45pm | P3 Classroom | <b>P4 &amp; P6</b>
+</li><li>Fridays, 1.45pm – 3.45pm | P3 Classroom | <b>P3 &amp; P5</b>
+</li></ul>
+
+
 ![](/images/brownies%201.png)
 ![](/images/brownies%202.png)
 ![](/images/brownies%203.png)
 ![](/images/Brownies_Picture12.jpg)
-

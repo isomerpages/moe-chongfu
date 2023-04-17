@@ -44,13 +44,14 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 <b>Show &amp; Tell (P1-P2)</b><br>
 <p>To build confidence in public speaking, Show &amp; Tell was introduced as a form of formative assessment for the Lower Primary students, where students are required a bring an item from home and using vivid and precise language, describe why they have chosen the particular item, where they got it from and other relevant information. Students are also taught and encouraged to pose questions to the presenters, honing their listening and thinking skills.</p>
 <img style="width:75%" src="/images/EL%201.png">
+	<br>
 	<b>Chongfu 811 (Radio Station)</b><br> 
 <p>To encourage students to share their opinions freely, the Chongfu radio station named Chongfu 811 is established in 2021 and broadcasts are carried out weekly. Anchor student DJs are identified and they helm the sessions weekly. The guests are students who have submitted their interest during open call.</p>
 
 <p>The team also collaborated with Aesthetics Dept to shortlist 3 jingles for the radio station. Students voted via SLS for the winning jingle that became the signature opening for the broadcast.</p>
 
 <p>The dept has received overwhelming response from the students to be guests / DJs and in the competitions / quizzes held, there has been a high level of participation from the students. Teachers said that their charges looked forward to hearing from their peers and joining in the short quizzes.</p>
-<img style="width:50%" src="/images/EL%203.png">
+<img style="width:75%" src="/images/EL%203.png">
 <p>Chongfu student DJs in full swing as they entertain and enlighten their fellow schoolmates with their DJ skills under the guidance and support of their devoted teachers from the English department.</p>
 	</div>  
 </li>
@@ -78,7 +79,7 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 	<label for="accordion5"><b>Achievements</b></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 			<p><b>17th World Children’s Haiku Contest</b></p>
-<img src="/images/EnglishDept_PictureUpdate_1.jpg" style="width:70%">
+<img src="/images/EnglishDept_PictureUpdate_1.jpg" style="width:100%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, students are taught&nbsp;the different types of poems across the levels (e.g. Rhyming, Acrostic, Reverse poems, Haiku, Tanka, Cinquain).</p>
 
 			<p>Chongfu School participated in the&nbsp;17th World Children’s Haiku Contest&nbsp;organised by the JAL Foundation in conjunction with the Haiku International Association, and supported by&nbsp;Ministry of Foreign Affairs,&nbsp;Agency for Cultural Affairs,&nbsp;Japan Committee for UNICEF and the Japan Foundation.</p>
@@ -151,7 +152,7 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 </tbody>
 </table>
 <p><b>Wits &amp; Words: Inter-school Debate Championship 2022</b></p>
-<img src="/images/EnglishDept_PictureUpdate_2.jpg" style="width:70%">
+<img src="/images/EnglishDept_PictureUpdate_2.jpg" style="width:100%">
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 	</li>
 <li>  
