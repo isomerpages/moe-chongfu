@@ -34,8 +34,4 @@ third_nav_title: Clubs and Society
 </li></ul>
 <p></p>
 
-
-
-![](/images/ICT.png)
-
-![](/images/ICT_Club_TitlePicture-1.jpg)
+<img style="width:100%" src="/images/ict_club_2023_picture1.jpg">  
