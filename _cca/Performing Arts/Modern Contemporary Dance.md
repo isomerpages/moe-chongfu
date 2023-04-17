@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 The modern contemporary dance CCA aims to spark passion for dance in our many young talents, and strives for high standards of achievements in all performances and competitions we take part in. Members of all levels of experience training in dance are given opportunities to discover and explore elements of&nbsp;**various dance genres**&nbsp;in a warm, welcoming environment. Through dance, members learn resilience and discipline alongside our school values of GRACIOUSLY. Dancers also forge lasting friendships with one another and build strong rapport with the teachers in the 4 years training together as a club.
 
-**Teachers In Charge | Tuesdays**
+**Teachers In Charge: Tuesdays**
 
 <ul>
 <li> Geraldine Ann </li>
@@ -14,7 +14,7 @@ The modern contemporary dance CCA aims to spark passion for dance in our many yo
 <li> Mdm Shi Jia </li>
 </ul>
 
-**Teachers In Charge | Fridays**
+**Teachers In Charge: Fridays**
 
 <ul>
 <li> Ms Shalini <b>(I/C)</b></li>
