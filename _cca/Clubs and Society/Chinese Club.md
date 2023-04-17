@@ -4,16 +4,7 @@ permalink: /cca-chinese-club/
 description: ""
 third_nav_title: Clubs and Society
 ---
-Chongfu School Chinese Club is a platform for students who are keen to learn more about the Chinese language and traditional culture. We aim to promote the appreciation and understanding of Chinese traditions, such as recognizing the importance of common Chinese customs and festivals (e.g. Chinese New Year, Mid-Autumn Festival). Club members get the opportunity to explore and learn about different aspects of Chinese culture through various enrichment programmes. Through these programmes and activities, members will also develop intrinsic values such as commitment, perseverance, and teamwork. In addition, our members get to showcase their performance skills & creativity, which in turn improves their communication abilities. Most importantly, we create memorable moments for students in their learning journey of Chinese language & culture.
-
-**Teachers-in-charge:**  
-Mdm Joli Lin (Overall IC), Mdm Goh Siew Peng, Mdm Li Fuxiao
-
-**Date & Time:** Every Friday, 1:45pm – 3:45pm
-
-**Venue:** Chinese Room (Old block level 4, beside 5 Gracious classroom)
-
-**Members:** We welcome all P3-P6 students who have a passion for performing & Chinese culture
+Chongfu School Chinese Club is a platform for students who are keen to learn more about the Chinese language and traditional culture. We aim to promote the appreciation and understanding of Chinese traditions, such as recognizing the importance of common Chinese customs and festivals (e.g. Chinese New Year, Mid-Autumn Festival). Club members get the opportunity to explore and learn about different aspects of Chinese culture through various enrichment programmes. Through these programmes and activities, members will also develop intrinsic values such as commitment, perseverance, and teamwork. In addition, our members get to showcase their performance skills &amp; creativity, which in turn improves their communication abilities. Most importantly, we create memorable moments for students in their learning journey of Chinese language &amp; culture.
 
 **Past programmes/activities conducted:**
 
@@ -27,6 +18,21 @@ Mdm Joli Lin (Overall IC), Mdm Goh Siew Peng, Mdm Li Fuxiao
 *   Generals Order Educational Programme (将军令课程)
 *   Chinese Clapper course (快板儿课程)
 *   Bean Art workshop (豆画)
+
+**Teachers In Charge:**
+
+<ul>
+<li> Mdm Lin Wan Ting Joli <b>(I/C)</b></li>
+<li> Ms Goh Siew Peng </li>
+</ul>
+
+**CCA Day &amp; Venue:**
+
+<ul>
+<li>Fridays, 1.45pm – 3.45pm | Chinese Room </li></ul>
+
+**Members:**&nbsp;We welcome all P3-P6 students who have a passion for performing &amp; Chinese culture
+
 
 ![](/images/chinese%20club%201.png)
 ![](/images/chinese%20club%202.png)
