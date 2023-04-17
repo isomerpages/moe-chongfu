@@ -4,7 +4,7 @@ permalink: /cca-arts-club/
 description: ""
 third_nav_title: Clubs and Society
 ---
-The Art Club aims to encourage imagination, provide opportunities and encouragement to express oneself freely through play and exploration of various crafts and medium. The purpose of art club is to provide students who have an interest in art, an opportunity to Enjoy and Experience art and craft forms beyond what is offered in the curriculum. It gives students the opportunity to work individually and in groups through the various making art programmes.
+The Art Club aims&nbsp;to encourage imagination, provide opportunities and encouragement to express oneself freely through play and exploration of various crafts and medium. The purpose of art club is&nbsp;to provide students who have an interest in art, an opportunity to Enjoy and Experience art and craft forms beyond what is offered in the curriculum. It gives students the opportunity to work individually and in groups through the various making art programmes.
 
 Here, students are also exposed to exhibitions, art competitions such as the Singapore Youth Festival (SYF) and many more where they can Excel in the respective craft that they are good at. We have a good track record for SYF in all three categories.
 
@@ -19,39 +19,41 @@ The Art Talent Programme (ATP) curriculum that was launched in 2022 aims to deve
 *   Opportunities to apply their leadership skills through, CCA open houses, planning, curation and presentation of artworks.  
     Some will also carry out peer teaching for the modules taught.
 
-**Teachers-in-Charge:**
+**Teachers In Charge | Tuesdays**
 
-Mdm Laila Bte Othman (I/C) <br>
-Mdm Bharvindar Regina Kaur <br>
-Ms Tan Zu Xian <br>
-Ms Sunitha Pillay <br>
-Ms Tin Yuen Fay
+<ul>
+<li> Ms Tan Zu Xian </li>
+<li> Ms Tin Yuen Fay (E2K) </li>
+<li> Ms Sunitha </li>
+</ul>
 
-**CCA SCHEDULE:**                                                                                                                      
-Tuesdays, 1.45pm – 3.45pm (P3 & P4)  <br>
-Fridays, 1.45pm – 3.45pm (P5 & P6)
+**Teachers In Charge | Fridays**
 
-<img src="/images/ArtClub_Picture1-1.jpg" 
-     style="width:70%">
-		 
-<img src="/images/ArtClub_Picture2-1.jpg" 
-     style="width:70%">
-		 
-<img src="/images/ArtClub_Picture3-1.jpg" 
-     style="width:70%">
+<ul>
+<li> Ms Laila Binte Othman <b>(I/C)</b></li>
+<li> Mdm Bharvindar R Kaur </li>
+</ul>
 
-<img src="/images/Batik-1-1.jpg" 
-     style="width:70%">
-		 
-<img src="/images/Stitched-Art-1-1.jpg" 
-     style="width:70%">
+**CCA Day &amp; Venue:**
 
-<img src="/images/art%20club%201.jpg" 
-     style="width:70%">
-		 
-<img src="/images/art%20club%202.jpg" 
-     style="width:70%">
+<ul>
+<li>Tuesdays, 1.45pm – 3.45pm | Art Rooms
+</li><li>Fridays, 1.45pm – 3.45pm | Art Rooms
+</li>
+</ul>
 
-<img src="/images/art%20club%203.jpg" 
-     style="width:70%">
-
+<img src="/images/ArtClub_Picture1-1.jpg" style="width:70%">
+<br>		 
+<img src="/images/ArtClub_Picture2-1.jpg" style="width:70%">
+<br>		 
+<img src="/images/ArtClub_Picture3-1.jpg" style="width:70%">
+<br>
+<img src="/images/Batik-1-1.jpg" style="width:70%">
+<br>		 
+<img src="/images/Stitched-Art-1-1.jpg" style="width:70%">
+<br>
+<img src="/images/art%20club%201.jpg" style="width:70%">
+<br>		 
+<img src="/images/art%20club%202.jpg" style="width:70%">
+<br>
+<img src="/images/art%20club%203.jpg" style="width:70%">
