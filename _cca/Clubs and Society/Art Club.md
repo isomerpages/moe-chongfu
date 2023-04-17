@@ -19,7 +19,7 @@ The Art Talent Programme (ATP) curriculum that was launched in 2022 aims to deve
 *   Opportunities to apply their leadership skills through, CCA open houses, planning, curation and presentation of artworks.  
     Some will also carry out peer teaching for the modules taught.
 
-**Teachers In Charge | Tuesdays**
+**Teachers In Charge: Tuesdays**
 
 <ul>
 <li> Ms Tan Zu Xian </li>
@@ -27,7 +27,7 @@ The Art Talent Programme (ATP) curriculum that was launched in 2022 aims to deve
 <li> Ms Sunitha </li>
 </ul>
 
-**Teachers In Charge | Fridays**
+**Teachers In Charge: Fridays**
 
 <ul>
 <li> Ms Laila Binte Othman <b>(I/C)</b></li>
