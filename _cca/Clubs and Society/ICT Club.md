@@ -25,12 +25,12 @@ third_nav_title: Clubs and Society
 <li> Ms Srinidta</li>
 </ul>
 
-**CCA Day:**
+**CCA Day &amp; Venue:**
 
 <p>
 </p><ul>
-<li>Tuesdays, 1.45pm – 3.45pm | <b>P3 and P4</b>
-</li><li>Fridays, 1.45pm – 3.45pm | <b>P5 and P6</b>
+<li>Tuesdays, 1.45pm – 3.45pm | Computer Lab | <b>P3 &amp; P4</b>
+</li><li>Fridays, 1.45pm – 3.45pm | Computer Lab | <b>P5 &amp; P6</b>
 </li></ul>
 <p></p>
 
