@@ -15,23 +15,26 @@ third_nav_title: Clubs and Society
 
 <p>The editing of photos allows students to express their creativity. They are taught the technicality of picture creation through layering and photo editing. In addition, students develop their competencies in responsible decision making and relationship management through project work.</p>
 
-**Teachers In Charge:**
+**P3 and P4 Teachers In Charge:**
 
 <ul>
-<li> Ms Violet Soh </li>
-<li> Mr Low Yee Leong </li>
-<li> Ms Chelvi</li>
+<li> Mr Low Yee Leong <b>(I/C)</b></li>
+<li> Ms Srinidta  </li>
+</ul>
+
+**P5 and P6 Teachers In Charge:**
+
+<ul>
+<li> Ms Violet Soh <b>(I/C)</b></li>
 <li> Ms Kaviya </li>
-<li> Ms Srinidta</li>
+<li> Ms Boomichelvi </li>
 </ul>
 
 **CCA Day &amp; Venue:**
 
-<p>
-</p><ul>
-<li>Tuesdays, 1.45pm – 3.45pm | Computer Lab | <b>P3 &amp; P4</b>
-</li><li>Fridays, 1.45pm – 3.45pm | Computer Lab | <b>P5 &amp; P6</b>
+<ul>
+<li>Tuesdays, 1.45pm – 3.45pm | Computer Labs | <b>P3 &amp; P4</b>
+</li><li>Fridays, 1.45pm – 3.45pm | Computer Labs | <b>P5 &amp; P6</b>
 </li></ul>
-<p></p>
 
 <img style="width:100%" src="/images/ict_club_2023_picture1.jpg">
