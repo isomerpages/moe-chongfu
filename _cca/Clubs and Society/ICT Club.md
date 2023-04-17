@@ -27,6 +27,15 @@ third_nav_title: Clubs and Society
 </li></ul>
 <p></p>
 
+**CCA Day:**
+
+<p>
+</p><ul>
+<li>Tuesdays, 1.45pm – 3.45pm | <b>P3 and P4</b>
+</li><li>Fridays, 1.45pm – 3.45pm | <b>P5 and P6</b>
+</li></ul>
+<p></p>
+
 **Coding**
 
 Block-based coding is a form of programming language where the students assign instructions by dragging and dropping blocks. The syntax-free coding encourages the exploration of learning among our younger learners who have just embarked on their journey of computer science. Through the familiarization of block-based coding, students learn how to solve challenges critically and creatively.
