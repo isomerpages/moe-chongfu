@@ -19,12 +19,12 @@ third_nav_title: Clubs and Society
 
 <p> 
 </p><ul>
-<li> Ms Violet Soh, 
-</li><li> Mr Low Yee Leong, 
-</li><li> Ms Chelvi, 
-</li><li> Ms Kaviya, 
-</li><li> Ms Srinidta
-</li></ul>
+<li> Ms Violet Soh </li>
+<li> Mr Low Yee Leong </li>
+<li> Ms Chelvi</li>
+<li> Ms Kaviya </li>
+<li> Ms Srinidta</li>
+</ul>
 <p></p>
 
 **CCA Day:**
@@ -36,20 +36,6 @@ third_nav_title: Clubs and Society
 </li></ul>
 <p></p>
 
-**Coding**
-
-Block-based coding is a form of programming language where the students assign instructions by dragging and dropping blocks. The syntax-free coding encourages the exploration of learning among our younger learners who have just embarked on their journey of computer science. Through the familiarization of block-based coding, students learn how to solve challenges critically and creatively.
-
-**Stop-Motion Animation**
-
-The production of animation allows students to express their creativity. They are taught to generate storyboard, plan and shoot a video. They are also taught video editing skills and introduced to other postproduction tools. Through project work, students develop their competencies in responsible decision making and relationship management.
-
-**Teachers In Charge:**  
-Ms Woon Hui Ting, Ms Violet Soh, Mr Low Yee Leong and Miss Vijya
-
-**CCA Day:**  
-Tuesdays, 1.45pm – 3.45pm (P3 and P4)  <br>
-Fridays, 1.45pm – 3.45pm (P5 and P6)
 
 
 ![](/images/ICT.png)
