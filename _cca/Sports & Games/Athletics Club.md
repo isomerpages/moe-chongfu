@@ -10,14 +10,14 @@ Through our customized programmes catering to the talented to compete at a highe
 
 Students participating in CCA Athletics develop and demonstrates their character guided by the school’s values of GRACIOUSLY. They also learn about sports-related values such as sportsmanship, teamwork and perseverance. Athletics is a CCA that requires students to learn mental and physical fitness. CCA Athletics believes in instilling a growth mindset in the students as they acquire skills that will help inculcate the lifelong pursuit in a healthy lifestyle even after they graduated from Chongfu.
 
-**Teachers In Charge | Tuesdays**
+**Teachers In Charge: Tuesdays**
 
 <ul>
 <li> Ms Sangeetha </li>
 <li> Mr Ghazali Abdol Wahab </li>
 </ul>
 
-**Teachers In Charge | Fridays**
+**Teachers In Charge: Fridays**
 
 <ul>
 <li> Mdm Ngiam Wen Yuan <b>(I/C)</b></li>
