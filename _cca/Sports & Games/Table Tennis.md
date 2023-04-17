@@ -10,7 +10,7 @@ The objectives of Chongfu School Table Tennis are to nurture and develop discipl
 
 During trainings, players will learn different techniques such as stroke play, footwork, ball control, serve, defence and attack strategies. In addition, sparring matches are incorporated during training&nbsp;to increase members’ cooperation, competitiveness and game readiness.
 
-**Teachers In Charge | Tuesdays**
+**Teachers In Charge: Tuesdays**
 
 <ul>
 <li> Ms Luo Huixian Santarina <b>(I/C)</b></li>
@@ -18,7 +18,7 @@ During trainings, players will learn different techniques such as stroke play, f
 <li> Mdm Fan Xia </li>
 </ul>
 
-**Teachers In Charge | Fridays**
+**Teachers In Charge: Fridays**
 
 <ul>
 <li> Ms Chan Jing Ling <b>(I/C)</b></li>
