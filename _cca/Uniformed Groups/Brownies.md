@@ -21,7 +21,7 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 **P3 and P5 Teachers In Charge:**
 
 <ul>
-<li> Ms Yap Xinyi Filicia <b>(YH)</b></li>
+<li> Ms Yap Xinyi Filicia </li>
 <li> Ms Madihah </li>
 <li> Ms Roshiela Rosly </li>
 </ul>
