@@ -51,7 +51,7 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 <p>The team also collaborated with Aesthetics Dept to shortlist 3 jingles for the radio station. Students voted via SLS for the winning jingle that became the signature opening for the broadcast.</p>
 
 <p>The dept has received overwhelming response from the students to be guests / DJs and in the competitions / quizzes held, there has been a high level of participation from the students. Teachers said that their charges looked forward to hearing from their peers and joining in the short quizzes.</p>
-<img style="width:50%" src="/images/EL%203.png">
+<img style="width:75%" src="/images/EL%203.png">
 <p>Chongfu student DJs in full swing as they entertain and enlighten their fellow schoolmates with their DJ skills under the guidance and support of their devoted teachers from the English department.</p>
 	</div>  
 </li>
@@ -152,7 +152,7 @@ In line with MOE’s reading thrusts, funds have been allocated to purchase vari
 </tbody>
 </table>
 <p><b>Wits &amp; Words: Inter-school Debate Championship 2022</b></p>
-<img src="/images/EnglishDept_PictureUpdate_2.jpg" style="width:70%">
+<img src="/images/EnglishDept_PictureUpdate_2.jpg" style="width:100%">
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 	</li>
 <li>  
