@@ -19,7 +19,7 @@ In recognition of our school’s efforts in promoting environmental awareness wi
 **CCA Day &amp; Venue:**
 
 <ul>
-<li>Fridays, 1.45pm – 3.45pm | Science Labs 1 &amp; 2
+<li>Fridays, 1.45pm – 3.45pm | Science Labs 1 and 2
 </li></ul>
 
 ![](/images/environmental%20club%201.png)
