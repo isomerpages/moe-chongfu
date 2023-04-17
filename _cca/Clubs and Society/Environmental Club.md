@@ -8,18 +8,19 @@ The Environment Club aims to bring about heightened awareness within the school,
 
 In recognition of our school’s efforts in promoting environmental awareness within and beyond our school community, we were awarded the prestigious Vanda Miss Joaquim Sustained Achievement Award, the pinnacle award under the SEC-Starhub School Green Awards as well as the North-West Outstanding School Partner Silver Award in 2021.
 
-**Teachers -in-Charge:**
+**Teachers In Charge:**
 
-Mdm Sherlyn Ng <br>
-Mrs Chong Le Geak <br>
-Ms Chong Yue Yen Juliana <br>
-Mr Shaik Muhammad Mohamed Haleem <br>
-Ms Lee Huoy Fen <br>
-Mdm Aini bte Bujang
+<ul>
+<li> Mdm Sherlyn Ng Yee Theng <b>(I/C)</b></li>
+<li> Mdm Aini </li>
+<li> Mdm Teo Le-Geak </li>
+</ul>
 
-**CCA SCHEDULE:**  
+**CCA Day &amp; Venue:**
 
-Fridays, 1.45pm – 3.45pm
+<ul>
+<li>Fridays, 1.45pm – 3.45pm | Science Labs 1 &amp; 2
+</li></ul>
 
 ![](/images/environmental%20club%201.png)
 ![](/images/environmental%20club%202.png)
