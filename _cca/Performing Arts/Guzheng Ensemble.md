@@ -10,7 +10,7 @@ Senior members help junior members improve their skills by encouraging and coach
 
 Opportunities such as promoting and marketing the CCA to the P2s during CCA Open House are provided for senior members to hone their leadership skills as well.
 
-**Teachers In Charge | Tuesdays**
+**Teachers In Charge: Tuesdays**
 
 <ul>
 <li> Mdm Loo Ai Ling </li>
@@ -18,7 +18,7 @@ Opportunities such as promoting and marketing the CCA to the P2s during CCA Open
 <li> Ms Tan Hui Yin </li>
 </ul>
 
-**Teachers In Charge | Fridays**
+**Teachers In Charge: Fridays**
 
 <ul>
 <li> Mdm Angeline Chew <b>(I/C)</b> </li>
