@@ -28,12 +28,10 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 
 **CCA Day &amp; Venue:**
 
-<p>
-</p><ul>
+<ul>
 <li>Tuesdays, 1.45pm – 3.45pm | P3 Classroom | <b>P4 &amp; P6</b>
 </li><li>Fridays, 1.45pm – 3.45pm | P3 Classroom | <b>P3 &amp; P5</b>
 </li></ul>
-<p></p>
 
 
 ![](/images/brownies%201.png)
