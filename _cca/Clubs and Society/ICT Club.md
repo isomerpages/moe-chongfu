@@ -17,15 +17,13 @@ third_nav_title: Clubs and Society
 
 **Teachers In Charge:**
 
-<p> 
-</p><ul>
+<ul>
 <li> Ms Violet Soh </li>
 <li> Mr Low Yee Leong </li>
 <li> Ms Chelvi</li>
 <li> Ms Kaviya </li>
 <li> Ms Srinidta</li>
 </ul>
-<p></p>
 
 **CCA Day:**
 
