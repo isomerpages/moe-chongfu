@@ -21,12 +21,12 @@ A festive drummer can look forward to performing in various school&nbsp;events, 
 <li>Tuesdays, 1.45pm – 3.45pm | Music Room old block 
 </li></ul>
 
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/fd_cca_2023_pic1a.jpg">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/fd_cca_2023_pic2a.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/fd_cca_2023_pic3.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/fd_cca_2023_pic5.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/fd_cca_2023_pic8.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/fd_cca_2023_pic6.jpg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.3em;" src="/images/fd_cca_2023_pic1a.jpg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.3em;" src="/images/fd_cca_2023_pic2a.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.3em;" src="/images/fd_cca_2023_pic3.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.3em;" src="/images/fd_cca_2023_pic5.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.3em;" src="/images/fd_cca_2023_pic8.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.3em;" src="/images/fd_cca_2023_pic6.jpg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/fd_cca_2023_pic7.jpg">
 <p style="clear: both;">
 </p>
