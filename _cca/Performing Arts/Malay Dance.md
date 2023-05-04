@@ -4,7 +4,8 @@ permalink: /cca-malay-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-In our Malay Dance Club, students are exposed to the different genres of both contemporary and traditional dances namely Inang, Joget, Zapin, Asli and Masri. There are various platforms for our students to showcase their talents and hone their art. To date, our students have performed at school events such as National Day and also participated in the Singapore Youth Festival. We hope the practices and exposure will ignite their passion in learning the traditional art of Malay Dance in a supportive environment.
+<p>In our Malay Dance Club, students are exposed to the different genres of Malay traditional dances namely Asli, Inang, Joget, Zapin and Masri. Through the weekly practices and exposure, we hope to ignite their interest and passion in deepening their appreciation for the Malay Culture and Heritage in a supportive environment.</p>
+<p>There are various platforms for our students to showcase their talents and hone their art. To date, our students have performed at school events such as National Day and also participated in the Singapore Youth Festival. They have also recently showcased a dance that celebrates the vibrancy of youth at the Groundbreaking Ceremony for Chong Pang Integrated Development, an event that was graced by the Prime Minister.</p>
 
 **Teachers In Charge: Tuesdays**
 
