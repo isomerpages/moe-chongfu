@@ -29,9 +29,9 @@ During trainings, players will learn different techniques such as stroke play, f
 **CCA Day &amp; Venue:**
 
 <ul>
-<li>P3 and P4: Tuesdays, 1.45pm – 3.45pm | TKKH Hall &amp; CCA Room</li>
-<li>P5 and P6: Fridays, 1.45pm – 3.45pm | TKKH Hall &amp; CCA Room</li>
-<li>School Team: Mondays, Tuesdays and Fridays, 1.45pm – 4.45pm | TKKH Hall &amp; CCA Room</li>
+<li><b>P3 and P4:</b> Tuesdays, 1.45pm – 3.45pm | TKKH Hall &amp; CCA Room</li>
+<li><b>P5 and P6:</b> Fridays, 1.45pm – 3.45pm | TKKH Hall &amp; CCA Room</li>
+<li><b>School Team:</b> Mondays, Tuesdays and Fridays,<br> 1.45pm – 4.45pm | TKKH Hall &amp; CCA Room</li>
 </ul>
 
 **CCA Coaches:**  
