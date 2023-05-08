@@ -19,14 +19,9 @@ third_nav_title: For Parents
 
 * [Instructions and FAQs for Student Learning Space](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)
 
-
-* [P1 Parents' Dialogue 25Feb2022 - Webinar Presentation Slides](/files/P1_ParentsDialogue_Webinar_25Feb2022.pdf)
-
-* [P2 Parents' Engagement Session 9March2022 - Presentation Slides](/files/P2-Parents-Engagement-Session-9-March-2022.pdf)
-
-* [P5 and P6 Parents' Engagement Session 1April2022 - Presentation Slides](/files/P5-P6-Parent-Engagement-Session-1April2022.pdf)
-
 * [2023 Primary 1 Orientation Briefing for Parents - Presentation Slides](/files/2023%20Primary%20One%20(P1)%20Orientation%20Parents%20Briefing%20Slides.pdf)
+
+* [P5 and P6 Parents’ Engagement Session 28April2023 - Presentation Slides](/files/p5-p6-parents-engagement-session-slides-28-april-2023-a.pdf)
 
 ### Links to alumni and SHHK
 
