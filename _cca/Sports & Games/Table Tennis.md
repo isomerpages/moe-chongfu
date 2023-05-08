@@ -2,7 +2,7 @@
 title: Table Tennis
 permalink: /cca-table-tennis/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 Chongfu School Table Tennis aims to provide all players with the opportunity to enjoy the sport regardless of their skill level. Players are provided with the opportunities to develop their skills at their own pace. Players who have the tenacity to train hard are given opportunities to represent schools at the zonal and national competitions.
 
@@ -29,8 +29,9 @@ During trainings, players will learn different techniques such as stroke play, f
 **CCA Day &amp; Venue:**
 
 <ul>
-<li>Tuesdays, 1.45pm – 4.45pm | TKKH Hall &amp; CCA Room</li>
-<li>Fridays, 1.45pm – 4.45pm | TKKH Hall &amp; CCA Room</li>
+<li><b>P3 and P4:</b> Tuesdays, 1.45pm – 3.45pm | TKKH Hall &amp; CCA Room</li>
+<li><b>P5 and P6:</b> Fridays, 1.45pm – 3.45pm | TKKH Hall &amp; CCA Room</li>
+<li><b>School Team:</b> Mondays, Tuesdays and Fridays,<br> 1.45pm – 4.45pm | TKKH Hall &amp; CCA Room</li>
 </ul>
 
 **CCA Coaches:**  
@@ -77,7 +78,7 @@ Mr Wang Xiaoke, Ms Xu Shuguang
 </tbody>
 </table>
 
-### CCA Schedule (as of year 2022)
+### CCA Schedule (as of year 2023)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
