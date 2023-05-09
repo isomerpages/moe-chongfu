@@ -10,5 +10,4 @@ image: ""
 
 <p>In collaboration with Chongfu School Alumni, the school celebrated our <b>108th Founder’s Day on 14 April 2023</b>. The event was graced by Mr Chua Kee Seng, Thomas, the School Management Committee Chairman and attended by 500 guests and school staff. Our students from the various CCA groups and Alumni enrichment classes put up a series of mesmerising performances. A group of Primary Two to Six students also put up a gymnastics performance to enthral the audience.<br>
 
-Please click <a href="https://shorturl.at/bgyHR">here</a> to find out more about the event. </p>	
-	
+Please click <a href="https://shorturl.at/bgyHR">here</a> to find out more about the event. </p>
