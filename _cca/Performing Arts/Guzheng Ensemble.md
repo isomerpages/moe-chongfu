@@ -51,3 +51,10 @@ Opportunities such as promoting and marketing the CCA to the P2s during CCA Open
 <img src="/images/Guzheng.png">
 <figcaption> <strong>Combined and Sectional Practice Sessions</strong> </figcaption>
 </figure>
+
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture5.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture4.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture3.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture2.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture1.jpg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture6.jpg">
