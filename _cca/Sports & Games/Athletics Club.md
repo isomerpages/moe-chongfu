@@ -2,7 +2,7 @@
 title: Athletics Club
 permalink: /cca-athletics-club/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 Our Chongfu CCA Athletics strives to develop a love for Track and Field in our students through the acquisition of skills and knowledge of techniques required in run, jump and throw events.
 
