@@ -28,5 +28,12 @@ The modern contemporary dance CCA aims to spark passion for dance in our many yo
 <li>Fridays, 1.45pm – 3.45pm <br> PAL Room + Teaching Lab </li>
 </ul>
 
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/moderncdance_cca_2023_picture_1.jpeg">
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/moderncdance_cca_2023_picture_2.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/moderncdance_cca_2023_picture_3.jpeg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/moderncdance_cca_2023_picture_4.jpeg">
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/moderncdance_cca_2023_picture_5.jpg">
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/moderncdance_cca_2023_picture_6.jpg">
+
 ![](/images/mcd%201.png)
 ![](/images/mcd%202.png)
