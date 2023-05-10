@@ -59,4 +59,4 @@ Opportunities such as promoting and marketing the CCA to the P2s during CCA Open
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture1.jpg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture6.jpg">
 
-***Students in performance during the 108th Founder's Day Program held at the school hall on the 14th April 2023***
+***Students in performance during the 108th Founder's Day Program held at the school's hall on the 14th April 2023***
