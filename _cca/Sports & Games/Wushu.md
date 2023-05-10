@@ -2,7 +2,7 @@
 title: Wushu
 permalink: /cca-wushu/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 The origins of Chinese martial arts can be traced over 6,000 years ago. It exists mainly for self-defense needs. Today, Wushu is a highly regarded sport for people from all walks of life. Its richness in Chinese cultural philosophies and the physical health benefits imparted through practicing has made it one of the most popular national sport.&nbsp;  
   
