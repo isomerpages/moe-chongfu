@@ -2,7 +2,7 @@
 title: Floorball
 permalink: /cca-floorball/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 Floorball is a fun team sport that is usually played indoors. This sport is suitable for students because it is relatively easy to pick up and has rules in place to keep players safe. During floorball training sessions, the students are trained by a qualified floorball coach. Playing floorball allows students to bond through their passion for the sport and learn the value of teamwork. Students learn to respect each other and develop interpersonal skills as they play and compete together. Students also cultivate resilience as they build their physical endurance through the sport.
 
