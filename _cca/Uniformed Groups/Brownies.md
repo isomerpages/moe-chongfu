@@ -34,31 +34,32 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 </li></ul>
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture1_ffth.JPG">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture2_ffth.jpg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture2_ffth.jpg"> <p style="clear: both;">
 
 ***Students contributing to the Food From The Heart, FFTH initiative***
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture4_friendshipband.jpeg">
 <img style="float: left; width: 44%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture3_friendshipband.jpeg">
-<img style="float: left; width: 53%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture5_friendshipband.jpg"> <p style="clear: both;">
+<img style="float: left; width: 53%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture5_friendshipband.jpg"> </p><p style="clear: both;">
 
 ***Students participating in the Friendship Band making activity.***
 
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture6_origami.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture6_origami.jpeg"> </p><p style="clear: both;">
 	
 ***Paper-Origami activity***
 
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture7_paperweaving.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture7_paperweaving.jpeg"> </p><p style="clear: both;">
 	
 ***Paper-Weaving activity***
 	
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture8_preppingforperformances.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture8_preppingforperformances.JPG"> 
+</p><p style="clear: both;">
 	
 ***Students actively preparing for one of many programs organised by Brownies***
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture9_stemprogram.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture11_stemprogram.jpeg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture12_stemprogram.jpeg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture12_stemprogram.jpeg"> </p><p style="clear: both;">
 			
 ***Students actively participating in STEM Program where they squeeze their creative juices in the bridge making activity using rubber bands and sticks.***
 
