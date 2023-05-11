@@ -39,7 +39,7 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 ***Students contributing to the Food From The Heart, FFTH initiative***
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture4_friendshipband.jpeg">
-<img style="float: left; width: 44%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture3_friendshipband.jpeg">
+<img style="float: left; width: 44%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture3_friendshipband.jpeg">
 <img style="float: left; width: 53%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture5_friendshipband.jpg"> </p><p style="clear: both;">
 
 ***Students participating in the Friendship Band making activity.***
@@ -68,7 +68,12 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 <img style="float: left; width: 33%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture14_valentinesdaycardmaking.jpg"> </p><p style="clear: both;"> </p><p style="clear: both;">
 
 ***Students passionately engaged in Valentine's Day Card Making activity to show their appreciation to their loved ones.***
+	
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture15_worldthinkingday.JPG">
+<img style="float: left; width: 36%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture16_worldthinkingday.jpg">
+<img style="float: left; width: 60%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture18_worldthinkingday.jpg"> </p><p style="clear: both;"> </p><p style="clear: both;">
 
+***Students participating in World Thinking Day, an annual program in collaboration with the Scouts Association to champion international friendship and to stand up for causes that improve the lives of guides and scouts around the globe.***
 
 ![](/images/brownies%201.png)
 ![](/images/brownies%202.png)
