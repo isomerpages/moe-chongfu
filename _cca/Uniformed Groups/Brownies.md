@@ -38,9 +38,21 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 
 ***Students contributing to the Food From The Heart, FFTH initiative***
 
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture4_friendshipband.jpeg">
+<img style="float: left; width: 44%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture3_friendshipband.jpeg">
+<img style="float: left; width: 53%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture5_friendshipband.jpg"> <p style="clear: both;">
 
+***Students participating in the Friendship Band making activity.***
+
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture6_origami.jpeg">
+	
+***Paper-Origami activity***
+
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture7_paperweaving.jpeg">
+	
+***Paper-Weaving activity***
 
 ![](/images/brownies%201.png)
 ![](/images/brownies%202.png)
 ![](/images/brownies%203.png)
-![](/images/Brownies_Picture12.jpg)
+![](/images/Brownies_Picture12.jpg)</p>
