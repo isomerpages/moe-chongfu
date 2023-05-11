@@ -54,7 +54,7 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 	
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture8_preppingforperformances.JPG">
 	
-***Students actively participating in preparation for one of the many programs by Brownies***
+***Students actively preparing for one of many programs organised by Brownies***
 
 	
 	
