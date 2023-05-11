@@ -56,9 +56,9 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 	
 ***Students actively preparing for one of many programs organised by Brownies***
 
-	
-	
-
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture5.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture4.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture3.JPG">
 
 ![](/images/brownies%201.png)
 ![](/images/brownies%202.png)
