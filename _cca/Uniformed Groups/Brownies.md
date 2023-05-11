@@ -33,6 +33,12 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 </li><li>Fridays, 1.45pm – 3.45pm | P3 Classroom | <b>P3 &amp; P5</b>
 </li></ul>
 
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture1_ffth.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture2_ffth.jpg">
+
+***Students contributing to the Food From The Heart, FFTH initiative***
+
+
 
 ![](/images/brownies%201.png)
 ![](/images/brownies%202.png)
