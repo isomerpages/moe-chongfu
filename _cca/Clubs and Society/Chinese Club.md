@@ -38,7 +38,10 @@ Chongfu School Chinese Club is a platform for students who are keen to learn mor
 
 ***Students took the opportunity to take a group picture, as they gave a charming CNY Performance for their fellow school mates and teachers.***
 
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chinese_club_cca_2023_picture1_cnyperformance.JPG">
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chinese_club_cca_2023_picture3_kuaiban.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chinese_club_cca_2023_picture4_kuaiban.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chinese_club_cca_2023_picture6_kuaiban.JPG">
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chinese_club_cca_2023_picture5_kuaiban.JPG">
 
 ![](/images/chinese%20club%201.png)
 ![](/images/chinese%20club%202.png)
