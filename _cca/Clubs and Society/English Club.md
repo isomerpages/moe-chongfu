@@ -40,10 +40,13 @@ Selected students are also given the opportunity to participate in school events
 <p style="clear: both;">
 
 ***Students gave an astounding performance at the 22nd Inter-School National Scrabble Championship 2023 and made Chongfu School proud.***
-
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture11_awardceremony.jpeg">
-<img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture10_awardceremony.jpeg">
-<img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture12_awardceremony.jpeg">
+	
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture18_scrabbletraining.jpg">
+<img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture19_scrabbletraining.jpg">
+<img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture20_scrabbletraining.jpg">
+	<img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture21_scrabbletraining.jpeg">
+<img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture22_scrabbletraining.jpeg">
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture23_scrabbletraining.jpg">
 </p><p style="clear: both;">
 
 ***Students and teachers were awarded with their respective certificates, medals and trophies in recognition of their contribution to Team Chongfu's success in various the competitions and programs.***
