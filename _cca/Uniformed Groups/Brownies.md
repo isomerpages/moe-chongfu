@@ -62,12 +62,12 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture12_stemprogram.jpeg"> </p>
 <p style="clear: both;">
 			
-***Students actively participating in STEM Program where they squeeze their creative juices in the bridge making activity using rubber bands and sticks.***
+***Students fervently participating in STEM Program, where they squeeze their creative juices in a bridge making activity using rubber bands and sticks.***
 	
 <img style="float: left; width: 65%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture13_valentinesdaycardmaking.jpeg">
 <img style="float: left; width: 33%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture14_valentinesdaycardmaking.jpg"> </p><p style="clear: both;"> </p><p style="clear: both;">
 
-***Students passionately engaged in Valentine's Day Card Making activity to show their appreciation to their loved ones.***
+***Students passionately engaged in Valentine's Day Card Making activity, to show their appreciation to their loved ones.***
 	
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture15_worldthinkingday.JPG">
 <img style="float: left; width: 36%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture16_worldthinkingday.jpg">
