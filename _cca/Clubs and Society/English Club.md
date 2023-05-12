@@ -51,7 +51,10 @@ Selected students are also given the opportunity to participate in school events
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture14_debate.jpg">
 <img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture15_debate.jpg">
 <img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture16_debate.jpg">
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture13_debate.JPG">	
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture13_debate.JPG">
+</p><p style="clear: both;">
+
+***Students rigorously training for one of many debate competitions under the tutelage of a capable and an experienced debate instructor.***
 
 ![](/images/english%20club%201.png)
 ![](/images/english%20club%202.png)
