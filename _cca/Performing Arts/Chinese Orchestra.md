@@ -47,7 +47,7 @@ We will also develop students confident, teamwork &amp; leadership skills throug
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture13.JPG">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture10.JPG">
 
-***Students in a typical weekly training session guided by their instructors to hone and improve their skills in manuvering the musical instruments.***
+***Students in a typical weekly training session guided by their instructors to hone and improve their skills in maneuvering the musical instruments to give an astounding performance for every occasion.***
 
 ![](/images/co%201.png)
 ![](/images/co%202.png)
