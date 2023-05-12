@@ -47,6 +47,11 @@ Selected students are also given the opportunity to participate in school events
 </p><p style="clear: both;">
 
 ***Students and teachers were awarded with their respective certificates, medals and trophies in recognition of their contribution to Team Chongfu's success in various the competitions and programs.***
+	
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture14_debate.jpg">
+<img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture15_debate.jpg">
+<img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture16_debate.jpg">
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture13_debate.JPG">	
 
 ![](/images/english%20club%201.png)
 ![](/images/english%20club%202.png)
