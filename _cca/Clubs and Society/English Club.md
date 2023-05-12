@@ -38,7 +38,7 @@ Selected students are also given the opportunity to participate in school events
 <img style="float: left; width: 59%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture7_scrabble.jpg">
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture8_scrabble.jpeg">
 
-***Students gave an astounding performance at the 22nd Inter-School National Scrabble Championship 2023.***
+***Students gave an astounding performance at the 22nd Inter-School National Scrabble Championship 2023 and made Chongfu School proud.***
 
 ![](/images/english%20club%201.png)
 ![](/images/english%20club%202.png)
