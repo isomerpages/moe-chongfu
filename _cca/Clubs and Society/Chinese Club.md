@@ -43,7 +43,10 @@ Chongfu School Chinese Club is a platform for students who are keen to learn mor
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chinese_club_cca_2023_picture6_kuaiban.JPG">
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chinese_club_cca_2023_picture5_kuaiban.JPG">
 
-***Students took the opportunity to learn about 'Kuai ban', which is a form of oral storytelling performance that is popular in northern China. This session allowed the students to be more appreciate of their rich tradition and culture.***
+***Students took the opportunity to learn about 'Kuai ban', which is a form of oral storytelling performance that is popular in northern China. This session allowed the students to be more appreciative of their rich tradition and culture.***
+
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chinese_club_cca_2023_picture8_storytelling.JPG">
+
 
 ![](/images/chinese%20club%201.png)
 ![](/images/chinese%20club%202.png)
