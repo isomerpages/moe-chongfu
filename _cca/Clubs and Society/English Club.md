@@ -31,6 +31,15 @@ Selected students are also given the opportunity to participate in school events
 </li>
 </ul>
 
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture2_scrabble.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture3_scrabble.jpeg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture4_scrabble.jpeg">
+<img style="float: left; width: 39%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture6_scrabble.jpeg">
+<img style="float: left; width: 59%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture7_scrabble.jpg">
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture8_scrabble.jpeg">
+
+***Students gave an astounding performance at the 22nd Inter-School National Scrabble Championship 2023.***
+
 ![](/images/english%20club%201.png)
 ![](/images/english%20club%202.png)
 ![](/images/english%20club%203.png)
