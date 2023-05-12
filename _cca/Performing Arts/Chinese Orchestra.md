@@ -38,6 +38,7 @@ We will also develop students confident, teamwork &amp; leadership skills throug
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture7.JPG">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture9.jpg">
 
+***Students gave a captivating performance which enthralled the audience at the 108th Founder's Day Program on the 14th April 2023***
 
 ![](/images/co%201.png)
 ![](/images/co%202.png)
