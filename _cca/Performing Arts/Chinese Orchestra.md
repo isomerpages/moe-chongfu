@@ -40,6 +40,16 @@ We will also develop students confident, teamwork &amp; leadership skills throug
 
 ***Students gave a captivating performance which enthralled the audience at the 108th Founder's Day Program on the 14th April 2023***
 
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture14.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture15.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture17.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture12.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture13.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture10.JPG">
+
+***Students in a typical weekly training session guided by their instructors to hone and improve their skills in manuvering the musical instruments.***
+
+
 ![](/images/co%201.png)
 ![](/images/co%202.png)
 ![](/images/co%203.png)
