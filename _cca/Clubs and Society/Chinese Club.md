@@ -33,6 +33,7 @@ Chongfu School Chinese Club is a platform for students who are keen to learn mor
 
 **Members:**&nbsp;We welcome all P3-P6 students who have a passion for performing &amp; Chinese culture
 
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chinese_club_cca_2023_picture1_cnyperformance.JPG">
 
 ![](/images/chinese%20club%201.png)
 ![](/images/chinese%20club%202.png)
