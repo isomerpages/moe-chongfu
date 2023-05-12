@@ -49,7 +49,6 @@ We will also develop students confident, teamwork &amp; leadership skills throug
 
 ***Students in a typical weekly training session guided by their instructors to hone and improve their skills in manuvering the musical instruments.***
 
-
 ![](/images/co%201.png)
 ![](/images/co%202.png)
 ![](/images/co%203.png)
