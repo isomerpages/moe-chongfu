@@ -51,6 +51,8 @@ Selected students are also given the opportunity to participate in school events
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture14_debate.jpg">
 <img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture15_debate.jpg">
 <img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture16_debate.jpg">
+<img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture24_debate.jpeg">
+<img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture25_debate.jpeg">
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture17_debate.jpg">
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture13_debate.JPG">
 </p><p style="clear: both;">
