@@ -49,7 +49,7 @@ Selected students are also given the opportunity to participate in school events
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture23_scrabbletraining.jpg">
 </p><p style="clear: both;">
 
-***Students rigorously training for the scrabble competitions honing on their creativity, quick thinking skills and in the process bolstering their strong vocabulary and spelling skills.***
+***Students having rigorous training sessions to hone their creativity and quick thinking as they expand on their vocabulary and spelling skills to up their scrabble game.***
 	
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture14_debate.jpg">
 <img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture15_debate.jpg">
