@@ -30,5 +30,12 @@ This year, our Senior and Junior boys team represented Chongfu School in the Nat
 <li>Fridays, 1.45pm – 3.45pm | Basketball Court </li>
 </ul>
 
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture1_seniorboys.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture3_inplay.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture6_inaction.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture4_postgame.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture8_gameplan.jpg">
+<p style="clear: both;">
+
 ![](/images/floorball%201.png)
-![](/images/floorball%202.png)
+![](/images/floorball%202.png)</p>
