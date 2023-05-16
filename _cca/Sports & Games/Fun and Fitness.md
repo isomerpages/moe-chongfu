@@ -23,6 +23,8 @@ Fun and Fitness is a unique sports Co-curricular Activity (CCA) in Chongfu Schoo
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/funandfitness_cca_2023_picture3_rollerblade.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/funandfitness_cca_2023_picture2_rollerblade.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/funandfitness_cca_2023_picture4_rollerblade.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/funandfitness_cca_2023_picture8_rollerblade_aa.jpg">
+
 
 
 
