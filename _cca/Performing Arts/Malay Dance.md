@@ -48,7 +48,11 @@ third_nav_title: Performing Arts
 <img style="float: left; width: 43%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture7.jpg">
 <img style="float: left; width: 55%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture11.jpg"></p><p style="clear: both;">
 
-	
+***Caption***
+
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture10.jpg">
 
 ![](/images/malay%20dance%201.png)
 ![](/images/Raya-2.jpg)</p>
+
+***Caption***
