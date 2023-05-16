@@ -31,11 +31,16 @@ third_nav_title: Performing Arts
 </ul>
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture1.jpg">
+<p style="clear: both;">
 
 ***Students and teachers took the opportunity to take a snap with Minister Mr K Shanmugam, during the Groundbreaking Ceremony of Chong Pang City on 26 March 2023, where the students gave a pleasing performance.***
 
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture4.jpg">
+<img style="float: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture5.jpg">
+<img style="float: left; width: 51%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture6.jpg"></p><p style="clear: both;">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture2.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture2.jpg">
+</p><p style="clear: both;">
 
 ![](/images/malay%20dance%201.png)
-![](/images/Raya-2.jpg)
+![](/images/Raya-2.jpg)</p>
