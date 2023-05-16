@@ -45,8 +45,8 @@ third_nav_title: Performing Arts
 ***Caption***
 	
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture8.jpg">
-<img style="float: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture7.jpg">
-<img style="float: left; width: 51%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture9.jpg"></p><p style="clear: both;">
+<img style="float: left; width: 43%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture7.jpg">
+<img style="float: left; width: 55%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture11.jpg"></p><p style="clear: both;">
 
 	
 
