@@ -49,5 +49,7 @@ From P3 onwards, students may be selected to join the Wushu school team to repre
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/wushu_cca_2023_picture6.jpg">
 
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/wushu_cca_2023_picture11.jpg">
+
 ![](/images/wushu.png)
 ![](/images/Wushu_TitleImage-1.jpg)
