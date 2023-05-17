@@ -33,16 +33,16 @@ third_nav_title: Performing Arts
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture1.jpg">
 <p style="clear: both;">
 
-***Students and teachers took the opportunity to take a snap with Minister Mr K Shanmugam, during the Groundbreaking Ceremony of Chong Pang City on 26 March 2023, where the students gave a pleasing performance.***
+***The Malay Dance CCA members had a  prestigious photo opportunity with Minister Mr K Shanmugam during the 'Groundbreaking Ceremony of Chong Pang City' on 26 March 2023, where the members gave a pleasing performance to the audience.***
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture4.jpg">
 <img style="float: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture5.jpg">
 <img style="float: left; width: 51%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture6.jpg"></p><p style="clear: both;">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture2.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture2.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture3.jpg">
 </p><p style="clear: both;">
 
-***Caption***
+***Rentak Ria, an upbeat dance that showcases a vibrant celebration of youthful vitality, was proudly presented by members of our Malay Dance CCA at the Groundbreaking Ceremony for the Chong Pang Integrated Development (CPID) in March 2023.  It was an honour to represent Chongfu School in such an important community event.***
 	
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture8.jpg">
 <img style="float: left; width: 43%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture7.jpg">
