@@ -35,6 +35,21 @@ From P3 onwards, students may be selected to join the Wushu school team to repre
 <li>Fridays, 1.45pm – 4.45pm | ISH </li>
 </ul>
 
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/wushu_cca_2023_picture1.jpg">
+
+<img style="float: left; width: 51%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/wushu_cca_2023_picture7.jpg">
+
+<img style="float: left; width: 46%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/wushu_cca_2023_picture3.jpg">
+
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/wushu_cca_2023_picture9.jpg">
+
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/wushu_cca_2023_picture10.jpg">
+
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/wushu_cca_2023_picture8.jpg">
+
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/wushu_cca_2023_picture6.jpg">
+
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/wushu_cca_2023_picture11.jpg">
 
 ![](/images/wushu.png)
 ![](/images/Wushu_TitleImage-1.jpg)

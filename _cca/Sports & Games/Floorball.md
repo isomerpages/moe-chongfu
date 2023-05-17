@@ -30,5 +30,18 @@ This year, our Senior and Junior boys team represented Chongfu School in the Nat
 <li>Fridays, 1.45pm – 3.45pm | Basketball Court </li>
 </ul>
 
-![](/images/floorball%201.png)
-![](/images/floorball%202.png)
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture1_seniorboys.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture3_inplay.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture6_inaction.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture4_postgame.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture8_gameplan.jpg">
+<img style="float: left; width: 69%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture2_drills.jpg">
+<img style="float: left; width: 29%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture12_floorballs.jpg">
+<p style="clear: both;">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture5_brefing.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture9_training.jpeg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture11_training.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/floorball_cca_2023_picture13_inplay.jpg">
+</p><p style="clear: both;">
+	
+![](/images/floorball%202.png)</p>

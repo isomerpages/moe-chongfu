@@ -32,6 +32,9 @@ Students participating in CCA Athletics develop and demonstrates their character
 <li>Fridays, 1.45pm – 3.45pm <br> New Block Assembly Area </li>
 </ul>
 
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/athletics_cca_2023_picture1.jpeg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/athletics_cca_2023_picture3.jpeg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/athletics_cca_2023_picture2.jpeg">
 
 ![](/images/Athletics%201.png)
 ![](/images/Athletics%202.png)

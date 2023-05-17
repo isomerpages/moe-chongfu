@@ -27,8 +27,27 @@ We will also develop students confident, teamwork &amp; leadership skills throug
 <ul>
 <li>Tuesdays, 1.45pm – 3.45pm | Various Rooms + <br> Music Rooms + Resource Room </li>
 <li>Fridays, 1.45pm – 3.45pm | Various Rooms + <br> Music Rooms + Resource Room </li>
-
 </ul>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture1.jpg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture4.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture2.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture3.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture8.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture5.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture6.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture7.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture9.jpg">
+
+***Students gave a captivating performance which enthralled the audience at the 108th Founder's Day Program on the 14th April 2023***
+
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture14.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture15.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture17.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture12.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture13.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture10.JPG">
+
+***Students in a typical weekly training session guided by their instructors to hone and improve their skills in maneuvering the musical instruments to give an astounding performance for every occasion.***
 
 ![](/images/co%201.png)
 ![](/images/co%202.png)

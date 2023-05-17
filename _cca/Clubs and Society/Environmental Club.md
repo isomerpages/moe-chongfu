@@ -22,6 +22,14 @@ In recognition of our school’s efforts in promoting environmental awareness wi
 <li>Fridays, 1.45pm – 3.45pm | Science Labs 1 and 2
 </li></ul>
 
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture1.JPEG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture2.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture3.JPEG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture4.JPEG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture5.JPEG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture6.JPEG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture7.JPEG"> <p style="clear: both;">
+
 ![](/images/environmental%20club%201.png)
 ![](/images/environmental%20club%202.png)
-![](/images/environmental%20club%203.png)
+![](/images/environmental%20club%203.png)</p>
