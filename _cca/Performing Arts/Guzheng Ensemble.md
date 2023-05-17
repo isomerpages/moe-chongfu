@@ -65,4 +65,4 @@ Opportunities such as promoting and marketing the CCA to the P2s during CCA Open
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture8.jpeg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture9.jpeg">
 
-***The success of mastering the traditional guzheng instrument requires efforts embedded in active practice. Students regurously practice in weekly practice sessions to hone their skills, in line with the notion 'Practice makes Perfect'.***
+***The success of mastering the traditional guzheng instrument requires efforts embedded in active practice. Its a regular sight to see students rigorously participate in weekly practice sessions to hone their skills, in line with the notion 'Practice makes Perfect'.***
