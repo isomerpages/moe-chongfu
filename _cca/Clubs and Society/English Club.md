@@ -37,23 +37,17 @@ Selected students are also given the opportunity to participate in school events
 <img style="float: left; width: 39%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture6_scrabble.jpeg">
 <img style="float: left; width: 59%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture7_scrabble.jpg">
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture8_scrabble.jpeg"> 
-<p style="clear: both;">
-
 	
 ***Students gave an astounding performance at the 22nd Inter-School National Scrabble Championship 2023 and made Chongfu School proud.***
 
-	
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture18_scrabbletraining.jpg">
 <img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture19_scrabbletraining.jpg">
 <img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture20_scrabbletraining.jpg">
 	<img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture21_scrabbletraining.jpeg">
 <img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture22_scrabbletraining.jpeg">
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture23_scrabbletraining.jpg">
-</p><p style="clear: both;">
-
 
 ***Students having rigorous training sessions to hone their creativity and quick thinking as they expand on their vocabulary and spelling skills to up their experties in the scrabble game.***
-
 
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture14_debate.jpg">
 <img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture15_debate.jpg">
@@ -62,11 +56,8 @@ Selected students are also given the opportunity to participate in school events
 <img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture25_debate.jpeg">
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture17_debate.jpg">
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture13_debate.JPG">
-</p><p style="clear: both;">
-
 
 ***Students rigorously training for one of many debate competitions under the tutelage of a capable and an experienced debate instructor.***
-
 
 ![](/images/english%20club%201.png)
 ![](/images/english%20club%202.png)
@@ -74,4 +65,3 @@ Selected students are also given the opportunity to participate in school events
 ![](/images/english%20club%204.png)
 ![](/images/english%20club%205.png)
 ![](/images/english%20club%206.png)
-</p>
