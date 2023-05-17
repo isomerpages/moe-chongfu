@@ -31,30 +31,36 @@ third_nav_title: Performing Arts
 </ul>
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture1.jpg">
-<p style="clear: both;">
 
 ***The Malay Dance CCA members had a  prestigious photo opportunity with Minister Mr K Shanmugam during the 'Groundbreaking Ceremony of Chong Pang City' on 26 March 2023, where the members gave a pleasing performance to the audience.***
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture4.jpg">
 <img style="float: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture5.jpg">
 <img style="float: left; width: 51%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture6.jpg">
-</p><p style="clear: both;">
+<p style="clear: both;">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture2.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture3.jpg">
 </p><p style="clear: both;">
 
+
 ***Rentak Ria, an upbeat dance that showcases a vibrant celebration of youthful vitality, was proudly presented by members of our Malay Dance CCA at the Groundbreaking Ceremony for the Chong Pang Integrated Development (CPID) in March 2023.  It was an honour to represent Chongfu School in such an important community event.***
+
 	
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture8.jpg">
 <img style="float: left; width: 43%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture7.jpg">
 <img style="float: left; width: 55%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture11.jpg">
 </p><p style="clear: both;">
 
+
 ***After a two-year hiatus brought about by the pandemic, our members once again took to the stage to delight their fellow schoolmates and teachers during the bi-monthly 'Appreciation of the Arts' program.***
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture10.jpg">
 
+
 ![](/images/malay%20dance%201.png)
 ![](/images/Raya-2.jpg)
 
-***Members develop their self-confidence and sense of commitment as they go about the rigour of weekly practices and rehearsals, an integral part of a successful and laudable performance.***</p>
+
+***Members develop their self-confidence and sense of commitment as they go about the rigour of weekly practices and rehearsals, an integral part of a successful and laudable performance.***
+
+</p>
