@@ -37,6 +37,8 @@ The modern contemporary dance CCA aims to spark passion for dance in our many yo
 ***Students enchanting the audience with one of many performances at the 108th Founder's Day Program held at the school's hall on the 14th April 2023***
 
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/moderncdance_cca_2023_picture_6.jpg">
+<img style="float: left; width: 47%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/moderncdance_cca_2023_picture_7.jpg">
+<img style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/moderncdance_cca_2023_picture_8.jpg">
 
 ![](/images/mcd%201.png)
 ![](/images/mcd%202.png)
