@@ -37,7 +37,8 @@ third_nav_title: Performing Arts
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture4.jpg">
 <img style="float: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture5.jpg">
-<img style="float: left; width: 51%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture6.jpg"></p><p style="clear: both;">
+<img style="float: left; width: 51%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture6.jpg">
+</p><p style="clear: both;">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture2.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture3.jpg">
 </p><p style="clear: both;">
@@ -46,13 +47,14 @@ third_nav_title: Performing Arts
 	
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture8.jpg">
 <img style="float: left; width: 43%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture7.jpg">
-<img style="float: left; width: 55%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture11.jpg"></p><p style="clear: both;">
+<img style="float: left; width: 55%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture11.jpg">
+</p><p style="clear: both;">
 
 ***After a two-year hiatus brought about by the pandemic, our members once again took to the stage to delight their fellow schoolmates and teachers during the bi-monthly 'Appreciation of the Arts' program.***
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture10.jpg">
 
 ![](/images/malay%20dance%201.png)
-![](/images/Raya-2.jpg)</p>
+![](/images/Raya-2.jpg)
 
-***Members develop their self-confidence and sense of commitment as they go about the rigour of weekly practices and rehearsals, an integral part of a successful and laudable performance.***
+***Members develop their self-confidence and sense of commitment as they go about the rigour of weekly practices and rehearsals, an integral part of a successful and laudable performance.***</p>
