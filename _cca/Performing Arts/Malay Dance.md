@@ -32,7 +32,9 @@ third_nav_title: Performing Arts
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture1.jpg">
 
+
 ***The Malay Dance CCA members had a  prestigious photo opportunity with Minister Mr K Shanmugam during the 'Groundbreaking Ceremony of Chong Pang City' on 26 March 2023, where the members gave a pleasing performance to the audience.***
+
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture4.jpg">
 <img style="float: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture5.jpg">
