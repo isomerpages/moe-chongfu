@@ -48,7 +48,7 @@ third_nav_title: Performing Arts
 <img style="float: left; width: 43%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture7.jpg">
 <img style="float: left; width: 55%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture11.jpg"></p><p style="clear: both;">
 
-***Caption***
+***After a two-year hiatus brought about by the pandemic, our members once again took to the stage to delight their fellow schoolmates and teachers during the bi-monthly 'Appreciation of the Arts' program.***
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/malaydance_cca_2023_picture10.jpg">
 
