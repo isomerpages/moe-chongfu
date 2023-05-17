@@ -64,5 +64,4 @@ third_nav_title: Performing Arts
 
 
 ***Members develop their self-confidence and sense of commitment as they go about the rigour of weekly practices and rehearsals, an integral part of a successful and laudable performance.***
-
 </p>
