@@ -68,6 +68,8 @@ P5 Classroom | <b>P4 &amp; P6</b>
 <img style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/redcross_cca_2023_picture5.jpg">
 <img style="float: left; width: 55%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/redcross_cca_2023_picture10.jpg">
 <img style="float: left; width: 41%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/redcross_cca_2023_picture11.jpg">
+<img style="float: left; width: 48%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/redcross_cca_2023_picture2.jpg">
+<img style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/redcross_cca_2023_picture14.jpg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture2.JPG">
 
 ![](/images/red%20cross%201.png)
