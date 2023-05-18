@@ -63,6 +63,13 @@ P5 Classroom | <b>P4 &amp; P6</b>
 </li><li>Fridays, 1.45pm – 3.45pm <br> Seminar room / P5 Classroom | <b>P3 &amp; P5</b>
 </li></ul>
 
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/redcross_cca_2023_picture13.jpg">
+<img style="float: left; width: 49%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/redcross_cca_2023_picture4.jpg">
+<img style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/redcross_cca_2023_picture5.jpg">
+<img style="float: left; width: 55%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/redcross_cca_2023_picture10.jpg">
+<img style="float: left; width: 41%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/redcross_cca_2023_picture11.jpg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/guzheng_cca_2023_picture2.JPG">
+
 ![](/images/red%20cross%201.png)
 ![](/images/red%20cross%202.png)
 ![](/images/red%20cross%203.png)
