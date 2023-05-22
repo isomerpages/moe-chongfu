@@ -38,9 +38,12 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 
 ***Students contributing to the Food From The Heart, FFTH initiative***
 
+<p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture4_friendshipband.jpeg">
 <img style="float: left; width: 44%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture3_friendshipband.jpeg">
 <img style="float: left; width: 53%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture5_friendshipband.jpg">
+</p><p style="clear: both;">
+</p>
 
 ***Students participating in the Friendship Band making activity.***
 
@@ -61,9 +64,12 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture12_stemprogram.jpeg">
 			
 ***Students fervently participating in STEM Program, where they squeeze their creative juices in a bridge making activity using rubber bands and sticks.***
-	
+
+<p>
 <img style="float: left; width: 65%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture13_valentinesdaycardmaking.jpeg">
 <img style="float: left; width: 33%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture14_valentinesdaycardmaking.jpg">
+</p><p style="clear: both;">
+</p>
 
 ***Students passionately engaged in Valentine's Day Card Making activity, to show their appreciation to their loved ones.***
 	
@@ -76,4 +82,4 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 ![](/images/brownies%201.png)
 ![](/images/brownies%202.png)
 ![](/images/brownies%203.png)
-![](/images/Brownies_Picture12.jpg)<p></p>
+![](/images/Brownies_Picture12.jpg)
