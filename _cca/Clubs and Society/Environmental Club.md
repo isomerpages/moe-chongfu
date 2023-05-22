@@ -23,12 +23,13 @@ In recognition of our school’s efforts in promoting environmental awareness wi
 </li></ul>
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture1.JPEG">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture2.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture3.JPEG">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture4.JPEG">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture5.JPEG">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture6.JPEG">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture7.JPEG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/envrclubcca_2023_picture2.jpg">
+
+***Members of the Environmental Club in active participation at the 'Waterways Clean Up Programme' held at the Yishun Pond on 10 March 2023. Students had the opportunity to observe and learn about the impacts of litter on our waters and wildlife, and how our actions can contribute to keeping our waterways clean and safe for all.***
 
 ![](/images/environmental%20club%201.png)
 ![](/images/environmental%20club%202.png)
