@@ -34,6 +34,8 @@ GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for
 </li></ul>
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture1_ffth.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture1_ffth_1.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture1_ffth_2.jpg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture2_ffth.jpg">
 
 ***Students contributing to the Food From The Heart, FFTH initiative***
