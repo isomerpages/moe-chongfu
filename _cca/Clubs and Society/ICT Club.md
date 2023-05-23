@@ -37,4 +37,11 @@ third_nav_title: Clubs and Society
 </li><li>Fridays, 1.45pm – 3.45pm | Computer Labs | <b>P5 &amp; P6</b>
 </li></ul>
 
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ict_club_cca_2023_picture1.JPG">
+<img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/ict_club_cca_2023_picture3.JPG">
+<img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ict_club_cca_2023_picture4.JPG">
+</p><p style="clear: both;">
+</p>
+
 <img style="width:100%" src="/images/ict_club_2023_picture1.jpg">
