@@ -42,6 +42,7 @@ third_nav_title: Clubs and Society
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ict_club_cca_2023_picture2.JPG">
 <img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/ict_club_cca_2023_picture3.JPG">
 <img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ict_club_cca_2023_picture4.JPG">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ict_club_cca_2023_picture6.JPG">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ict_club_cca_2023_picture5.JPG">
 </p><p style="clear: both;">
 </p>
