@@ -42,8 +42,8 @@ P5 Classroom | <b>P3 &amp; P5</b>
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/scouts_cca_2023_picture11.JPG">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/scouts_cca_2023_picture1_a.JPG">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/scouts_cca_2023_picture14.jpeg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/scouts_cca_2023_picture13.jpeg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/scouts_cca_2023_picture16.jpeg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/scouts_cca_2023_picture13.jpeg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/scouts_cca_2023_picture18.jpeg">
 </p><p style="clear: both;">
 </p>
