@@ -7,4 +7,4 @@ description: ""
 ---
 # 30th June 2022
 
-Please click [here](http://tinyurl.com/2p9cz83j) to view the school’s eNewsletter 2022
+Please click [here](https://tinyurl.com/32anhab8) to view the school’s eNewsletter 2022
