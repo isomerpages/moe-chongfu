@@ -43,6 +43,14 @@ The Art Talent Programme (ATP) curriculum that was launched in 2022 aims to deve
 </ul>
 
 <p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture4_friendshipband.jpeg">
+<img style="float: left; width: 44%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture3_friendshipband.jpeg">
+<img style="float: left; width: 53%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture5_friendshipband.jpg">
+</p><p style="clear: both;">
+</p>
+
+
+<p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/Stitched-Art-1-1.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ArtClub_Picture1-1.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/Batik-1-1.jpg">
