@@ -78,6 +78,18 @@ The Art Talent Programme (ATP) curriculum that was launched in 2022 aims to deve
 </p>
 
 <p>
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures32_metalworks.jpeg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures33_metalworks.jpeg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures34_metalworks.jpeg">
+</p>
+
+<p>
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures35_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures36_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures37_cny.jpg">
+</p>
+
+<p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/Stitched-Art-1-1.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ArtClub_Picture1-1.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/Batik-1-1.jpg">
