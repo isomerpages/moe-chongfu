@@ -42,18 +42,69 @@ The Art Talent Programme (ATP) curriculum that was launched in 2022 aims to deve
 </li>
 </ul>
 
-<img src="/images/ArtClub_Picture1-1.jpg" style="width:70%">
-<br>		 
-<img src="/images/ArtClub_Picture2-1.jpg" style="width:70%">
-<br>		 
-<img src="/images/ArtClub_Picture3-1.jpg" style="width:70%">
-<br>
-<img src="/images/Batik-1-1.jpg" style="width:70%">
-<br>		 
-<img src="/images/Stitched-Art-1-1.jpg" style="width:70%">
-<br>
-<img src="/images/art%20club%201.jpg" style="width:70%">
-<br>		 
-<img src="/images/art%20club%202.jpg" style="width:70%">
-<br>
-<img src="/images/art%20club%203.jpg" style="width:70%">
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures31a.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures1.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures21.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures3.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures4.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures5.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures6.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures7.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures8.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures9.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures10.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures11.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures12.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures13.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures14.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures15.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures16.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures17.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures18.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures19.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures20.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures2.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures22.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures23.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures24.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures25.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures26.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures27.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures28.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures29.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures30.jpg">
+</p><p style="clear: both;">
+</p>
+
+<p>
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures32_metalworks.jpeg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures33_metalworks.jpeg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures34_metalworks.jpeg">
+</p>
+
+<p>
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures35_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures36_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures37_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures38_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures39_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures40_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures41_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures42_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures43_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures44_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures45_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures46_cny.jpg">
+</p>
+
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/Stitched-Art-1-1.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ArtClub_Picture1-1.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/Batik-1-1.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ArtClub_Picture2-1.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ArtClub_Picture3-1.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art%20club%202.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art%20club%203.jpg">
+</p><p style="clear: both;">
+</p>
