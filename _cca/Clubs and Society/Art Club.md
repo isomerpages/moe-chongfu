@@ -77,7 +77,6 @@ The Art Talent Programme (ATP) curriculum that was launched in 2022 aims to deve
 </p><p style="clear: both;">
 </p>
 
-
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/Stitched-Art-1-1.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ArtClub_Picture1-1.jpg">
