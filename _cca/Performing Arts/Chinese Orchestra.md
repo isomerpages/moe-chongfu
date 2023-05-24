@@ -45,6 +45,8 @@ We will also develop students confident, teamwork &amp; leadership skills throug
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture17.JPG">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture12.JPG">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture13.JPG">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture19.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture20.jpg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chineseorchestra_cca_2023_picture10.JPG">
 
 ***Students in a rigorous weekly training session guided by their instructors to hone and improve their skills in maneuvering the musical instruments to give an astounding performance for every occasion.***
