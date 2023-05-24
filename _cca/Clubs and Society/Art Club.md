@@ -43,9 +43,30 @@ The Art Talent Programme (ATP) curriculum that was launched in 2022 aims to deve
 </ul>
 
 <p>
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture4_friendshipband.jpeg">
-<img style="float: left; width: 44%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture3_friendshipband.jpeg">
-<img style="float: left; width: 53%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/brownese_cca_2023_picture5_friendshipband.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures1.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures21.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures3.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures4.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures5.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures6.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures7.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures8.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures9.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures10.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures11.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures12.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures13.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures14.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures15.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures16.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures17.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures18.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures19.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures20.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures2.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures22.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures23.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures24.jpg">
 </p><p style="clear: both;">
 </p>
 
