@@ -42,18 +42,13 @@ The Art Talent Programme (ATP) curriculum that was launched in 2022 aims to deve
 </li>
 </ul>
 
-<img src="/images/ArtClub_Picture1-1.jpg" style="width:70%">
-<br>		 
-<img src="/images/ArtClub_Picture2-1.jpg" style="width:70%">
-<br>		 
-<img src="/images/ArtClub_Picture3-1.jpg" style="width:70%">
-<br>
-<img src="/images/Batik-1-1.jpg" style="width:70%">
-<br>		 
-<img src="/images/Stitched-Art-1-1.jpg" style="width:70%">
-<br>
-<img src="/images/art%20club%201.jpg" style="width:70%">
-<br>		 
-<img src="/images/art%20club%202.jpg" style="width:70%">
-<br>
-<img src="/images/art%20club%203.jpg" style="width:70%">
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/Stitched-Art-1-1.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ArtClub_Picture1-1.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/Batik-1-1.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ArtClub_Picture2-1.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/ArtClub_Picture3-1.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art%20club%202.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art%20club%203.jpg">
+</p><p style="clear: both;">
+</p>
