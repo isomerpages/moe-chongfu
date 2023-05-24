@@ -87,6 +87,15 @@ The Art Talent Programme (ATP) curriculum that was launched in 2022 aims to deve
 <img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures35_cny.jpg">
 <img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures36_cny.jpg">
 <img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures37_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures38_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures39_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures40_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures41_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures42_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures43_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures44_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures45_cny.jpg">
+<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/art_cca_2023_pictures46_cny.jpg">
 </p>
 
 <p>
