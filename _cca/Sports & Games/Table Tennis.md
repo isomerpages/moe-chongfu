@@ -141,6 +141,8 @@ Mr Wang Xiaoke, Ms Xu Shuguang
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture24.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture25.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture26.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture31.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture27.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture29.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture30.jpg">
 </p>
