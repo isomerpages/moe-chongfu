@@ -120,5 +120,20 @@ Mr Wang Xiaoke, Ms Xu Shuguang
 </tbody>
 </table>
 
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture5.jpg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture4.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture6.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture7.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture8.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture9.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture10.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture11.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture12.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture15.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture14.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture13.jpg">
+</p>
+
 ![](/images/table%20tennis.png)
 ![](/images/Picsart_22-04-20_16-23-46-266-2048x1291.jpg)
