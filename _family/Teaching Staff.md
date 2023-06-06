@@ -470,21 +470,13 @@ Ms Madihah Binte Ghazali<br>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-soxn"><span style="font-weight:bold">FLEXI-ADJUNCT</span></th>
+    <th class="tg-soxn"><span style="font-weight:bold">NIE TRAINEE</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5xgq">Ms Elizabeth D/O Suppiah Jacob</td>		
-  </tr>
-	
-  <tr>
-    <td class="tg-soxn"><span style="font-weight:bold">NIE TRAINEE</span></td>
-  </tr>
-  <tr>
-    <td class="tg-5xgq">Ms Xu Xiao Jie</td>
-  </tr>
-  
+    <td class="tg-5xgq">Ms Xu Xiao Jie</td>		
+  </tr>  
 </tbody>
 </table>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
