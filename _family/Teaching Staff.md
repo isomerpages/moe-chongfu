@@ -475,9 +475,9 @@ Ms Madihah Binte Ghazali<br>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5xgq">Ms Siti Horrianie Binte Osmen</td>
+    <td class="tg-5xgq">Ms Elizabeth D/O Suppiah Jacob</td>		
   </tr>
-  
+	
   <tr>
     <td class="tg-soxn"><span style="font-weight:bold">NIE TRAINEE</span></td>
   </tr>
