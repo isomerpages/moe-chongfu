@@ -39,7 +39,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Respectful</span></td>
 			<td class="tg-5xgq">Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">madihah_ghazali@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Ms Tan Li 陈俪<br></td>
+    <td class="tg-lm9i">Ms Tan Li 陈俪<br><a href="mailto:"><span style="text-decoration:none;color:#F85125;background-color:transparent"></span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Achieving</span></td>
@@ -161,7 +161,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold"> 2 Youthful</span></td>
     <td class="tg-lm9i">Mdm Goh Siew Peng 吴秀萍<br><a href="mailto:goh_siew_peng@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">goh_siew_peng@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Ms Shona Cha Siew Lian<br></td>
+    <td class="tg-lm9i">Ms Shona Cha Siew Lian<br><a href="mailto:"><span style="text-decoration:none;color:#F85125;background-color:transparent"></span></a></td>
   </tr>
 </tbody>
 </table>
