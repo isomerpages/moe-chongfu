@@ -419,7 +419,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">6 Respectful</span></td>
     <td class="tg-5xgq">Ms Loh Jasmine<br><a href="mailto:loh_jasmine@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">loh_jasmine@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Ms Boomichelvi Ramasamy<br><a href="mailto:boomichelvi_ramasamy@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">boomichelvi_ramasamy@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mr Andy Soh Lee Ming<br><a href="mailto:andy_soh_lee_ming@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">andy_soh_lee_ming@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-ukh9"><span style="font-weight:bold">6 Achieving</span></td>
