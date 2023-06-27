@@ -151,7 +151,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Sincere</span></td>
     <td class="tg-lm9i">Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">nur_lailie_jamal@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Yeo Seow Mei Jenny 杨秀美<br><a href="mailto:jenny_yeo_seow_mei@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">jenny_yeo_seow_mei@moe.edu.sg</span></a><br>Ms Seow Shu Feng<br><a href="mailto:seow_shu_feng@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">seow_shu_feng@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Goh Sock Cheng 吴淑贞<br><a href="mailto:jenny_yeo_seow_mei@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent"></span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">2 Loyal</span></td>
