@@ -287,7 +287,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">4 Caring</span></td>
     <td class="tg-5xgq">Mdm Tan Yu Ling Caroline <br><a href="mailto:tan_yu_ling_caroline@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tan_yu_ling_caroline@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Mr Lee Shi Ren<br><a href="mailto:lee_shi_ren@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lee_shi_ren@moe.edu.sg</span></a><br></td>
+    <td class="tg-5xgq">Mr Yeo Jie Derek <br><a href="mailto:"><span style="text-decoration:none;color:#F85125;background-color:transparent"></span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">4 Innovative</span></td>
