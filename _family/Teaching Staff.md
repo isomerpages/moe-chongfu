@@ -70,7 +70,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Sincere</span></td>
     <td class="tg-lm9i">Mrs Lim Meng Wah <br><a href="mailto:lim_meng_wah@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">lim_meng_wah@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Li Pei Jie<br><a href="mailto:li_pei_jie@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">li_pei_jie@moe.edu.sg</span></a><br>Mdm Noraini Bte Amin<br><a href="mailto:noraini_amin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">noraini_amin@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Mdm Noraini Bte Amin<br><a href="mailto:noraini_amin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">noraini_amin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Loyal</span></td>
