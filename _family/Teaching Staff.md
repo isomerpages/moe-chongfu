@@ -199,7 +199,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Gracious</span></td>
     <td class="tg-lm9i">Ms Chan Jing Ling 陈晶玲<br><a href="mailto:chan_jing_ling@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">chan_jing_ling@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Shang Lingru 尚凌如<br><a href="mailto:shang_lingru@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">shang_lingru@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Minjoot Jacqueline Constance<br><a href="mailto:minjoot_jacqueline_constance@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">minjoot_jacqueline_constance@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Respectful</span></td>
