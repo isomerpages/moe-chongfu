@@ -423,8 +423,8 @@ Ms Madihah Binte Ghazali<br>
   </tr>
 	<tr>
     <td class="tg-ukh9"><span style="font-weight:bold">6 Achieving</span></td>
-    <td class="tg-5xgq">Ms Tan Jie Ying Rachel<br><a href="mailto:tan_jie_ying_rachel@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tan_jie_ying_rachel@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Mdm Koh Siew Geok<br><a href="mailto:koh_siew_geok@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">koh_siew_geok@moe.edu.sg</span></a><br>Ms Zheng Yijun Elaine<br><a href="mailto:zheng_yijun_elaine@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">zheng_yijun_elaine@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Mdm Koh Siew Geok<br><a href="mailto:koh_siew_geok@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">koh_siew_geok@moe.edu.sg</span></a></td>
+    <td class="tg-5xgq">Ms Zheng Yijun Elaine<br><a href="mailto:zheng_yijun_elaine@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">zheng_yijun_elaine@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">6 Caring</span></td>
