@@ -287,7 +287,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">4 Caring</span></td>
     <td class="tg-5xgq">Mdm Tan Yu Ling Caroline <br><a href="mailto:tan_yu_ling_caroline@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tan_yu_ling_caroline@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Mr Yeo Jie Derek <br><a href="mailto:"><span style="text-decoration:none;color:#F85125;background-color:transparent"></span></a><br></td>
+    <td class="tg-5xgq">Mr Yeo Jie Derek <br><a href="mailto:yeo_jie_derek@schools.gov.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">yeo_jie_derek@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">4 Innovative</span></td>
@@ -348,7 +348,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">5 Respectful</span></td>
     <td class="tg-5xgq">Ms Gu Xiaoyan<br><a href="mailto:gu_xiaoyan@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">gu_xiaoyan@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Ms Siti Sarah Bte Ahmad <br><a href="mailto:"><span style="text-decoration:none;color:#F85125;background-color:transparent"></span></a><br></td>
+    <td class="tg-5xgq">Ms Siti Sarah Bte Ahmad <br><a href="mailto:siti_sarah_ahmad@schools.gov.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">siti_sarah_ahmad@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">5 Achieving</span></td>
