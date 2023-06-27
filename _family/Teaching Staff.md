@@ -39,7 +39,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Respectful</span></td>
 			<td class="tg-5xgq">Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">madihah_ghazali@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Tan Li 陈俪<br><a href="mailto:"><span style="text-decoration:none;color:#F85125;background-color:transparent"></span></a></td>
+    <td class="tg-lm9i">Ms Tan Li 陈俪<br><a href="mailto:tan_li@schools.gov.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tan_li@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Achieving</span></td>
