@@ -43,8 +43,8 @@ Ms Madihah Binte Ghazali<br>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Achieving</span></td>
-    <td class="tg-5xgq">Ms Roshiela Binte Rosly<br><a href="mailto:roshiela_rosly@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">roshiela_rosly@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Ms Tee Sow Chin 郑素青<br><a href="mailto:tee_sow_chin_a@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tee_sow_chin_a@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Roshiela Binte Rosly<br><a href="mailto:roshiela_rosly@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">roshiela_rosly@moe.edu.sg	</span></a></td>
+    <td class="tg-lm9i">Ms Tee Sow Chin 郑素青<br><a href="mailto:tee_sow_chin_a@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tee_sow_chin_a@moe.edu.sg</span></a><br>Ms Dhurga Devi D/O Ramasamy<br></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">1 Caring</span></td>
