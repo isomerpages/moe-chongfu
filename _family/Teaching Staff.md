@@ -297,7 +297,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">4 Observant</span></td>
     <td class="tg-5xgq">Mr Brian Jeremy Reis<br><a href="mailto:brian_jeremy_reis@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">brian_jeremy_reis@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq">Ms Elizabeth D/O Suppiah Jacob<br></td>
+    <td class="tg-5xgq">Ms Li Pei Jie<br><a href="mailto:li_pei_jie@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">li_pei_jie@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">4 United</span></td>
