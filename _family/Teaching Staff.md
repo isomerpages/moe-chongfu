@@ -472,13 +472,25 @@ Ms Madihah Binte Ghazali<br>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-soxn"><span style="font-weight:bold">NIE TRAINEE</span></th>
+    <th class="tg-soxn"><span style="font-weight:bold">Other Teachers</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
+    <td class="tg-5xgq">Ms Seow Shu Feng (FAJT)</td>		
+  </tr>
+	 <tr>
     <td class="tg-5xgq">Ms Xu Xiao Jie</td>		
-  </tr>  
+  </tr>
+	<tr>
+    <td class="tg-5xgq">Ms Tan Yi-Lin Jolene</td>		
+  </tr>
+	<tr>
+    <td class="tg-5xgq">Ms Siti Nadiah Binti Mohamad Toha</td>		
+  </tr>
+	<tr>
+    <td class="tg-5xgq">Ms Raudhah Nafisah Binte Hakim</td>		
+  </tr>
 </tbody>
 </table>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
