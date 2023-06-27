@@ -209,7 +209,7 @@ Ms Madihah Binte Ghazali<br>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Achieving</span></td>
     <td class="tg-lm9i">Ms Jillyn Woo Wanyi<br><a href="mailto:jillyn_woo_wan_yi@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">jillyn_woo_wan_yi@moe.edu.sg</span></a></td>
-    <td class="tg-lm9i">Mr Kenn Roy Anthony<br><a href="mailto:kenn_roy_anthony@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">kenn_roy_anthony@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Mr Chia Eng Lee<br><a href="mailto:"><span style="text-decoration:none;color:#F85125;background-color:transparent"></span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Caring</span></td>
@@ -218,8 +218,9 @@ Ms Madihah Binte Ghazali<br>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Innovative</span></td>
-    <td class="tg-5xgq">Ms Tin Yuen Fay<br><a href="mailto:tin_yuen_fay@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tin_yuen_fay@moe.edu.sg</span></a></td>
-    <td class="tg-5xgq"><span style="background-color:#FFF">Ms Minjoot Jacqueline Constance</span><br><a href="mailto:minjoot_jacqueline_constance@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">minjoot_jacqueline_constance@moe.edu.sg</span></a><br>Ms Nur Syafiqah Binte Mohamad Sham<br><a href="mailto:minjoot_jacqueline_constance@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">nur_syafiqah_mohamad_sham@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Nur Syafiqah Binte Mohamad Sham<br><a href="mailto:nur_syafiqah_mohamad_sham@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">nur_syafiqah_mohamad_sham@moe.edu.sg</span></a></td>
+    <td class="tg-lm9i">Ms Tin Yuen Fay<br><a href="mailto:tin_yuen_fay@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">tin_yuen_fay@moe.edu.sg</span></a><br>Mdm Yao Mei Bin 姚梅彬<br><a href="mailto:yao_meibin@moe.edu.sg"><span style="text-decoration:none;color:#F85125;background-color:transparent">yao_meibin@moe.edu.sg
+</span></a></td>
   </tr>
   <tr>
     <td class="tg-ukh9"><span style="font-weight:bold">3 Observant</span></td>
