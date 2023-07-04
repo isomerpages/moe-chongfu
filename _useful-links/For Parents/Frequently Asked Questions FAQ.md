@@ -5,97 +5,97 @@ description: ""
 third_nav_title: For Parents
 ---
 <ul class="jekyllcodex_accordion">  
-  <li>  
-    <input type="checkbox" id="accordion1">  
-    <label for="accordion1">How do I register for Primary One for my child/ward?</label>  
-    <div>  
-      <p>The Primary One Registration Exercise is conducted from June to September every year. Parents should refer to the registration phases and procedures to find out which phase their children are eligible for, how to register and the documents required for registration posted on the MOE website.
+&nbsp;&nbsp;<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">How do I register for Primary One for my child/ward?</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>The Primary One Registration Exercise is conducted from June to September every year. Parents should refer to the registration phases and procedures to find out which phase their children are eligible for, how to register and the documents required for registration posted on the MOE website.
 
-For more information on the Primary One Registration Exercise, please refer to the following website: <a href="https://www.moe.gov.sg/admissions/primary-one-registration">https://www.moe.gov.sg/admissions/primary-one-registration</a></p>  
-    </div>  
+For more information on the Primary One Registration Exercise, please refer to the following website:&nbsp;<a href="https://moe.gov.sg/primary/p1-registration">https://moe.gov.sg/primary/p1-registration</a></p>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion2">  
-    <label for="accordion2">How do I register as a Parent Volunteer to be eligible for Phase 2B during the Primary One registration exercise?</label>  
-    <div>  
-      <p>The application period for Parent Volunteers (for child born between 2nd Jan 2018 to 1st Jan 2019) is from 1 August 2022 to 31 October 2022. Shortlisted applicants will be contacted via email by end December 2022. The application form will be available at the following link during the application period: 
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">How do I register as a Parent Volunteer to be eligible for Phase 2B during the Primary One registration exercise?</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>The application period for Parent Volunteers (for child born between 2nd Jan 2018 to 1st Jan 2019) is from 1 August 2022 to 31 October 2022. Shortlisted applicants will be contacted via email by end December 2022. The application form will be available at the following link during the application period: 
 <a href="https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Forms-Download/">/useful-links/for-parents/forms-download/</a>
 				
 For more information on the eligibility of phases for the Primary One registration exercise, please refer to the following website:<a href="https://www.moe.gov.sg/admissions/primary-one-registration">https://www.moe.gov.sg/admissions/primary-one-registration</a></p>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion3">  
-    <label for="accordion3">Currently, my child is studying in XXX School. As we will be shifting to Yishun, we wish to transfer my child to Chongfu School. What are the procedures for applying for transfer to Chongfu School?</label>  
-    <div>  
-      <p>To place your child on the transfer-in waiting list, please complete the transfer-in waiting list application form which can be downloaded at <a href="https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Forms-Download/">/useful-links/for-parents/forms-download/</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Currently, my child is studying in XXX School. As we will be shifting to Yishun, we wish to transfer my child to Chongfu School. What are the procedures for applying for transfer to Chongfu School?</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>To place your child on the transfer-in waiting list, please complete the transfer-in waiting list application form which can be downloaded at&nbsp;<a href="https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Forms-Download/">/useful-links/for-parents/forms-download/</a>
 
 Parents will be notified should the applicant be shortlisted.</p>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion4">  
-    <label for="accordion4">When are my child’s long days?</label>  
-    <div>  
-      <p>Please refer to the following link: <a href="https://moe-chongfu-staging.netlify.app/heritage/school-information/school-hours">/heritage/school-information/school-hours/</a> .This information is also available in the Term 1 letter which is distributed to all students in the first week of Term 1.</p>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">When are my child’s long days?</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link:&nbsp;<a href="https://moe-chongfu-staging.netlify.app/heritage/school-information/school-hours">/heritage/school-information/school-hours/</a>&nbsp;.This information is also available in the Term 1 letter which is distributed to all students in the first week of Term 1.</p>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion5">  
-    <label for="accordion5">Where do I find the Calendar of Events?</label>  
-    <div>  
-      <p>Please refer to the following link below:
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">Where do I find the Calendar of Events?</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link below:
 <a href="/files/Calendar-of-Events-2022-Sem-1.pdf">Calendar of Events 2022 Sem 1</a></p>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion6">  
-    <label for="accordion6">How do I travel to Chongfu School by public transport?</label>  
-    <div>  
-      <p>Please refer to the following link: <a href ="https://www.chongfu.moe.edu.sg/contact-us/"> Contact Us</a></p>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion6">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6">How do I travel to Chongfu School by public transport?</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link:&nbsp;<a href="https://www.chongfu.moe.edu.sg/contact-us/"> Contact Us</a></p>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion7">  
-    <label for="accordion7">How do I contact Chongfu School?</label>  
-    <div>  
-      <p>Please refer to the following link: <a href="https://moe-chongfu-staging.netlify.app/contact-us/">Contact Us</a></p>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">How do I contact Chongfu School?</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link:&nbsp;<a href="https://moe-chongfu-staging.netlify.app/contact-us/">Contact Us</a></p>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion8">  
-    <label for="accordion8">How do I find the school vendor information?</label>  
-    <div>  
-      <p>Please click <a href ="https://www.chongfu.moe.edu.sg/heritage/School-Information/supplier-information/"> here</a> for information on the School's Vendors</p>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion8">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion8">How do I find the school vendor information?</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please click&nbsp;<a href="https://www.chongfu.moe.edu.sg/heritage/School-Information/supplier-information/"> here</a>&nbsp;for information on the School's Vendors</p>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion9">  
-    <label for="accordion9">Is there a parents support group in Chongfu School?</label>  
-    <div>  
-      <p>Yes, the parent support group in Chongfu is called “PASSION” which stands for “Parents Assisting School Successfully and Investing in the future of Our Nation”.
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion9">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion9">Is there a parents support group in Chongfu School?</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Yes, the parent support group in Chongfu is called “PASSION” which stands for “Parents Assisting School Successfully and Investing in the future of Our Nation”.
 
 PASSION aims to strengthen its partnership with the school through greater collaboration and more effective communication so as to provide a conducive learning environment for pupils.
 
 If you are interested to join PASSION, please download and complete the following application <a href="/files/Passion-Recruitment-Form-2013_letter-head.pdf">Passion Recruitment Form</a> and submit it to the General Office.
 
 You can view the PASSION facebook page here: <a href="https://www.facebook.com/Chongfu-School-Passion-Parent-Support-Group-260164957352971/">https://www.facebook.com/Chongfu-School-Passion-Parent-Support-Group-260164957352971/</a></p>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion10">  
-    <label for="accordion10">How do I become a member of the Chongfu Alumni?</label>  
-    <div>  
-      <p>To apply for Chongfu Alumni member, the application form can be downloaded from the Chongfu Alumni website.
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion10">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion10">How do I become a member of the Chongfu Alumni?</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>To apply for Chongfu Alumni member, the application form can be downloaded from the Chongfu Alumni website.
 
 For more information on Chongfu Alumni, please refer to:<a href="http://www.chongfualumni.com/">http://www.chongfualumni.com/</a>. Alternatively, you can contact them at 6257 6656 on Saturdays.</p>  
-    </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
-    <input type="checkbox" id="accordion11">  
-    <label for="accordion11">What is PAL?</label>  
-    <div>  
-      <p><p>PAL stands for “Programme for Active Learning”, and is conducted for Primary 1 and Primary 2 students. The objectives of PAL are to:</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion11">  
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion11">What is PAL?</label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p></p><p>PAL stands for “Programme for Active Learning”, and is conducted for Primary 1 and Primary 2 students. The objectives of PAL are to:</p>
 <ul>
 <li>Provide students with broad exposure to a range of sports and arts programmes in a fun and creative manner</li>
 <li>Nurture students to be confident, to arouse their curiosity of their surroundings and to instil cooperation skills</li>
@@ -103,7 +103,7 @@ For more information on Chongfu Alumni, please refer to:<a href="http://www.chon
 </ul>
 <p>The four domains of PAL are Outdoor Education (OE), Performing Arts (PA), Visual Arts (VA) and Sports and Games (S&amp;G). Each domain consists of 7 lessons, conducted over 4 periods each.</p>
 For more details, please refer to the following link on our website: <a href="https://www.chongfu.moe.edu.sg/curriculum/applied-learning-programme/programme-for-active-learning/">/curriculum/programme-for-active-learning/</a>
-</p>  
-    </div>  
+<p></p>  
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 </ul>
