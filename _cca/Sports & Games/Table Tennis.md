@@ -16,6 +16,7 @@ During trainings, players will learn different techniques such as stroke play, f
 <li> Ms Luo Huixian Santarina <b>(I/C)</b></li>
 <li> Mdm Zhou Wei Hua </li>
 <li> Mdm Fan Xia </li>
+<li> Mr Derek Yeo </li>
 </ul>
 
 **Teachers In Charge: Fridays**
