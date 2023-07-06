@@ -11,7 +11,7 @@ third_nav_title: Performing Arts
 
 <ul>
 <li> Mdm Mazlin <b>(I/C)</b></li>
-<li> Ms Raudhah </li>
+<li> Mdm Sabariah Bte Alwi <b>(I/C)</b></li>
 </ul>
 
 **Teachers In Charge: Fridays**
