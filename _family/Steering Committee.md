@@ -3,25 +3,21 @@ title: Steering Committee
 permalink: /family/steering-committee/
 description: ""
 ---
-<img src="/images/mdm-foo-mui-chuw-3-768x1024.jpeg" 
-     style="width:30%">	 
+<img src="/images/mdm-foo-mui-chuw-3-768x1024.jpeg" style="width:30%">	 
 <center><b>Principal</b></center>
 <center>Mdm Foo Mui Chuw</center>
 
-<img src="/images/MrSoonWS_VP1.png" 
-     style="width:30%">
+<img src="/images/MrSoonWS_VP1.png" style="width:30%">
 <center><b>Vice Principal</b></center>
 <center>Mr Soon Woo Sin</center>
 
-<img src="/images/MsAngelynnaLim HweeMienVP2.jpg" 
-     style="width:30%">
+<img src="/images/MsAngelynnaLim HweeMienVP2.jpg" style="width:30%">
 <center><b>Vice Principal </b></center>
 <center>Ms Angelynna Lim Hwee Mien</center>
 
-<img src="/images/MrNgeowSiongChyeVPA.jpg" 
-     style="width:30%">
+<img src="/images/MrNgeowSiongChyeVPA.jpg" style="width:30%">
 <center><b> Vice Principal </b></center>
-<center>Mr Jeremy Ngeow Siong Chye</center>
+<center>Mr Jeremy&nbsp;Ngeow&nbsp;Siong Chye</center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -42,10 +38,6 @@ description: ""
   <tr>
     <td class="tg-lm9i">Mdm Yong Yock Hone Katherine</td>
     <td class="tg-lm9i">School Staff Developer</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Mr Lee Shi Ren</td>
-    <td class="tg-lm9i">HOD PE &amp; CCA</td>
   </tr>
     <tr>
     <td class="tg-lm9i">Ms Lee Huoy Fen</td>
