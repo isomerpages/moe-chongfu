@@ -98,6 +98,9 @@ third_nav_title: For Parents
 * [Administrative Matters for First Week of School](/files/LTP_Jan2023_A_MOECFSLTP_2023_0001_P1Welcome-Letter.pdf)
 * [First Week of School Matters 2023](/files/LTP_Jan2023_B_MOECFSLTP_2023_0002_First-Week-of-Sch-Matters.pdf)
 * [Welcome Message for P1 Parents](/files/LTP_Jan2023_C_Welcome-Message-For-P1-Parents-(2).pdf)
+* [P4 BiCEP Matters](/files/LTP_Jan2023_D_MOE_CFSLTP_2023_0007a_P4-BiCEP_XS.pdf)
+* [P5 BiCEP Matters](/files/LTP_Jan2023_D_MOE_CFSLTP_2023_0007a_P5-BiCEP_XS.pdf)
+* [P6 BiCEP Matters](/files/LTP_Jan2023_D_MOE_CFSLTP_2023_0007a_P6-BiCEP_XS.pdf)
 
 </li>
 </ul>
