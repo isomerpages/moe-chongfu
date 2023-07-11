@@ -128,6 +128,12 @@ third_nav_title: For Parents
 * [Conformation as School Prefects for 2023](/files/LTP_Apr2023_F_MOECFSLTP_2023_0053_Prefect-Confirmation-2023.pdf)
 * [Meet-the-Parents (MTP) Session 2023](/files/LTP_Apr2023_H_MOECFSLTP_2023_0050_P1-P6-MTP-Session-2023.pdf)
 
+### May 2023
 
+* [BiCEP Online Immersion Programme 2023](/files/LTP_May2023_A_MOECFSLTP_2023-_0060_BICEP-ONLINE-IMMERSION-PROGRAMME_Li-xs.pdf)
+* [Gifted Education Programme Identification Exercise 2023](/files/LTP_Feb2023_C_MOECFSLTP_2023_0031_P3-GEP-Tentative-Dates-2023_A-Lau_PG.pdf)
+* [Innovation Programme 2023](/files/LTP_Feb2023_D_MOECFSLTP_2023_0019_IvP_A-Lau.pdf)
+
+	
 </li>
 </ul>
