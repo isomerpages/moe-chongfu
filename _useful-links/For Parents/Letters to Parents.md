@@ -126,6 +126,7 @@ third_nav_title: For Parents
 * [Collection of Health Booklets for P1 to P5](/files/LTP_Apr2023_D_MOECFSLTP_2023_0051_Collection-of-Health-Booklet-(P1-and-P5-only).pdf)
 * [BiCEP Oratorical Camp](/files/LTP_Apr2023_E_MOECFSLTP_2023_0052_BiCEP_Oratorical-Camp_Li-xs.pdf)
 * [Conformation as School Prefects for 2023](/files/LTP_Apr2023_F_MOECFSLTP_2023_0053_Prefect-Confirmation-2023.pdf)
+* [Meet-the-Parents (MTP) Session 2023](/files/LTP_Apr2023_G_MOECFSLTP_2023_0050_P1-P6-MTP-Session-2023.pdf)
 
 </li>
 </ul>
