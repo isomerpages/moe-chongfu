@@ -82,5 +82,3 @@ third_nav_title: For Parents
 * [107 Prize Presentation & P6 Graduation Ceremony 2022 - P6 Prize Winners](/files/LTP_Nov2022_G_MOECFSLTP_2022_0115__Prize-Presentation_P6-Prize-Winners.pdf)
 * [2022 PSLE Result Release](/files/LTP_Nov2022_H_MOECFSLTP2022_0118_PSLE-Results-Release_Filicia.pdf)
 * [Collection of Pupil Data](/files/LTP_Nov2022_I_MOECFSLTP2022_0119_Collection-of-Pupil-Data.pdf)
-
-### December 2022
