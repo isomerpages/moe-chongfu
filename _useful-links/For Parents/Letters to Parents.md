@@ -48,6 +48,9 @@ third_nav_title: For Parents
 * [P6 Prelim Oral Examination 2022](/files/MOECFSLTP_2022_0070_P6-Prelim-Oral_Goh-SP.pdf)
 
 ### July 2022
+* [Racial Harmony Day](/files/LTP_July2022_A_MOECFSLTP_2022_0071_Racial-Harmony-Day_Roshiela.pdf)
+* [BiCEP Tea Appreciation](/files/LTP_July2022_B_MOECFSLTP_2022_0077_BiCEP-Tea-Appreciation_Li-XS.pdf)
+* [Participation in 2022 Raffles Institution Liveable Cities Challenge (RILCC)](/files/LTP_July2022_C_MOECFSLTP_2022_0078_RILCC_Juliana.pdf)
 
 ### August 2022
 
