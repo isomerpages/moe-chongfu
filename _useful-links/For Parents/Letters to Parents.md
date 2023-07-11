@@ -114,7 +114,7 @@ third_nav_title: For Parents
 
 ### February 2023
 
-* [BICEP Calligraphy 2022](/files/MOECFSLTP_2022_0035_BICEP_Calligraphy_Li-xs-1.pdf)
+* [BiCEP Chinese Painting](/files/LTP_Feb2023_A_MOECFSLTP_2023_0026_BiCEP_ChinesePainting_Li-XS.pdf)
 
 </li>
 </ul>
