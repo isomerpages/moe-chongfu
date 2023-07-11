@@ -134,6 +134,13 @@ third_nav_title: For Parents
 * [Invitation to participate in YSC Design Thinking and Prototyping Bootcamp 2023](/files/LTP_May2023_B_MOECFSLTP_2023_0061_YSC-Bootcamp.pdf)
 * [School e-Newsletter 2023](/files/LTP_May2023_C_MOECFSLTP_2023_0062_e-Newsletter-2023_Dave.pdf)
 * [National Education Show 2023](/files/LTP_May2023_D_MOECFSLTP_2023_0064_P5-NE-Show.pdf)
+	
+### June 2023
+
+* [POSB Smart Buddy](/files/LTP_June2023_A_MOECFSLTP_2023_0067_POSB-Smart-Buddy.pdf)
+* [P6 Parent Support Mathematics (PSM) Programme 2023](/files/LTP_June2023_B_MOECFSLTP_2023_0068_Benin_PSM_Sem2.pdf)
+* [Innovation Programme 2023](/files/LTP_Feb2023_D_MOECFSLTP_2023_0019_IvP_A-Lau.pdf)
+
 
 	
 </li>
