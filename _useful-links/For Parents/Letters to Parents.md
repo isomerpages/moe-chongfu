@@ -73,5 +73,6 @@ third_nav_title: For Parents
 * [107 Prize Presentation Ceremony 2022 - Primary 3 and Primary 4](/files/LTP_Nov2022_B_MOECFSLTP_2022_0108_Prize-Presentation_P3-to-P4-Students-2022.pdf)
 * [107 Prize Presentation Ceremony 2022 - Primary 5](/files/LTP_Nov2022_C_MOECFSLTP_2022_0109_Prize-Presentation_P5-Students-2022.pdf)
 * [107 Prize Presentation & P6 Graduation Ceremony 2022 - P6 Graduands](/files/LTP_Nov2022_D_MOECFSLTP_2022_0110_Prize-Presentation_P6-Students-2022.pdf)
+* [Letter of Invitation to Parents of P3/P4 Prize Winners](/files/LTP_Nov2022_E_MOECFSLTP_2022_0113__Prize-Presentation_P3-to-P4-Prize-Winners.pdf)
 
 ### December 2022
