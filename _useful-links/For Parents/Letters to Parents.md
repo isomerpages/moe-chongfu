@@ -8,7 +8,8 @@ third_nav_title: For Parents
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">  
 	<label for="accordion1"><b>2022</b></label>
-
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+	
 ### January 2022
 
 * [Term 1 Letters to Parents](/files/MOE_CFS_LTP_2022_0007-Term-1-Letter-to-Parents.pdf)
@@ -87,12 +88,15 @@ third_nav_title: For Parents
 * [107 Prize Presentation &amp; P6 Graduation Ceremony 2022 - P6 Prize Winners](/files/LTP_Nov2022_G_MOECFSLTP_2022_0115__Prize-Presentation_P6-Prize-Winners.pdf)
 * [2022 PSLE Result Release](/files/LTP_Nov2022_H_MOECFSLTP2022_0118_PSLE-Results-Release_Filicia.pdf)
 * [Collection of Pupil Data](/files/LTP_Nov2022_I_MOECFSLTP2022_0119_Collection-of-Pupil-Data.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">  
 	<label for="accordion2"><b>2023</b></label>
-
+&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+	
 ### January 2023
 
 * [Administrative Matters for First Week of School](/files/LTP_Jan2023_A_MOECFSLTP_2023_0001_P1Welcome-Letter.pdf)
@@ -146,6 +150,7 @@ third_nav_title: For Parents
 
 * [P4 Learning Journey to Geylang Serai Heritage Gallery](/files/LTP_July2023_A_MOECFSLTP_2023_0074_P4-LJ-to-Geylang-Serai-HG.pdf)
 * [Gifted Education Programme (GEP) 2024](/files/LTP_July2023_B_P3-GEP-Letter-2024-Edun-N09-11-011-Vol-16.pdf)
-	
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 </ul>
