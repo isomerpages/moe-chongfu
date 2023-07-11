@@ -4,7 +4,6 @@ permalink: /links-for-parents/letters-to-parent/
 description: ""
 third_nav_title: For Parents
 ---
-	
 ### January 2023
 
 * [Administrative Matters for First Week of School](/files/LTP_Jan2023_A_MOECFSLTP_2023_0001_P1Welcome-Letter.pdf)
