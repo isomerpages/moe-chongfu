@@ -95,9 +95,9 @@ third_nav_title: For Parents
 
 ### January 2023
 
-* [Term 1 Letters to Parents](/files/MOE_CFS_LTP_2022_0007-Term-1-Letter-to-Parents.pdf)
-* [VIA Food Drive Donation](/files/MOECFSLTP_2022_0011_P1-P6-CCE-VIA-Food-Drive-Donation.pdf)
-* [Nomination as Trainee Prefect for 2022](/files/MOECFSLTP_2022_0020_Nomination-as-Trainee-Prefect-for-2022.pdf)
+* [Administrative Matters for First Week of School](/files/LTP_Jan2023_A_MOECFSLTP_2023_0001_P1Welcome-Letter.pdf)
+* [First Week of School Matters 2023](/files/LTP_Jan2023_B_MOECFSLTP_2023_0002_First-Week-of-Sch-Matters.pdf)
+* [Welcome Message for P1 Parents](/files/LTP_Jan2023_C_Welcome-Message-For-P1-Parents-(2).pdf)
 
 </li>
 </ul>
