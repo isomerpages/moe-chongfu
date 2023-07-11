@@ -101,7 +101,7 @@ third_nav_title: For Parents
 * [P4 BiCEP Matters](/files/LTP_Jan2023_D_MOE_CFSLTP_2023_0007a_P4-BiCEP_XS.pdf)
 * [P5 BiCEP Matters](/files/LTP_Jan2023_D_MOE_CFSLTP_2023_0007a_P5-BiCEP_XS.pdf)
 * [P6 BiCEP Matters](/files/LTP_Jan2023_D_MOE_CFSLTP_2023_0007a_P6-BiCEP_XS.pdf)
-* [Term 1 Letter to Parents](/files/LTP_Jan2023_G_MOECFSLTP_2023_0006_Term-1-Letter-to-Parents.pdf)
+* [Term 1 Letter to Parents](/files/LTP_Jan2023_J_MOECFSLTP_2023_0006_Term_1_Letter_to_Parents.pdf)
 * [Chingay Parade Singapore 2023](/files/LTP_Jan2023_H_MOECFSLTP_2023_0008_Chingay-Parade-Spore2023.pdf)
 * [Character and Citizenship Education - Values in Action (VIA)](/files/LTP_Jan2023_I_MOECFSLTP_2023_0009_Food-Donation-Drive.pdf)
 
