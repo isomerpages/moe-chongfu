@@ -68,7 +68,7 @@ third_nav_title: For Parents
 * [Primary One (P1) Orientation for 2023 Intake](/files/LTP_Oct2022_D_MOECFSLTP_2022_0104_P1-Orientation-2022.pdf)
 
 
-
 ### November 2022
+* [107 Prize Presentation Ceremony 2022 - Primary 1 and Primary 2](/files/LTP_Nov2022_A_MOECFSLTP_2022_0107_Prize-Presentation_P1-to-P2-Students-2022.pdf)
 
 ### December 2022
