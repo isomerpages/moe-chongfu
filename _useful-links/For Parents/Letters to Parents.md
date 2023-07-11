@@ -141,6 +141,13 @@ third_nav_title: For Parents
 * [P6 Parent Support Mathematics (PSM) Programme 2023](/files/LTP_June2023_B_MOECFSLTP_2023_0068_Benin_PSM_Sem2.pdf)
 * [P5 and P6 Progressive Learning in Mathematics (PLM) Programme 2023](/files/LTP_June2023_C_MOECFSLTP_2023_0069_Benin_P5&amp;6-PLM_Sem2.pdf)
 * [49th Annual SHHK Combined Schools Sports Meet &amp; Home-Based Learning (HBL)](/files/LTP_June2023_D2_MOECFSLTP_2023_0068_49th-Annual-SHHK-Combined-Schools-Sports-Meet-&amp;-HBL.pdf)
+
+### July 2023
+
+* [P4 Learning Journey to Geylang Serai Heritage Gallery](/files/LTP_July2023_A_MOECFSLTP_2023_0074_P4-LJ-to-Geylang-Serai-HG.pdf)
+* [Gifted Education Programme Identification Exercise 2023](/files/LTP_Feb2023_C_MOECFSLTP_2023_0031_P3-GEP-Tentative-Dates-2023_A-Lau_PG.pdf)
+* [Innovation Programme 2023](/files/LTP_Feb2023_D_MOECFSLTP_2023_0019_IvP_A-Lau.pdf)
+
 	
 </li>
 </ul>
