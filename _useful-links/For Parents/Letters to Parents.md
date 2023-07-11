@@ -112,5 +112,9 @@ third_nav_title: For Parents
 * [P4 Museum-based Learning - National Gallery Singapore](/files/LTP_Jan2023_Q_MOECFSLTP_2023_0018_P4-MBL.pdf)
 * [MOE Sexuality Education in Schools](/files/LTP_Jan2023_R_MOECFSLTP_2023_0023_MOE-Sexuality-Education-in-Schools.pdf)
 
+### February 2023
+
+* [BICEP Calligraphy 2022](/files/MOECFSLTP_2022_0035_BICEP_Calligraphy_Li-xs-1.pdf)
+
 </li>
 </ul>
