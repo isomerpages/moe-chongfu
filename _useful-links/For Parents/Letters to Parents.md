@@ -56,6 +56,7 @@ third_nav_title: For Parents
 * [P6 Prelim Written Examination 2022](/files/MOECFSLTP_2022_0083_P6-Prelim_Written_final.pdf)
 
 ### September 2022
+* [Edusave Character Award (ECHA)](/files/LTP_Sept2022_A_MOECFSLTP_2022_0089_Edusave-Character-Award-(ECHA).pdf)
 
 ### October 2022
 
