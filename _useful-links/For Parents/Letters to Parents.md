@@ -110,6 +110,7 @@ third_nav_title: For Parents
 * [P6 Learning Journey to Asian Civilisation Museum](/files/LTP_Jan2023_O_MOECFSLTP_2023_0016_P6-CCE_LJ_ASM.pdf)
 * [Lunar New Year Celebrations 2023](/files/LTP_Jan2023_P_CNY_Lunar_New_Year_Celebrations_2023.pdf)
 * [P4 Museum-based Learning - National Gallery Singapore](/files/LTP_Jan2023_Q_MOECFSLTP_2023_0018_P4-MBL.pdf)
+* [MOE Sexuality Education in Schools](/files/LTP_Jan2023_R_MOECFSLTP_2023_0023_MOE-Sexuality-Education-in-Schools.pdf)
 
 </li>
 </ul>
