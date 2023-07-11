@@ -4,6 +4,11 @@ permalink: /links-for-parents/letters-to-parent/
 description: ""
 third_nav_title: For Parents
 ---
+<ul class="jekyllcodex_accordion">
+<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">  
+	<label for="accordion1"><b>2022</b></label>
+
 ### January 2022
 
 * [Term 1 Letters to Parents](/files/MOE_CFS_LTP_2022_0007-Term-1-Letter-to-Parents.pdf)
@@ -13,7 +18,7 @@ third_nav_title: For Parents
 ### February 2022
 
 * [GEP Identification Exercise 2022](/files/MOECFSLTP_2022_0028_P3-GEP-Identification-Exercise-2022.pdf)
-* [P6 Supplementary Lessons for 6 Observant, United & Sincere in Semester 1](/files/MOECFSLTP_2022_0030_P6-OUS-Supp-Class_Filicia.pdf)
+* [P6 Supplementary Lessons for 6 Observant, United &amp; Sincere in Semester 1](/files/MOECFSLTP_2022_0030_P6-OUS-Supp-Class_Filicia.pdf)
 * [Registration of Raffles Science Olympiad 2022](/files/MOECFSLTP_2022_0031_RSO_Norain.pdf)
 * [Registration for the Singapore Primary Science Olympiad 2022](/files/MOECFSLTP_2022_0033_SPSO_Huoy-Fen.pdf)
 
@@ -63,7 +68,7 @@ third_nav_title: For Parents
 * [Edusave Character Award (ECHA)](/files/LTP_Sept2022_A_MOECFSLTP_2022_0089_Edusave-Character-Award-(ECHA).pdf)
 * [PSLE Listening Comprehension Examination](/files/LTP_Sept2022_B_MOECFSLTP_2022_0090_PSLE-Listening-Comprehension-Examination.pdf)
 * [Character and Citizenship Education-Values in Action (VIA)](/files/LTP_Sept2022_C_MOECFSLTP_2022_0091_CCE_VIA.pdf)
-* [HBL for P1 and P2 Students](/files/LTP_Sept2022_D_MOECFSLTP_2022_0094_P1&P2-HBL.pdf)
+* [HBL for P1 and P2 Students](/files/LTP_Sept2022_D_MOECFSLTP_2022_0094_P1&amp;P2-HBL.pdf)
 
 ### October 2022
 * [P4 Parent Dialogue Session 2022](/files/LTP_Oct2022_A_MOECFSLTP_2022_0095_Primary-4-Parent-Dialogue-Session-2022.pdf)
@@ -76,9 +81,23 @@ third_nav_title: For Parents
 * [107 Prize Presentation Ceremony 2022 - Primary 1 and Primary 2](/files/LTP_Nov2022_A_MOECFSLTP_2022_0107_Prize-Presentation_P1-to-P2-Students-2022.pdf)
 * [107 Prize Presentation Ceremony 2022 - Primary 3 and Primary 4](/files/LTP_Nov2022_B_MOECFSLTP_2022_0108_Prize-Presentation_P3-to-P4-Students-2022.pdf)
 * [107 Prize Presentation Ceremony 2022 - Primary 5](/files/LTP_Nov2022_C_MOECFSLTP_2022_0109_Prize-Presentation_P5-Students-2022.pdf)
-* [107 Prize Presentation & P6 Graduation Ceremony 2022 - P6 Graduands](/files/LTP_Nov2022_D_MOECFSLTP_2022_0110_Prize-Presentation_P6-Students-2022.pdf)
+* [107 Prize Presentation &amp; P6 Graduation Ceremony 2022 - P6 Graduands](/files/LTP_Nov2022_D_MOECFSLTP_2022_0110_Prize-Presentation_P6-Students-2022.pdf)
 * [Letter of Invitation to Parents of P3/P4 Prize Winners](/files/LTP_Nov2022_E_MOECFSLTP_2022_0113__Prize-Presentation_P3-to-P4-Prize-Winners.pdf)
 * [Letter of Invitation to Parents of P5 Prize Winners](/files/LTP_Nov2022_F_MOECFSLTP_2022_0114__Prize-Presentation_P5-Prize-Winners.pdf)
-* [107 Prize Presentation & P6 Graduation Ceremony 2022 - P6 Prize Winners](/files/LTP_Nov2022_G_MOECFSLTP_2022_0115__Prize-Presentation_P6-Prize-Winners.pdf)
+* [107 Prize Presentation &amp; P6 Graduation Ceremony 2022 - P6 Prize Winners](/files/LTP_Nov2022_G_MOECFSLTP_2022_0115__Prize-Presentation_P6-Prize-Winners.pdf)
 * [2022 PSLE Result Release](/files/LTP_Nov2022_H_MOECFSLTP2022_0118_PSLE-Results-Release_Filicia.pdf)
 * [Collection of Pupil Data](/files/LTP_Nov2022_I_MOECFSLTP2022_0119_Collection-of-Pupil-Data.pdf)
+</li>
+
+<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">  
+	<label for="accordion2"><b>2023</b></label>
+
+### January 2023
+
+* [Term 1 Letters to Parents](/files/MOE_CFS_LTP_2022_0007-Term-1-Letter-to-Parents.pdf)
+* [VIA Food Drive Donation](/files/MOECFSLTP_2022_0011_P1-P6-CCE-VIA-Food-Drive-Donation.pdf)
+* [Nomination as Trainee Prefect for 2022](/files/MOECFSLTP_2022_0020_Nomination-as-Trainee-Prefect-for-2022.pdf)
+
+</li>
+</ul>
