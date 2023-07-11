@@ -58,6 +58,8 @@ third_nav_title: For Parents
 ### September 2022
 * [Edusave Character Award (ECHA)](/files/LTP_Sept2022_A_MOECFSLTP_2022_0089_Edusave-Character-Award-(ECHA).pdf)
 * [PSLE Listening Comprehension Examination](/files/LTP_Sept2022_B_MOECFSLTP_2022_0090_PSLE-Listening-Comprehension-Examination.pdf)
+* [Character and Citizenship Education-Values in Action (VIA)](/files/LTP_Sept2022_C_MOECFSLTP_2022_0091_CCE_VIA.pdf)
+* [HBL for P1 and P2 Students](/files/LTP_Sept2022_D_MOECFSLTP_2022_0094_P1&P2-HBL.pdf)
 
 ### October 2022
 
