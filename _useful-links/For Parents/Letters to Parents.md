@@ -122,7 +122,7 @@ third_nav_title: For Parents
 
 * [BiCEP Opera](/files/LTP_Apr2023_A_MOECFSLTP_2023_0046_--BiCEP-Opera_Li-xs.pdf)
 * [Science Composting Group Project for SYSF](/files/LTP_Apr2023_B_MOECFSLTP_2023_0048_SYSF.pdf)
-* [Innovation Programme 2023](/files/LTP_Feb2023_D_MOECFSLTP_2023_0019_IvP_A-Lau.pdf)
+* [School Health Screening and Immunisation 2023](/files/LTP_Apr2023_C_MOECFSLTP_2023_0050_School-Health-Services.pdf)
 
 </li>
 </ul>
