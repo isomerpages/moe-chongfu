@@ -64,6 +64,7 @@ third_nav_title: For Parents
 ### October 2022
 * [P4 Parent Dialogue Session 2022](/files/LTP_Oct2022_A_MOECFSLTP_2022_0095_Primary-4-Parent-Dialogue-Session-2022.pdf)
 * [P2 CCA Orientation 2022](/files/LTP_Oct2022_B_MOECFSLTP_2022_0098_P2-CCA-Orientation-2022.pdf)
+* [P3 to P5 End-of-Year Examination 2022](/files/LTP_Oct2022_C_MOECFSLTP_2022_0099-P3-to-P5_End-of-Year-Exam_Elaine-Zheng.pdf)
 
 
 
