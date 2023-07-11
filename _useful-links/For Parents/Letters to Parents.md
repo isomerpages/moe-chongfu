@@ -108,6 +108,7 @@ third_nav_title: For Parents
 * [P5 Learning Journey to Indian Heritage Centre](/files/LTP_Jan2023_M_MOECFSLTP_2023_0015_P5-CCE_LJ_IHC.pdf)
 * [P4 Learning Journey to Geylang Serai Heritage Gallery](/files/LTP_Jan2023_N_MOECFSLTP_2023_0014_P4-CCE_LJ_GSHG.pdf)
 * [P6 Learning Journey to Asian Civilisation Museum](/files/LTP_Jan2023_O_MOECFSLTP_2023_0016_P6-CCE_LJ_ASM.pdf)
+* [Lunar New Year Celebrations 2023](/files/LTP_Jan2023_P_CNY_Lunar_New_Year_Celebrations_2023.pdf)
 
 </li>
 </ul>
