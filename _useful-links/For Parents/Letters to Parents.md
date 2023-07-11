@@ -139,7 +139,7 @@ third_nav_title: For Parents
 
 * [POSB Smart Buddy](/files/LTP_June2023_A_MOECFSLTP_2023_0067_POSB-Smart-Buddy.pdf)
 * [P6 Parent Support Mathematics (PSM) Programme 2023](/files/LTP_June2023_B_MOECFSLTP_2023_0068_Benin_PSM_Sem2.pdf)
-* [Innovation Programme 2023](/files/LTP_Feb2023_D_MOECFSLTP_2023_0019_IvP_A-Lau.pdf)
+* [P5 and P6 Progressive Learning in Mathematics (PLM) Programme 2023](/files/LTP_June2023_C_MOECFSLTP_2023_0069_Benin_P5&amp;6-PLM_Sem2.pdf)
 
 
 	
