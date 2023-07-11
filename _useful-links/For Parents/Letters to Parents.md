@@ -121,7 +121,7 @@ third_nav_title: For Parents
 ### April 2023
 
 * [BiCEP Opera](/files/LTP_Apr2023_A_MOECFSLTP_2023_0046_--BiCEP-Opera_Li-xs.pdf)
-* [Gifted Education Programme Identification Exercise 2023](/files/LTP_Feb2023_C_MOECFSLTP_2023_0031_P3-GEP-Tentative-Dates-2023_A-Lau_PG.pdf)
+* [Science Composting Group Project for SYSF](/files/LTP_Apr2023_B_MOECFSLTP_2023_0048_SYSF.pdf)
 * [Innovation Programme 2023](/files/LTP_Feb2023_D_MOECFSLTP_2023_0019_IvP_A-Lau.pdf)
 
 </li>
