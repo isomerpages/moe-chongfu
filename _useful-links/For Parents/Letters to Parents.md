@@ -57,6 +57,7 @@ third_nav_title: For Parents
 
 ### September 2022
 * [Edusave Character Award (ECHA)](/files/LTP_Sept2022_A_MOECFSLTP_2022_0089_Edusave-Character-Award-(ECHA).pdf)
+* [PSLE Listening Comprehension Examination](/files/LTP_Sept2022_B_MOECFSLTP_2022_0090_PSLE-Listening-Comprehension-Examination.pdf)
 
 ### October 2022
 
