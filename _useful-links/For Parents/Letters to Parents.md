@@ -62,6 +62,9 @@ third_nav_title: For Parents
 * [HBL for P1 and P2 Students](/files/LTP_Sept2022_D_MOECFSLTP_2022_0094_P1&P2-HBL.pdf)
 
 ### October 2022
+* [P4 Parent Dialogue Session 2022](/files/LTP_Oct2022_A_MOECFSLTP_2022_0095_Primary-4-Parent-Dialogue-Session-2022.pdf)
+
+
 
 ### November 2022
 
