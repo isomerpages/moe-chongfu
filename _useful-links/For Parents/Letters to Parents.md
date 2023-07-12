@@ -51,7 +51,7 @@ third_nav_title: For Parents
 * [POSB Smart Buddy](/files/ltp_june2023_a2_moecfsltp_2023_0067_posb_smart_buddy.pdf)
 * [P6 Parent Support Mathematics (PSM) Programme 2023](/files/ltp_june2023_b2_moecfsltp_2023_0068_benin_psm_sem2.pdf)
 * [P5 and P6 Progressive Learning in Mathematics (PLM) Programme 2023](/files/ltp_june2023_c2_moecfsltp_2023_0069_benin_p5_and_p6_plm_sem2.pdf)
-* [49th Annual SHHK Combined Schools Sports Meet &amp; Home-Based Learning (HBL)](/files/LTP_June2023_D2_MOECFSLTP_2023_0068_49th-Annual-SHHK-Combined-Schools-Sports-Meet-&amp;-HBL.pdf)
+* [49th Annual SHHK Combined Schools Sports Meet &amp; Home-Based Learning (HBL)](/files/ltp_june2023_f2_moecfsltp_2023_0068_49th_annual_shhk_combined_schools_sports_meet_and_hbl.pdf)
 
 ### July 2023
 
