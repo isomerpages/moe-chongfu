@@ -18,7 +18,7 @@ third_nav_title: For Parents
 * [Purchase of Table Tennis Jersey for National School Games Table Tennis 2023](/files/ltp_jan2023_l2_moecfsltp_2023_0017_purchase_of_table_tennis_jersey_for_senior_team.pdf)
 * [P5 Learning Journey to Indian Heritage Centre](/files/ltp_jan2023_m2_moecfsltp_2023_0015_p5_cce_lj_ihc.pdf)
 * [P4 Learning Journey to Geylang Serai Heritage Gallery](/files/ltp_jan2023_n2_moecfsltp_2023_0014_p4_cce_lj_gshg.pdf)
-* [P6 Learning Journey to Asian Civilisation Museum](/files/LTP_Jan2023_O_MOECFSLTP_2023_0016_P6-CCE_LJ_ASM.pdf)
+* [P6 Learning Journey to Asian Civilisation Museum](/files/ltp_jan2023_o2_moecfsltp_2023_0016_p6_cce_lj_asm.pdf)
 * [Lunar New Year Celebrations 2023](/files/LTP_Jan2023_P_CNY_Lunar_New_Year_Celebrations_2023.pdf)
 * [P4 Museum-based Learning - National Gallery Singapore](/files/LTP_Jan2023_Q_MOECFSLTP_2023_0018_P4-MBL.pdf)
 * [MOE Sexuality Education in Schools](/files/LTP_Jan2023_R_MOECFSLTP_2023_0023_MOE-Sexuality-Education-in-Schools.pdf)
