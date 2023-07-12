@@ -32,7 +32,7 @@ third_nav_title: For Parents
 ### April 2023
 
 * [BiCEP Opera](/files/ltp_apr2023_a2_moecfsltp_2023_0046_bicep_opera_li_xs.pdf)
-* [Science Composting Group Project for SYSF](/files/LTP_Apr2023_B_MOECFSLTP_2023_0048_SYSF.pdf)
+* [Science Composting Group Project for SYSF](/files/ltp_apr2023_b2_moecfsltp_2023_0048_sysf.pdf)
 * [School Health Screening and Immunisation 2023](/files/LTP_Apr2023_C_MOECFSLTP_2023_0050_School-Health-Services.pdf)
 * [Collection of Health Booklets for P1 to P5](/files/LTP_Apr2023_D_MOECFSLTP_2023_0051_Collection-of-Health-Booklet-(P1-and-P5-only).pdf)
 * [BiCEP Oratorical Camp](/files/LTP_Apr2023_E_MOECFSLTP_2023_0052_BiCEP_Oratorical-Camp_Li-xs.pdf)
