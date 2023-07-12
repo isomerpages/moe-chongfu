@@ -43,7 +43,7 @@ third_nav_title: For Parents
 
 * [BiCEP Online Immersion Programme 2023](/files/ltp_may2023_a2_moecfsltp_2023_0060_bicep_online_immersion_programme_li_xs.pdf)
 * [Invitation to participate in YSC Design Thinking and Prototyping Bootcamp 2023](/files/ltp_may2023_b2_moecfsltp_2023_0061_ysc_bootcamp.pdf)
-* [School e-Newsletter 2023](/files/LTP_May2023_C_MOECFSLTP_2023_0062_e-Newsletter-2023_Dave.pdf)
+* [School e-Newsletter 2023](/files/ltp_may2023_c2_moecfsltp_2023_0062_enewsletter_2023_dave.pdf)
 * [National Education Show 2023](/files/LTP_May2023_D_MOECFSLTP_2023_0064_P5-NE-Show.pdf)
 	
 ### June 2023
