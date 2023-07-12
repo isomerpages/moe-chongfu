@@ -16,7 +16,7 @@ third_nav_title: For Parents
 * [Chingay Parade Singapore 2023](/files/ltp_jan2023_h2_moecfsltp_2023_0008_chingay_parade_spore2023.pdf)
 * [Character and Citizenship Education - Values in Action (VIA)](/files/ltp_jan2023_i2_moecfsltp_2023_0009_food_donation_drive.pdf)
 * [Purchase of Table Tennis Jersey for National School Games Table Tennis 2023](/files/ltp_jan2023_l2_moecfsltp_2023_0017_purchase_of_table_tennis_jersey_for_senior_team.pdf)
-* [P5 Learning Journey to Indian Heritage Centre](/files/LTP_Jan2023_M_MOECFSLTP_2023_0015_P5-CCE_LJ_IHC.pdf)
+* [P5 Learning Journey to Indian Heritage Centre](/files/ltp_jan2023_m2_moecfsltp_2023_0015_p5_cce_lj_ihc.pdf)
 * [P4 Learning Journey to Geylang Serai Heritage Gallery](/files/LTP_Jan2023_N_MOECFSLTP_2023_0014_P4-CCE_LJ_GSHG.pdf)
 * [P6 Learning Journey to Asian Civilisation Museum](/files/LTP_Jan2023_O_MOECFSLTP_2023_0016_P6-CCE_LJ_ASM.pdf)
 * [Lunar New Year Celebrations 2023](/files/LTP_Jan2023_P_CNY_Lunar_New_Year_Celebrations_2023.pdf)
