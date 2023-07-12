@@ -25,7 +25,7 @@ third_nav_title: For Parents
 
 ### February 2023
 
-* [BiCEP Chinese Painting](/files/LTP_Feb2023_A_MOECFSLTP_2023_0026_BiCEP_ChinesePainting_Li-XS.pdf)
+* [BiCEP Chinese Painting](/files/ltp_feb2023_a2_moecfsltp_2023_0026_bicep_chinesepainting_li_xs.pdf)
 * [Gifted Education Programme Identification Exercise 2023](/files/LTP_Feb2023_C_MOECFSLTP_2023_0031_P3-GEP-Tentative-Dates-2023_A-Lau_PG.pdf)
 * [Innovation Programme 2023](/files/LTP_Feb2023_D_MOECFSLTP_2023_0019_IvP_A-Lau.pdf)
 
