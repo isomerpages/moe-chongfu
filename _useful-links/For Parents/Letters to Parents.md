@@ -34,7 +34,7 @@ third_nav_title: For Parents
 * [BiCEP Opera](/files/ltp_apr2023_a2_moecfsltp_2023_0046_bicep_opera_li_xs.pdf)
 * [Science Composting Group Project for SYSF](/files/ltp_apr2023_b2_moecfsltp_2023_0048_sysf.pdf)
 * [School Health Screening and Immunisation 2023](/files/ltp_apr2023_c2_moecfsltp_2023_0050_school_health_services.pdf)
-* [Collection of Health Booklets for P1 to P5](/files/LTP_Apr2023_D_MOECFSLTP_2023_0051_Collection-of-Health-Booklet-(P1-and-P5-only).pdf)
+* [Collection of Health Booklets for P1 to P5](/files/ltp_apr2023_d2_moecfsltp_2023_0051_collection_of_health_booklet_(p1_and_p5_only).pdf)
 * [BiCEP Oratorical Camp](/files/LTP_Apr2023_E_MOECFSLTP_2023_0052_BiCEP_Oratorical-Camp_Li-xs.pdf)
 * [Conformation as School Prefects for 2023](/files/LTP_Apr2023_F_MOECFSLTP_2023_0053_Prefect-Confirmation-2023.pdf)
 * [Meet-the-Parents (MTP) Session 2023](/files/LTP_Apr2023_H_MOECFSLTP_2023_0050_P1-P6-MTP-Session-2023.pdf)
