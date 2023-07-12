@@ -12,7 +12,7 @@ third_nav_title: For Parents
 * [P4 BiCEP Matters](/files/ltp_jan2023_d2_moe_cfsltp_2023_0007a_p4_bicep_xs.pdf)
 * [P5 BiCEP Matters](/files/ltp_jan2023_e2_moe_cfsltp_2023_0007b_p5_bicep_xs.pdf)
 * [P6 BiCEP Matters](/files/ltp_jan2023_f2_moe_cfsltp_2023_0007c_p6_bicep_xc.pdf)
-* [Term 1 Letter to Parents](/files/LTP_Jan2023_J_MOECFSLTP_2023_0006_Term_1_Letter_to_Parents.pdf)
+* [Term 1 Letter to Parents](/files/ltp_jan2023_g2_moecfsltp_2023_0006_term_1_letter_to_parents.pdf)
 * [Chingay Parade Singapore 2023](/files/LTP_Jan2023_H_MOECFSLTP_2023_0008_Chingay-Parade-Spore2023.pdf)
 * [Character and Citizenship Education - Values in Action (VIA)](/files/LTP_Jan2023_I_MOECFSLTP_2023_0009_Food-Donation-Drive.pdf)
 * [Purchase of Table Tennis Jersey for National School Games Table Tennis 2023](/files/LTP_Jan2023_L_MOECFSLTP_2023_0017_Purchase-of-Table-Tennis-Jersey-for-Senior-Team.pdf)
