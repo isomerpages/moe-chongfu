@@ -62,7 +62,9 @@ Abstract –Problems are represented using mathematical notation such as numbers
 <br><br>In Chongfu, we believe that mathematical journaling skills should be taught <b>progressively and explicitly</b> in order for students to internalise and apply the skills. With the use of rubrics, students assess themselves or their peers on their metacognitive skills and then work towards improving their own performance.
 </p>
 
-	
+<u><b>Talk Moves</b></u>
+<p>As part of improving students’ thought process, students use Talk Moves questioning techniques to understand the problem. While the teachers’ role is to facilitate productive discussions using Talk Moves questions, students seek to understand the problem and reflect it in their journals.</p>
+
 </li>
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
