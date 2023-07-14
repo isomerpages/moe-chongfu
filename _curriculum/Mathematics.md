@@ -46,6 +46,15 @@ Abstract –Problems are represented using mathematical notation such as numbers
 <p>The Chongfu STAR approach to maths problem solving is adapted from George Polya’s problem solving process. It is a structured approach aimed to help students in effective problem solving. The STAR approach uses questioning techniques with a variety of questions in each stage to help students gain independence and confidence in solving mathematical problems.</p>
 <img src="/images/math%203.png" style="width:65%">
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
+
+<u><b>Approach 3:</b>&nbsp;4C Approach</u>
+<p>The 4C Approach uses both physical and digital manipulatives in learning Math concepts. The approach involves 4 stages.<br><b>
+-	Concrete (manipulatives)</b> – manipulatives are used to solve word problems to aid in their understanding and exploration of problem-solving strategies.<br><b>
+-	Consolidate (questioning)</b> – questions are crafted to guide students through the problem-solving process.<br><b>-	Concept (making sense)</b> – students make sense of the concept and skills.<br><b>-	Connect (application)</b> – opportunities are given to apply the strategies to similar questions.
+
+
+</p>
+	
 </li>
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
