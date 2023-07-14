@@ -51,9 +51,17 @@ Abstract –Problems are represented using mathematical notation such as numbers
 <p>The 4C Approach uses both physical and digital manipulatives in learning Math concepts. The approach involves 4 stages.<br><b>
 -	Concrete (manipulatives)</b> – manipulatives are used to solve word problems to aid in their understanding and exploration of problem-solving strategies.<br><b>
 -	Consolidate (questioning)</b> – questions are crafted to guide students through the problem-solving process.<br><b>-	Concept (making sense)</b> – students make sense of the concept and skills.<br><b>-	Connect (application)</b> – opportunities are given to apply the strategies to similar questions.
-
-
 </p>
+
+<u><b>Approach 4:</b>&nbsp;Structured Journaling </u>
+<p>Structured Journaling is used in our Mathematics curriculum to assess students’ understanding of Mathematical concept(s) in a context.<br>It develops:<br>
+- students’ <b>awareness of the thought processes and logical reasoning required</b> to solve problems.<br>
+- students’ use of mathematical language. 
+<br>- the need to be <b>clear in articulation and communication of solution(s).</b>
+<br>- students’ ability to see and make links between mathematical concepts and everyday life.
+<br><br>In Chongfu, we believe that mathematical journaling skills should be taught <b>progressively and explicitly</b> in order for students to internalise and apply the skills. With the use of rubrics, students assess themselves or their peers on their metacognitive skills and then work towards improving their own performance.
+</p>
+
 	
 </li>
 <li>  
