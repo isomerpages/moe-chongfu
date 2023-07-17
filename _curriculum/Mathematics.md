@@ -87,17 +87,21 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 	
 <p>To promote the Joy of Learning, our game-based learning in Math was initiated to motivate students and to stimulate their mental strategies in Mathematics. A range of Math games was progressively introduced in our differentiated curriculum to promote learning Mathematical concepts in a fun way. Lesson packages were also introduced in each level so that students learn these games and pick up logical thinking, spatial visualisation and other critical thinking skills in the process.</p>
 
-<img src="/images/math4.png" style="width:85%">
+<img src="/images/math4.png" style="width:100%">
 
 <p><u>Structured Play – Math Games Day</u></p>
-<p>Every term, time is allocated for Math Games. During these periods, students play games such as Tangram, Sudoku, Kakuro, Kenken and Math Warrior.</p>	
-	
-<img src="/images/math%205.png" style="width:85%">
-<p>Students also play an extremely popular game in Japan, Sudoku. They have to solve the puzzle by determining patterns, which develops their cognitive and observation skills. Students are trained to be patient and focussed, which help them to be more disciplined in learning. An inter-class Sudoku Challenge is held every year for students to master the game.</p>
+<p>Every term, time is allocated for Math Games. During these periods, students play games such as Tangram, Sudoku, Kakuro, Kenken and Math Warrior.
+</p>	
 
-<img src="/images/math%206.png" style="width:50%">
-<img src="/images/math%207.png" style="width:50%">
-<img src="/images/mth%208.png" style="width:50%">
+<p>For lower primary students, Tangram, consisting of seven flat polygons, was introduced to help them apply geometrical Math concepts and spatial skills as they manipulate the shapes to form varying art pieces This trains their spatial visualisation ability as well as creativity.</p>
+	
+<img src="/images/math%205.png" style="width:100%">
+
+<p>Students also play Sudoku which is an extremely popular game from Japan. They solve the given puzzles by determining number patterns, which develops their cognitive, observational and problem-solving skills. Students are trained to be patient and focused, which help them to be more disciplined in learning. Each year, an inter-class Sudoku Challenge is held for students to challenge one another and to look for new Sudoku masters.</p>
+
+<img src="/images/math%206.png" style="width:100%"><br>
+<img src="/images/math%207.png" style="width:100%"><br>
+<img src="/images/mth%208.png" style="width:100%"><br>
 <p>Math Warrior, as the name suggests, grooms students to be champion fighters in math. It was started for P3 students to develop their number sense. Students also learn to count mentally. This is important as it helps build a strong foundation before progressing to more difficult math sums.</p>
 <img src="/images/math%209.png">
 <p>For the Upper Primary, students play Math Arithmetiq where they have to create Mathematical equations using scrabble like tiles. This greatly simulates their cognitive minds and encourages them to think on their feet.</p>
