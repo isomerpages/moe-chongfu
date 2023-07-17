@@ -159,12 +159,17 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 	
 <p>With thoughtfully designed booklets complementing the VLJ, the experience proved to be interactive and engaging for our students.</p>
 
+<p>	
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic9.jpg"><br>
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic10.jpg"><br>
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic11.jpg">
+</p>
+	
+***Caption: Students using iPads to complete their VLJ activity around the school.***
 	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
-
 	
-	
-	</li>
+</li>
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">  
 	<label for="accordion4"><b>Math Support</b></label>  
