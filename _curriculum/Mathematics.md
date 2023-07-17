@@ -88,11 +88,13 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <p>To promote the Joy of Learning, our game-based learning in Math was initiated to motivate students and to stimulate their mental strategies in Mathematics. A range of Math games was progressively introduced in our differentiated curriculum to promote learning Mathematical concepts in a fun way. Lesson packages were also introduced in each level so that students learn these games and pick up logical thinking, spatial visualisation and other critical thinking skills in the process.</p>
 
 <img src="/images/math4.png" style="width:85%">
-<p> Examples of the games include Sudoku, Math Warrior, Tangram, Kakuro, Maths Arithmetiq and Math Puzzles.<br>
 
-Tangram was introduced to the Lower Primary students in Chongfu School. Students are required to apply their geometrical math concepts and manipulate the shapes, such that they form a picture. This trains students to be creative and observant.</p>
+<p><u>Structured Play – Math Games Day</u></p>
+<p>Every term, time is allocated for Math Games. During these periods, students play games such as Tangram, Sudoku, Kakuro, Kenken and Math Warrior.</p>	
+	
 <img src="/images/math%205.png" style="width:85%">
 <p>Students also play an extremely popular game in Japan, Sudoku. They have to solve the puzzle by determining patterns, which develops their cognitive and observation skills. Students are trained to be patient and focussed, which help them to be more disciplined in learning. An inter-class Sudoku Challenge is held every year for students to master the game.</p>
+
 <img src="/images/math%206.png" style="width:50%">
 <img src="/images/math%207.png" style="width:50%">
 <img src="/images/mth%208.png" style="width:50%">
