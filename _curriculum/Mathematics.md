@@ -207,8 +207,6 @@ Through this programme, we hope to help students pace their own progress and inc
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic19.jpg">
 </p>
 	
-	
-	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
