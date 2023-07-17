@@ -38,9 +38,9 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <p>In Chongfu School, we focus on problem solving, which encompasses skills and functions that are important in our daily lives. We also aim to develop mathematical thinkers who are able to solve real-world problems. In addition, students should be able to understand math through deep learning and mastery. Only with deep understanding will students be able to reason mathematically and apply mathematical concepts to real-life problems. Through our extensive range of math programmes, we hope students will value and enjoy learning mathematics.</p>  
 			<u><b>Approach 1:</b>&nbsp;Concrete-Pictorial-Abstract (CPA) Approach</u><br>
 <img src="/images/math2.png" style="width:80%"><br><p>The CPA Approach is an essential method of teaching Mathematics for mastery. It involves moving from concrete materials to pictorial representations to abstract symbols and problems.<br><br>
-Concrete – New concepts are first introduced by acting it out using real objects or manipulatives.<br><br>
-Pictorial – The concepts are then further explained using diagrams and pictures.<br><br>
-Abstract –Problems are represented using mathematical notation such as numbers and symbols.
+* Concrete – New concepts are first introduced by acting it out using real objects or manipulatives.<br><br>
+* Pictorial – The concepts are then further explained using diagrams and pictures.<br><br>
+* Abstract –Problems are represented using mathematical notation such as numbers and symbols.
 </p>
 			<u><b>Approach 2:</b>&nbsp;Chongfu Star Approach</u>
 <p>The Chongfu STAR approach to maths problem solving is adapted from George Polya’s problem solving process. It is a structured approach aimed to help students in effective problem solving. The STAR approach uses questioning techniques with a variety of questions in each stage to help students gain independence and confidence in solving mathematical problems.</p>
@@ -49,7 +49,7 @@ Abstract –Problems are represented using mathematical notation such as numbers
 
 <u><b>Approach 3:</b>&nbsp;4C Approach</u>
 <p>The 4C Approach uses both physical and digital manipulatives in learning Math concepts. The approach involves 4 stages.<br><b>
--	Concrete (manipulatives)</b> – manipulatives are used to solve word problems to aid in their understanding and exploration of problem-solving strategies.<br><b>
+- Concrete (manipulatives)</b> – manipulatives are used to solve word problems to aid in their understanding and exploration of problem-solving strategies.<br><b>
 -	Consolidate (questioning)</b> – questions are crafted to guide students through the problem-solving process.<br><b>-	Concept (making sense)</b> – students make sense of the concept and skills.<br><b>-	Connect (application)</b> – opportunities are given to apply the strategies to similar questions.
 </p>
 
