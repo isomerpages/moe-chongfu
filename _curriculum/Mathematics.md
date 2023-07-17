@@ -118,7 +118,10 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <p>Students used to congregate in the Math corner during recess for Math games. To promote the joy of learning, games are now fused in our CFSparks programme where an hour time slot is blocked every week for P5 students to engage in learning a new activity. Under ‘Mind Sports’, Math games such as the Math Warrior challenge is organised for Math games enthusiasts to pitch their skills against one another.  Class Math Reps are also trained to perform their roles as game facilitators to umpire and to teach their peers how to play the games.</p>	
 
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic8.jpg">
+<p>	
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic8.jpg"></p>
+	
+***Students participating in the Friendship Band making activity.***
 
 
 <u>Self-Directed Learning (SDL)</u>
