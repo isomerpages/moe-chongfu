@@ -111,9 +111,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 </p>
 
 <p>Math Warrior, as the name suggests, trains students to be champion fighters in Math. The upper primary students get the opportunity to engage in friendly competitions with their friends and learn how to improve their mental sums simultaneously. This strengthens their foundational skills and other arithmetic skills which are needed to tackle tougher Mathematics sums.</p>   	
-	
 <img src="/images/math%209.png">
-<p>For the Upper Primary, students play Math Arithmetiq where they have to create Mathematical equations using scrabble like tiles. This greatly simulates their cognitive minds and encourages them to think on their feet.</p>
 
 <u>Self-Directed Learning (SDL)</u>
 
