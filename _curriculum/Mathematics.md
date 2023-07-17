@@ -194,16 +194,20 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic15.jpg"><br>
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic16.jpg"><br>
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic17.jpg">
-</p>
-
-<u>Progressive Learning for Mathematics (PLM) Programme</u>
-
-<p>It is aimed to build a strong mathematical foundation in our P5 students who find learning maths a challenge. It is a self-directed learning approach with students progressing at their own pace. They begin at a level which he or she is confident and move on to the next level of increasing difficulty when a perfect score is achieved. Teaching videos with explicit explanations and examples are clearly illustrated before students attempt questions on their own. With every worksheet graded by the computer system as soon as they complete, it gives them instant feedback. With constant practice, students will build up their confidence and self-esteem in tackling mathematical questions.</p>
-<img src="/images/math%2016.png">
+</p><br>
 	
-<u>Progressive Learning  Mathematics (PLM) Programme</u>
+<u>Progressive Learning of Mathematics (PLM) Programme</u>
 
-<p>It is aimed to build a strong mathematical foundation in our P5 students who find learning maths a challenge. It is a self-directed learning approach with students progressing at their own pace. They begin at a level which he or she is confident and move on to the next level of increasing difficulty when a perfect score is achieved. Teaching videos with explicit explanations and examples are clearly illustrated before students attempt questions on their own. With every worksheet graded by the computer system as soon as they complete, it gives them instant feedback. With constant practice, students will build up their confidence and self-esteem in tackling mathematical questions.</p>	
+<p>PLM is a self-directed learning approach where students progress at their own pace. The school identifies students and provides opportunities for them to use online learning platforms for their own learning.<br><br>
+Students’ learning gaps are first identified before weekly remediation is conducted. During each PLM session, students are given questions on Koobits, progressing to higher levels when they are more confident. Teaching videos with explicit explanations and examples are also provided for those who need assistance.<br><br>
+Through this programme, we hope to help students pace their own progress and increase their confidence in tackling Math questions.</p>
+
+<p>	
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic18.jpg"><br>
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic19.jpg">
+</p>
+	
+	
 	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
