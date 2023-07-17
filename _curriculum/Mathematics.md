@@ -138,7 +138,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">  
 	<label for="accordion3"><b>Math Made Meaningful</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-			<p><u>Math Experiential Learning</u></p>
+<p><u>Math Experiential Learning</u></p>
 
 <p>Students take part in experiential learning activities which lead them to find out that mathematics is part of their daily lives. They also discover the fun and exhilarating side of mathematics. Through these hands-on activities, students develop their thinking skills and apply their mathematical concepts in real-life problems. In addition, they learn to work together as a team and tap on one another’s strengths.</p>  
 			
@@ -146,9 +146,25 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <p><u>Performance Tasks</u></p>
 
 <p>In order to assess if students are able to apply their mathematical concepts in a real-life problem, performance tasks were introduced as part of alternative assessment. Students are required to solve different tasks using manipulatives and record their answers in appropriate mathematical language. Manipulatives include money, cubes, beads and weighing scales. This gives them the opportunity to apply what they have learnt in the mathematics topics. These performance tasks hope to inject fun in learning mathematics through hands-on activities, rather than doing mundane tests.</p>
+
 <img src="/images/math%2013.png" style="width:75%">
+	
+<p><u>Virtual Learning Journey </u></p>
+
+<p>Traditionally, Chongfu uses Math trails and learning journeys for students to apply Math concepts in real life situations. However, the COVID-19 situation has prevented us from doing so. In order to achieve similar experiences and see the relevance of Mathematics in real life experiences, the school explored alternative means for students to apply their Mathematical skills through virtual learning journeys (VLJ). </p>
+
+<p>The VLJs were designed for students to:<br>
+- <b>apply</b> their learning with an authentic learning experience where Mathematical concepts taught in class can be reinforced.<br>
+- <b>apply</b> ICT and other critical thinking skills to solve Math problems during the ‘learning journeys’.</p>
+	
+<p>With thoughtfully designed booklets complementing the VLJ, the experience proved to be interactive and engaging for our students.</p>
+
+	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
-</li>
+
+	
+	
+	</li>
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">  
 	<label for="accordion4"><b>Math Support</b></label>  
