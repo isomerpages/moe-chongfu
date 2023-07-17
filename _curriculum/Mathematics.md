@@ -187,13 +187,24 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 			<p><u>Parents’ Support for Mathematics (PSM) Programme</u></p>
 
-<p>A parents’ support group was set up in 2007 to individually coach P6 students who find learning math challenging. The primary aim is to better equip these students with basic numeracy skills so that they are more prepared for the upcoming PSLE examinations. Besides imparting math skills, the dedicated tutors also give encouragement and help boost the students’ confidence in solving math problems.</p>  
-<img src="/images/math%2014.png">
-<img src="/images/math%2015.png">
-			<u>Progressive Learning for Mathematics (PLM) Programme</u>
+<p>From the wing of our PSG-PASSION, a parents’ support group was set up in 2007 to individually coach identified P6 students who find learning Math challenging. Every week, these parents tutor our P6 students with the aim to better equip them with basic numeracy skills so that they are more prepared for the upcoming PSLE examinations. Besides imparting Math skills, the dedicated coaches also serve as their significant other to give encouragement and help boost the students’ confidence in solving Math problems.</p>
+
+<p>	
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic14.jpg"><br>
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic15.jpg"><br>
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic16.jpg"><br>
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic17.jpg">
+</p>
+
+<u>Progressive Learning for Mathematics (PLM) Programme</u>
 
 <p>It is aimed to build a strong mathematical foundation in our P5 students who find learning maths a challenge. It is a self-directed learning approach with students progressing at their own pace. They begin at a level which he or she is confident and move on to the next level of increasing difficulty when a perfect score is achieved. Teaching videos with explicit explanations and examples are clearly illustrated before students attempt questions on their own. With every worksheet graded by the computer system as soon as they complete, it gives them instant feedback. With constant practice, students will build up their confidence and self-esteem in tackling mathematical questions.</p>
 <img src="/images/math%2016.png">
+	
+<u>Progressive Learning  Mathematics (PLM) Programme</u>
+
+<p>It is aimed to build a strong mathematical foundation in our P5 students who find learning maths a challenge. It is a self-directed learning approach with students progressing at their own pace. They begin at a level which he or she is confident and move on to the next level of increasing difficulty when a perfect score is achieved. Teaching videos with explicit explanations and examples are clearly illustrated before students attempt questions on their own. With every worksheet graded by the computer system as soon as they complete, it gives them instant feedback. With constant practice, students will build up their confidence and self-esteem in tackling mathematical questions.</p>	
+	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
