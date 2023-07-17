@@ -90,6 +90,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <img src="/images/math4.png" style="width:100%">
 
 <p><u>Structured Play – Math Games Day</u></p>
+
 <p>Every term, time is allocated for Math Games. During these periods, students play games such as Tangram, Sudoku, Kakuro, Kenken and Math Warrior.
 </p>	
 
@@ -101,7 +102,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <img src="/images/math%206.png" style="width:100%"><br>
 <img src="/images/math%207.png" style="width:100%"><br>
-<img src="/images/mth%208.png" style="width:100%"><br>
+<img src="/images/mth%208.png" style="width:100%">
 
 <p>In middle primary, students progress to playing Kakuro and Kenken, which are logic-based puzzles. These puzzles are a fun way for students to apply their logical and problem-solving skills. Using game-based learning platforms such as Kahoot and Deck Toys, students solve various Kakuro and Kenken puzzles which progressively become more challenging. </p>	
 	
@@ -112,6 +113,13 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <p>Math Warrior, as the name suggests, trains students to be champion fighters in Math. The upper primary students get the opportunity to engage in friendly competitions with their friends and learn how to improve their mental sums simultaneously. This strengthens their foundational skills and other arithmetic skills which are needed to tackle tougher Mathematics sums.</p>   	
 <img src="/images/math%209.png">
+	
+<p><u>Unstructured Play – CFSparks</u></p>
+
+<p>Students used to congregate in the Math corner during recess for Math games. To promote the joy of learning, games are now fused in our CFSparks programme where an hour time slot is blocked every week for P5 students to engage in learning a new activity. Under ‘Mind Sports’, Math games such as the Math Warrior challenge is organised for Math games enthusiasts to pitch their skills against one another.  Class Math Reps are also trained to perform their roles as game facilitators to umpire and to teach their peers how to play the games.</p>	
+
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic8.jpg">
+
 
 <u>Self-Directed Learning (SDL)</u>
 
