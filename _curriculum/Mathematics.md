@@ -79,9 +79,14 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
 	<label for="accordion2"><b>Math Made Fun</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-			<p><u>Mathematics Games Programme</u></p>
+<p><u>Mathematics Games Programme</u></p>
 
-<p>This is probably the part of mathematics where all students look forward to. Math games were initiated to reveal an interesting and enjoyable side to learning math. A range of math games was made available for students to play and apply their mathematical concepts in a fun way. For example, students can play games at the Piece of Mine during their recesses. The games are progressively introduced to students based on their level of complexity.</p>  
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic3.jpg">
+</p>
+	
+<p>To promote the Joy of Learning, our game-based learning in Math was initiated to motivate students and to stimulate their mental strategies in Mathematics. A range of Math games was progressively introduced in our differentiated curriculum to promote learning Mathematical concepts in a fun way. Lesson packages were also introduced in each level so that students learn these games and pick up logical thinking, spatial visualisation and other critical thinking skills in the process.</p>
+
 <img src="/images/math4.png" style="width:85%">
 <p> Examples of the games include Sudoku, Math Warrior, Tangram, Kakuro, Maths Arithmetiq and Math Puzzles.<br>
 
