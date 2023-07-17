@@ -48,6 +48,11 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 
 <u><b>Approach 3:</b>&nbsp;4C Approach</u>
+
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic1.jpg">
+</p>
+	
 <p>The 4C Approach uses both physical and digital manipulatives in learning Math concepts. The approach involves 4 stages.<br><b>
 - Concrete (manipulatives)</b> – manipulatives are used to solve word problems to aid in their understanding and exploration of problem-solving strategies.<br><b>
 -	Consolidate (questioning)</b> – questions are crafted to guide students through the problem-solving process.<br><b>-	Concept (making sense)</b> – students make sense of the concept and skills.<br><b>-	Connect (application)</b> – opportunities are given to apply the strategies to similar questions.
