@@ -102,6 +102,14 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <img src="/images/math%206.png" style="width:100%"><br>
 <img src="/images/math%207.png" style="width:100%"><br>
 <img src="/images/mth%208.png" style="width:100%"><br>
+
+<p>In middle primary, students progress to playing Kakuro and Kenken, which are logic-based puzzles. These puzzles are a fun way for students to apply their logical and problem-solving skills. Using game-based learning platforms such as Kahoot and Deck Toys, students solve various Kakuro and Kenken puzzles which progressively become more challenging. </p>	
+	
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic6.jpg"><br>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic7.jpg">
+</p>
+	
 <p>Math Warrior, as the name suggests, grooms students to be champion fighters in math. It was started for P3 students to develop their number sense. Students also learn to count mentally. This is important as it helps build a strong foundation before progressing to more difficult math sums.</p>
 <img src="/images/math%209.png">
 <p>For the Upper Primary, students play Math Arithmetiq where they have to create Mathematical equations using scrabble like tiles. This greatly simulates their cognitive minds and encourages them to think on their feet.</p>
