@@ -109,8 +109,9 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic6.jpg"><br>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic7.jpg">
 </p>
+
+<p>Math Warrior, as the name suggests, trains students to be champion fighters in Math. The upper primary students get the opportunity to engage in friendly competitions with their friends and learn how to improve their mental sums simultaneously. This strengthens their foundational skills and other arithmetic skills which are needed to tackle tougher Mathematics sums.</p>   	
 	
-<p>Math Warrior, as the name suggests, grooms students to be champion fighters in math. It was started for P3 students to develop their number sense. Students also learn to count mentally. This is important as it helps build a strong foundation before progressing to more difficult math sums.</p>
 <img src="/images/math%209.png">
 <p>For the Upper Primary, students play Math Arithmetiq where they have to create Mathematical equations using scrabble like tiles. This greatly simulates their cognitive minds and encourages them to think on their feet.</p>
 
