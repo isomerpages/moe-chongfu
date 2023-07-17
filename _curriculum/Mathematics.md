@@ -68,6 +68,10 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 </p>
 
 <u><b>Talk Moves</b></u>
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic2.jpg">
+</p>
+	
 <p>As part of improving students’ thought process, students use Talk Moves questioning techniques to understand the problem. While the teachers’ role is to facilitate productive discussions using Talk Moves questions, students seek to understand the problem and reflect it in their journals.</p>
 
 </li>
