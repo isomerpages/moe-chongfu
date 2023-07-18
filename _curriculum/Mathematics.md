@@ -25,7 +25,7 @@ Mathematics is undeniably part of our daily lives, from making sense of simple i
 
 <u>The Mathematics Framework</u>
 
-<img src="/images/math1.png" style="width:100%">
+<img src="/images/math1.png" style="width:75%">
 The mathematics framework has been a feature of Singapore’s mathematics curriculum since 1990, and is still relevant to date. The central focus of the framework is mathematical problem solving, that is, using mathematics to solve problems.
 
 <ul class="jekyllcodex_accordion">  
@@ -37,7 +37,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <p>In Chongfu School, we focus on problem solving, which encompasses skills and functions that are important in our daily lives. We also aim to develop mathematical thinkers who are able to solve real-world problems. In addition, students should be able to understand math through deep learning and mastery. Only with deep understanding will students be able to reason mathematically and apply mathematical concepts to real-life problems. Through our extensive range of math programmes, we hope students will value and enjoy learning mathematics.</p>  
 			<u><b>Approach 1:</b>&nbsp;Concrete-Pictorial-Abstract (CPA) Approach</u><br>
-<img src="/images/math2.png" style="width:100%"><br><p>The CPA Approach is an essential method of teaching Mathematics for mastery. It involves moving from concrete materials to pictorial representations to abstract symbols and problems.<br><br>
+<img src="/images/math2.png" style="width:75%"><br><p>The CPA Approach is an essential method of teaching Mathematics for mastery. It involves moving from concrete materials to pictorial representations to abstract symbols and problems.<br><br>
 * <b> Concrete – </b> New concepts are first introduced by acting it out using real objects or manipulatives.<br><br>
 * <b> Pictorial – </b> The concepts are then further explained using diagrams and pictures.<br><br>
 * <b> Abstract – </b> Problems are represented using mathematical notation such as numbers and symbols.
@@ -45,8 +45,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 			<u><b>Approach 2:</b>&nbsp;Chongfu Star Approach</u>
 <p>The Chongfu STAR approach to maths problem solving is adapted from George Polya’s problem solving process. It is a structured approach aimed to help students in effective problem solving. The STAR approach uses questioning techniques with a variety of questions in each stage to help students gain independence and confidence in solving mathematical problems.</p>
 <img src="/images/math%203.png" style="width:65%">
-&nbsp;&nbsp;&nbsp;&nbsp;</div>  
-
+	
 <u><b>Approach 3:</b>&nbsp;4C Approach</u>
 
 <p>
@@ -71,23 +70,21 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic2.jpg">
 </p>
-	
-<p>As part of improving students’ thought process, students use Talk Moves questioning techniques to understand the problem. While the teachers’ role is to facilitate productive discussions using Talk Moves questions, students seek to understand the problem and reflect it in their journals.</p>
 
+<p>As part of improving students’ thought process, students use Talk Moves questioning techniques to understand the problem. While the teachers’ role is to facilitate productive discussions using Talk Moves questions, students seek to understand the problem and reflect it in their journals.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
 	<label for="accordion2"><b>Math Made Fun</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 <p><u>Mathematics Games Programme</u></p>
-
-<p>
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic3.jpg">
-</p>
+	
+<img src="/images/math2023_pic3.jpg" style="width:75%">
 	
 <p>To promote the Joy of Learning, our game-based learning in Math was initiated to motivate students and to stimulate their mental strategies in Mathematics. A range of Math games was progressively introduced in our differentiated curriculum to promote learning Mathematical concepts in a fun way. Lesson packages were also introduced in each level so that students learn these games and pick up logical thinking, spatial visualisation and other critical thinking skills in the process.</p>
 
-<img src="/images/math4.png" style="width:100%">
+<img src="/images/math4.png" style="width:75%">
 
 <p><u>Structured Play – Math Games Day</u></p>
 
@@ -96,33 +93,29 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <p>For lower primary students, Tangram, consisting of seven flat polygons, was introduced to help them apply geometrical Math concepts and spatial skills as they manipulate the shapes to form varying art pieces This trains their spatial visualisation ability as well as creativity.</p>
 	
-<img src="/images/math%205.png" style="width:100%">
+<img src="/images/math%205.png" style="width:75%">
 
 <p>Students also play Sudoku which is an extremely popular game from Japan. They solve the given puzzles by determining number patterns, which develops their cognitive, observational and problem-solving skills. Students are trained to be patient and focused, which help them to be more disciplined in learning. Each year, an inter-class Sudoku Challenge is held for students to challenge one another and to look for new Sudoku masters.</p>
 
-<img src="/images/math%206.png" style="width:100%"><br>
-<img src="/images/math%207.png" style="width:100%"><br>
-<img src="/images/mth%208.png" style="width:100%">
+<img src="/images/math%206.png" style="width:75%"><br>
+<img src="/images/math%207.png" style="width:75%"><br>
+<img src="/images/mth%208.png" style="width:75%">
 
 <p>In middle primary, students progress to playing Kakuro and Kenken, which are logic-based puzzles. These puzzles are a fun way for students to apply their logical and problem-solving skills. Using game-based learning platforms such as Kahoot and Deck Toys, students solve various Kakuro and Kenken puzzles which progressively become more challenging. </p>	
 	
-<p>
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic6.jpg"><br>
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic7.jpg">
-</p>
+<img src="/images/math2023_pic6.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic7.jpg" style="width:75%">
 
-<p>Math Warrior, as the name suggests, trains students to be champion fighters in Math. The upper primary students get the opportunity to engage in friendly competitions with their friends and learn how to improve their mental sums simultaneously. This strengthens their foundational skills and other arithmetic skills which are needed to tackle tougher Mathematics sums.</p>   	
-<img src="/images/math%209.png">
+<p>Math Warrior, as the name suggests, trains students to be champion fighters in Math. The upper primary students get the opportunity to engage in friendly competitions with their friends and learn how to improve their mental sums simultaneously. This strengthens their foundational skills and other arithmetic skills which are needed to tackle tougher Mathematics sums.</p>
+
+<img src="/images/math%209.png" style="width:99%">
 	
 <p><u>Unstructured Play – CFSparks</u></p>
 
 <p>Students used to congregate in the Math corner during recess for Math games. To promote the joy of learning, games are now fused in our CFSparks programme where an hour time slot is blocked every week for P5 students to engage in learning a new activity. Under ‘Mind Sports’, Math games such as the Math Warrior challenge is organised for Math games enthusiasts to pitch their skills against one another.  Class Math Reps are also trained to perform their roles as game facilitators to umpire and to teach their peers how to play the games.</p>	
-
-<p>	
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic8.jpg"></p>
 	
-***Students participating in the Friendship Band making activity.***
-
+<img src="/images/math2023_pic8.jpg" style="width:75%">
+	
 <u>Self-Directed Learning (SDL)</u>
 
 <p>We encourage students to take responsibility and initiative of their own learning. They login to these learning sites at least 2-3 times a week to complete assigned e-learning or e-homework. They may also watch videos and study the solutions of difficult math questions. Thus, they practice various mathematical skills in a fun and engaging way.</p>
@@ -157,23 +150,19 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 - <b>apply</b> ICT and other critical thinking skills to solve Math problems during the ‘learning journeys’.</p>
 	
 <p>With thoughtfully designed booklets complementing the VLJ, the experience proved to be interactive and engaging for our students.</p>
-
-<p>	
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic9.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic10.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic11.jpg">
-</p>
 	
+<img src="/images/math2023_pic9.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic10.jpg" style="width:75%"><br>
+	<img src="/images/math2023_pic11.jpg" style="width:75%">
+
 ***Students using iPads to complete their VLJ activity around the school.***
 
 <p><u>Learning Experience Package (LEP)</u></p>
 
 <p>The Learning Experience Package (LEP) was created to help students bridge the gap between what they learn in school and the real world. Often, students fail to see the relevance of the Mathematical content they are learning in school. Hence, these learning experiences help them connect the Mathematical concepts they learn to the world around them. For instance, for the topic on Volume, students are given the opportunity to measure and pour water into containers of different volumes. By engaging students in these hands-on experiences, they can then connect the knowledge learnt to real-world situations.</p>
-
-<p>	
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic12.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic13.jpg">
-</p>
+	
+<img src="/images/math2023_pic12.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic13.jpg" style="width:75%">
 	
 ***Students pouring water into cups and beakers in class when learning about Volume.***
 	
@@ -187,24 +176,20 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 			<p><u>Parents’ Support for Mathematics (PSM) Programme</u></p>
 
 <p>From the wing of our PSG-PASSION, a parents’ support group was set up in 2007 to individually coach identified P6 students who find learning Math challenging. Every week, these parents tutor our P6 students with the aim to better equip them with basic numeracy skills so that they are more prepared for the upcoming PSLE examinations. Besides imparting Math skills, the dedicated coaches also serve as their significant other to give encouragement and help boost the students’ confidence in solving Math problems.</p>
-
-<p>	
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic14.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic15.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic16.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic17.jpg">
-</p><br>
+	
+<img src="/images/math2023_pic14.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic15.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic16.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic17.jpg" style="width:75%"><br>
 	
 <u>Progressive Learning of Mathematics (PLM) Programme</u>
 
 <p>PLM is a self-directed learning approach where students progress at their own pace. The school identifies students and provides opportunities for them to use online learning platforms for their own learning.<br><br>
 Students’ learning gaps are first identified before weekly remediation is conducted. During each PLM session, students are given questions on Koobits, progressing to higher levels when they are more confident. Teaching videos with explicit explanations and examples are also provided for those who need assistance.<br><br>
 Through this programme, we hope to help students pace their own progress and increase their confidence in tackling Math questions.</p>
-
-<p>	
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic18.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic19.jpg">
-</p>
+	
+<img src="/images/math2023_pic18.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic19.jpg" style="width:75%">
 	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
