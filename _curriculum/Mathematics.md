@@ -121,8 +121,6 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <p>	
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic8.jpg"></p>
 	
-***Students participating in the Friendship Band making activity.***
-
 <u>Self-Directed Learning (SDL)</u>
 
 <p>We encourage students to take responsibility and initiative of their own learning. They login to these learning sites at least 2-3 times a week to complete assigned e-learning or e-homework. They may also watch videos and study the solutions of difficult math questions. Thus, they practice various mathematical skills in a fun and engaging way.</p>
