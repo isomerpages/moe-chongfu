@@ -123,7 +123,6 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 	
 ***Students participating in the Friendship Band making activity.***
 
-
 <u>Self-Directed Learning (SDL)</u>
 
 <p>We encourage students to take responsibility and initiative of their own learning. They login to these learning sites at least 2-3 times a week to complete assigned e-learning or e-homework. They may also watch videos and study the solutions of difficult math questions. Thus, they practice various mathematical skills in a fun and engaging way.</p>
@@ -147,7 +146,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <p>In order to assess if students are able to apply their mathematical concepts in a real-life problem, performance tasks were introduced as part of alternative assessment. Students are required to solve different tasks using manipulatives and record their answers in appropriate mathematical language. Manipulatives include money, cubes, beads and weighing scales. This gives them the opportunity to apply what they have learnt in the mathematics topics. These performance tasks hope to inject fun in learning mathematics through hands-on activities, rather than doing mundane tests.</p>
 
-<img src="/images/math%2013.png" style="width:75%">
+<img src="/images/math%2013.png" style="width:100%">
 	
 <p><u>Virtual Learning Journey </u></p>
 
