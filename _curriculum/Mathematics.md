@@ -45,8 +45,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 			<u><b>Approach 2:</b>&nbsp;Chongfu Star Approach</u>
 <p>The Chongfu STAR approach to maths problem solving is adapted from George Polya’s problem solving process. It is a structured approach aimed to help students in effective problem solving. The STAR approach uses questioning techniques with a variety of questions in each stage to help students gain independence and confidence in solving mathematical problems.</p>
 <img src="/images/math%203.png" style="width:65%">
-&nbsp;&nbsp;&nbsp;&nbsp;</div>  
-
+	
 <u><b>Approach 3:</b>&nbsp;4C Approach</u>
 
 <p>
@@ -73,7 +72,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 </p>
 	
 <p>As part of improving students’ thought process, students use Talk Moves questioning techniques to understand the problem. While the teachers’ role is to facilitate productive discussions using Talk Moves questions, students seek to understand the problem and reflect it in their journals.</p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
