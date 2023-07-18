@@ -150,23 +150,19 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 - <b>apply</b> ICT and other critical thinking skills to solve Math problems during the ‘learning journeys’.</p>
 	
 <p>With thoughtfully designed booklets complementing the VLJ, the experience proved to be interactive and engaging for our students.</p>
-
-<p>	
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic9.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic10.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic11.jpg">
-</p>
+	
+<img src="/images/math2023_pic9.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic10.jpg" style="width:75%"><br>
+	<img src="/images/math2023_pic11.jpg" style="width:75%">
 
 ***Students using iPads to complete their VLJ activity around the school.***
 
 <p><u>Learning Experience Package (LEP)</u></p>
 
 <p>The Learning Experience Package (LEP) was created to help students bridge the gap between what they learn in school and the real world. Often, students fail to see the relevance of the Mathematical content they are learning in school. Hence, these learning experiences help them connect the Mathematical concepts they learn to the world around them. For instance, for the topic on Volume, students are given the opportunity to measure and pour water into containers of different volumes. By engaging students in these hands-on experiences, they can then connect the knowledge learnt to real-world situations.</p>
-
-<p>	
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic12.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic13.jpg">
-</p>
+	
+<img src="/images/math2023_pic12.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic13.jpg" style="width:75%">
 	
 ***Students pouring water into cups and beakers in class when learning about Volume.***
 	
@@ -180,13 +176,11 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 			<p><u>Parents’ Support for Mathematics (PSM) Programme</u></p>
 
 <p>From the wing of our PSG-PASSION, a parents’ support group was set up in 2007 to individually coach identified P6 students who find learning Math challenging. Every week, these parents tutor our P6 students with the aim to better equip them with basic numeracy skills so that they are more prepared for the upcoming PSLE examinations. Besides imparting Math skills, the dedicated coaches also serve as their significant other to give encouragement and help boost the students’ confidence in solving Math problems.</p>
-
-<p>	
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic14.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic15.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic16.jpg"><br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic17.jpg">
-</p><br>
+	
+<img src="/images/math2023_pic14.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic15.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic16.jpg" style="width:75%"><br>
+<img src="/images/math2023_pic17.jpg" style="width:75%"><br>
 	
 <u>Progressive Learning of Mathematics (PLM) Programme</u>
 
