@@ -57,3 +57,4 @@ third_nav_title: For Parents
 
 * [P4 Learning Journey to Geylang Serai Heritage Gallery](/files/ltp_july2023_a2_moecfsltp_2023_0074_P4_lj_to_geylang_serai_hg.pdf)
 * [Gifted Education Programme (GEP) 2024](/files/ltp_july2023_b2_p3_gep_letter_2024_edun_n09_11_011_vol_16.pdf)
+* [Edusave Character Award (ECHA)](/files/ltp_july2023_c2_moecfsltp_2023_0072_edusave_character_award_(echa).pdf)
