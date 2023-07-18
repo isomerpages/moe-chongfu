@@ -161,7 +161,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic10.jpg"><br>
 <img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic11.jpg">
 </p>
-	
+
 ***Students using iPads to complete their VLJ activity around the school.***
 
 <p><u>Learning Experience Package (LEP)</u></p>
