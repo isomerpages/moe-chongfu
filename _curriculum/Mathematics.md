@@ -50,7 +50,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <u><b>Approach 3:</b>&nbsp;4C Approach</u>
 
 <p>
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic1.jpg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic1a.png">
 </p>
 	
 <p>The 4C Approach uses both physical and digital manipulatives in learning Math concepts. The approach involves 4 stages.<br><b>
