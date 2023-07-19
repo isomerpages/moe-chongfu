@@ -175,10 +175,9 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <p>From the wing of our PSG-PASSION, a parents’ support group was set up in 2007 to individually coach identified P6 students who find learning Math challenging. Every week, these parents tutor our P6 students with the aim to better equip them with basic numeracy skills so that they are more prepared for the upcoming PSLE examinations. Besides imparting Math skills, the dedicated coaches also serve as their significant other to give encouragement and help boost the students’ confidence in solving Math problems.</p>
 	
-<img src="/images/math2023_pic14.jpg" style="width:75%"><br>
-<img src="/images/math2023_pic15.jpg" style="width:75%"><br>
-<img src="/images/math2023_pic16.jpg" style="width:75%"><br>
-<img src="/images/math2023_pic17.jpg" style="width:75%"><br>
+<img src="/images/math2023_picgp2.jpg" style="width:100%">
+
+<img src="/images/math2023_picgp3.jpg" style="width:100%">
 	
 <u>Progressive Learning of Mathematics (PLM) Programme</u>
 
