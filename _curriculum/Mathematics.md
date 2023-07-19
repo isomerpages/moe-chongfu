@@ -36,7 +36,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 			<p><u>Chongfu’s Curriculum Focus</u></p>
 
 <p>In Chongfu School, we focus on problem solving, which encompasses skills and functions that are important in our daily lives. We also aim to develop mathematical thinkers who are able to solve real-world problems. In addition, students should be able to understand math through deep learning and mastery. Only with deep understanding will students be able to reason mathematically and apply mathematical concepts to real-life problems. Through our extensive range of math programmes, we hope students will value and enjoy learning mathematics.</p>  
-			<u><b>Approach 1:</b>&nbsp;Concrete-Pictorial-Abstract (CPA) Approach</u><br>
+			<u><b>Approach 1:</b>&nbsp;Concrete-Pictorial-Abstract (CPA) Approach</u><br><br>
 <img src="/images/math2.png" style="width:75%"><br><p>The CPA Approach is an essential method of teaching Mathematics for mastery. It involves moving from concrete materials to pictorial representations to abstract symbols and problems.<br><br>
 * <b> Concrete – </b> New concepts are first introduced by acting it out using real objects or manipulatives.<br><br>
 * <b> Pictorial – </b> The concepts are then further explained using diagrams and pictures.<br><br>
@@ -151,12 +151,10 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 	
 <p>With thoughtfully designed booklets complementing the VLJ, the experience proved to be interactive and engaging for our students.</p>
 	
-<img src="/images/math2023_pic9.jpg" style="width:75%"><br>
-<img src="/images/math2023_pic10.jpg" style="width:75%"><br>
-	<img src="/images/math2023_pic11.jpg" style="width:75%">
+<img src="/images/math2023_picgp1.jpg" style="width:100%">
 
-***Students using iPads to complete their VLJ activity around the school.***
-
+***Students using iPads to complete their VLJ activity around the school***
+	
 <p><u>Learning Experience Package (LEP)</u></p>
 
 <p>The Learning Experience Package (LEP) was created to help students bridge the gap between what they learn in school and the real world. Often, students fail to see the relevance of the Mathematical content they are learning in school. Hence, these learning experiences help them connect the Mathematical concepts they learn to the world around them. For instance, for the topic on Volume, students are given the opportunity to measure and pour water into containers of different volumes. By engaging students in these hands-on experiences, they can then connect the knowledge learnt to real-world situations.</p>
@@ -177,19 +175,21 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <p>From the wing of our PSG-PASSION, a parents’ support group was set up in 2007 to individually coach identified P6 students who find learning Math challenging. Every week, these parents tutor our P6 students with the aim to better equip them with basic numeracy skills so that they are more prepared for the upcoming PSLE examinations. Besides imparting Math skills, the dedicated coaches also serve as their significant other to give encouragement and help boost the students’ confidence in solving Math problems.</p>
 	
-<img src="/images/math2023_pic14.jpg" style="width:75%"><br>
-<img src="/images/math2023_pic15.jpg" style="width:75%"><br>
-<img src="/images/math2023_pic16.jpg" style="width:75%"><br>
-<img src="/images/math2023_pic17.jpg" style="width:75%"><br>
+<img src="/images/math2023_picgp2.jpg" style="width:100%">
+
+<img src="/images/math2023_picgp3.jpg" style="width:100%">
 	
 <u>Progressive Learning of Mathematics (PLM) Programme</u>
 
 <p>PLM is a self-directed learning approach where students progress at their own pace. The school identifies students and provides opportunities for them to use online learning platforms for their own learning.<br><br>
 Students’ learning gaps are first identified before weekly remediation is conducted. During each PLM session, students are given questions on Koobits, progressing to higher levels when they are more confident. Teaching videos with explicit explanations and examples are also provided for those who need assistance.<br><br>
 Through this programme, we hope to help students pace their own progress and increase their confidence in tackling Math questions.</p>
-	
-<img src="/images/math2023_pic18.jpg" style="width:75%"><br>
-<img src="/images/math2023_pic19.jpg" style="width:75%">
+
+<p>
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic18.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic19.jpg">
+</p><p style="clear: both;">
+</p>
 	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
