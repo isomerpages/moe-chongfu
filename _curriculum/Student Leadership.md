@@ -92,7 +92,7 @@ To develop and maximise the potential of&nbsp;each **student leader**&nbsp;in Ch
 	 <label for="accordion5"><b>5. Values In Action (VIA) Programmes</b></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p><img style="width:100%" src="/images/studleadership2023_pic8.jpg"></p>
+<p><img style="width:100%" src="/images/studleadership2023_pic9.jpg"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
 </ul>
