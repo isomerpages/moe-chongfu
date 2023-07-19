@@ -30,7 +30,7 @@ To develop and maximise the potential of&nbsp;each **student leader**&nbsp;in Ch
 * **Formal and informal curricula**: knowledge on values and leadership skills 
 * **Character and leadership can be actualized:** Opportunities and experiential learning platforms
 
-<img style="width:100%" src="/images/studleadership2023_pic1.png">
+<img style="width:75%" src="/images/studleadership2023_pic1.png">
 
 ### Approach
 * Three-prong approach 
