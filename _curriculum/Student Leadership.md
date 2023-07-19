@@ -5,7 +5,7 @@ description: ""
 ---
 ### Objective
 
-To develop and maximise the potential of each student leader in Chongfu School in the domains of knowledge, skills and attributes to enable them to become excellent individuals who can contribute effectively to the school, home, community, nation and the world.
+To develop and maximise the potential of&nbsp;each student leader&nbsp;in Chongfu School in the domains of&nbsp;knowledge,&nbsp;skills and attributes to enable them to become excellent individuals who can contribute effectively to the school, home, community, nation and the world.
 
 ### Every Student is a Leader
 * Comprehensive School Wide Leadership 
@@ -29,3 +29,5 @@ To develop and maximise the potential of each student leader in Chongfu School
 * **Aims to impart knowledge**, inculcate values and motivate students to take the right actions.
 * **Formal and informal curricula**: knowledge on values and leadership skills 
 * **Character and leadership can be actualized:** Opportunities and experiential learning platforms
+
+<img style="width:100%" src="/images/studleadership2023_pic1.png">  
