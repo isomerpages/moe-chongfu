@@ -51,3 +51,5 @@ To develop and maximise the potential of&nbsp;each student leader&nbsp;in Chongf
 * Meaningful leadership opportunities in classroom and within school
 
 <img style="width:100%" src="/images/studleadership2023_pic3.png">
+
+### Student Empowerment Programmes:
