@@ -29,4 +29,3 @@ To develop and maximise the potential of each student leader in Chongfu School
 * **Aims to impart knowledge**, inculcate values and motivate students to take the right actions.
 * **Formal and informal curricula**: knowledge on values and leadership skills 
 * **Character and leadership can be actualized:** Opportunities and experiential learning platforms
-
