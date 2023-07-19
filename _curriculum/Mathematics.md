@@ -151,12 +151,10 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 	
 <p>With thoughtfully designed booklets complementing the VLJ, the experience proved to be interactive and engaging for our students.</p>
 	
-<img src="/images/math2023_pic9.jpg" style="width:75%"><br>
-<img src="/images/math2023_pic10.jpg" style="width:75%"><br>
-	<img src="/images/math2023_pic11.jpg" style="width:75%">
+<img src="/images/math2023_picgp1.jpg" style="width:100%">
 
-***Students using iPads to complete their VLJ activity around the school.***
-
+***Students using iPads to complete their VLJ activity around the school***
+	
 <p><u>Learning Experience Package (LEP)</u></p>
 
 <p>The Learning Experience Package (LEP) was created to help students bridge the gap between what they learn in school and the real world. Often, students fail to see the relevance of the Mathematical content they are learning in school. Hence, these learning experiences help them connect the Mathematical concepts they learn to the world around them. For instance, for the topic on Volume, students are given the opportunity to measure and pour water into containers of different volumes. By engaging students in these hands-on experiences, they can then connect the knowledge learnt to real-world situations.</p>
