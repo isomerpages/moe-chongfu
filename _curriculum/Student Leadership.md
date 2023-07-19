@@ -57,20 +57,42 @@ To develop and maximise the potential of&nbsp;each student leader&nbsp;in Chongf
 <ul class="jekyllcodex_accordion">
 &nbsp;&nbsp;<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-		<label for="accordion1"><b>1. Learning Science outside the classroom </b></label>
+		<label for="accordion1"><b>1. Class Committee Structure</b></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>For Science WANDer, students presented magic tricks to the school during morning assembly. In one instance, the student magicians demonstrated how an egg could be pushed into a bottle using differences in air pressure. They then linked this to the experience of getting “airplane ears” while on a plane.</p>
-	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><img style="width:100%" src="/images/studleadership2023_pic5.jpg"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
 &nbsp;<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-	 <label for="accordion2"><b>2. Environment Education @ Chongfu</b></label>
+	 <label for="accordion2"><b>2. Recess Activities</b></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Chongfu School stands committed to doing our part for the environment, reducing carbon emissions and nurturing our students to be Stewards of the Environment.</p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><img style="width:100%" src="/images/studleadership2023_pic6.jpg"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>	
+&nbsp;<li>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
+	 <label for="accordion3"><b>3. Intergenerational Programme</b></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><img style="width:100%" src="/images/studleadership2023_pic7.jpg"></p>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</li>
+&nbsp;<li>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
+	 <label for="accordion4"><b>4. STAR Programme</b></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><img style="width:100%" src="/images/studleadership2023_pic8.jpg"></p>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</li>
+&nbsp;<li>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
+	 <label for="accordion5"><b>5. Values In Action (VIA) Programmes</b></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><img style="width:100%" src="/images/studleadership2023_pic8.jpg"></p>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</li>
 </ul>
-	
-
