@@ -40,3 +40,7 @@ To develop and maximise the potential of&nbsp;each student leader&nbsp;in Chongf
 * Students will be developed as leaders of self and leaders of others through Servant Leadership
 * Students with leadership potential will take on roles as leaders of teams and leaders of leaders
 * Committed leaders guided by sound values and effective life-skills
+
+### Student Leadership Structure
+
+<img style="width:100%" src="/images/studleadership2023_pic2.png">
