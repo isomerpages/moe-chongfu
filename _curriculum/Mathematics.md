@@ -184,9 +184,12 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <p>PLM is a self-directed learning approach where students progress at their own pace. The school identifies students and provides opportunities for them to use online learning platforms for their own learning.<br><br>
 Students’ learning gaps are first identified before weekly remediation is conducted. During each PLM session, students are given questions on Koobits, progressing to higher levels when they are more confident. Teaching videos with explicit explanations and examples are also provided for those who need assistance.<br><br>
 Through this programme, we hope to help students pace their own progress and increase their confidence in tackling Math questions.</p>
-	
-<img src="/images/math2023_pic18.jpg" style="width:75%"><br>
-<img src="/images/math2023_pic19.jpg" style="width:75%">
+
+<p>
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic18.jpg">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic19.jpg">
+</p><p style="clear: both;">
+</p>
 	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
