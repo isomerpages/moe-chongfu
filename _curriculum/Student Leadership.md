@@ -52,4 +52,25 @@ To develop and maximise the potential of&nbsp;each student leader&nbsp;in Chongf
 
 <img style="width:100%" src="/images/studleadership2023_pic3.png">
 
-### Student Empowerment Programmes:
+### Student Leaders Empowerment Programmes:
+
+<ul class="jekyllcodex_accordion">
+&nbsp;&nbsp;<li>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+		<label for="accordion1"><b>1. Learning Science outside the classroom </b></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>For Science WANDer, students presented magic tricks to the school during morning assembly. In one instance, the student magicians demonstrated how an egg could be pushed into a bottle using differences in air pressure. They then linked this to the experience of getting “airplane ears” while on a plane.</p>
+	
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</li>
+&nbsp;<li>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+	 <label for="accordion2"><b>2. Environment Education @ Chongfu</b></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Chongfu School stands committed to doing our part for the environment, reducing carbon emissions and nurturing our students to be Stewards of the Environment.</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</li>	
+</ul>
+	
+
