@@ -30,4 +30,13 @@ To develop and maximise the potential of&nbsp;each student leader&nbsp;in Chongf
 * **Formal and informal curricula**: knowledge on values and leadership skills 
 * **Character and leadership can be actualized:** Opportunities and experiential learning platforms
 
-<img style="width:100%" src="/images/studleadership2023_pic1.png">  
+<img style="width:100%" src="/images/studleadership2023_pic1.png">
+
+### Approach
+* Three-prong approach 
+* First level: Broad base, represents Personal leadership - **Lead Self**
+* Second level: Peer leadership - **Serve and Lead Peers**
+* Third level: People leadership which entails serving and leading at the school level -&nbsp;**Lead School**
+* Students will be developed as leaders of self and leaders of others through Servant Leadership
+* Students with leadership potential will take on roles as leaders of teams and leaders of leaders
+* Committed leaders guided by sound values and effective life-skills
