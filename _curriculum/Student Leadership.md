@@ -45,12 +45,12 @@ To develop and maximise the potential of&nbsp;each **student leader**&nbsp;in Ch
 
 <img style="width:100%" src="/images/studleadership2023_pic2.png">
 
-###### Empowering our Students Leaders through a tiered approach:
+**Empowering our Students Leaders through a tiered approach:**
 
 * Every student is a leader, a thinking citizen, capable of leading themselves and others
 * Meaningful leadership opportunities in classroom and within school
 
-<img style="width:100%" src="/images/studleadership2023_pic3.png">
+<img style="width:100%" src="/images/studleadership2023_pic3a.png">
 
 ### Student Leaders Empowerment Programmes:
 
