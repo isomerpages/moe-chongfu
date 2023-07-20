@@ -8,12 +8,17 @@ description: ""
 To develop and maximise the potential of&nbsp;each **student leader**&nbsp;in Chongfu School in the domains of knowledge, skills and attributes to enable them to become excellent individuals who can contribute effectively to the school, home, community, nation and the world.
 
 ### Every Student is a Leader
+<p>
+<img style="float: left; width: 35%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/studleadership2023_pic10.png">
+
 * Comprehensive School Wide Leadership 
 * To hone every student’s leadership skills
 * Betterment of self, home, peers, school, community, nation and the world.
 * Structured Leadership Development
 * A systematic approach
 * Meaningful opportunities
+</p>
+<p style="clear: both;"></p>
 
 ### Leadership Development
 * **Leaders:**
