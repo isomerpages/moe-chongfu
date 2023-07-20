@@ -37,7 +37,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <p>In Chongfu School, we focus on problem solving, which encompasses skills and functions that are important in our daily lives. We also aim to develop mathematical thinkers who are able to solve real-world problems. In addition, students should be able to understand math through deep learning and mastery. Only with deep understanding will students be able to reason mathematically and apply mathematical concepts to real-life problems. Through our extensive range of math programmes, we hope students will value and enjoy learning mathematics.</p>  
 			<u><b>Approach 1:</b>&nbsp;Concrete-Pictorial-Abstract (CPA) Approach</u><br><br>
-<img src="/images/math2.png" style="width:75%"><br><p>The CPA Approach is an essential method of teaching Mathematics for mastery. It involves moving from concrete materials to pictorial representations to abstract symbols and problems.<br><br>
+<img src="/images/math2.png" style="width:75%"><p>The CPA Approach is an essential method of teaching Mathematics for mastery. It involves moving from concrete materials to pictorial representations to abstract symbols and problems.<br><br>
 * <b> Concrete – </b> New concepts are first introduced by acting it out using real objects or manipulatives.<br><br>
 * <b> Pictorial – </b> The concepts are then further explained using diagrams and pictures.<br><br>
 * <b> Abstract – </b> Problems are represented using mathematical notation such as numbers and symbols.
@@ -150,18 +150,24 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 - <b>apply</b> ICT and other critical thinking skills to solve Math problems during the ‘learning journeys’.</p>
 	
 <p>With thoughtfully designed booklets complementing the VLJ, the experience proved to be interactive and engaging for our students.</p>
-	
-<img src="/images/math2023_picgp1.jpg" style="width:100%">
 
+<p>	
+<img src="/images/math2023_picgp1.jpg" style="width:100%">
+</p><p style="clear: both;"></p>
+<p></p>
+	
 ***Students using iPads to complete their VLJ activity around the school***
 	
 <p><u>Learning Experience Package (LEP)</u></p>
 
 <p>The Learning Experience Package (LEP) was created to help students bridge the gap between what they learn in school and the real world. Often, students fail to see the relevance of the Mathematical content they are learning in school. Hence, these learning experiences help them connect the Mathematical concepts they learn to the world around them. For instance, for the topic on Volume, students are given the opportunity to measure and pour water into containers of different volumes. By engaging students in these hands-on experiences, they can then connect the knowledge learnt to real-world situations.</p>
 	
+<p>
 <img src="/images/math2023_pic12.jpg" style="width:75%"><br>
 <img src="/images/math2023_pic13.jpg" style="width:75%">
-	
+</p><p style="clear: both;">
+</p>
+
 ***Students pouring water into cups and beakers in class when learning about Volume.***
 	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
