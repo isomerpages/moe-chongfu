@@ -152,8 +152,8 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <p>	
 <img src="/images/math2023_picgp1.jpg" style="width:100%">
-<em><strong>Students using iPads to complete their VLJ activity around the school</strong></em>
-</p><p style="clear: both;"></p>
+</p><center><p><em><strong>Students using iPads to complete their VLJ activity around the school</strong></em></p></center>
+<p></p><p style="clear: both;"></p>
 <p></p>
 	
 <p><u>Learning Experience Package (LEP)</u></p>
@@ -167,8 +167,6 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <center><p><em><strong>Students pouring water into cups and beakers in class when learning about Volume.</strong></em></p></center>
 <p style="clear: both;">
 </p>
-	
-<div><center><p><em><strong>Students pouring water into cups and beakers in class when learning about Volume</strong></em></p></center></div>
 	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 	
