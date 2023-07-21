@@ -118,9 +118,8 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 	
 <u>Self-Directed Learning (SDL)</u>
 
-<p>We encourage students to take responsibility and initiative of their own learning. They login to these learning sites at least 2-3 times a week to complete assigned e-learning or e-homework. They may also watch videos and study the solutions of difficult math questions. Thus, they practice various mathematical skills in a fun and engaging way.</p>
+<p>We encourage students to take responsibility and initiative of their own learning. They login to Koobits at least 2-3 times a week to complete assigned e-learning or e-homework. They may also watch videos and study the solutions of difficult math questions. Thus, they practice various mathematical skills in a fun and engaging way.</p>
 
-<p>The recommended websites are students’ learning management portal (LMS) and MonsWorld. MonsWorld has generated many positive feedbacks due to the high variability and quality of the questions set. The students also enjoyed the games.</p>
 <img src="/images/maths_picture_1.png">
 <img src="/images/Maths_Picture_2.png">
 <img src="/images/Maths_Picture_3.png">
@@ -153,10 +152,9 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <p>	
 <img src="/images/math2023_picgp1.jpg" style="width:100%">
-</p><p style="clear: both;"></p>
+</p><center><p><em><strong>Students using iPads to complete their VLJ activity around the school</strong></em></p></center>
+<p></p><p style="clear: both;"></p>
 <p></p>
-	
-***Students using iPads to complete their VLJ activity around the school***
 	
 <p><u>Learning Experience Package (LEP)</u></p>
 
@@ -165,10 +163,10 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <p>
 <img src="/images/math2023_pic12.jpg" style="width:75%"><br>
 <img src="/images/math2023_pic13.jpg" style="width:75%">
-</p><p style="clear: both;">
 </p>
-
-***Students pouring water into cups and beakers in class when learning about Volume.***
+<center><p><em><strong>Students pouring water into cups and beakers in class when learning about Volume.</strong></em></p></center>
+<p style="clear: both;">
+</p>
 	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 	
