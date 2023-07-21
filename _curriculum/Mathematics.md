@@ -163,8 +163,9 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <p>
 <img src="/images/math2023_pic12.jpg" style="width:75%"><br>
 <img src="/images/math2023_pic13.jpg" style="width:75%">
-</p><center><p><em><strong>Students pouring water into cups and beakers in class when learning about Volume.</strong></em></p></center>
-<p></p><p style="clear: both;">
+</p>
+<center><p><em><strong>Students pouring water into cups and beakers in class when learning about Volume.</strong></em></p></center>
+<p style="clear: both;">
 </p>
 	
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
