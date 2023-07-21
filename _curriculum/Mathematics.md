@@ -152,7 +152,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 
 <p>	
 <img src="/images/math2023_picgp1.jpg" style="width:100%">
-<cite><b>Students using iPads to complete their VLJ activity around the school</b></cite>
+<b>Students using iPads to complete their VLJ activity around the school</b>
 </p><p style="clear: both;"></p>
 <p></p>
 	
