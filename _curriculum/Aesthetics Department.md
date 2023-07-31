@@ -50,6 +50,40 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 <a href="https://photos.google.com/share/AF1QipNy-1lyXVjbdHYPByUp6UyYYA97d175sqjZ7DM0p9xI-DKVcSQXhe8TxXMUM7nfJA?key=eGxZR1FOc0lVbU1va2dxYkpvanVaRTd5S2w2QmVR">
 <img src="/images/Label_Excel_Staff_V4-2048x1357.png" style="width:75%"></a>
 
+### Singapore Youth Festival (SYF) Art Exhibition.
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic1_guests_at_opening_ceremony.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic2_cfs_students_artist_for_the_opening_ceremony.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/syf2023_pic3_mrsharin_and_mdmlaila_at_the_opening_ceremony.jpeg">
+</p><p style="clear: both;">
+</p>
+
+***Our students were invited to the Artist's Talk sharing for the SYF Art Exhibition's opening ceremony event at Stamford Art Centre at Waterloo Street on 17 July 2023***
+
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic6_cat_b_artist_with_mdm_laila_and_mdm_foo.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic5_cat_b.jpeg">
+</p><p style="clear: both;">
+</p>
+
+***Category  B - Certificate of Recognition (Special Mention)***
+
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic7_cat_c_student_artists.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic8_cat_c.jpeg">
+</p><p style="clear: both;">
+</p>
+
+***Category C - Certificate of Recognition (Special Mention) - artwork is selected to be displayed at the Ministry of Education (MOE) lobby.***
+
+### Students' Art Work featured in Zaobao Newspaper.
+
+<p>
+	<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic4_cfs_featured_in_zaobao.jpeg">
+</p>
+
+_**Our student's artwork was also featured in the Zaobao Newspaper dated 17 July 2023**_ &nbsp;<br>[Click here to view the article](https://www.zaobao.com.sg/news/singapore/story20230717-1414867)
+
 ### Honorable Mention in “Singapore Dreaming - A Comics Competition for Young Creators”.
 
 <p>
