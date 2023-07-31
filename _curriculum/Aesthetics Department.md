@@ -50,6 +50,24 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 <a href="https://photos.google.com/share/AF1QipNy-1lyXVjbdHYPByUp6UyYYA97d175sqjZ7DM0p9xI-DKVcSQXhe8TxXMUM7nfJA?key=eGxZR1FOc0lVbU1va2dxYkpvanVaRTd5S2w2QmVR">
 <img src="/images/Label_Excel_Staff_V4-2048x1357.png" style="width:75%"></a>
 
+### Singapore Youth Festival (SYF) Art Exhibition.
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic1_guests_at_opening_ceremony.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic2_cfs_students_artist_for_the_opening_ceremony.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/syf2023_pic3_mrsharin_and_mdmlaila_at_the_opening_ceremony.jpeg">
+</p><p style="clear: both;">
+</p>
+
+***Our students were invited to the Artist's Talk sharing for the SYF Art Exhibition's opening ceremony event at Stamford Art Centre at Waterloo Street on 17 July 2023***
+
+### Students' Art Work featured in Zaobao Newspaper.
+
+<p>
+	<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic4_cfs_featured_in_zaobao.jpeg">
+</p>
+
+_**Our student's artwork was also featured in the Zaobao Newspaper dated 17 July 2023**_ &nbsp;<br>[Click here to view the article](https://www.zaobao.com.sg/news/singapore/story20230717-1414867)
+
 ### Honorable Mention in “Singapore Dreaming - A Comics Competition for Young Creators”.
 
 <p>
@@ -68,48 +86,5 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 
 _**( Selected and showcased on the SYF Virtual Art Exhibition. Click on Search By School)**_ on&nbsp;[https://www.syf.gov.sg/syf/virtualexhibition/gallery-2](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2)
 
-### Programmes and Highlights
 
-<ul class="jekyllcodex_accordion">
-&nbsp;&nbsp;<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-		<label for="accordion1"><b>1. SYF Virtual Art Exhibition</b></label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p>
-<a href="https://www.artsteps.com/view/61bf2cbcbf72e0ea45675bdc?currentUser">
-<img src="/images/CFS-Virtual-Exhibition-2.jpg" style="width:50%"></a>
 
-_**( Selected and showcased on the SYF Virtual Art Exhibition. Click on Search By School)**_ on&nbsp;[https://www.syf.gov.sg/syf/virtualexhibition/gallery-2](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2)
-</p>
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-</li>
-&nbsp;<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-	 <label for="accordion2"><b>2. Honorable Mention in “Singapore Dreaming - A Comics Competition for Young Creators”.</b></label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p>
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/dimsumwarriorsprogrampicture2.jpeg">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/dimsumwarriorsprogrampicture3.jpg">
-<img style="float: left; width: 48%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/dimsumwarriorsprogrampicture4.jpeg">
-<img style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/dimsumwarriorsprogrampicture5.jpeg">
-</p><p style="clear: both;">
-</p>
-
-***There were in total, 879 submissions and after a very tough judging process, we are pleased to announce that Lin Yu Fang (6 Respectful) was awarded the Honorable Mentionto in the “Singapore Dreaming - A Comics Competition for Young Creators”, presented by Dim Sum Warriors, The Learning Grid, Difference Engine, and GUILD. Supported by Children’s Museum Singapore and Yeo’s.***
-
-[Click here for more details on the program](https://tinyurl.com/5kt779z2)
-<p></p>
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-</li>
-&nbsp;<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-	 <label for="accordion3"><b>3. Singapore Youth Festival (SYF) Art Exhibition </b></label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p>
-</p>
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-</li>
-</ul>
