@@ -60,6 +60,22 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 
 ***Our students were invited to the Artist's Talk sharing for the SYF Art Exhibition's opening ceremony event at Stamford Art Centre at Waterloo Street on 17 July 2023***
 
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic6_cat_b_artist_with_mdm_laila_and_mdm_foo.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic5_cat_b.jpeg">
+</p><p style="clear: both;">
+</p>
+
+***Category  B - Certificate of Recognition (Special Mention)***
+
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic7_cat_c_student_artists.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic8_cat_c.jpeg">
+</p><p style="clear: both;">
+</p>
+
+***Category C - Certificate of Recognition (Special Mention) - artwork is selected to be displayed at the Ministry of Education (MOE) lobby.***
+
 ### Students' Art Work featured in Zaobao Newspaper.
 
 <p>
@@ -85,6 +101,3 @@ _**Our student's artwork was also featured in the Zaobao Newspaper dated 17 July
 <img src="/images/CFS-Virtual-Exhibition-2.jpg" style="width:50%"></a>
 
 _**( Selected and showcased on the SYF Virtual Art Exhibition. Click on Search By School)**_ on&nbsp;[https://www.syf.gov.sg/syf/virtualexhibition/gallery-2](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2)
-
-
-
