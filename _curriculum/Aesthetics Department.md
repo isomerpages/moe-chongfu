@@ -67,3 +67,49 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 <img src="/images/CFS-Virtual-Exhibition-2.jpg" style="width:50%"></a>
 
 _**( Selected and showcased on the SYF Virtual Art Exhibition. Click on Search By School)**_ on&nbsp;[https://www.syf.gov.sg/syf/virtualexhibition/gallery-2](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2)
+
+### Programmes and Highlights
+
+<ul class="jekyllcodex_accordion">
+&nbsp;&nbsp;<li>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+		<label for="accordion1"><b>1. SYF Virtual Art Exhibition</b></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+<a href="https://www.artsteps.com/view/61bf2cbcbf72e0ea45675bdc?currentUser">
+<img src="/images/CFS-Virtual-Exhibition-2.jpg" style="width:50%"></a>
+
+_**( Selected and showcased on the SYF Virtual Art Exhibition. Click on Search By School)**_ on&nbsp;[https://www.syf.gov.sg/syf/virtualexhibition/gallery-2](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2)
+</p>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</li>
+&nbsp;<li>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+	 <label for="accordion2"><b>2. Honorable Mention in “Singapore Dreaming - A Comics Competition for Young Creators”.</b></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/dimsumwarriorsprogrampicture2.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/dimsumwarriorsprogrampicture3.jpg">
+<img style="float: left; width: 48%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/dimsumwarriorsprogrampicture4.jpeg">
+<img style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/dimsumwarriorsprogrampicture5.jpeg">
+</p><p style="clear: both;">
+</p>
+
+***There were in total, 879 submissions and after a very tough judging process, we are pleased to announce that Lin Yu Fang (6 Respectful) was awarded the Honorable Mentionto in the “Singapore Dreaming - A Comics Competition for Young Creators”, presented by Dim Sum Warriors, The Learning Grid, Difference Engine, and GUILD. Supported by Children’s Museum Singapore and Yeo’s.***
+
+[Click here for more details on the program](https://tinyurl.com/5kt779z2)
+<p></p>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</li>
+&nbsp;<li>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
+	 <label for="accordion3"><b>3. Singapore Youth Festival (SYF) Art Exhibition </b></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+</p>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</li>
+</ul>
