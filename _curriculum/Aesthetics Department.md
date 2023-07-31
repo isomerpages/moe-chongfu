@@ -50,7 +50,7 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 <a href="https://photos.google.com/share/AF1QipNy-1lyXVjbdHYPByUp6UyYYA97d175sqjZ7DM0p9xI-DKVcSQXhe8TxXMUM7nfJA?key=eGxZR1FOc0lVbU1va2dxYkpvanVaRTd5S2w2QmVR">
 <img src="/images/Label_Excel_Staff_V4-2048x1357.png" style="width:75%"></a>
 
-### Singapore Youth Festival (SYF) Art Exhibition.
+## Singapore Youth Festival (SYF) Art Exhibition.
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic1_guests_at_opening_ceremony.jpeg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic2_cfs_students_artist_for_the_opening_ceremony.jpeg">
