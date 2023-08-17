@@ -59,3 +59,8 @@ third_nav_title: For Parents
 * [Gifted Education Programme (GEP) 2024](/files/ltp_july2023_b2_p3_gep_letter_2024_edun_n09_11_011_vol_16.pdf)
 * [Edusave Character Award (ECHA)](/files/ltp_july2023_c2_moecfsltp_2023_0072_edusave_character_award_(echa).pdf)
 * [National Day Celebration 2023](/files/ltp_july2023_d2_national_day_celebration_2023.pdf)
+* [P1 Theatrical Experience and Exposure (TEE)](/files/ltp_july2023_e2_moecfsltp_2023_0076_p1_tee.pdf)
+* [Commemoration of Racial Harmony Day](/files/ltp_july2023_f2_moecfsltp_2023_0080_commemoration_of_racial_harmony_day.pdf)
+* [SYSF Award Ceremony (Size)](/files/ltp_july2023_g2_moecfsltp_2023_0081_sysf_award_ceremony_(size).pdf)
+* [SYSF Award Ceremony (Type)](/files/ltp_july2023_h2_moecfsltp_2023_0081_sysf_award_ceremony_(type).pdf)
+* [P6 Preliminary Written Examination](/files/ltp_july2023_i2_moecfsltp2023_0083_p6_prelim_written_final.pdf)
