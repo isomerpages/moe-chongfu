@@ -23,7 +23,7 @@ To develop and maximise the potential of&nbsp;each **student leader**&nbsp;in Ch
 * **Adopts Prof Thomas Lickona’s theory:**
 	* *Moral Knowing*
 	* *Moral Feeling*
-	* *Moral Action *
+	* *Moral Action*
 * “**Head, Heart, Hands**” approach in engaging the whole child
 * **Learner-centric** approach to support students’ learning. 
 * **Aims to impart knowledge**, inculcate values and motivate students to take the right actions.
