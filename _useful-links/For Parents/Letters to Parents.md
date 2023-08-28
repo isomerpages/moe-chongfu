@@ -64,3 +64,6 @@ third_nav_title: For Parents
 * [SYSF Award Ceremony (Size)](/files/ltp_july2023_g2_moecfsltp_2023_0081_sysf_award_ceremony_(size).pdf)
 * [SYSF Award Ceremony (Type)](/files/ltp_july2023_h2_moecfsltp_2023_0081_sysf_award_ceremony_(type).pdf)
 * [P6 Preliminary Written Examination](/files/ltp_july2023_i2_moecfsltp2023_0083_p6_prelim_written_final.pdf)
+
+### August 2023
+* [Updates to Timetable for PE2023](/files/ltp_aug2023_a_updates_to_school_timetable_for_presidential_election_2023.pdf)
