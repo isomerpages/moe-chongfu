@@ -52,7 +52,9 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 
 ## Chongfu's Arts Fest 2.0, The Hearts of the Arts
 
-***Chongfu's Arts Fest 2.0, The Hearts of the Arts, is back for its 2nd year. We had several Art and Music activities in store for the students in the month of September which includes the Art &amp; Music competitions, Art Cart, Art Truck and recess activities (music making, online talent performances and the tie-dye stations). We would like to also thank the parent volunteers who had come forward to set up the stations and carry out the recess activities. We hope everything enjoyed themselves through the joy of learning in Art and Music.***
+***Chongfu's Arts Fest 2.0, The Hearts of the Arts, is back for its 2nd year. We had several Art and Music activities in store for the students in the month of September which includes the Art &amp; Music competitions, Art Cart, Art Truck and recess activities (music making, online talent performances and the tie-dye stations).*** 
+
+***We would like to also thank the parent volunteers who came forward to set up the stations and carry out the recess activities. We hope everyone enjoyed themselves through the joy of learning in Art and Music.***
 
 ##### Art Cart Segment: #####
 <p>
