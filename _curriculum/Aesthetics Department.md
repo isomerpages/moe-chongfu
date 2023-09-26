@@ -113,6 +113,12 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 </p><p style="clear: both;">
 </p>
 
+##### Art Cart Segment: #####
+<p>
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic45.jpeg">
+</p><p style="clear: both;">
+</p>
+
 ## Singapore Youth Festival (SYF) Art Exhibition.
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic1_guests_at_opening_ceremony.jpeg">
