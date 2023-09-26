@@ -50,6 +50,59 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 <a href="https://photos.google.com/share/AF1QipNy-1lyXVjbdHYPByUp6UyYYA97d175sqjZ7DM0p9xI-DKVcSQXhe8TxXMUM7nfJA?key=eGxZR1FOc0lVbU1va2dxYkpvanVaRTd5S2w2QmVR">
 <img src="/images/Label_Excel_Staff_V4-2048x1357.png" style="width:75%"></a>
 
+## Chongfu's Arts Fest 2.0, The Hearts of the Arts
+
+***Chongfu's Arts Fest 2.0, The Hearts of the Arts, is back for its 2nd year. We had several Art and Music activities in store for the students in the month of September which includes the Art &amp; Music competitions, Art Cart, Art Truck and recess activities (music making, online talent performances and the tie-dye stations). We would like to also thank the parent volunteers who had come forward to set up the stations and carry out the recess activities. We hope everything enjoyed themselves through the joy of learning in Art and Music.***
+
+<p>
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic1.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic2.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic3.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic4.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic5.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic6.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic7.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic8.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic9.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic10.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic11.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic12.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic13.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic14.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic15.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic16.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic17.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic18.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic19.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic20.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic21.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic22.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic23.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic24.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic25.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic26.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic27.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic28.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic29.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic30.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic31.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic32.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic33.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic34.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic35.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic36.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic37.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic38.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic39.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic40.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic41.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic42.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic43.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic44.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic45.jpeg">
+</p><p style="clear: both;">
+</p>
+
 ## Singapore Youth Festival (SYF) Art Exhibition.
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic1_guests_at_opening_ceremony.jpeg">
