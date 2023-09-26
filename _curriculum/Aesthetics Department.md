@@ -54,6 +54,7 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 
 ***Chongfu's Arts Fest 2.0, The Hearts of the Arts, is back for its 2nd year. We had several Art and Music activities in store for the students in the month of September which includes the Art &amp; Music competitions, Art Cart, Art Truck and recess activities (music making, online talent performances and the tie-dye stations). We would like to also thank the parent volunteers who had come forward to set up the stations and carry out the recess activities. We hope everything enjoyed themselves through the joy of learning in Art and Music.***
 
+##### Art Cart Segment: #####
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic1.jpeg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic2.jpeg">
@@ -61,6 +62,10 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic10.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic34.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic35.jpeg">
+</p>
+
+##### Chromelab Music Making &amp; Music Talent Showcase Segments: #####
+<p>
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic3.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic4.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic6.jpeg">
@@ -74,6 +79,11 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic36.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic37.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic40.jpeg">
+</p>
+
+##### Tie-dye Segment: #####
+
+<p>
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic5.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic9.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic11.jpeg">
