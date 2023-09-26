@@ -113,7 +113,7 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 </p><p style="clear: both;">
 </p>
 
-##### Art Cart Segment: #####
+##### Roving Art Truck Segment: #####
 <p>
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic46.jpg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic47.jpg">
