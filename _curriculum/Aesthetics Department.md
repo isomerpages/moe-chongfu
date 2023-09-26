@@ -88,6 +88,7 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic25.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic27.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic28.jpeg">
+<img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic29a.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic30.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic31.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic32.jpeg">
