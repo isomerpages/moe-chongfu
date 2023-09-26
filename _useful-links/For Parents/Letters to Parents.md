@@ -68,3 +68,7 @@ third_nav_title: For Parents
 ### August 2023
 * [Updates to Timetable for PE2023](/files/ltp_aug2023_a_updates_to_school_timetable_for_presidential_election_2023.pdf)
 * [Celebrating Mid Autumn Festival](/files/ltp_aug2023_b_celebrating_mid_autumn_festival_at_chongfu_2023.pdf)
+
+### September 2023
+* [Children's Day Celebrations 2023](/files/ltp_sept2023_a_childrens_day_celebrations_2023.pdf)
+* [P3 to P5 - End of Year Examination 2023](/files/ltp_sept2023_b_p3_to_p5_end_of_year_exam_2023.pdf)
