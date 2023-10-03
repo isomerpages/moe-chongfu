@@ -50,7 +50,7 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 <a href="https://photos.google.com/share/AF1QipNy-1lyXVjbdHYPByUp6UyYYA97d175sqjZ7DM0p9xI-DKVcSQXhe8TxXMUM7nfJA?key=eGxZR1FOc0lVbU1va2dxYkpvanVaRTd5S2w2QmVR">
 <img src="/images/Label_Excel_Staff_V4-2048x1357.png" style="width:75%"></a>
 
-## Chongfu's Arts Fest 2.0, The Hearts of the Arts
+## <mark> Chongfu's Arts Fest 2.0, The Hearts of the Arts </mark>
 
 ***Chongfu's Arts Fest 2.0, The Hearts of the Arts, is back for its 2nd year. We had several Art and Music activities in store for the students in the month of September which includes the Art &amp; Music competitions, Art Cart, Art Truck and recess activities (music making, online talent performances and the tie-dye stations).*** 
 
@@ -125,7 +125,7 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 </p><p style="clear: both;">
 </p>
 
-## Singapore Youth Festival (SYF) Art Exhibition.
+## <mark>Singapore Youth Festival (SYF) Art Exhibition.</mark>
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic1_guests_at_opening_ceremony.jpeg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic2_cfs_students_artist_for_the_opening_ceremony.jpeg">
@@ -151,7 +151,7 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 
 ***Category C - Certificate of Recognition (Special Mention) - artwork is selected to be displayed at the Ministry of Education (MOE) lobby.***
 
-### Students' Art Work featured in Zaobao Newspaper.
+## <mark> Students' Art Work featured in Zaobao Newspaper. </mark>
 
 <p>
 	<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic4_cfs_featured_in_zaobao.jpeg">
@@ -159,7 +159,7 @@ Performing Arts is an integral part of our society and it helps to enrich studen
 
 _**Our student's artwork was also featured in the Zaobao Newspaper dated 17 July 2023**_ &nbsp;<br>[Click here to view the article](https://www.zaobao.com.sg/news/singapore/story20230717-1414867)
 
-### Honorable Mention in “Singapore Dreaming - A Comics Competition for Young Creators”.
+## <mark> Honorable Mention in “Singapore Dreaming - A Comics Competition for Young Creators”. </mark>
 
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/dimsumwarriorsprogrampicture2.jpeg">
