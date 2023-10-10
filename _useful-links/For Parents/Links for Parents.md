@@ -23,7 +23,7 @@ third_nav_title: For Parents
 
 * [P5 and P6 Parents’ Engagement Session 28April2023 - Presentation Slides](/files/p5-p6-parents-engagement-session-slides-28-april-2023-a.pdf)
 
-* [P2 CCA Orientation 2023 - Presentation Slides](/files/p2_cca_orientation_2023_v2.pdf)
+* [P2 CCA Orientation 2023 - Presentation Slides](/files/p2-cca-orientation-2023-v2.pdf)
 
 ### Links to alumni and SHHK
 
