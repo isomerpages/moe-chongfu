@@ -39,7 +39,7 @@ third_nav_title: For Parents
 * [Online Purchase](https://www.pacificbookstores.com/public/)
 
 **<u>School Essential Supplies - Uniform</u>**
-* [CFS Uniform Selling Dates](/files/CFSUniformSellingDates.pdf)
+* [CFS Uniform Selling Dates](/files/p1reg_uniform_2023_sales_date_for_cfs_dec_2.pdf)
 * [Online Purchase](https://www.euniforms.com.sg/shop/product-category/primary-schools/cfps/)
 
 **<u>Application for Bus Transport</u>**
