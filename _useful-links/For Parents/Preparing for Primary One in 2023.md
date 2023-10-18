@@ -23,7 +23,11 @@ third_nav_title: For Parents
 
 **<u>Financial Assistance Scheme (FAS)</u>**
 
-* [MOE FAS Pamphlet](/files/MOEFASPamphlet.pdf)
+* [MOE FAS Pamphlets](https://go.gov.sg/moe-efas)
+* [MOE FAS Pamphlet - English](/files/p1reg2024_moe_fas_pamphet_el.pdf)
+* [MOE FAS Pamphlet - Chinese](/files/p1reg2024_moe_fas_pamphet_cl.pdf)
+* [MOE FAS Pamphlet - Malay](/files/p1reg2024_moe_fas_pamphet_ml.pdf)
+* [MOE FAS Pamphlet -  Tamil](/files/p1reg2024_moe_fas_pamphet_tl.pdf)
 
 * [MOE FAS Application Form](https://form.gov.sg/632432ba67747a0011d4a0cc)
 <br><small>#The income eligibility criteria for MOE FAS will be revised from 1 Jan 2023, please click [here](https://www.moe.gov.sg/news/press-releases/20221014-more-than-10000-students-to-benefit-from-revised-income-criteria-for-moe-financial-assistance-schemes-and-increased-ite-bursary-quanta) for more information.</small>
