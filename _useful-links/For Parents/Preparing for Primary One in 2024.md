@@ -41,7 +41,7 @@ third_nav_title: For Parents
 * [Online Purchase](https://www.euniforms.com.sg/shop/product-category/primary-schools/cfps/)
 
 **<u>Application for Bus Transport</u>**
-*   [School Bus Registration](https://www.tongtar.com) (Please register by 30 November 2023)
+*   [School Bus Registration](https://www.tongtar.com) (Please register by **30 November 2023**)
 *   Contact: 6261 5537 / 9773 0426 (Whatsapp or SMS)
 *   Email: chongfu@tongtar.com
 
