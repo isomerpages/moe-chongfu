@@ -10,11 +10,9 @@ third_nav_title: For Parents
 
 *   [Information on GIRO Scheme](https://www.moe.gov.sg/financial-matters/fees?toggle-id=giro)
 *   [MOE eGIRO Services](https://www.moe.gov.sg/financial-matters/fees/egiro)
-* [GIRO Application Form](/files/GiroApplicationForm.pdf)
 *   [Information on Edusave Account](https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds?toggle-id=moe-funded-schools)
 *   [Application for EPSO](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
 
- _*Please submit the original signed form to the school’s General Office upon completion by&nbsp;**24 November 2022**_
  
  **<u>Declaration on Medical Conditions/ Special Educational Needs</u>**
  * [Declaration Form](https://go.gov.sg/declaration2024)
