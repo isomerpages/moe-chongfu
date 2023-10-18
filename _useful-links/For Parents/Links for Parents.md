@@ -13,7 +13,7 @@ third_nav_title: For Parents
 * [Primary - MySkillsFuture](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2020501419&gclid=EAIaIQobChMIlPLt8Y6N9QIVy-h3Ch0dnwCqEAAYASAAEgLUS_D_BwE)
 * [Forms Download](https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Forms-Download/)
 * [FAQ](https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Frequently-Asked-Questions-FAQ/)
-* [Preparing for Primary One in 2023](https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Preparing-for-Primary-One-in-2023/)
+* [Preparing for Primary One in 2024](https://www.chongfu.moe.edu.sg/useful-links/for-parents/preparing-for-primary-one-in-2024/)
 
 ### For Your References
 
