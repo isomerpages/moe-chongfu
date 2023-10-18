@@ -48,10 +48,10 @@ third_nav_title: For Parents
 *   Email: chongfu@tongtar.com
 
 **<u>Student Care Service</u>**
-*  [Student Care Registration](/files/BigHeart@Chongfu%202023%20P1%20Interest%20Link%20(Website).pdf)
+*  [Student Care Registration](/files/p1reg2024_big_hearts_cover_letter.pdf)
 
 **<u>Parent Support Group (PASSION) and Alumni Classes</u>**
 
-*   [Passion Application Form_FormSG](https://form.gov.sg/63479c95c42bfe00128d68be)
+*   [Passion Application Form_FormSG](https://go.gov.sg/rt226d)
 *   [The Dads@Chongfu Video](http://shorturl.at/cwF14)
 *   [Parent Support Group (PASSION) Video](https://tinyurl.com/y6rhd9vy)
