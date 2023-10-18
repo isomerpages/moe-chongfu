@@ -4,7 +4,7 @@ permalink: /useful-links/For-Parents/Preparing-for-Primary-One-in-2023/
 description: ""
 third_nav_title: For Parents
 ---
-**Preparing for Primary One in 2023**
+**Preparing for Primary One in 2024**
 
 <strong><u>GIRO and Enrichment Programme Standing Order (EPSO) for Edusave Account</u></strong>
 
@@ -14,10 +14,11 @@ third_nav_title: For Parents
 *   [Information on Edusave Account](https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds?toggle-id=moe-funded-schools)
 *   [Application for EPSO](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
 
- _*Please submit the original signed form to the school’s General Office upon completion by **24 November 2022**_
+ _*Please submit the original signed form to the school’s General Office upon completion by&nbsp;**24 November 2022**_
  
  **<u>Declaration on Medical Conditions/ Special Educational Needs</u>**
- * [Declaration Form](https://form.gov.sg/6350c016e765ca0012187d07)
+ * [Declaration Form](https://go.gov.sg/declaration2024)
+
 
 
 **<u>Financial Assistance Scheme (FAS)</u>**
@@ -27,7 +28,7 @@ third_nav_title: For Parents
 * [MOE FAS Application Form](https://form.gov.sg/632432ba67747a0011d4a0cc)
 <br><small>#The income eligibility criteria for MOE FAS will be revised from 1 Jan 2023, please click [here](https://www.moe.gov.sg/news/press-releases/20221014-more-than-10000-students-to-benefit-from-revised-income-criteria-for-moe-financial-assistance-schemes-and-increased-ite-bursary-quanta) for more information.</small>
 
-**<u>School Essential Supplies - Textbooks & Stationeries</u>**
+**<u>School Essential Supplies - Textbooks &amp; Stationeries</u>**
 
 * [P1 Booklist](/files/P1Booklist.pdf)
 
