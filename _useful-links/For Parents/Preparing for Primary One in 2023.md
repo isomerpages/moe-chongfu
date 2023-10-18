@@ -34,7 +34,7 @@ third_nav_title: For Parents
 
 **<u>School Essential Supplies - Textbooks &amp; Stationeries</u>**
 
-* [P1 Booklist](/files/P1Booklist.pdf)
+* P1 Booklist - *will be updated at a later date*
 
 * [Online Purchase](https://www.pacificbookstores.com/public/)
 
