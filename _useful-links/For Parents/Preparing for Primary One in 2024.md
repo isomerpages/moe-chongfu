@@ -21,7 +21,7 @@ third_nav_title: For Parents
 
 **<u>Financial Assistance Scheme (FAS)</u>**
 
-* [MOE FAS Pamphlets](https://go.gov.sg/moe-efas)
+* [MOE FAS Pamphlets Consolidated](https://go.gov.sg/moe-efas)
 * [MOE FAS Pamphlet - English](/files/p1reg2024_moe_fas_pamphet_el.pdf)
 * [MOE FAS Pamphlet - Chinese](/files/p1reg2024_moe_fas_pamphet_cl.pdf)
 * [MOE FAS Pamphlet - Malay](/files/p1reg2024_moe_fas_pamphet_ml.pdf)
