@@ -11,21 +11,15 @@ description: ""
 <td>Chongfu School<br><br>170 Yishun Avenue 6 Singapore 768959</td></tr>
 </tbody></table>
 </p>	
-
 		
 ##### Contact Information
 
 <p>
 <table border="0">
-<tbody><tr><td><b>Name of Contact Person</b></td><td>Ms Joo Wei Xin
-</td></tr><tr><td><b>Telephone No.</b></td><td>6758 5527
-</td></tr><tr><td><b>Fax No.</b></td><td>6257 9571
-</td></tr><tr><td><b>Email Address</b></td><td>cfs@moe.edu.sg
-</td></tr><tr><td><b>Website Address</b></td><td>www.chongfu.moe.edu.sg
-</td></tr><tr><td><b>Charity Status</b></td><td>Exempt
-</td></tr><tr><td><b>IPC Status</b></td><td>A Member of Education Central Fund
-</td></tr></tbody></table>
-	</p>	
+<tbody><tr><td><b>Name of Contact Person</b><br><br><b>Telephone No.</b><br><br><b>Fax No.	</b><br><br><b>Email Address</b><br><br><b>Website Address</b><br><br><br><br><b>Charity Status</b><br><br><b>IPC Status</b></td>
+<td>Ms Joo Wei Xin<br><br>6758 5527<br><br>6257 9571<br><br>cfs@moe.edu.sg<br><br>www.chongfu.moe.edu.sg<br><br><br><br>Exempt<br><br>A Member of Education Central Fund</td></tr>
+</tbody></table>
+</p>	
 	
 ##### School Motto
 **Sincerity and Perseverance**
