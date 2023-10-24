@@ -2,7 +2,6 @@ collections:
   heritage:
     output: true
     order:
-      - Financial and Non Financial Information.md
       - History.md
       - Our Vision & Mission.md
       - Core Values.md
@@ -14,3 +13,4 @@ collections:
       - School Information/School Hours.md
       - School Information/Supplier Information.md
       - School Information/School Calendar.md
+      - Financial and Non Financial Information.md
