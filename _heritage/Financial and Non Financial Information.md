@@ -7,8 +7,8 @@ description: ""
 
 <p>
 <table border="0">
-<tbody><tr><td><b>Name of School</b></td><td>Chongfu School
-</td></tr><tr><td><b>Address</b></td><td>170 Yishun Avenue 6 Singapore 768959
+<tbody><tr><td><b>Name of School</b></td><td>  Chongfu School
+</td></tr><tr><td><b>Address</b></td><td>  170 Yishun Avenue 6 Singapore 768959
 </td></tr></tbody></table>
 	</p>
 		
