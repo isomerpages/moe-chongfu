@@ -2,6 +2,7 @@ collections:
   heritage:
     output: true
     order:
+      - Financial and Non Financial Information.md
       - History.md
       - Our Vision & Mission.md
       - Core Values.md
