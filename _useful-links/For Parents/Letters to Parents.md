@@ -78,4 +78,6 @@ third_nav_title: For Parents
 * [P6 BiCEP Graduation, Parent Letter](/files/ltp_oct2023_b_p6_bicep_graduation_parent_letter.pdf)
 * [P4 BiCEP Quiz, Parent Letter](/files/ltp_oct2023_c_p4_bicep_quiz_parent_letter.pdf)
 * [P6 (2024) SwimSafer Programme](/files/ltp_oct2023_d_post_psle_activity_p6_2024_swimsafer_program.pdf)
-* [P6 (2024) SwimSafer Programme](/files/ltp_oct2023_d_post_psle_activity_p6_2024_swimsafer_program.pdf)
+* [P5 (2024) SwimSafer Programme](/files/ltp_oct2023_e_p5_2024_swimsafer_program.pdf)
+* [P1 Orientation for 2024 Intake](/files/ltp_oct2023_f_p1_orientation_for_2024_intake.pdf)
+* [P4 Parent Engagement Session 2023](/files/ltp_oct2023_g_p4parent_engagement_session_2023.pdf)
