@@ -2,6 +2,7 @@
 title: English
 permalink: /curriculum/english/
 description: ""
+variant: markdown
 ---
 ### OUR VISION &amp; GOALS
 
@@ -210,6 +211,28 @@ The anthology captures the different types of poems that students embark on. Be 
 	<a href="https://heyzine.com/flip-book/ae1917ac58.html">P5 - Chongfu Anthology 2022 P5</a>	
 <br>
 	<a href="https://heyzine.com/flip-book/dcf22b2af1.html">P6 - Chongfu Anthology 2022 P6</a>	
+		</p></div>  
+</li>
+<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion9">  
+	<label for="accordion9"><b>Chongfu Anthology 2023</b></label>  
+		 <div>
+		<p>As part of the EL Department belief and culture to nurture in our students their passion for the English Language, the Chongfu Anthology is a platform that showcases our students’ work over the year.
+
+</p><p>This year, the anthology captures the different types of poems that students embark on. Be it Rhyming, Acrostic, Reverse poems, or even the traditional Haikus, our students have unleashed their creativity in unimaginable ways accompanied with their own illustrations.
+	
+</p><p>Here are the links to the flipbook copies:
+<br>
+	<a href="https://heyzine.com/flip-book/7296513ec8.html">P1 - Chongfu Anthology 2023 P1</a>	
+<br>
+	<a href="https://heyzine.com/flip-book/62461a33a3.html">P2 - Chongfu Anthology 2023 P2</a>	<br>
+	<a href="https://heyzine.com/flip-book/cc747cb1d4.html">P3 - Chongfu Anthology 2023 P3</a>	
+<br>
+	<a href="https://heyzine.com/flip-book/9255c153b2.html">P4 - Chongfu Anthology 2023 P4</a>	
+<br>
+	<a href="https://heyzine.com/flip-book/22a850d98b.html">P5 - Chongfu Anthology 2023 P5</a>	
+<br>
+	<a href="https://heyzine.com/flip-book/0b79f03ba9.html">P6 - Chongfu Anthology 2023 P6</a>	
 		</p></div>  
 </li>
 </ul>
