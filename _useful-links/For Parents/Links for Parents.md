@@ -3,6 +3,7 @@ title: Links for Parents
 permalink: /links-for-parents/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ### Links for Parents
 
@@ -19,7 +20,9 @@ third_nav_title: For Parents
 
 * [Instructions and FAQs for Student Learning Space](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)
 
-* [2023 Primary 1 Orientation Briefing for Parents - Presentation Slides](/files/2023%20Primary%20One%20(P1)%20Orientation%20Parents%20Briefing%20Slides.pdf)
+* [2024 Primary 1 Orientation Briefing for Parents - Presentation Slides](/files/2024_primary_1_orientation_briefing_for_parents_presentation_slide_a.pdf)
+
+* [2024 Primary 1 Orientation - Information for Parents](/files/2024_primary_1_orientation_information_for_parent_a.pdf)
 
 * [P5 and P6 Parents’ Engagement Session 28April2023 - Presentation Slides](/files/p5-p6-parents-engagement-session-slides-28-april-2023-a.pdf)
 
