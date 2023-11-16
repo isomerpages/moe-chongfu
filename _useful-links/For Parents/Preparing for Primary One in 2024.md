@@ -3,6 +3,7 @@ title: Preparing for Primary One in 2024
 permalink: /useful-links/for-parents/preparing-for-primary-one-in-2024/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 **Preparing for Primary One in 2024**
 
@@ -31,7 +32,7 @@ third_nav_title: For Parents
 
 **<u>School Essential Supplies - Textbooks &amp; Stationeries</u>**
 
-* P1 Booklist - *will be updated at a later date*
+* [Primary 1 booklist 2024](/files/Primary%201%20Booklist.pdf)
 
 * [Online Purchase](https://www.pacificbookstores.com/public/)
 
