@@ -15,7 +15,7 @@ variant: markdown
 * [Forms Download](https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Forms-Download/)
 * [FAQ](https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Frequently-Asked-Questions-FAQ/)
 * [Preparing for Primary One in 2024](https://www.chongfu.moe.edu.sg/useful-links/for-parents/preparing-for-primary-one-in-2024/)
-* [[P1-P6 Booklist 2024](/files/P1_P6_Booklist_2023.pdf)
+* [P1-P6 Booklist 2024](/files/P1_P6_Booklist_2023.pdf)
 
 ### For Your References
 
