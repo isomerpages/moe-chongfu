@@ -32,7 +32,7 @@ variant: markdown
 
 **<u>School Essential Supplies - Textbooks &amp; Stationeries</u>**
 
-* [Primary 1 booklist 2024](/files/Primary%201%20Booklist.pdf)
+* [P1 Booklist 2023](/files/P1_Booklist.pdf)
 
 * [Online Purchase](https://www.pacificbookstores.com/public/)
 
