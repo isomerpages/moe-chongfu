@@ -2,10 +2,11 @@
 title: Steering Committee
 permalink: /family/steering-committee/
 description: ""
+variant: markdown
 ---
-<img src="/images/mdm-foo-mui-chuw-3-768x1024.jpeg" style="width:30%">	 
+<img src="/images/Mr_King_Ming_Tan__principal__website.jpg" style="width:30%">	 
 <center><b>Principal</b></center>
-<center>Mdm Foo Mui Chuw</center>
+<center>Mr Tan King Ming</center>
 
 <img src="/images/MrSoonWS_VP1.png" style="width:30%">
 <center><b>Vice Principal</b></center>
