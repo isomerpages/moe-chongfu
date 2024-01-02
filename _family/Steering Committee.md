@@ -4,7 +4,7 @@ permalink: /family/steering-committee/
 description: ""
 variant: markdown
 ---
-<img src="/images/Mr_King_Ming_Tan__principal__website.jpg" style="width:30%">	 
+<img src="/images/Mr_King_Ming_Tan__principal_.png" style="width:30%">	 
 <center><b>Principal</b></center>
 <center>Mr Tan King Ming</center>
 
