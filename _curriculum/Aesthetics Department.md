@@ -2,6 +2,7 @@
 title: Aesthetics Department
 permalink: /curriculum/aesthetics-department/
 description: ""
+variant: markdown
 ---
 ![](/images/Label_Vision_V3-768x178.png)
 
