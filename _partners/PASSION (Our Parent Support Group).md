@@ -52,7 +52,14 @@ Provide personnel and programme support for school events and activities e.g.
 	<li>Classroom Cleanliness Award etc.</li>
 </ul>
 <p>Plan and organise celebratory events, bonding and well-being activities for school staff and PASSION members.</p>
+<br><em><b>What do we do?</b></em><br>
 
+Contribute by imparting knowledge and expertise to the school e.g. 
+<ul>
+	<li>Help students improve in Mathematics in our Parents’ Support for Mathematics (PSM) Programme.</li>
+	<li>Assist in the implementation of our Urban Farming lessons.</li>
+	<li>Share their professions with students during our Education &amp; Career Guidance (ECG) Fair.</li>
+</ul>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG6.png">
 
 <p></p>
