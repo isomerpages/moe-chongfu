@@ -73,5 +73,5 @@ page: <a href="https://www.facebook.com/people/Chongfu-School-Passion-Parent-Sup
 email us at: <a href="cfspassionpsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cfspassionpsg@gmail.com</a>
 </p>
 <p><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Group)</a> </strong>or
-email us at: <strong><a rel="noopener noreferrer nofollow" target="_blank">cfspassionpsg@gmail.com</a></strong>
+email us at: <strong><a href="mailto:cfspassionpsg@gmail.com">cfspassionpsg@gmail.com</a></strong>
 </p>
