@@ -41,14 +41,10 @@ positive attitudes and social behaviour in them.</p>
 </div>
 
 <h3>Our 3 WINGS:</h3>
-<div class="isomer-image-wrapper">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <h5><b style="color:blue">Support &amp; Social Wing</b></h5>
-<p><em><b>What do we do?</b></em></p>
+<br><em><b>What do we do?</b></em><br>
 
-<p>Provide personnel and programme support for school events and activities e.g.</p>
+Provide personnel and programme support for school events and activities e.g.
 <ul>
 	<li>Library / Once Upon A Time / Chongfu’s Grace duties</li>
 	<li>Level Learning Journeys</li>
@@ -58,7 +54,7 @@ positive attitudes and social behaviour in them.</p>
 <p>Plan and organise celebratory events, bonding and well-being activities for school staff and PASSION members.</p>
 
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG6.png">
-</div>
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG7.png">
