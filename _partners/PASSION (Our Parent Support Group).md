@@ -42,7 +42,7 @@ positive attitudes and social behaviour in them.</p>
 
 <h3>Our 3 WINGS:</h3>
 <h5><b style="color:blue">Support &amp; Social Wing</b></h5>
-<br><em><b>What do we do?</b></em><br>
+<em><b>What do we do?</b></em>
 
 Provide personnel and programme support for school events and activities e.g.
 <ul>
@@ -53,7 +53,7 @@ Provide personnel and programme support for school events and activities e.g.
 </ul>
 <p>Plan and organise celebratory events, bonding and well-being activities for school staff and PASSION members.</p>
 <h5><b style="color:blue">Expertise Wing</b></h5>
-<br><em><b>What do we do?</b></em><br>
+<em><b>What do we do?</b></em>
 
 Contribute by imparting knowledge and expertise to the school e.g. 
 <ul>
@@ -62,7 +62,7 @@ Contribute by imparting knowledge and expertise to the school e.g.
 	<li>Share their professions with students during our Education &amp; Career Guidance (ECG) Fair.</li>
 </ul>
 <h5><b style="color:blue">Dads@Chongfu</b></h5>
-<br><em><b>What do we do?</b></em><br>
+<em><b>What do we do?</b></em>
 
 Contribute by imparting knowledge and expertise to the school e.g. 
 <ul>
