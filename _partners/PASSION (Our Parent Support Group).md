@@ -37,15 +37,26 @@ positive attitudes and social behaviour in them.</p>
 </ul>
 <h4>Our 2024 PASSION Executive Committee (EXCO)</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee-1024x724.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PASSION_Committees.png">
 </div>
 
 <h3>Our 3 WINGS:</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<h5><b style="color:blue">Support &amp; Social Wing</b></h5>
+<p><em><b>What do we do?</b></em></p>
+
+<p>Provide personnel and programme support for school events and activities e.g.</p>
+<ul>
+	<li>Library / Once Upon A Time / Chongfu’s Grace duties</li>
+	<li>Level Learning Journeys</li>
+	<li>Level Games Day</li>
+	<li>Classroom Cleanliness Award etc.</li>
+</ul>
+<p>Plan and organise celebratory events, bonding and well-being activities for school staff and PASSION members.</p>
+
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG6.png">
 </div>
 <p></p>
