@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main-Pic.jpeg">
 </div>
-<p>To sign up or renew as a PASSION member, please click on the link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/rt226d</a> and
+<p>To sign up or renew as a PASSION member, please click on the link: <a href="https://go.gov.sg/rt226d" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/rt226d</a> and
 complete the form.</p>
 <p></p>
 <h1>Our PASSION 2019 committee</h1>
@@ -68,4 +68,10 @@ positive attitudes and social behaviour in them.</p>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdIWXizyY6GoIl6gSI2AWFrNQhB5KFGna7yfLX8MeBLAR7EhCjMfrQPXqH2b5g9gbKOirlA0LZTdLg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
+<p>For more information on PASSION, please refer to our PASSION Facebook
+page: <a href="https://www.facebook.com/people/Chongfu-School-Passion-Parent-Support-Group/100064488288153/" rel="noopener noreferrer nofollow" target="_blank">Chongfu School PASSION (Parent Support Group)</a> or
+email us at: <a href="cfspassionpsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cfspassionpsg@gmail.com</a>
+</p>
+<p><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Group)</a> </strong>or
+email us at: <strong><a rel="noopener noreferrer nofollow" target="_blank">cfspassionpsg@gmail.com</a></strong>
+</p>
