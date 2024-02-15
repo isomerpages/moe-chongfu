@@ -7,8 +7,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main-Pic.jpeg">
 </div>
-<p>To sign up or renew as a PASSION member, please click on the link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/rt226d</a> and
-complete the form.</p>
+<p>To sign up or renew as a PASSION member, please click on the link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/rt226d</a> and complete
+the form.</p>
 <p></p>
 <h1>Our PASSION 2019 committee</h1>
 <div class="isomer-image-wrapper">
@@ -55,10 +55,7 @@ positive attitudes and social behaviour in them.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG8.png">
 </div>
-<h1>PASSION NEWS &amp; EVENT PICTURES</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key-Passion-Event.jpg">
-</div>
+<h1></h1>
 <h4>Forest Adventure with Dad 2019 (Sun, 17 Mar)</h4>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5wIQYy4ouKMsv1BGNZ7mlwCKS3F2fZkpFPbvi2QbIU4MQJDqWXBNdjK3t6np6Qz_6ixhLa50MLMZD/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
@@ -70,8 +67,5 @@ positive attitudes and social behaviour in them.</p>
 <h4>Total Defence Day (Fri, 15 Feb)</h4>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdIWXizyY6GoIl6gSI2AWFrNQhB5KFGna7yfLX8MeBLAR7EhCjMfrQPXqH2b5g9gbKOirlA0LZTdLg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/PSG9.png">
 </div>
 <p></p>
