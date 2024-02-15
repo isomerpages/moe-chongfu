@@ -52,6 +52,7 @@ Provide personnel and programme support for school events and activities e.g.
 	<li>Classroom Cleanliness Award etc.</li>
 </ul>
 <p>Plan and organise celebratory events, bonding and well-being activities for school staff and PASSION members.</p>
+<h5><b style="color:blue">Expertise Wing</b></h5>
 <br><em><b>What do we do?</b></em><br>
 
 Contribute by imparting knowledge and expertise to the school e.g. 
@@ -60,16 +61,14 @@ Contribute by imparting knowledge and expertise to the school e.g.
 	<li>Assist in the implementation of our Urban Farming lessons.</li>
 	<li>Share their professions with students during our Education &amp; Career Guidance (ECG) Fair.</li>
 </ul>
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG6.png">
+<h5><b style="color:blue">Dads@Chongfu</b></h5>
+<br><em><b>What do we do?</b></em><br>
 
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG7.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG8.png">
-</div>
+Contribute by imparting knowledge and expertise to the school e.g. 
+<ul>
+	<li>Plan and organise father-child bonding activities and events.</li>
+</ul>
+For more information on Dads@Chongfu, please email us at: <a href="mailto:cfspassionpsg@gmail.com">cfspassionpsg@gmail.com</a>
 <h1></h1>
 <h4>Forest Adventure with Dad 2019 (Sun, 17 Mar)</h4>
 <div class="iframe-wrapper">
