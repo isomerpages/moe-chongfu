@@ -69,9 +69,6 @@ positive attitudes and social behaviour in them.</p>
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdIWXizyY6GoIl6gSI2AWFrNQhB5KFGna7yfLX8MeBLAR7EhCjMfrQPXqH2b5g9gbKOirlA0LZTdLg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>For more information on PASSION, please refer to our PASSION Facebook
-page: <a href="https://www.facebook.com/people/Chongfu-School-Passion-Parent-Support-Group/100064488288153/" rel="noopener noreferrer nofollow" target="_blank">Chongfu School PASSION (Parent Support Group)</a> or
-email us at: <a href="cfspassionpsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cfspassionpsg@gmail.com</a>
-</p>
-<p><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Group)</a> </strong>or
+page:</p><p><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Chongfu School PASSION (Parent Support Group)</a> </strong>or
 email us at: <strong><a href="mailto:cfspassionpsg@gmail.com">cfspassionpsg@gmail.com</a></strong>
 </p>
