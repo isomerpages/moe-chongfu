@@ -3,6 +3,7 @@ title: ICT Club
 permalink: /cca-ict-club/
 description: ""
 third_nav_title: Clubs and Society
+variant: markdown
 ---
 <p>Serving as an introductory platform to computer science, the Chongfu ICT Club provides our members with opportunities to develop their programming knowledge, create digital media and raise awareness of cyber wellness.</p> 
 	
@@ -15,7 +16,7 @@ third_nav_title: Clubs and Society
 
 <p>The editing of photos allows students to express their creativity. They are taught the technicality of picture creation through layering and photo editing. In addition, students develop their competencies in responsible decision making and relationship management through project work.</p>
 
-**P3 and P4 Teachers In Charge:**
+**P3 and P5 Teachers In Charge:**
 
 <ul>
 <li> Mr Low Yee Leong <b>(I/C)</b></li>
