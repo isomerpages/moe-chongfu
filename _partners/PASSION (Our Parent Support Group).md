@@ -7,7 +7,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main-Pic.jpeg">
 </div>
-<p>To sign up or renew as a PASSION member, please click on the link: <a href="https://go.gov.sg/rt226d" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/rt226d</a> and
+<p>To sign up or renew as a PASSION member, please click <a href="https://go.gov.sg/rt226d" rel="noopener noreferrer nofollow" target="_blank">here</a> and
 complete the form.</p>
 <p></p>
 <h1>Our PASSION 2019 committee</h1>
