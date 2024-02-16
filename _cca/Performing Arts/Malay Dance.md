@@ -31,7 +31,8 @@ an event that was graced by the Prime Minister.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Sri Rahayu Binte Ramlan</p>
+<p>Mdm Sri Rahayu Binte Ramlan <strong>(2I/C)</strong>
+</p>
 </li>
 </ul>
 <p><strong>CCA Day &amp; Venue:</strong>
