@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /cca-table-tennis/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 Chongfu School Table Tennis aims to provide all players with the opportunity to enjoy the sport regardless of their skill level. Players are provided with the opportunities to develop their skills at their own pace. Players who have the tenacity to train hard are given opportunities to represent schools at the zonal and national competitions.
 
@@ -10,21 +11,20 @@ The objectives of Chongfu School Table Tennis are to nurture and develop discipl
 
 During trainings, players will learn different techniques such as stroke play, footwork, ball control, serve, defence and attack strategies. In addition, sparring matches are incorporated during training&nbsp;to increase members’ cooperation, competitiveness and game readiness.
 
-**Teachers In Charge: Tuesdays**
+**P3 and P4 Teachers In Charge: Tuesdays**
 
 <ul>
-<li> Ms Luo Huixian Santarina <b>(I/C)</b></li>
+<li> Ms Jillyn Woo Wanyi <b>(I/C)</b></li>
 <li> Mdm Zhou Wei Hua </li>
-<li> Mdm Fan Xia </li>
-<li> Mr Derek Yeo </li>
+<li> Ms Shi Jia </li>
 </ul>
 
-**Teachers In Charge: Fridays**
+**P5 and P6 Teachers In Charge: Fridays**
 
 <ul>
-<li> Ms Chan Jing Ling <b>(I/C)</b></li>
+<li> Mr Edwin Goh Keng Lim <b>(I/C)</b></li>
 <li> Mr Brian Reis   </li>
-<li> Mdm Yep Lee Yong </li>
+<li> Ms Zhang Li  </li>
 </ul>
 
 **CCA Day &amp; Venue:**
