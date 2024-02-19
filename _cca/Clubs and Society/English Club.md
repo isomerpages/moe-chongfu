@@ -3,6 +3,7 @@ title: English Club
 permalink: /cca-english-club/
 description: ""
 third_nav_title: Clubs and Society
+variant: markdown
 ---
 Our English Club CCA aims to excite students about the learning of the English language through interesting and engaging activities in a fun environment, helping build their oracy and confidence in public speaking.
 
@@ -20,8 +21,8 @@ Selected students are also given the opportunity to participate in school events
 
 <ul>
 <li> Mr Ng Keh Siong Dave <b>(I/C)</b></li>
-<li> Ms Gu Xiaoyan </li>
-<li> Kenn Roy Anthony </li>
+<li> Mr Kenn Roy Anthony <b>(2I/C)</b></li>
+<li> Ms Geraldine Ann D'Cotta  </li>
 </ul>
 
 **CCA Day &amp; Venue:**
