@@ -9,14 +9,14 @@ Floorball is a fun team sport that is usually played indoors. This sport is suit
 
 This year, our Senior and Junior boys team represented Chongfu School in the National School Games Floorball Competition to achieve commendable results. The Junior boys’ team placed 2nd&nbsp;in the classification round and the Senior boys’ team placed 1st&nbsp;in the group stage moving on to Round 2 – Top 16.
 
-**Teachers In Charge: Tuesdays**
+**P3 and P4 Teachers In Charge: Tuesdays**
 
 <ul>
 	<li> Ms Jasmine Loh <b>(2I/C)</b> </li>
 	<li> Mr Foo Xiang yi </li>
 </ul>
 
-**Teachers In Charge: Fridays**
+**P5 and P6 Teachers In Charge: Fridays**
 
 <ul>
 <li> Mr Sarkunan s/o Shanmugam <b>(I/C)</b></li>
