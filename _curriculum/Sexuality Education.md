@@ -81,8 +81,9 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At Chongfu School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_info_for_School_website.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_SE_19022024.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SEC P6" src="/images/SEC_2024_P6.png">
