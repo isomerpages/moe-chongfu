@@ -3,6 +3,7 @@ title: Athletics Club
 permalink: /cca-athletics-club/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 Our Chongfu CCA Athletics strives to develop a love for Track and Field in our students through the acquisition of skills and knowledge of techniques required in run, jump and throw events.
 
@@ -13,23 +14,22 @@ Students participating in CCA Athletics develop and demonstrates their character
 **Teachers In Charge: Tuesdays**
 
 <ul>
-<li> Ms Sangeetha </li>
-<li> Mr Ghazali Abdol Wahab </li>
+	<li> Mr Ghazali Abdol Wahab <b>(2I/C)</b></li>
+	<li> Ms Senthilkumar Muthuselvi Shruti </li>
 </ul>
 
 **Teachers In Charge: Fridays**
 
 <ul>
 <li> Mdm Ngiam Wen Yuan <b>(I/C)</b></li>
-<li> Ms Chng Jing Ying  </li>
-<li> Ms Syafiqah </li>
+<li> Ms Nur Syafiqah Binte Mohamad Sham </li>
 </ul>
 
 **CCA Day &amp; Venue:**
 
 <ul>
-<li>Tuesdays, 1.45pm – 3.45pm <br> New Block Assembly Area </li>
-<li>Fridays, 1.45pm – 3.45pm <br> New Block Assembly Area </li>
+<li>Tuesdays, 1.45pm – 3.45pm <br> Parade Square </li>
+<li>Fridays, 1.45pm – 3.45pm <br> Parade Square </li>
 </ul>
 
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/athletics_cca_2023_picture1.jpeg">

@@ -3,6 +3,7 @@ title: Wushu
 permalink: /cca-wushu/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 The origins of Chinese martial arts can be traced over 6,000 years ago. It exists mainly for self-defense needs. Today, Wushu is a highly regarded sport for people from all walks of life. Its richness in Chinese cultural philosophies and the physical health benefits imparted through practicing has made it one of the most popular national sport.&nbsp;  
   
@@ -12,20 +13,19 @@ Wushu members learn the various Wushu movements such as Chinese Taijiquan, as we
 
 From P3 onwards, students may be selected to join the Wushu school team to represent the Chongfu School in National Inter-Primary Schools Wushu Championships.
 
-**Teachers In Charge: Tuesdays**
+**P3 and P4 Teachers In Charge: Tuesdays**
 
 <ul>
 <li> Mdm Joanne Chua <b>(I/C)</b></li>
 <li> Mdm Zheng Shanbo </li>
+<li> Benin </li>
 </ul>
 
-**Teachers In Charge: Fridays**
+**P5 and P6 Teachers In Charge: Fridays**
 
 <ul>
-<li> Mdm Li Xuesong </li>
-<li> Mr Yong Chung Wan (E2K) </li>
-<li> Miss Tan Jie Ying Rachel </li>
 <li> Ms Toh Sio Cheng </li>
+<li> Mdm Koh Siew Geok </li>
 </ul>
 
 **CCA Day &amp; Venue:**
