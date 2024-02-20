@@ -2,7 +2,7 @@
 title: PASSION (Our Parent Support Group)
 permalink: /partners/passion/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main-Pic.jpeg">
@@ -36,39 +36,60 @@ positive attitudes and social behaviour in them.</p>
 </li>
 </ul>
 <h4>Our 2024 PASSION Executive Committee (EXCO)</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PASSION_Committees.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PASSION_Committees_Ver2.png">
 </div>
-
 <h3>Our 3 WINGS:</h3>
-<h5><b style="color:blue">Support &amp; Social Wing</b></h5>
-<em><b>What do we do?</b></em>
-
-Provide personnel and programme support for school events and activities e.g.
-<ul>
-	<li>Library / Once Upon A Time / Chongfu’s Grace duties</li>
-	<li>Level Learning Journeys</li>
-	<li>Level Games Day</li>
-	<li>Classroom Cleanliness Award etc.</li>
+<h5><strong>Support &amp; Social Wing</strong></h5>
+<p><strong><em>What do we do?</em></strong>
+</p>
+<p>Provide personnel and programme support for school events and activities
+e.g.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Library / Once Upon A Time / Chongfu’s Grace duties</p>
+</li>
+<li>
+<p>Level Learning Journeys</p>
+</li>
+<li>
+<p>Level Games Day</p>
+</li>
+<li>
+<p>Classroom Cleanliness Award etc.</p>
+</li>
 </ul>
-<p>Plan and organise celebratory events, bonding and well-being activities for school staff and PASSION members.</p>
-<h5><b style="color:blue">Expertise Wing</b></h5>
-<em><b>What do we do?</b></em>
-
-Contribute by imparting knowledge and expertise to the school e.g. 
-<ul>
-	<li>Help students improve in Mathematics in our Parents’ Support for Mathematics (PSM) Programme.</li>
-	<li>Assist in the implementation of our Urban Farming lessons.</li>
-	<li>Share their professions with students during our Education &amp; Career Guidance (ECG) Fair.</li>
+<p>Plan and organise celebratory events, bonding and well-being activities
+for school staff and PASSION members.</p>
+<h5><strong>Expertise Wing</strong></h5>
+<p><strong><em>What do we do?</em></strong>
+</p>
+<p>Contribute by imparting knowledge and expertise to the school e.g.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Help students improve in Mathematics in our Parents’ Support for Mathematics
+(PSM) Programme.</p>
+</li>
+<li>
+<p>Assist in the implementation of our Urban Farming lessons.</p>
+</li>
+<li>
+<p>Share their professions with students during our Education &amp; Career
+Guidance (ECG) Fair.</p>
+</li>
 </ul>
-<h5><b style="color:blue">Dads@Chongfu</b></h5>
-<em><b>What do we do?</b></em>
-
-Contribute by imparting knowledge and expertise to the school e.g. 
-<ul>
-	<li>Plan and organise father-child bonding activities and events.</li>
+<h5><strong>Dads@Chongfu</strong></h5>
+<p><strong><em>What do we do?</em></strong>
+</p>
+<p>Contribute by imparting knowledge and expertise to the school e.g.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Plan and organise father-child bonding activities and events.</p>
+</li>
 </ul>
-For more information on Dads@Chongfu, please email us at: <a href="mailto:cfspassionpsg@gmail.com">cfspassionpsg@gmail.com</a>
+<p>For more information on Dads@Chongfu, please email us at: <a href="mailto:cfspassionpsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cfspassionpsg@gmail.com</a>
+</p>
 <h1></h1>
 <h4>Forest Adventure with Dad 2019 (Sun, 17 Mar)</h4>
 <div class="iframe-wrapper">
@@ -83,6 +104,7 @@ For more information on Dads@Chongfu, please email us at: <a href="mailto:cfspas
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdIWXizyY6GoIl6gSI2AWFrNQhB5KFGna7yfLX8MeBLAR7EhCjMfrQPXqH2b5g9gbKOirlA0LZTdLg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>For more information on PASSION, please refer to our PASSION Facebook
-page:</p><p><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Chongfu School PASSION (Parent Support Group)</a> </strong>or
-email us at: <strong><a href="mailto:cfspassionpsg@gmail.com">cfspassionpsg@gmail.com</a></strong>
+page:</p>
+<p><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Chongfu School PASSION (Parent Support Group)</a> </strong>or
+email us at: <strong><a href="mailto:cfspassionpsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cfspassionpsg@gmail.com</a></strong>
 </p>
