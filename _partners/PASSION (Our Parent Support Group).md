@@ -86,19 +86,7 @@ Guidance (ECG) Fair.</p>
 </ul>
 <p>For more information on Dads@Chongfu, please email us at: <a href="mailto:cfspassionpsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cfspassionpsg@gmail.com</a>
 </p>
-<h1></h1>
-<h4>Forest Adventure with Dad 2019 (Sun, 17 Mar)</h4>
-<div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5wIQYy4ouKMsv1BGNZ7mlwCKS3F2fZkpFPbvi2QbIU4MQJDqWXBNdjK3t6np6Qz_6ixhLa50MLMZD/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>International Friendship Day 2019 (Thurs, 11 Apr)</h4>
-<div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRvRUpLOrW3Yt097PCLWE4lwOQfEXb-6keL-9tJ8gGILVPkVWMELW1NGyHQtrp4jj1hpdL_c2eYFsL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Total Defence Day (Fri, 15 Feb)</h4>
-<div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdIWXizyY6GoIl6gSI2AWFrNQhB5KFGna7yfLX8MeBLAR7EhCjMfrQPXqH2b5g9gbKOirlA0LZTdLg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
+<p></p>
 <p>For more information on PASSION, please refer to our PASSION Facebook
 page:</p>
 <p><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Chongfu School PASSION (Parent Support Group)</a> </strong>or
