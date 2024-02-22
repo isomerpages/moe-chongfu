@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - PASSION/.keep
       - PASSION (Our Parent Support Group).md
       - Chongfu Alumni.md
       - Singapore Hokkien Huay Kuan.md
