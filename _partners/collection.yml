@@ -2,11 +2,11 @@ collections:
   partners:
     output: true
     order:
-      - PASSION (Our PSG)/.keep
-      - PASSION (Our PSG)/PASSION (Our Parent Support Group).md
-      - PASSION (Our PSG)/Support & Social Wing.md
-      - PASSION (Our PSG)/Expertise Wing.md
-      - PASSION (Our PSG)/Dads @ Chongfu.md
+      - PASSION (Parent Support Group)/.keep
+      - PASSION (Parent Support Group)/PASSION (Our Parent Support Group).md
+      - PASSION (Parent Support Group)/Support & Social Wing.md
+      - PASSION (Parent Support Group)/Expertise Wing.md
+      - PASSION (Parent Support Group)/Dads @ Chongfu.md
       - Chongfu Alumni.md
       - Singapore Hokkien Huay Kuan.md
       - Community Partners/.keep
