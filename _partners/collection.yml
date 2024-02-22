@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - PASSION/PASSION (Our Parent Support Group).md
       - PASSION/Support & Social Wing.md
       - PASSION/.keep
       - Chongfu Alumni.md
