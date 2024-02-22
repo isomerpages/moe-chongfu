@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Expertise Wing.md
       - PASSION/PASSION (Our Parent Support Group).md
       - PASSION/Support & Social Wing.md
       - PASSION/.keep
