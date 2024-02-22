@@ -10,10 +10,6 @@ variant: tiptap
 <p>To sign up or renew as a PASSION member, please click <a href="https://go.gov.sg/rt226d" rel="noopener noreferrer nofollow" target="_blank">here</a> and
 complete the form.</p>
 <p></p>
-<h1>Our PASSION 2019 committee</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG3.png">
-</div>
 <h4>Our&nbsp;<strong>PASSION</strong>&nbsp;aims to:</h4>
 <ul>
 <li>
@@ -35,7 +31,7 @@ support and interest in our children’s school life, helping to develop
 positive attitudes and social behaviour in them.</p>
 </li>
 </ul>
-<h4>Our 2024 PASSION Executive Committee (EXCO)</h4>
+<h4><strong>Our 2024 PASSION Executive Committee (EXCO)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PASSION_Committees_Ver2.png">
