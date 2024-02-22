@@ -284,102 +284,102 @@ When designing the school’s PE department programme, the PE and CCA department
 
 ### Uniformed Groups
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-brownies/">
+<a href="/cca-brownies/">
 <img src="/images/Brownies-Main-Picture.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-brownies">Brownies</a></center></p>
+<p><center><a href="/cca-brownies">Brownies</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-red-cross/">
+<a href="/cca-red-cross/">
 <img src="/images/Red-Cross-Title-Image-225x300.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-red-cross">Red Cross</a></center></p>
+<p><center><a href="/cca-red-cross">Red Cross</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-cub-scouts/">
+<a href="/cca-cub-scouts/">
 <img src="/images/CubScouts_TitleImage.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-cub-scouts/">Scouts</a></center></p>
+<p><center><a href="/cca-cub-scouts/">Scouts</a></center></p>
 
 ### Performing Arts
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-guzheng-ensemble/">
+<a href="/cca-guzheng-ensemble/">
 <img src="/images/Guzheng_TitleImage-1.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-guzheng-ensemble/">Guzheng Ensemble</a></center></p>
+<p><center><a href="/cca-guzheng-ensemble/">Guzheng Ensemble</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-festive-drums/">
+<a href="/cca-festive-drums/">
 <img src="/images/FestiveDrums_TitleImage-768x432.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-festive-drums/">Festive Drums</a></center></p>
+<p><center><a href="/cca-festive-drums/">Festive Drums</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-chinese-orchestra/">
+<a href="/cca-chinese-orchestra/">
 <img src="/images/Chinese-Orchestra-Main-Picture-768x429.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-chinese-orchestra/">Chinese Orchestra</a></center></p>
+<p><center><a href="/cca-chinese-orchestra/">Chinese Orchestra</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-modern-contemporary-dance/">
+<a href="/cca-modern-contemporary-dance/">
 <img src="/images/Contemporary-Dance-Main-Picture-768x646.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-modern-contemporary-dance/">Modern Contemporary Dance</a></center></p>
+<p><center><a href="/cca-modern-contemporary-dance/">Modern Contemporary Dance</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-malay-dance/">
+<a href="/cca-malay-dance/">
 <img src="/images/P6-2022-768x576.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-malay-dance/">Malay Dance</a></center></p>
+<p><center><a href="/cca-malay-dance/">Malay Dance</a></center></p>
 
 ### Clubs & Society
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-english-club/">
+<a href="/cca-english-club/">
 <img src="/images/EnglishClub_TitlePicture-300x225.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-english-club/">English Club</a></center></p>
+<p><center><a href="/cca-english-club/">English Club</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-chinese-club/">
+<a href="/cca-chinese-club/">
 <img src="/images/ChineseClub_TitlePicture-768x384.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-chinese-club/">Chinese Club</a></center></p>
+<p><center><a href="/cca-chinese-club/">Chinese Club</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-ict-club/">
+<a href="/cca-ict-club/">
 <img src="/images/ICT_Club_TitlePicture-1.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-ict-club/">ICT Club</a></center></p>
+<p><center><a href="/cca-ict-club/">ICT Club</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-arts-club/">
+<a href="/cca-arts-club/">
 <img src="/images/ArtClub_Picture1-1.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-arts-club/">Art Club</a></center></p>
+<p><center><a href="/cca-arts-club/">Art Club</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-environmental-club/">
+<a href="/cca-environmental-club/">
 <img src="/images/EnvironmentalClub_TitlePicture.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-environmental-club/">Environmental Club</a></center></p>
+<p><center><a href="/cca-environmental-club/">Environmental Club</a></center></p>
 
 
 ### Sports & Games
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-athletics-club/">
+<a href="/cca-athletics-club/">
 <img src="/images/Athletics_TitlePicture-768x576.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-athletics-club/">Athletics Club</a></center></p>
+<p><center><a href="/cca-athletics-club/">Athletics Club</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-wushu/">
+<a href="/cca-wushu/">
 <img src="/images/Wushu_TitleImage-1.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-wushu/">Wushu</a></center></p>
+<p><center><a href="/cca-wushu/">Wushu</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-floorball/">
+<a href="/cca-floorball/">
 <img src="/images/Floor-Ball-Main-Image-768x566.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-floorball/">Floorball</a></center></p>
+<p><center><a href="/cca-floorball/">Floorball</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-table-tennis/">
+<a href="/cca-table-tennis/">
 <img src="/images/Table-Tennis-Main-Picture-768x489.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-table-tennis/">Table Tennis</a></center></p>
+<p><center><a href="/cca-table-tennis/">Table Tennis</a></center></p>
 
-<a href="https://moe-chongfu-staging.netlify.app/cca-fun-and-fitness/">
+<a href="/cca-fun-and-fitness/">
 <img src="/images/Fun-and-Fitness-Main-Picture-768x432.jpg" style="width:50%">
 </a>
-<p><center><a href="https://moe-chongfu-staging.netlify.app/cca-fun-and-fitness/">Fun and Fitness</a></center></p>
+<p><center><a href="/cca-fun-and-fitness/">Fun and Fitness</a></center></p>
 
 
 

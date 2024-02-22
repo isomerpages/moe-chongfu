@@ -7,10 +7,10 @@ variant: markdown
 ---
 ### Links for Parents
 
-* [Letters to Parents](https://moe-chongfu-staging.netlify.app/links-for-parents/letters-to-parent/)
-* [Wellness](https://moe-chongfu-staging.netlify.app/links-for-parents/links-for-parents/wellness/)
-* [Parenting](https://moe-chongfu-staging.netlify.app/links-for-parents/parenting/)
-* [Content](https://moe-chongfu-staging.netlify.app/links-for-parents/content/)
+* [Letters to Parents](/links-for-parents/letters-to-parent/)
+* [Wellness](/links-for-parents/links-for-parents/wellness/)
+* [Parenting](/links-for-parents/parenting/)
+* [Content](/links-for-parents/content/)
 * [Primary - MySkillsFuture](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2020501419&gclid=EAIaIQobChMIlPLt8Y6N9QIVy-h3Ch0dnwCqEAAYASAAEgLUS_D_BwE)
 * [Forms Download](https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Forms-Download/)
 * [FAQ](https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Frequently-Asked-Questions-FAQ/)
