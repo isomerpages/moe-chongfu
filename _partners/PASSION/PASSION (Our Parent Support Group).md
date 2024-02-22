@@ -37,7 +37,6 @@ positive attitudes and social behaviour in them.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PASSION_Committees_Ver2.png">
 </div>
-<h3>Our 3 WINGS:</h3>
 <h5><strong>Support &amp; Social Wing</strong></h5>
 <p><strong><em>What do we do?</em></strong>
 </p>
