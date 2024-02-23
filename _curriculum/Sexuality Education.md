@@ -83,7 +83,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_SE_19022024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Updated230224.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SEC P6" src="/images/SEC_2024_P6.png">
