@@ -4,15 +4,8 @@ permalink: /family/steering-committee/
 description: ""
 variant: markdown
 ---
-<img style="width:30%" height="auto" width="100%" src="/images/Mr_King_Ming_Tan__principal_.png">
-<br>
-<div style="text-align:center"><strong>Principal</strong><br>Mr Tan King Ming</div>
-<br>
-<img style="width:30%" height="auto" width="100%" src="/images/MrSoonWS_VP1.png"><br>
-<div style="text-align:center"><strong>Vice Principal</strong><br>Mr Soon Woo Sin</div>
-<br>
-<img style="width:30%" height="auto" width="100%" src="/images/MsAngelynnaLim HweeMienVP2.jpg"><br>
-<div style="text-align:center"><strong>Vice Principal </strong><br>Ms Angelynna Lim Hwee Mien</div><br>
+<img style="width:100%" height="auto" width="100%" src="/images/Compile_Steering_Committee.png">
+
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
