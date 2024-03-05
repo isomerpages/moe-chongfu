@@ -321,10 +321,10 @@ variant: markdown
 </table>
 
 <span style="font-size:24px"><b>Lead/ Senior Teachers</b></span><br>
-<table align="left" class="tg" style="undefined;table-layout: fixed; width: 491px">
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 514px">
 <colgroup>
 <col style="width: 257px">
-<col style="width: 234px">
+<col style="width: 257px">
 </colgroup>
 <tbody>
  <tr>
