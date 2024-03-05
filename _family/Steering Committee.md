@@ -319,3 +319,37 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+
+<span style="font-size:24px"><b>Lead/ Senior Teachers</b></span><br>
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 491px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+</colgroup>
+<tbody>
+ <tr>
+ <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
+ <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
+</tr>
+<tr>
+ <td class="tg-yhj3">Mdm Chew Geik Bee Angeline<br></td>
+ <td class="tg-yhj3">Senior Teacher/ English</td>
+</tr>
+<tr>
+ <td class="tg-yhj3">Mdm Koh Siew Geok</td>
+ <td class="tg-yhj3">Senior Teacher/ Mathematics</td>
+</tr>
+<tr>
+ <td class="tg-yhj3">Mdm Eng Hwee Yen</td>
+ <td class="tg-yhj3">Senior Teacher/ Mathematics</td>
+</tr>
+<tr>
+ <td class="tg-yhj3">Mdm Toh Guat Lay</td>
+ <td class="tg-yhj3">Senior Teacher/ Mathematics</td>
+</tr>
+<tr>
+  <td class="tg-yhj3">Ms Chiang Yu Rong</td>
+  <td class="tg-yhj3">Senior Teacher/ Chinese Language</td>
+ </tr>
+</tbody>
+</table>
