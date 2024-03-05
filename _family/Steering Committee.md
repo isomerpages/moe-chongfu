@@ -196,12 +196,14 @@ variant: markdown
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
-<h5>Head of Departments</h5>
+
+<span style="font-size:24px"><b>Head of Departments</b></span><br>
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
 <col style="width: 257px">
 <col style="width: 234px">
 </colgroup>
+
 <tbody>
   <tr>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
@@ -237,7 +239,8 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-<h5>Head of Departments</h5>
+
+<span style="font-size:24px"><b>Year Heads</b></span><br>
 <table align="left" class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
 <col style="width: 257px">
@@ -249,32 +252,70 @@ variant: markdown
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Mdm Yong Yock Hone Katherine<br></td>
-    <td class="tg-yhj3">School Staff Developer</td>
+    <td class="tg-yhj3">Mdm Nur Lailie Bte Jamal<br></td>
+    <td class="tg-yhj3">Assistant Year Head (P1)</td>
   </tr>
 	 <tr>
-    <td class="tg-yhj3">Ms Lee Huoy Fen</td>
-    <td class="tg-yhj3">HOD Science</td>
+    <td class="tg-yhj3">Mdm Madihah Ghazali</td>
+    <td class="tg-yhj3">Assistant Year Head (P2)</td>
 	</tr>
   <tr>
-    <td class="tg-yhj3">Ms Zheng Yijun Elaine</td>
-    <td class="tg-yhj3">HOD English Language</td>
+    <td class="tg-yhj3">Ms Lau Kui Fang Audrey</td>
+    <td class="tg-yhj3">Assistant Year Head (P3)</td>
 	</tr>
 	<tr>
-    <td class="tg-yhj3">Ms Low Hwee Pin</td>
-    <td class="tg-yhj3">HOD Mother Tongue Language</td>
+    <td class="tg-yhj3">Mdm Ong Shu Ying</td>
+    <td class="tg-yhj3">Lower Primary Year Head (P4)</td>
  </tr>
 	<tr>
-    <td class="tg-yhj3">Mr Ng Ai Peng Jason</td>
-    <td class="tg-yhj3">HOD Mathematics</td>
+    <td class="tg-yhj3">Ms Yap Xin Yi Filicia</td>
+    <td class="tg-yhj3">Upper Primary Year Head (P5)</td>
   </tr>
   <tr>
-    <td class="tg-yhj3">Mr Ng Min Zhou Jonathan </td>
-    <td class="tg-yhj3">HOD ICT</td>
+    <td class="tg-yhj3">Ms Soh Jingsi</td>
+    <td class="tg-yhj3">Assistant Year Head (P6)</td>
   </tr>
-  <tr>
-    <td class="tg-yhj3">Mr Sharin Bin Sulaiman</td>
-    <td class="tg-yhj3">HOD Aesthetics</td>
-  </tr>
+</tbody>
+</table>
+
+<span style="font-size:24px"><b>Level/ Subject Heads</b></span><br>
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 491px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+</colgroup>
+<tbody>
+ <tr>
+ <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
+ <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
+</tr>
+<tr>
+ <td class="tg-yhj3">Ms Shalini D/O Sandra Mohan<br></td>
+ <td class="tg-yhj3">LH Mathematics</td>
+</tr>
+<tr>
+ <td class="tg-yhj3">Mdm Aini Bte Bujang</td>
+ <td class="tg-yhj3">SH Science</td>
+</tr>
+<tr>
+ <td class="tg-yhj3">Mr Ng Keh Siong</td>
+ <td class="tg-yhj3">SH English</td>
+</tr>
+<tr>
+ <td class="tg-yhj3">Mdm Goh Siew Peng</td>
+ <td class="tg-yhj3">SH Chinese Language</td>
+</tr>
+<tr>
+  <td class="tg-yhj3">Mdm Sri Rahayu Binte Ramlan</td>
+  <td class="tg-yhj3">SH Malay Language</td>
+ </tr>
+<tr>
+<td class="tg-yhj3">Mr Brian Jeremy Reis</td>
+<td class="tg-yhj3">SH Discipline</td>
+</tr>
+<tr>
+<td class="tg-yhj3">Ms Nachammal D/O Selva Nachiappan</td>
+<td class="tg-yhj3">SH Student Leadership</td>
+</tr>
 </tbody>
 </table>
