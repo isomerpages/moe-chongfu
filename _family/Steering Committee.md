@@ -6,15 +6,17 @@ variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/Mr_King_Ming_Tan__principal_.png">
-</div>
-<p><strong>Principal</strong> Mr Tan King Ming</p>
+</div><br>
+<div style="text-align:center"><strong>Principal</strong><br>Mr Tan King Ming</div>
+<br><div class="isomer-image-wrapper">
+<img style="width:30%" height="auto" width="100%" src="/images/MrSoonWS_VP1.png"></div><br>
+<div style="text-align:center"><strong>Vice Principal</strong><br>Mr Soon Woo Sin</div>
+<br>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/MrSoonWS_VP1.png"></div>
-<p><strong>Vice Principal</strong> Mr Soon Woo Sin</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/MsAngelynnaLim HweeMienVP2.jpg">
+<img style="width:30%" height="auto" width="100%" src="/images/MsAngelynnaLim HweeMienVP2.jpg"><br>
 </div>
-<p><strong>Vice Principal </strong>Ms Angelynna Lim Hwee Mien</p>
+<div style="text-align:center"><strong>Vice Principal </strong><br>Ms Angelynna Lim Hwee Mien</div><br>
+<br>
 <table>
 <tbody>
 <tr>
