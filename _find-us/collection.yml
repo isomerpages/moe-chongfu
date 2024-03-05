@@ -1,0 +1,5 @@
+collections:
+  find-us:
+    output: true
+    order:
+      - Social Media.md
