@@ -15,9 +15,6 @@ variant: markdown
 <img style="width:30%" height="auto" width="100%" src="/images/MsAngelynnaLim HweeMienVP2.jpg">
 </div>
 <p><strong>Vice Principal </strong>Ms Angelynna Lim Hwee Mien</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/MrNgeowSiongChyeVPA.jpg"></div>
-<p><strong>Vice Principal </strong>Mr Jeremy&nbsp;Ngeow&nbsp;Siong Chye</p>
 <table>
 <tbody>
 <tr>
