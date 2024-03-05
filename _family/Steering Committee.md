@@ -68,8 +68,8 @@ variant: markdown
 </tbody>
 </table>
 
-<span style="font-size:24px"><b>Year Heads</b></span><br>
-<table align="left" class="tg" style="undefined;table-layout: fixed; width: 491px">
+<h5 style="color:#000000"><center><b>Year Heads</b></center></h5>
+<table class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
 <col style="width: 257px">
 <col style="width: 234px">
@@ -106,8 +106,8 @@ variant: markdown
 </tbody>
 </table>
 
-<span style="font-size:24px"><b>Level/ Subject Heads</b></span><br>
-<table align="left" class="tg" style="undefined;table-layout: fixed; width: 491px">
+<h5 style="color:#000000"><center><b>Level/ Subject Heads</b></center></h5>
+<table class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
 <col style="width: 257px">
 <col style="width: 234px">
@@ -148,8 +148,8 @@ variant: markdown
 </tbody>
 </table>
 
-<span style="font-size:24px"><b>Lead/ Senior Teachers</b></span><br>
-<table align="left" class="tg" style="undefined;table-layout: fixed; width: 514px">
+<h5 style="color:#000000"><center><b>Lead/ Senior Teachers</b></center></h5>
+<table class="tg" style="undefined;table-layout: fixed; width: 514px">
 <colgroup>
 <col style="width: 257px">
 <col style="width: 257px">
