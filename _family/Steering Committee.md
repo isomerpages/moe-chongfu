@@ -196,8 +196,8 @@ variant: markdown
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
-<h5>Head of Departments</h5><br>
-<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+<h5>Head of Departments</h5>
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
 <col style="width: 257px">
 <col style="width: 234px">
