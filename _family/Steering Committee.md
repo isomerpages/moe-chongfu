@@ -21,7 +21,7 @@ variant: markdown
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
 
@@ -34,8 +34,8 @@ variant: markdown
 
 <tbody>
   <tr>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Yong Yock Hone Katherine<br></td>
@@ -76,8 +76,8 @@ variant: markdown
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Nur Lailie Bte Jamal<br></td>
@@ -114,8 +114,8 @@ variant: markdown
 </colgroup>
 <tbody>
  <tr>
- <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
- <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
+ <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
+ <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
 </tr>
 <tr>
  <td class="tg-yhj3">Ms Shalini D/O Sandra Mohan<br></td>
@@ -156,8 +156,8 @@ variant: markdown
 </colgroup>
 <tbody>
  <tr>
- <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
- <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
+ <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
+ <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
 </tr>
 <tr>
  <td class="tg-yhj3">Mdm Chew Geik Bee Angeline<br></td>
