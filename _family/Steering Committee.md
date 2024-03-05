@@ -237,3 +237,44 @@ variant: markdown
   </tr>
 </tbody>
 </table>
+<h5>Head of Departments</h5>
+<table align="left" class="tg" style="undefined;table-layout: fixed; width: 491px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Yong Yock Hone Katherine<br></td>
+    <td class="tg-yhj3">School Staff Developer</td>
+  </tr>
+	 <tr>
+    <td class="tg-yhj3">Ms Lee Huoy Fen</td>
+    <td class="tg-yhj3">HOD Science</td>
+	</tr>
+  <tr>
+    <td class="tg-yhj3">Ms Zheng Yijun Elaine</td>
+    <td class="tg-yhj3">HOD English Language</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Ms Low Hwee Pin</td>
+    <td class="tg-yhj3">HOD Mother Tongue Language</td>
+ </tr>
+	<tr>
+    <td class="tg-yhj3">Mr Ng Ai Peng Jason</td>
+    <td class="tg-yhj3">HOD Mathematics</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Mr Ng Min Zhou Jonathan </td>
+    <td class="tg-yhj3">HOD ICT</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Mr Sharin Bin Sulaiman</td>
+    <td class="tg-yhj3">HOD Aesthetics</td>
+  </tr>
+</tbody>
+</table>
