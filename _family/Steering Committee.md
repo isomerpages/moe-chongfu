@@ -4,17 +4,14 @@ permalink: /family/steering-committee/
 description: ""
 variant: markdown
 ---
-<div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/Mr_King_Ming_Tan__principal_.png">
-</div><br>
+<br>
 <div style="text-align:center"><strong>Principal</strong><br>Mr Tan King Ming</div>
-<br><div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/MrSoonWS_VP1.png"></div><br>
+<br>
+<img style="width:30%" height="auto" width="100%" src="/images/MrSoonWS_VP1.png"><br>
 <div style="text-align:center"><strong>Vice Principal</strong><br>Mr Soon Woo Sin</div>
 <br>
-<div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/MsAngelynnaLim HweeMienVP2.jpg"><br>
-</div>
 <div style="text-align:center"><strong>Vice Principal </strong><br>Ms Angelynna Lim Hwee Mien</div><br>
 <br>
 <table>
@@ -186,5 +183,57 @@ variant: markdown
 <p>Senior Teacher/Chinese Language</p>
 </td>
 </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
+</style>
+<h5>Head of Departments</h5><br>
+<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Yong Yock Hone Katherine<br></td>
+    <td class="tg-yhj3">School Staff Developer</td>
+  </tr>
+	 <tr>
+    <td class="tg-yhj3">Ms Lee Huoy Fen</td>
+    <td class="tg-yhj3">HOD Science</td>
+	</tr>
+  <tr>
+    <td class="tg-yhj3">Ms Zheng Yijun Elaine</td>
+    <td class="tg-yhj3">HOD English Language</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Ms Low Hwee Pin</td>
+    <td class="tg-yhj3">HOD Mother Tongue Language</td>
+ </tr>
+	<tr>
+    <td class="tg-yhj3">Mr Ng Ai Peng Jason</td>
+    <td class="tg-yhj3">HOD Mathematics</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Mr Ng Min Zhou Jonathan </td>
+    <td class="tg-yhj3">HOD ICT</td>
+  </tr>
+  <tr>
+    <td class="tg-yhj3">Mr Sharin Bin Sulaiman</td>
+    <td class="tg-yhj3">HOD Aesthetics</td>
+  </tr>
 </tbody>
 </table>
