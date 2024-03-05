@@ -25,7 +25,7 @@ variant: markdown
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
 
-<h5 style="color:#000000"><center>Head of Departments</center></h5>
+<h5 style="color:#000000"><center><b>Head of Departments</b></center></h5>
 <table class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
 <col style="width: 257px">
