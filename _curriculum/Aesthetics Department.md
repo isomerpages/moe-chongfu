@@ -125,7 +125,7 @@ variant: markdown
 </p><p style="clear: both;">
 </p>
 
-## <mark>Singapore Youth Festival (SYF) Art Exhibition.</mark>
+<h3><strong><mark>Singapore Youth Festival (SYF) Art Exhibition.</mark></strong></h3>
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic1_guests_at_opening_ceremony.jpeg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic2_cfs_students_artist_for_the_opening_ceremony.jpeg">
@@ -133,7 +133,7 @@ variant: markdown
 </p><p style="clear: both;">
 </p>
 
-***Our students were invited to the Artist's Talk sharing for the SYF Art Exhibition's opening ceremony event at Stamford Art Centre at Waterloo Street on 17 July 2023***
+<b><em>Our students were invited to the Artist's Talk sharing for the SYF Art Exhibition's opening ceremony event at Stamford Art Centre at Waterloo Street on 17 July 2023</em></b>
 
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic6_cat_b_artist_with_mdm_laila_and_mdm_foo.jpeg">
