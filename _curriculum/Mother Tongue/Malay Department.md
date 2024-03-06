@@ -21,13 +21,13 @@ variant: markdown
 
 I Read Programme (Program Saya Membaca)
 
-Varieties of story books of different genres have been bought for Primary 1 to Primary 6 Malay Language pupils. Program Saya Membaca aims to develop and inject the love for reading of Malay Language books.
+<p style="text-align:justify">Varieties of story books of different genres have been bought for Primary 1 to Primary 6 Malay Language pupils. Program Saya Membaca aims to develop and inject the love for reading of Malay Language books.</p>
 
 **Comments from participants:**
 
-‘I like to read the Siri Jenaka Popular series.’ – Dina Insyirah, 3 Innovative
+‘I like to read the Siri Jenaka Popular series.’ <i><b>– Dina Insyirah, 3 Innovative</b></i>
 
-‘Reading Malay story books improve my Malay Language usage.’ – Ahmad Taufiq, 4 Gracious
+‘Reading Malay story books improve my Malay Language usage.’ <i><b>– Ahmad Taufiq, 4 Gracious</b></i>
 
 ![](/images/ML%201.png)
 
