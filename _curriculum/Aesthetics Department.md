@@ -174,4 +174,4 @@ variant: markdown
 <a href="https://www.artsteps.com/view/61bf2cbcbf72e0ea45675bdc?currentUser">
 <img src="/images/CFS-Virtual-Exhibition-2.jpg" style="width:50%"></a></p>
 
-<b>Selected and showcased on the SYF Virtual Art Exhibition. (Click on 'Search By School')<br><a href="https://www.syf.gov.sg/syf/virtualexhibition/gallery-2" target="_blank" rel="noopener noreferrer">https://www.syf.gov.sg/syf/virtualexhibition/gallery-2</a></b>
+<b>Selected and showcased on the SYF Virtual Art Exhibition. (Click on 'Search By School')</b><br><a href="https://www.syf.gov.sg/syf/virtualexhibition/gallery-2" target="_blank" rel="noopener noreferrer">https://www.syf.gov.sg/syf/virtualexhibition/gallery-2</a>
