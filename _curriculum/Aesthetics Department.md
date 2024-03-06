@@ -141,7 +141,7 @@ variant: markdown
 </p><p style="clear: both;">
 </p>
 
-***Category  B - Certificate of Recognition (Special Mention)***
+<b><em>Category  B - Certificate of Recognition (Special Mention)</em></b>
 
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic7_cat_c_student_artists.jpeg">
@@ -149,7 +149,7 @@ variant: markdown
 </p><p style="clear: both;">
 </p>
 
-***Category C - Certificate of Recognition (Special Mention) - artwork is selected to be displayed at the Ministry of Education (MOE) lobby.***
+<b><em>Category C - Certificate of Recognition (Special Mention) - artwork is selected to be displayed at the Ministry of Education (MOE) lobby.</em></b>
 
 ## <mark> Students' Art Work featured in Zaobao Newspaper. </mark>
 
