@@ -10,24 +10,24 @@ variant: markdown
 8 Soon Lee Road,<br>
 Singapore 628073<br><br>Tel: <b><u>6261 5537</u></b><br>
 Whatsapp or SMS: <b><u>9773 0426</u></b><br>
-Email address: <a href="chongfu@tongtar.com" target="_blank" rel="noopener noreferrer">chongfu@tongtar.com</a></div>
+Email address: <b><u>chongfu@tongtar.com</u></b></div>
 
 <h5><strong>BOOKSHOP</strong></h5>
-Pacific Bookstores Pte Ltd<br><br>
-Tel: <b><u>6464 0111</u> / <u>6482 3564</u></b>
+<div style="font-size:18px">Pacific Bookstores Pte Ltd<br><br>
+Tel: <b><u>6464 0111</u> / <u>6482 3564</u></b></div>
 
 <h5><strong>UNIFORM SUPPLIER</strong></h5>
-Chop Kong Chong, The Uniform Specialist<br>
+<div style="font-size:18px">Chop Kong Chong, The Uniform Specialist<br>
 604 Sembawang Road<br>
 Sembawang Shopping Centre, #02-13<br>
 Singapore 758459<br><br>
 Tel: <b><u>6753 1489</u></b><br>
-Fax: <b><u>6758 9290</u></b><br>
+Fax: <b><u>6758 9290</u></b><br></div>
 
 <h5><strong>SCHOOL DENTAL CLINIC</strong></h5>
-Ms Ang Yoke Hoo (Dental Therapist)<br><br>
+<div style="font-size:18px">Ms Ang Yoke Hoo (Dental Therapist)<br><br>
 Tel: <b><u>8518 7296</u></b><br>
 
 <b>Operating Hours:</b><br>
 8.00am to 5.30pm (Monday to Thursday)<br>
-8.00am to 5.00pm (Friday)
+8.00am to 5.00pm (Friday)</div>
