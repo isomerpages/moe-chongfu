@@ -58,7 +58,7 @@ _“Making Math Simple, Making Math Fun and Making Math Meaningful.”_
 <b>- Concrete (manipulatives)</b> – manipulatives are used to solve word problems to aid in their understanding and exploration of problem-solving strategies.<br>
 <b>-	Consolidate (questioning)</b> – questions are crafted to guide students through the problem-solving process.<br>
 <b>-	Concept (making sense)</b> – students make sense of the concept and skills.<br><b>-	Connect (application)</b> – opportunities are given to apply the strategies to similar questions.
-
+<br><br>
 <u><b>Approach 4:</b>&nbsp;Structured Journaling </u>
 <p style="text-align:justify">Structured Journaling is used in our Mathematics curriculum to assess students’ understanding of Mathematical concept(s) in a context.</p>It develops:<br>
 - students’ <b>awareness of the thought processes and logical reasoning required</b> to solve problems.<br>
@@ -84,43 +84,42 @@ _“Making Math Simple, Making Math Fun and Making Math Meaningful.”_
 	
 <img src="/images/math2023_pic3.jpg" style="width:75%">
 	
-<p>To promote the Joy of Learning, our game-based learning in Math was initiated to motivate students and to stimulate their mental strategies in Mathematics. A range of Math games was progressively introduced in our differentiated curriculum to promote learning Mathematical concepts in a fun way. Lesson packages were also introduced in each level so that students learn these games and pick up logical thinking, spatial visualisation and other critical thinking skills in the process.</p>
+<p style="text-align:justify">To promote the Joy of Learning, our game-based learning in Math was initiated to motivate students and to stimulate their mental strategies in Mathematics. A range of Math games was progressively introduced in our differentiated curriculum to promote learning Mathematical concepts in a fun way. Lesson packages were also introduced in each level so that students learn these games and pick up logical thinking, spatial visualisation and other critical thinking skills in the process.</p>
 
 <img src="/images/math4.png" style="width:75%">
 
 <p><u>Structured Play – Math Games Day</u></p>
 
-<p>Every term, time is allocated for Math Games. During these periods, students play games such as Tangram, Sudoku, Kakuro, Kenken and Math Warrior.
-</p>	
+<p style="text-align:justify">Every term, time is allocated for Math Games. During these periods, students play games such as Tangram, Sudoku, Kakuro, Kenken and Math Warrior.</p>	
 
-<p>For lower primary students, Tangram, consisting of seven flat polygons, was introduced to help them apply geometrical Math concepts and spatial skills as they manipulate the shapes to form varying art pieces This trains their spatial visualisation ability as well as creativity.</p>
+<p style="text-align:justify">For lower primary students, Tangram, consisting of seven flat polygons, was introduced to help them apply geometrical Math concepts and spatial skills as they manipulate the shapes to form varying art pieces This trains their spatial visualisation ability as well as creativity.</p>
 	
 <img src="/images/math%205.png" style="width:75%">
 
-<p>Students also play Sudoku which is an extremely popular game from Japan. They solve the given puzzles by determining number patterns, which develops their cognitive, observational and problem-solving skills. Students are trained to be patient and focused, which help them to be more disciplined in learning. Each year, an inter-class Sudoku Challenge is held for students to challenge one another and to look for new Sudoku masters.</p>
+<p style="text-align:justify">Students also play Sudoku which is an extremely popular game from Japan. They solve the given puzzles by determining number patterns, which develops their cognitive, observational and problem-solving skills. Students are trained to be patient and focused, which help them to be more disciplined in learning. Each year, an inter-class Sudoku Challenge is held for students to challenge one another and to look for new Sudoku masters.</p>
 
 <img src="/images/math%206.png" style="width:75%"><br>
 <img src="/images/math%207.png" style="width:75%"><br>
 <img src="/images/mth%208.png" style="width:75%">
 
-<p>In middle primary, students progress to playing Kakuro and Kenken, which are logic-based puzzles. These puzzles are a fun way for students to apply their logical and problem-solving skills. Using game-based learning platforms such as Kahoot and Deck Toys, students solve various Kakuro and Kenken puzzles which progressively become more challenging. </p>	
+<p style="text-align:justify">In middle primary, students progress to playing Kakuro and Kenken, which are logic-based puzzles. These puzzles are a fun way for students to apply their logical and problem-solving skills. Using game-based learning platforms such as Kahoot and Deck Toys, students solve various Kakuro and Kenken puzzles which progressively become more challenging.</p>	
 	
 <img src="/images/math2023_pic6.jpg" style="width:75%"><br>
 <img src="/images/math2023_pic7.jpg" style="width:75%">
 
-<p>Math Warrior, as the name suggests, trains students to be champion fighters in Math. The upper primary students get the opportunity to engage in friendly competitions with their friends and learn how to improve their mental sums simultaneously. This strengthens their foundational skills and other arithmetic skills which are needed to tackle tougher Mathematics sums.</p>
+<p style="text-align:justify">Math Warrior, as the name suggests, trains students to be champion fighters in Math. The upper primary students get the opportunity to engage in friendly competitions with their friends and learn how to improve their mental sums simultaneously. This strengthens their foundational skills and other arithmetic skills which are needed to tackle tougher Mathematics sums.</p>
 
 <img src="/images/math%209.png" style="width:99%">
 	
 <p><u>Unstructured Play – CFSparks</u></p>
 
-<p>Students used to congregate in the Math corner during recess for Math games. To promote the joy of learning, games are now fused in our CFSparks programme where an hour time slot is blocked every week for P5 students to engage in learning a new activity. Under ‘Mind Sports’, Math games such as the Math Warrior challenge is organised for Math games enthusiasts to pitch their skills against one another.  Class Math Reps are also trained to perform their roles as game facilitators to umpire and to teach their peers how to play the games.</p>	
+<p style="text-align:justify">Students used to congregate in the Math corner during recess for Math games. To promote the joy of learning, games are now fused in our CFSparks programme where an hour time slot is blocked every week for P5 students to engage in learning a new activity. Under ‘Mind Sports’, Math games such as the Math Warrior challenge is organised for Math games enthusiasts to pitch their skills against one another.  Class Math Reps are also trained to perform their roles as game facilitators to umpire and to teach their peers how to play the games.</p>	
 	
 <img src="/images/math2023_pic8.jpg" style="width:75%">
 	
 <u>Self-Directed Learning (SDL)</u>
 
-<p>We encourage students to take responsibility and initiative of their own learning. They login to Koobits at least 2-3 times a week to complete assigned e-learning or e-homework. They may also watch videos and study the solutions of difficult math questions. Thus, they practice various mathematical skills in a fun and engaging way.</p>
+<p style="text-align:justify">We encourage students to take responsibility and initiative of their own learning. They login to Koobits at least 2-3 times a week to complete assigned e-learning or e-homework. They may also watch videos and study the solutions of difficult math questions. Thus, they practice various mathematical skills in a fun and engaging way.</p>
 
 <img src="/images/maths_picture_1.png">
 <img src="/images/Maths_Picture_2.png">
@@ -129,38 +128,35 @@ _“Making Math Simple, Making Math Fun and Making Math Meaningful.”_
 </li>
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">  
-	<label for="accordion3"><b>Math Made Meaningful</b></label>  
-&nbsp;&nbsp;&nbsp;&nbsp;<div>  
+<label for="accordion3"><b>Math Made Meaningful</b></label>  
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 <p><u>Math Experiential Learning</u></p>
 
-<p>Students take part in experiential learning activities which lead them to find out that mathematics is part of their daily lives. They also discover the fun and exhilarating side of mathematics. Through these hands-on activities, students develop their thinking skills and apply their mathematical concepts in real-life problems. In addition, they learn to work together as a team and tap on one another’s strengths.</p>  
+<p style="text-align:justify">Students take part in experiential learning activities which lead them to find out that mathematics is part of their daily lives. They also discover the fun and exhilarating side of mathematics. Through these hands-on activities, students develop their thinking skills and apply their mathematical concepts in real-life problems. In addition, they learn to work together as a team and tap on one another’s strengths.</p>  
 			
 <img src="/images/math%2012.png">
 <p><u>Performance Tasks</u></p>
 
-<p>In order to assess if students are able to apply their mathematical concepts in a real-life problem, performance tasks were introduced as part of alternative assessment. Students are required to solve different tasks using manipulatives and record their answers in appropriate mathematical language. Manipulatives include money, cubes, beads and weighing scales. This gives them the opportunity to apply what they have learnt in the mathematics topics. These performance tasks hope to inject fun in learning mathematics through hands-on activities, rather than doing mundane tests.</p>
+<p style="text-align:justify">In order to assess if students are able to apply their mathematical concepts in a real-life problem, performance tasks were introduced as part of alternative assessment. Students are required to solve different tasks using manipulatives and record their answers in appropriate mathematical language. Manipulatives include money, cubes, beads and weighing scales. This gives them the opportunity to apply what they have learnt in the mathematics topics. These performance tasks hope to inject fun in learning mathematics through hands-on activities, rather than doing mundane tests.</p>
 
 <img src="/images/math%2013.png" style="width:100%">
 	
 <p><u>Virtual Learning Journey </u></p>
 
-<p>Traditionally, Chongfu uses Math trails and learning journeys for students to apply Math concepts in real life situations. However, the COVID-19 situation has prevented us from doing so. In order to achieve similar experiences and see the relevance of Mathematics in real life experiences, the school explored alternative means for students to apply their Mathematical skills through virtual learning journeys (VLJ). </p>
+<p style="text-align:justify">Traditionally, Chongfu uses Math trails and learning journeys for students to apply Math concepts in real life situations. However, the COVID-19 situation has prevented us from doing so. In order to achieve similar experiences and see the relevance of Mathematics in real life experiences, the school explored alternative means for students to apply their Mathematical skills through virtual learning journeys (VLJ). </p>
 
-<p>The VLJs were designed for students to:<br>
+<p style="text-align:justify">The VLJs were designed for students to:<br>
 - <b>apply</b> their learning with an authentic learning experience where Mathematical concepts taught in class can be reinforced.<br>
 - <b>apply</b> ICT and other critical thinking skills to solve Math problems during the ‘learning journeys’.</p>
 	
-<p>With thoughtfully designed booklets complementing the VLJ, the experience proved to be interactive and engaging for our students.</p>
+<p style="text-align:justify">With thoughtfully designed booklets complementing the VLJ, the experience proved to be interactive and engaging for our students.</p>
 
-<p>	
 <img src="/images/math2023_picgp1.jpg" style="width:100%">
-</p><center><p><em><strong>Students using iPads to complete their VLJ activity around the school</strong></em></p></center>
-<p></p><p style="clear: both;"></p>
-<p></p>
+<center><em><strong>Students using iPads to complete their VLJ activity around the school</strong></em></center>
 	
 <p><u>Learning Experience Package (LEP)</u></p>
 
-<p>The Learning Experience Package (LEP) was created to help students bridge the gap between what they learn in school and the real world. Often, students fail to see the relevance of the Mathematical content they are learning in school. Hence, these learning experiences help them connect the Mathematical concepts they learn to the world around them. For instance, for the topic on Volume, students are given the opportunity to measure and pour water into containers of different volumes. By engaging students in these hands-on experiences, they can then connect the knowledge learnt to real-world situations.</p>
+<p style="text-align:justify">The Learning Experience Package (LEP) was created to help students bridge the gap between what they learn in school and the real world. Often, students fail to see the relevance of the Mathematical content they are learning in school. Hence, these learning experiences help them connect the Mathematical concepts they learn to the world around them. For instance, for the topic on Volume, students are given the opportunity to measure and pour water into containers of different volumes. By engaging students in these hands-on experiences, they can then connect the knowledge learnt to real-world situations.</p>
 	
 <p>
 <img src="/images/math2023_pic12.jpg" style="width:75%"><br>
@@ -169,17 +165,15 @@ _“Making Math Simple, Making Math Fun and Making Math Meaningful.”_
 <center><p><em><strong>Students pouring water into cups and beakers in class when learning about Volume.</strong></em></p></center>
 <p style="clear: both;">
 </p>
-	
-&nbsp;&nbsp;&nbsp;&nbsp;</div>  
-	
+	&nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">  
-	<label for="accordion4"><b>Math Support</b></label>  
+<label for="accordion4"><b>Math Support</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-			<p><u>Parents’ Support for Mathematics (PSM) Programme</u></p>
+<p><u>Parents’ Support for Mathematics (PSM) Programme</u></p>
 
-<p>From the wing of our PSG-PASSION, a parents’ support group was set up in 2007 to individually coach identified P6 students who find learning Math challenging. Every week, these parents tutor our P6 students with the aim to better equip them with basic numeracy skills so that they are more prepared for the upcoming PSLE examinations. Besides imparting Math skills, the dedicated coaches also serve as their significant other to give encouragement and help boost the students’ confidence in solving Math problems.</p>
+<p style="text-align:justify">From the wing of our PSG-PASSION, a parents’ support group was set up in 2007 to individually coach identified P6 students who find learning Math challenging. Every week, these parents tutor our P6 students with the aim to better equip them with basic numeracy skills so that they are more prepared for the upcoming PSLE examinations. Besides imparting Math skills, the dedicated coaches also serve as their significant other to give encouragement and help boost the students’ confidence in solving Math problems.</p>
 	
 <img src="/images/math2023_picgp2.jpg" style="width:100%">
 
@@ -187,7 +181,7 @@ _“Making Math Simple, Making Math Fun and Making Math Meaningful.”_
 	
 <u>Progressive Learning of Mathematics (PLM) Programme</u>
 
-<p>PLM is a self-directed learning approach where students progress at their own pace. The school identifies students and provides opportunities for them to use online learning platforms for their own learning.<br><br>
+<p style="text-align:justify">PLM is a self-directed learning approach where students progress at their own pace. The school identifies students and provides opportunities for them to use online learning platforms for their own learning.<br><br>
 Students’ learning gaps are first identified before weekly remediation is conducted. During each PLM session, students are given questions on Koobits, progressing to higher levels when they are more confident. Teaching videos with explicit explanations and examples are also provided for those who need assistance.<br><br>
 Through this programme, we hope to help students pace their own progress and increase their confidence in tackling Math questions.</p>
 
@@ -195,13 +189,11 @@ Through this programme, we hope to help students pace their own progress and inc
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic18.jpg">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic19.jpg">
 </p><p style="clear: both;">
-</p>
-	
-&nbsp;&nbsp;&nbsp;&nbsp;</div>  
-</li>
-<li>  
+</p>	
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</li><li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">  
-	<label for="accordion5"><b>Self-directed learning (SDL) - Koobits</b></label>  
+<label for="accordion5"><b>Self-directed learning (SDL) - Koobits</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>video player</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
