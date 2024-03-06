@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 variant: markdown
 ---
-### Mother Tongue Languages (MTL) Reading Programme
+<h3><strong>Mother Tongue Languages (MTL) Reading Programme</strong></h3>
 
 <p style="text-align:justify">Our MTL Reading Programme aims to build a strong foundation in the Mother Tongue Languages by exposing our students to different genres of writing and fostering a love for reading. A ‘Reading Passport’ is given to each student to track his/ her reading progress through a variety of activities. The passport also guides them to select appropriate books to read and after each term, they will be able to redeem bookmarks as rewards for completing the activities.</p>
 
@@ -15,15 +15,15 @@ variant: markdown
 
 ![](/images/MTL-Malay-Picture-A.jpg)
 
-**Malay Language Committee Activities 2013**
+<b>Malay Language Committee Activities 2013</b>
 
-1.  **PROGRAMME**
+<b>1.  PROGRAMME</b>
 
 <b><u>I Read Programme (Program Saya Membaca)</u></b>
 
 <p style="text-align:justify">Varieties of story books of different genres have been bought for Primary 1 to Primary 6 Malay Language pupils. Program Saya Membaca aims to develop and inject the love for reading of Malay Language books.</p>
 
-**Comments from participants:**
+<b>Comments from participants:</b>
 
 ‘I like to read the Siri Jenaka Popular series.’ <i><b>– Dina Insyirah, 3 Innovative</b></i>
 
@@ -35,7 +35,7 @@ variant: markdown
 
 <p style="text-align:justify">Primary 3 and Primary 6 pupils are encouraged to attend this programme every morning between 7 a.m. and 7.10 a.m. to answer the meaning or proverbs or vice versa, to encourage memory work. Pupils who are able to answer a set of questions will be excused to attend for the week whereas others will have to attend throughout the week.</p>
 
-**Comments from participants:**  
+<b>Comments from participants:</b>  
 
 ‘This programme made me more focus in memorizing proverbs.’ <i><b>– Siti Zubaidah, 3 Innovative</b></i>
 
@@ -121,7 +121,7 @@ variant: markdown
 
 <p style="text-align:justify">Chongfu School was given the opportunity to host the N2 Cluster PLT Sharing of Best Practices in ML Teaching &amp; Learning (Primary) 2013, in Term 2. Sesi Perkongsian Kelompok Utara 2 aims to encourage ML teachers from N2 Cluster schools to promote and share best practices of classroom teaching.</p>
 
-**Comments from participants:**  
+<b>Comments from participants:</b>  
 
 ‘Although I am a Beginning Teacher, I learned a lot from this sharing session.’ <i><b>– Cikgu Nur Humaira</b></i>
 
