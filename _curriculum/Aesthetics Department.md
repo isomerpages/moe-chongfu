@@ -65,8 +65,8 @@ variant: markdown
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic34.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic35.jpeg">
 </p>
-
-##### Chromelab Music Making &amp; Music Talent Showcase Segments: #####
+<br>
+<h5><strong>Chromelab Music Making &amp; Music Talent Showcase Segments</strong></h5>
 <p>
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic3.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic4.jpeg">
