@@ -35,7 +35,7 @@ variant: markdown
 <b>Cluster Sharing by Our Teachers</b>  <br>
 <p style="text-align:justify">Teachers in our school, not only attend workshops to keep abreast with changes and new development, they also do sharing with their contemporaries in the cluster level on matters pertaining to pedagogy. This year, our teachers will be sharing their pedagogical knowledge with those from the N2 cluster schools. This is necessary as teaching and learning is just as important to teachers as it is to our pupils.</p>
 
-### External competitions
+<h3><strong>External competitions</strong></h3>
 
 <p style="text-align:justify">Many of our Tamil pupils from all the levels are given various opportunities to participate in Tamil Language literary competitions organized by external organizations such as Bishan Community club, Telok Blangah community centre, Chong Pang community centre and Bukit Batok Community centre. Pupils take part in competitions such as, Story Telling, Essay Writing, Fancy dress, singing and poetry writing. Our pupils are given the opportunity to gain exposure and confidence through these competitions. The oratory components of the competitions aid pupils in developing their presentation skills by delivering information in a vivid and entertaining manner.</p>
 	
