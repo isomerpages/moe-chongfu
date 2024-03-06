@@ -3,13 +3,15 @@ title: Malay Department
 permalink: /curriculum/Mother-Tongue/malay-department/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 ### Mother Tongue Languages (MTL) Reading Programme
-Our MTL Reading Programme aims to build a strong foundation in the Mother Tongue Languages by exposing our students to different genres of writing and fostering a love for reading. A ‘Reading Passport’ is given to each student to track his/ her reading progress through a variety of activities. The passport also guides them to select appropriate books to read and after each term, they will be able to redeem bookmarks as rewards for completing the activities.
 
-During MTL lessons, our students enjoy a myriad of reading activities, which include storytelling, book recommendations, and the making of animal bookmarks and paper puppets etc. Outstanding pieces of work from our students are then selected and showcased at our Media Resource Library.
+<p style="text-align:justify">Our MTL Reading Programme aims to build a strong foundation in the Mother Tongue Languages by exposing our students to different genres of writing and fostering a love for reading. A ‘Reading Passport’ is given to each student to track his/ her reading progress through a variety of activities. The passport also guides them to select appropriate books to read and after each term, they will be able to redeem bookmarks as rewards for completing the activities.</p>
 
-To further raise awareness of the importance of reading, the MTL Department organised the Bookmark Design & Creativity Competition last year, which received overwhelming participation from our students.
+<p style="text-align:justify">During MTL lessons, our students enjoy a myriad of reading activities, which include storytelling, book recommendations, and the making of animal bookmarks and paper puppets etc. Outstanding pieces of work from our students are then selected and showcased at our Media Resource Library.</p>
+
+<p style="text-align:justify">To further raise awareness of the importance of reading, the MTL Department organised the Bookmark Design &amp; Creativity Competition last year, which received overwhelming participation from our students.</p>
 
 ![](/images/MTL-Malay-Picture-A.jpg)
 
@@ -58,7 +60,7 @@ Mother Tongue Fortnight Part 1 was conducted in Term 2. Pesta Bahasa Chongfu aim
 **Comments from participants:**  
 ‘I like singing with my friends.’ – Ulfah, 1 United
 
-‘We had fun advertising our product!’ – Irra Umairah & Nurfaizah, 5 United
+‘We had fun advertising our product!’ – Irra Umairah &amp; Nurfaizah, 5 United
 
 ![](/images/ML%204.png)
 
@@ -108,9 +110,9 @@ The Malay Cultural Camp was organised for Primary 3 to Primary 6 Malay Language 
 
 **2\. SHARING**
 
-**N2 Cluster PLT Sharing of Best Practices in ML Teaching & Learning (Primary) (Sesi Perkongsian Kelompok Utara 2)**
+**N2 Cluster PLT Sharing of Best Practices in ML Teaching &amp; Learning (Primary) (Sesi Perkongsian Kelompok Utara 2)**
 
-Chongfu School was given the opportunity to host the N2 Cluster PLT Sharing of Best Practices in ML Teaching & Learning (Primary) 2013, in Term 2. Sesi Perkongsian Kelompok Utara 2 aims to encourage ML teachers from N2 Cluster schools to promote and share best practices of classroom teaching.
+Chongfu School was given the opportunity to host the N2 Cluster PLT Sharing of Best Practices in ML Teaching &amp; Learning (Primary) 2013, in Term 2. Sesi Perkongsian Kelompok Utara 2 aims to encourage ML teachers from N2 Cluster schools to promote and share best practices of classroom teaching.
 
 **Comments from participants:**  
 ‘Although I am a Beginning Teacher, I learned a lot from this sharing session.’ – Cikgu Nur Humaira
