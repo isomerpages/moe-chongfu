@@ -111,28 +111,28 @@ variant: markdown
  <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
 </tr>
 <tr>
- <td class="tg-yhj3">Ms Shalini D/O Sandra Mohan<br></td>
- <td class="tg-yhj3">LH Mathematics</td>
+ <td class="tg-yhj3">Mdm Goh Siew Peng</td>
+ <td class="tg-yhj3">SH Chinese Language</td>
 </tr>
 <tr>
- <td class="tg-yhj3">Mdm Aini Bte Bujang</td>
- <td class="tg-yhj3">SH Science</td>
+<td class="tg-yhj3">Mr Brian Jeremy Reis</td>
+<td class="tg-yhj3">SH Discipline</td>
 </tr>
 <tr>
  <td class="tg-yhj3">Mr Ng Keh Siong</td>
  <td class="tg-yhj3">SH English</td>
 </tr>
 <tr>
- <td class="tg-yhj3">Mdm Goh Siew Peng</td>
- <td class="tg-yhj3">SH Chinese Language</td>
-</tr>
-<tr>
   <td class="tg-yhj3">Mdm Sri Rahayu Binte Ramlan</td>
   <td class="tg-yhj3">SH Malay Language</td>
  </tr>
 <tr>
-<td class="tg-yhj3">Mr Brian Jeremy Reis</td>
-<td class="tg-yhj3">SH Discipline</td>
+ <td class="tg-yhj3">Ms Shalini D/O Sandra Mohan<br></td>
+ <td class="tg-yhj3">LH Mathematics</td>
+</tr>
+<tr>
+ <td class="tg-yhj3">Mdm Aini Bte Bujang</td>
+ <td class="tg-yhj3">SH Science</td>
 </tr>
 <tr>
 <td class="tg-yhj3">Ms Nachammal D/O Selva Nachiappan</td>
@@ -157,11 +157,11 @@ variant: markdown
  <td class="tg-yhj3">Senior Teacher/ English</td>
 </tr>
 <tr>
- <td class="tg-yhj3">Mdm Koh Siew Geok</td>
+ <td class="tg-yhj3">Mdm Eng Hwee Yen</td>
  <td class="tg-yhj3">Senior Teacher/ Mathematics</td>
 </tr>
 <tr>
- <td class="tg-yhj3">Mdm Eng Hwee Yen</td>
+ <td class="tg-yhj3">Mdm Koh Siew Geok</td>
  <td class="tg-yhj3">Senior Teacher/ Mathematics</td>
 </tr>
 <tr>
