@@ -6,12 +6,12 @@ variant: markdown
 ---
 ### Our Vision
 
-<p style="text-align:justify">Our students are diverse, with different interests, aptitudes and learning needs for Science. In line with MOE’s Science curriculum framework, we seek to
+<p style="text-align:justify">Our students are diverse, with different interests, aptitudes and learning needs for Science. In line with MOE’s Science curriculum framework, we seek to:</p>
 
-1. **enthuse**&nbsp;and nurture all students to be scientifically literate, so that they are able to make informed decisions and take responsible actions in their daily lives; and&nbsp;&nbsp;
-2. **provide**&nbsp;strong Science fundamentals for students to innovate and pursue STEM for their future learning and work.
+1. <b>enthuse</b> and nurture all students to be scientifically literate, so that they are able to make informed decisions and take responsible actions in their daily lives; and&nbsp;&nbsp;
+2. <b>provide</b> strong Science fundamentals for students to innovate and pursue STEM for their future learning and work.
 
-We hope that our students will be **inspired by Science**, and have opportunities to **inquire like Scientists** such that they will be empowered to **innovate using Science** to solve problems of the future.</p>
+We hope that our students will be **inspired by Science**, and have opportunities to **inquire like Scientists** such that they will be empowered to **innovate using Science** to solve problems of the future.<p></p>
 
 <img style="width:100%" src="/images/scidept2023_picture1a.JPG">  
 		 
