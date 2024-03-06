@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 variant: markdown
 ---
-### Mother Tongue Languages (MTL) Reading Programme
+<h3><strong>Mother Tongue Languages (MTL) Reading Programme</strong></h3>
 
 <p style="text-align:justify">Our MTL Reading Programme aims to build a strong foundation in the Mother Tongue Languages by exposing our students to different genres of writing and fostering a love for reading. A ‘Reading Passport’ is given to each student to track his/ her reading progress through a variety of activities. The passport also guides them to select appropriate books to read and after each term, they will be able to redeem bookmarks as rewards for completing the activities.</p>
 
