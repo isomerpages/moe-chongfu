@@ -6,7 +6,7 @@ third_nav_title: School Information
 variant: markdown
 ---
 <h5><strong>SCHOOL BUS SERVICE</strong></h5>
-<div style="font-size:16px">Tong Tar Transport Service Pte Ltd<br>
+<div style="font-size:18px">Tong Tar Transport Service Pte Ltd<br>
 8 Soon Lee Road,<br>
 Singapore 628073<br><br>Tel: <b><u>6261 5537</u></b><br>
 Whatsapp or SMS: <b><u>9773 0426</u></b><br>
