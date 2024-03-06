@@ -19,7 +19,7 @@ variant: markdown
 
 1.  **PROGRAMME**
 
-I Read Programme (Program Saya Membaca)
+<b><u>I Read Programme (Program Saya Membaca)</u></b>
 
 <p style="text-align:justify">Varieties of story books of different genres have been bought for Primary 1 to Primary 6 Malay Language pupils. Program Saya Membaca aims to develop and inject the love for reading of Malay Language books.</p>
 
@@ -31,7 +31,7 @@ I Read Programme (Program Saya Membaca)
 
 ![](/images/ML%201.png)
 
-**Proverbs Practice (Peribahasa Pagi)**
+<b><u>Proverbs Practice (Peribahasa Pagi)</u></b>
 
 <p style="text-align:justify">Primary 3 and Primary 6 pupils are encouraged to attend this programme every morning between 7 a.m. and 7.10 a.m. to answer the meaning or proverbs or vice versa, to encourage memory work. Pupils who are able to answer a set of questions will be excused to attend for the week whereas others will have to attend throughout the week.</p>
 
@@ -43,7 +43,7 @@ I Read Programme (Program Saya Membaca)
 
 ![](/images/ML%202.png)
 
-**Tracking for Words (Jejak Kata)**
+<b><u>Tracking for Words (Jejak Kata)</u></b>
 
 <p style="text-align:justify">Tracking for Words is a technique to use the Malay dictionary for Primary 3 to Primary 6 Malay Language pupils. Jejak Kata aims to develop frequent and efficient usage of the Malay dictionary through games.</p>
 
@@ -55,11 +55,11 @@ I Read Programme (Program Saya Membaca)
 
 ![](/images/ML%203.png)
 
-**Mother Tongue Language Fortnight Part 1 (Pesta Bahasa Chongfu)**
+<b><u>Mother Tongue Language Fortnight Part 1 (Pesta Bahasa Chongfu)</u></b>
 
 <p style="text-align:justify">Mother Tongue Fortnight Part 1 was conducted in Term 2. Pesta Bahasa Chongfu aims to develop the love for the Malay Language among pupils.</p>
 
-**Comments from participants:**  
+<b>Comments from participants:</b> 
 
 ‘I like singing with my friends.’ <i><b>– Ulfah, 1 United</b></i>
 
@@ -67,11 +67,11 @@ I Read Programme (Program Saya Membaca)
 
 ![](/images/ML%204.png)
 
-**Mother Tongue Language Fortnight Part 2 (Pesta Budaya Chongfu)**
+<b><u>Mother Tongue Language Fortnight Part 2 (Pesta Budaya Chongfu)</u></b>
 
 <p style="text-align:justify">Mother Tongue Fortnight Part 2 was conducted in Term 3. Pesta Budaya Chongfu aims to create awareness and to practice the Malay culture among pupils.</p>
 
-**Comments from participants:**  
+<b>Comments from participants:</b>  
 
 ‘I like to eat kuih makmur and kuih bangkit.’ <i><b>– Muhammad Ansar, 2 Caring</b></i>
 
@@ -79,11 +79,11 @@ I Read Programme (Program Saya Membaca)
 
 ![](/images/ML%205.png)
 
-**Mass Borrowing @ MRL (Pinjam Buku Lambak di Perpustakaan)**
+<b><u>Mass Borrowing @ MRL (Pinjam Buku Lambak di Perpustakaan)</u></b>
 
 <p style="text-align:justify">Mass Borrowing @ MRL was organized by the Library Committee. Pinjam Buku Lambak di Perpustakaan aims to encourage pupils to borrow the Malay story books brought by the National Library Board at the Media Resource Library.</p>
 
-**Comments from participants:**  
+<b>Comments from participants:</b>  
 
 ‘I have received a gift for borrowing eight Malay story books.’ <i><b>– Putra Syahril, 3 Caring</b></i>
 
@@ -91,11 +91,11 @@ I Read Programme (Program Saya Membaca)
 
 ![](/images/ML%206.png)
 
-**Learning Using ICT (Pembelajaran Canggih)**
+<b><u>Learning Using ICT (Pembelajaran Canggih)</u></b>
 
 <p style="text-align:justify">Learning Using ICT attracts pupils to learn the Malay Language in a fun interactive way. Pembelajaran Canggih aims to encourage pupils to learn the Malay Language using the MS Power Point, MS Word, AsknLearn (Learning Management System), iMTL Portal, Vocarro, Padlet and many more.</p>
 
-**Comments from participants:**  
+<b>Comments from participants:</b>  
 
 ‘I am able to read instant comments in AsknLearn after my oral conversation practice.’ <i><b>– Muhammed Raiyan, 6 Loyal</b></i>
 
@@ -103,11 +103,11 @@ I Read Programme (Program Saya Membaca)
 
 ![](/images/ML%207.png)
 
-**Malay Cultural Camp (Pesta Budaya Chongfu)**
+<b><u>Malay Cultural Camp (Pesta Budaya Chongfu)</u></b>
 
 <p style="text-align:justify">The Malay Cultural Camp was organised for Primary 3 to Primary 6 Malay Language pupils in Term 4 as a post exam programme. Pesta Budaya Chongfu aims to expose pupils to the Malay musical instruments and to engage pupils in active in learning of the Malay culture.</p>
 
-**Comments from participants:**  
+<b>Comments from participants:</b>
 
 ‘I played angklung for the first time.’ <i><b>– Farzad, 6 United</b></i>
 
@@ -115,9 +115,9 @@ I Read Programme (Program Saya Membaca)
 
 ![](/images/ML%208.png)
 
-**2\. SHARING**
+<b>2\. SHARING</b>
 
-**N2 Cluster PLT Sharing of Best Practices in ML Teaching &amp; Learning (Primary) (Sesi Perkongsian Kelompok Utara 2)**
+<b><u>N2 Cluster PLT Sharing of Best Practices in ML Teaching &amp; Learning (Primary) (Sesi Perkongsian Kelompok Utara 2)</u></b>
 
 <p style="text-align:justify">Chongfu School was given the opportunity to host the N2 Cluster PLT Sharing of Best Practices in ML Teaching &amp; Learning (Primary) 2013, in Term 2. Sesi Perkongsian Kelompok Utara 2 aims to encourage ML teachers from N2 Cluster schools to promote and share best practices of classroom teaching.</p>
 
@@ -129,37 +129,40 @@ I Read Programme (Program Saya Membaca)
 
 ![](/images/ML%209.png)
 
-**Malay Language Seminar (Seminar Bahasa Melayu)**
+<b><u>Malay Language Seminar (Seminar Bahasa Melayu)</u></b>
 
-Chongfu School was invited by the Malay Language Centre of Singapore (MLCS) to display the unique teaching and learning of the Malay Language Composition in the Malay Language Seminar 2014: ‘Menggunakan Model Metakognitif dalam Pengajaran dan Pembelajaran Penulisan Karangan Bergambar (Darjah 3 hingga 6)’. Seminar Bahasa Melayu aims to provide a national sharing platform for teachers to showcase or share their unique yet effective of teaching and learning materials of the Malay Language.
+<p style="text-align:justify">Chongfu School was invited by the Malay Language Centre of Singapore (MLCS) to display the unique teaching and learning of the Malay Language Composition in the Malay Language Seminar 2014: ‘Menggunakan Model Metakognitif dalam Pengajaran dan Pembelajaran Penulisan Karangan Bergambar (Darjah 3 hingga 6)’. Seminar Bahasa Melayu aims to provide a national sharing platform for teachers to showcase or share their unique yet effective of teaching and learning materials of the Malay Language.</p>
 
-**Comments from participants:**  
-‘I have the opportunity to share what I have learnt in school.’ – Putri Salsabila, 6 United
+<b>Comments from participants:</b>  
 
-‘Several Malay Language teachers, including Senior Teachers from other schools gave positive reviews about our unique strategy.’ – Cikgu Nor Adilah
+‘I have the opportunity to share what I have learnt in school.’ <i><b>– Putri Salsabila, 6 United</b></i>
+
+‘Several Malay Language teachers, including Senior Teachers from other schools gave positive reviews about our unique strategy.’ <i><b>– Cikgu Nor Adilah</b></i>
 
 ![](/images/ML%2010.png)
 
-**3\. COMPETITIONS**
+<b>3\. COMPETITIONS</b>
 
-**National Poetry Recitation (Pesta Syair)**
+<b><u>National Poetry Recitation (Pesta Syair)</u></b>
 
-4 participants from Primary 4 and Primary 5 took part in the National Poetry Recitation 2013, organized by Geylang Serai Community Centre. Pesta Syair aims to provide a platform for primary school pupils to showcase their poetry talent.
+<p style="text-align:justify">4 participants from Primary 4 and Primary 5 took part in the National Poetry Recitation 2013, organized by Geylang Serai Community Centre. Pesta Syair aims to provide a platform for primary school pupils to showcase their poetry talent.</p>
 
-Comments from participants:  
-‘I did not expect to be the champion!’ – Muhammad Idris, 5 United
+<b>Comments from participants:</b>
 
-‘I’ll train harder for next year’s competition.’ – Uzma Humaira, 4 Gracious
+‘I did not expect to be the champion!’ <i><b>– Muhammad Idris, 5 United</b></i>
+
+‘I’ll train harder for next year’s competition.’ <i><b>– Uzma Humaira, 4 Gracious</b></i>
 
 ![](/images/ML%2011.png)
 
-Northern Malay Language Fiesta (Pesta Bahasa Utara)
+<b><u>Northern Malay Language Fiesta (Pesta Bahasa Utara)</u></b>
 
-Participants from Primary 1 to Primary 6 took part in the Northern Malay Language Fiesta 2014, organized by North 2 (N2) Cluster PLT (ML) Primary School, Co-chaired by Cikgu Mohamed Hizammuddin. Pesta Bahasa Utara aims to provide a platform for primary school pupils to showcase their talent in Malay literature for children.
+<p style="text-align:justify">Participants from Primary 1 to Primary 6 took part in the Northern Malay Language Fiesta 2014, organized by North 2 (N2) Cluster PLT (ML) Primary School, Co-chaired by Cikgu Mohamed Hizammuddin. Pesta Bahasa Utara aims to provide a platform for primary school pupils to showcase their talent in Malay literature for children.</p>
 
-**Comments from participants:**  
-‘My P2 friends and I won the Cerita Rakyat category!’ – Asheefa Anees Hameed, 2 Respectful.
+<b>Comments from participants:</b>  
 
-‘I’ll put in more effort so that I can be the champion next year!’ – Muhammad Kabir, 5 United
+‘My P2 friends and I won the Cerita Rakyat category!’ <i><b>– Asheefa Anees Hameed, 2 Respectful.</b></i>
+
+‘I’ll put in more effort so that I can be the champion next year!’ <i><b>– Muhammad Kabir, 5 United</b></i>
 
 ![](/images/ML%2012.png)
