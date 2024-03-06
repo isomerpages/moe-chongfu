@@ -11,7 +11,7 @@ variant: markdown
 
 <center><b>Singapore Hokkien Huay Kuan Bicultural Chinese Preferred Course</b></center>
 
-### 缘起&nbsp;_(The Origin)_
+<h3><strong>缘起 (The Origin)</strong></h3>
 
 <p style="text-align:justify">为响应新加坡政府的呼吁：培育一批精通两种语文，对中华文化有深厚认识的人才，新加坡福建会馆教育组于2007年在教育部的批准与支持下，率先在属下五所学校—道南学校、爱同学校、崇福学校、南侨小学以及光华学校开办双文化华文优选课程 (Bicultural Chinese Elective Programme，简称BiCEP)。每一年，各校会通过严谨的遴选测试招收四年级双文化华文优选课程的学生；至今，福建会馆属下五所学校，每年约有500多名成绩优异的学生参与这个为期三年（四年级至六年级）的课程。</p>
 
@@ -19,7 +19,7 @@ variant: markdown
 
 ![](/images/ChineseDepartment_Photo-3-2048x1346.jpg)
 
-### 开办目标&nbsp;_(Setting Targets)_
+<h3><strong>开办目标 (Setting Targets)</strong></h3>
 
 <p style="text-align:justify">培养一群精通双语的小学生，提升会馆属校学生的华文语言及文化水平并激发他们对华文的热爱，最终希望他们到中学及高中继续修读双文化课程。</p>
 
@@ -29,13 +29,13 @@ variant: markdown
 
 ![](/images/ChineseDepartment_Photo-6-2048x1536.jpg)
 
-### 师资与教材&nbsp;_(Teachers and Teaching materials)_
+<h3><strong>师资与教材 (Teachers and Teaching materials)</strong></h3>
 
 <p style="text-align:justify">福建会馆属下五校的老师共同参与编撰及教学工作，同时聘请专家和学者指导、审核、修订教材；并建立网络平台，以加强五校老师的教学交流。</p>
 
 ![](/images/ChineseDepartment_Photo-A-2048x1152.png)
 
-### 课程内容&nbsp;_(Course Content)_
+<h3><strong>课程内容 (Course Content)</strong></h3>
 
 <p style="text-align:justify">除教育部所规定的核心及深广课程外，课程内容还涵盖中华文化、儿童文学赏析与创作、语言训练及中英双语对比等四个单元。三年课程的总课时为152小时。</p>
 
