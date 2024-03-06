@@ -151,13 +151,13 @@ variant: markdown
 
 <b><em>Category C - Certificate of Recognition (Special Mention) - artwork is selected to be displayed at the Ministry of Education (MOE) lobby.</em></b>
 
-## <mark> Students' Art Work featured in Zaobao Newspaper. </mark>
+<h3><strong><mark> Students' Art Work featured in Zaobao Newspaper. </mark></strong></h3>
 
 <p>
-	<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic4_cfs_featured_in_zaobao.jpeg">
+<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic4_cfs_featured_in_zaobao.jpeg">
 </p>
 
-_**Our student's artwork was also featured in the Zaobao Newspaper dated 17 July 2023**_ &nbsp;<br>[Click here to view the article](https://www.zaobao.com.sg/news/singapore/story20230717-1414867)
+<b><em>Our student's artwork was also featured in the Zaobao Newspaper dated 17 July 2023</em></b><br>[Click here to view the article](https://www.zaobao.com.sg/news/singapore/story20230717-1414867)
 
 ## <mark> Honorable Mention in “Singapore Dreaming - A Comics Competition for Young Creators”. </mark>
 
