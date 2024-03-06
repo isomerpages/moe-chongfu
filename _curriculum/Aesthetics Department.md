@@ -39,7 +39,7 @@ variant: markdown
 <a href="https://photos.google.com/share/AF1QipPY4t2_FReMWXezjm9BTjQFjGyzYe8WMHuECsnWl_D-UU26IQERZFdWvBf0St1DWw?key=eEo2Ylh1OGN2NlN6TGJFYmo0UzR5Uy1CRjZXVG93">
 <img src="/images/Label_MuseumBasedLearning_V3-2048x1104.png" style="width:75%"></a>
 
-### Excel
+<h3><strong>Excel</strong></h3>
 
 <a href="https://photos.google.com/share/AF1QipO4jjlGlLQogyMaOTl-6Gqz3Nhr4A-63yxWjpOJ1-vIDBMfd5udjQWAoh6HtzqS5A?key=a0U3LXNBcUVQNDVPdk9GSjd2ZnVkZEM3OFo5NEtR">
 <img src="/images/Label_Excel_SOTA_V3-2048x1135.png" style="width:75%"></a>
@@ -50,13 +50,13 @@ variant: markdown
 <a href="https://photos.google.com/share/AF1QipNy-1lyXVjbdHYPByUp6UyYYA97d175sqjZ7DM0p9xI-DKVcSQXhe8TxXMUM7nfJA?key=eGxZR1FOc0lVbU1va2dxYkpvanVaRTd5S2w2QmVR">
 <img src="/images/Label_Excel_Staff_V4-2048x1357.png" style="width:75%"></a>
 
-## <mark> Chongfu's Arts Fest 2.0, The Hearts of the Arts </mark>
+<h3><strong><mark> Chongfu's Arts Fest 2.0, The Hearts of the Arts </mark></strong></h3>
 
-***Chongfu's Arts Fest 2.0, The Hearts of the Arts, is back for its 2nd year. We had several Art and Music activities in store for the students in the month of September which includes the Art &amp; Music competitions, Art Cart, Art Truck and recess activities (music making, online talent performances and the tie-dye stations).*** 
+<p style="text-align:justify"><b><em>Chongfu's Arts Fest 2.0, The Hearts of the Arts, is back for its 2nd year. We had several Art and Music activities in store for the students in the month of September which includes the Art &amp; Music competitions, Art Cart, Art Truck and recess activities (music making, online talent performances and the tie-dye stations).</em></b></p>
 
-***We would like to also thank the parent volunteers who came forward to set up the stations and carry out the recess activities. We hope everyone enjoyed themselves through the joy of learning in Art and Music.***
+<p style="text-align:justify"><b><em>We would like to also thank the parent volunteers who came forward to set up the stations and carry out the recess activities. We hope everyone enjoyed themselves through the joy of learning in Art and Music.</em></b></p>
 
-##### Art Cart Segment: #####
+<h5><strong>Art Cart Segment:</strong></h5>
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic1.jpeg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic2.jpeg">
