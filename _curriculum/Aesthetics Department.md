@@ -159,7 +159,7 @@ variant: markdown
 
 <b><em>Our student's artwork was also featured in the Zaobao Newspaper dated 17 July 2023</em></b><br><a href="https://www.zaobao.com.sg/news/singapore/story20230717-1414867" target="_blank" rel="noopener noreferrer">Click here to view the article</a>
 
-## <mark> Honorable Mention in “Singapore Dreaming - A Comics Competition for Young Creators”. </mark>
+<h3><strong><mark> Honorable Mention in “Singapore Dreaming - A Comics Competition for Young Creators”. </mark></strong></h3>
 
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/dimsumwarriorsprogrampicture2.jpeg">
@@ -168,11 +168,10 @@ variant: markdown
 <img style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/dimsumwarriorsprogrampicture5.jpeg">
 </p><p style="clear: both;">
 </p>
-
-***There were in total, 879 submissions and after a very tough judging process, we are pleased to announce that Lin Yu Fang (6 Respectful) was awarded the Honorable Mentionto in the “Singapore Dreaming - A Comics Competition for Young Creators”, presented by Dim Sum Warriors, The Learning Grid, Difference Engine, and GUILD. Supported by Children’s Museum Singapore and Yeo’s.***
-[Click here for more details on the program](https://tinyurl.com/5kt779z2)
-
+<p style="text-align:justify"><b><em>There were in total, 879 submissions and after a very tough judging process, we are pleased to announce that Lin Yu Fang (6 Respectful) was awarded the Honorable Mentionto in the “Singapore Dreaming - A Comics Competition for Young Creators”, presented by Dim Sum Warriors, The Learning Grid, Difference Engine, and GUILD. Supported by Children’s Museum Singapore and Yeo’s.</em></b>
+<a href="https://tinyurl.com/5kt779z2" target="_blank" rel="noopener noreferrer">Click here for more details on the program</a>
+<br>
 <a href="https://www.artsteps.com/view/61bf2cbcbf72e0ea45675bdc?currentUser">
-<img src="/images/CFS-Virtual-Exhibition-2.jpg" style="width:50%"></a>
+<img src="/images/CFS-Virtual-Exhibition-2.jpg" style="width:50%"></a></p>
 
-_**( Selected and showcased on the SYF Virtual Art Exhibition. Click on Search By School)**_ on&nbsp;[https://www.syf.gov.sg/syf/virtualexhibition/gallery-2](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2)
+<b>Selected and showcased on the SYF Virtual Art Exhibition. (Click on 'Search By School')<br><a href="https://www.syf.gov.sg/syf/virtualexhibition/gallery-2" target="_blank" rel="noopener noreferrer">https://www.syf.gov.sg/syf/virtualexhibition/gallery-2</a></b>
