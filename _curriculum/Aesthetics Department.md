@@ -157,7 +157,7 @@ variant: markdown
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/syf2023_pic4_cfs_featured_in_zaobao.jpeg">
 </p>
 
-<b><em>Our student's artwork was also featured in the Zaobao Newspaper dated 17 July 2023</em></b><br>[Click here to view the article](https://www.zaobao.com.sg/news/singapore/story20230717-1414867)
+<b><em>Our student's artwork was also featured in the Zaobao Newspaper dated 17 July 2023</em></b><br><a href="https://www.zaobao.com.sg/news/singapore/story20230717-1414867" target="_blank" rel="noopener noreferrer">Click here to view the article</a>
 
 ## <mark> Honorable Mention in “Singapore Dreaming - A Comics Competition for Young Creators”. </mark>
 
