@@ -11,7 +11,7 @@ variant: markdown
 1. <b>enthuse</b> and nurture all students to be scientifically literate, so that they are able to make informed decisions and take responsible actions in their daily lives; and&nbsp;&nbsp;
 2. <b>provide</b> strong Science fundamentals for students to innovate and pursue STEM for their future learning and work.
 
-We hope that our students will be **inspired by Science**, and have opportunities to **inquire like Scientists** such that they will be empowered to **innovate using Science** to solve problems of the future.<p></p>
+We hope that our students will be <b>inspired by Science</b>, and have opportunities to <b>inquire like Scientists</b> such that they will be empowered to <b>innovate using Science</b> to solve problems of the future.<p></p>
 
 <img style="width:100%" src="/images/scidept2023_picture1a.JPG">  
 		 
