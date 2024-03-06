@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
+variant: markdown
 ---
 _“Making Math Simple, Making Math Fun and Making Math Meaningful.”_
 
@@ -19,31 +20,32 @@ _“Making Math Simple, Making Math Fun and Making Math Meaningful.”_
         *   Developing students’ learning with understanding
         *   Providing meaningful learning experience
    
-As the saying goes, “Mathematics is not about numbers, equations, computations or algorithms: it is about understanding. – W. P. Thurston”, hence in Chongfu School, we aim to groom students who are able to think logically, abstractly, critically and creatively. These are the important 21st&nbsp;Century Competencies that we must imbue in our students, so that they can lead a more productive life and be life-long learners.
+<p style="text-align:justify">As the saying goes, “Mathematics is not about numbers, equations, computations or algorithms: it is about understanding. – W. P. Thurston”, hence in Chongfu School, we aim to groom students who are able to think logically, abstractly, critically and creatively. These are the important 21st&nbsp;Century Competencies that we must imbue in our students, so that they can lead a more productive life and be life-long learners.</p>
 
-Mathematics is undeniably part of our daily lives, from making sense of simple information on the whiteboard to making informed decisions about personal finances. Calculations, measurements, interpretation of graphs and analysing statistical data require a good understanding of Math.
+<p style="text-align:justify">Mathematics is undeniably part of our daily lives, from making sense of simple information on the whiteboard to making informed decisions about personal finances. Calculations, measurements, interpretation of graphs and analysing statistical data require a good understanding of Math.</p>
 
-<u>The Mathematics Framework</u>
+<b><u>The Mathematics Framework</u></b>
 
 <img src="/images/math1.png" style="width:75%">
-The mathematics framework has been a feature of Singapore’s mathematics curriculum since 1990, and is still relevant to date. The central focus of the framework is mathematical problem solving, that is, using mathematics to solve problems.
+<br>
+<p style="text-align:justify">The mathematics framework has been a feature of Singapore’s mathematics curriculum since 1990, and is still relevant to date. The central focus of the framework is mathematical problem solving, that is, using mathematics to solve problems.</p>
 
 <ul class="jekyllcodex_accordion">  
 &nbsp;&nbsp;<li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">  
-		<label for="accordion1"><b>Math Made Simple</b></label>  
+<label for="accordion1"><b>Math Made Simple</b></label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-			<p><u>Chongfu’s Curriculum Focus</u></p>
+<p><u>Chongfu’s Curriculum Focus</u></p>
 
-<p>In Chongfu School, we focus on problem solving, which encompasses skills and functions that are important in our daily lives. We also aim to develop mathematical thinkers who are able to solve real-world problems. In addition, students should be able to understand math through deep learning and mastery. Only with deep understanding will students be able to reason mathematically and apply mathematical concepts to real-life problems. Through our extensive range of math programmes, we hope students will value and enjoy learning mathematics.</p>  
-			<u><b>Approach 1:</b>&nbsp;Concrete-Pictorial-Abstract (CPA) Approach</u><br><br>
-<img src="/images/math2.png" style="width:75%"><p>The CPA Approach is an essential method of teaching Mathematics for mastery. It involves moving from concrete materials to pictorial representations to abstract symbols and problems.<br><br>
+<p style="text-align:justify">In Chongfu School, we focus on problem solving, which encompasses skills and functions that are important in our daily lives. We also aim to develop mathematical thinkers who are able to solve real-world problems. In addition, students should be able to understand math through deep learning and mastery. Only with deep understanding will students be able to reason mathematically and apply mathematical concepts to real-life problems. Through our extensive range of math programmes, we hope students will value and enjoy learning mathematics.</p>  
+<u><b>Approach 1:</b>&nbsp;Concrete-Pictorial-Abstract (CPA) Approach</u><br><br>
+<img src="/images/math2.png" style="width:75%">
+<p style="text-align:justify">The CPA Approach is an essential method of teaching Mathematics for mastery. It involves moving from concrete materials to pictorial representations to abstract symbols and problems.</p><br>
 * <b> Concrete – </b> New concepts are first introduced by acting it out using real objects or manipulatives.<br><br>
 * <b> Pictorial – </b> The concepts are then further explained using diagrams and pictures.<br><br>
-* <b> Abstract – </b> Problems are represented using mathematical notation such as numbers and symbols.
-</p>
-			<u><b>Approach 2:</b>&nbsp;Chongfu Star Approach</u>
-<p>The Chongfu STAR approach to maths problem solving is adapted from George Polya’s problem solving process. It is a structured approach aimed to help students in effective problem solving. The STAR approach uses questioning techniques with a variety of questions in each stage to help students gain independence and confidence in solving mathematical problems.</p>
+* <b> Abstract – </b> Problems are represented using mathematical notation such as numbers and symbols.<br><br>
+<u><b>Approach 2:</b>&nbsp;Chongfu Star Approach</u>
+<p style="text-align:justify">The Chongfu STAR approach to maths problem solving is adapted from George Polya’s problem solving process. It is a structured approach aimed to help students in effective problem solving. The STAR approach uses questioning techniques with a variety of questions in each stage to help students gain independence and confidence in solving mathematical problems.</p>
 <img src="/images/math%203.png" style="width:65%">
 	
 <u><b>Approach 3:</b>&nbsp;4C Approach</u>
@@ -52,18 +54,18 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic1a.png">
 </p>
 	
-<p>The 4C Approach uses both physical and digital manipulatives in learning Math concepts. The approach involves 4 stages.<br><b>
-- Concrete (manipulatives)</b> – manipulatives are used to solve word problems to aid in their understanding and exploration of problem-solving strategies.<br><b>
--	Consolidate (questioning)</b> – questions are crafted to guide students through the problem-solving process.<br><b>-	Concept (making sense)</b> – students make sense of the concept and skills.<br><b>-	Connect (application)</b> – opportunities are given to apply the strategies to similar questions.
-</p>
+<p style="text-align:justify">The 4C Approach uses both physical and digital manipulatives in learning Math concepts. The approach involves 4 stages.</p>
+<b>- Concrete (manipulatives)</b> – manipulatives are used to solve word problems to aid in their understanding and exploration of problem-solving strategies.<br>
+<b>-	Consolidate (questioning)</b> – questions are crafted to guide students through the problem-solving process.<br>
+<b>-	Concept (making sense)</b> – students make sense of the concept and skills.<br><b>-	Connect (application)</b> – opportunities are given to apply the strategies to similar questions.
 
 <u><b>Approach 4:</b>&nbsp;Structured Journaling </u>
-<p>Structured Journaling is used in our Mathematics curriculum to assess students’ understanding of Mathematical concept(s) in a context.<br>It develops:<br>
+<p style="text-align:justify">Structured Journaling is used in our Mathematics curriculum to assess students’ understanding of Mathematical concept(s) in a context.</p>It develops:<br>
 - students’ <b>awareness of the thought processes and logical reasoning required</b> to solve problems.<br>
 - students’ use of mathematical language. 
 <br>- the need to be <b>clear in articulation and communication of solution(s).</b>
 <br>- students’ ability to see and make links between mathematical concepts and everyday life.
-<br><br>In Chongfu, we believe that mathematical journaling skills should be taught <b>progressively and explicitly</b> in order for students to internalise and apply the skills. With the use of rubrics, students assess themselves or their peers on their metacognitive skills and then work towards improving their own performance.
+<p style="text-align:justify">In Chongfu, we believe that mathematical journaling skills should be taught <b>progressively and explicitly</b> in order for students to internalise and apply the skills. With the use of rubrics, students assess themselves or their peers on their metacognitive skills and then work towards improving their own performance.
 </p>
 
 <u><b>Talk Moves</b></u>
@@ -71,7 +73,7 @@ The mathematics framework has been a feature of Singapore’s mathematics curric
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/math2023_pic2.jpg">
 </p>
 
-<p>As part of improving students’ thought process, students use Talk Moves questioning techniques to understand the problem. While the teachers’ role is to facilitate productive discussions using Talk Moves questions, students seek to understand the problem and reflect it in their journals.</p>
+<p style="text-align:justify">As part of improving students’ thought process, students use Talk Moves questioning techniques to understand the problem. While the teachers’ role is to facilitate productive discussions using Talk Moves questions, students seek to understand the problem and reflect it in their journals.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
