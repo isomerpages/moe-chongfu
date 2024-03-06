@@ -49,12 +49,11 @@ variant: markdown
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Learning Outcome 1:</strong>
-</p>
+<p><strong>Learning Outcome 1:</strong></p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p style="text-align:justify">Develop self-awareness and self-management skills to achieve personal well-being and effectiveness.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
