@@ -3,12 +3,9 @@ title: Supplier Information
 permalink: /heritage/School-Information/supplier-information/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
-
-
-
-
-#### SCHOOL BUS SERVICE
+<h4><strong>SCHOOL BUS SERVICE</strong></h4>
 Tong Tar Transport Service Pte Ltd<br>
 8 Soon Lee Road,<br>
 Singapore 628073<br>
