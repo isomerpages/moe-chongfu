@@ -31,32 +31,32 @@ variant: markdown
     <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Mdm Yong Yock Hone Katherine<br></td>
-    <td class="tg-yhj3">School Staff Developer</td>
+    <td class="tg-yhj3">Mr Sharin Bin Sulaiman</td>
+    <td class="tg-yhj3">HOD Aesthetics</td>
   </tr>
-	 <tr>
-    <td class="tg-yhj3">Ms Lee Huoy Fen</td>
-    <td class="tg-yhj3">HOD Science</td>
-	</tr>
-  <tr>
+	<tr>
     <td class="tg-yhj3">Ms Zheng Yijun Elaine</td>
     <td class="tg-yhj3">HOD English Language</td>
 	</tr>
+	<tr>
+    <td class="tg-yhj3">Mr Ng Min Zhou Jonathan </td>
+    <td class="tg-yhj3">HOD ICT</td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mr Ng Ai Peng Jason</td>
+    <td class="tg-yhj3">HOD Mathematics</td>
+  </tr>
 	<tr>
     <td class="tg-yhj3">Ms Low Hwee Pin</td>
     <td class="tg-yhj3">HOD Mother Tongue Language</td>
  </tr>
 	<tr>
-    <td class="tg-yhj3">Mr Ng Ai Peng Jason</td>
-    <td class="tg-yhj3">HOD Mathematics</td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mr Ng Min Zhou Jonathan </td>
-    <td class="tg-yhj3">HOD ICT</td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Mr Sharin Bin Sulaiman</td>
-    <td class="tg-yhj3">HOD Aesthetics</td>
+    <td class="tg-yhj3">Ms Lee Huoy Fen</td>
+    <td class="tg-yhj3">HOD Science</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Yong Yock Hone Katherine<br></td>
+    <td class="tg-yhj3">School Staff Developer</td>
   </tr>
 </tbody>
 </table>
