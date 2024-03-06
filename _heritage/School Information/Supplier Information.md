@@ -6,11 +6,11 @@ third_nav_title: School Information
 variant: markdown
 ---
 <h5><strong>SCHOOL BUS SERVICE</strong></h5>
-Tong Tar Transport Service Pte Ltd<br>
+<div style="font-size:15px">Tong Tar Transport Service Pte Ltd<br>
 8 Soon Lee Road,<br>
 Singapore 628073<br><br>Tel: <b><u>6261 5537</u></b><br>
 Whatsapp or SMS: <b><u>9773 0426</u></b><br>
-Email address: <a href="chongfu@tongtar.com" target="_blank" rel="noopener noreferrer">chongfu@tongtar.com</a>
+Email address: <a href="chongfu@tongtar.com" target="_blank" rel="noopener noreferrer">chongfu@tongtar.com</a></div>
 
 <h5><strong>BOOKSHOP</strong></h5>
 Pacific Bookstores Pte Ltd<br><br>
