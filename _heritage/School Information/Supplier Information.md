@@ -26,7 +26,7 @@ Fax: <b><u>6758 9290</u></b><br></div>
 
 <h5><strong>SCHOOL DENTAL CLINIC</strong></h5>
 <div style="font-size:18px">Ms Ang Yoke Hoo (Dental Therapist)<br><br>
-Tel: <b><u>8518 7296</u></b><br>
+Tel: <b><u>8518 7296</u></b><br><br>
 
 <b>Operating Hours:</b><br>
 8.00am to 5.30pm (Monday to Thursday)<br>
