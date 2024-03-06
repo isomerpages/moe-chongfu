@@ -4,29 +4,29 @@ permalink: /curriculum/character-citizenship-education/
 description: ""
 variant: markdown
 ---
-<h3>Introduction</h3>
+<h3><strong>Introduction</strong></h3>
 <p style="text-align:justify">The school’s Character and Citizenship Education programmes aim to equip our students with socio-emotional competencies and skills to exercise responsible citizenship so as to become gracious, persevering, confident and resilient leaders of tomorrow.</p>
 
 <p style="text-align:justify">Anchored on the CCE Framework are our core values GRACIOUSLY, which are interconnected with Social and Emotional Learning (SEL). The values are unpacked as follows:</p>
 <p>
 <strong>优雅 Gracious</strong>
-<br>-to be polite, kind, pleasant and generous<br>
+<br>-to be polite, kind, pleasant and generous<br><br>
 <strong>恭敬 Respectful</strong>
-<br>-to believe in one’s own self-worth and the intrinsic worth of other people<br>
+<br>-to believe in one’s own self-worth and the intrinsic worth of other people<br><br>
 <strong>成就 Achieving</strong>
-<br>-to accomplish one’s purpose, attain his goal and to succeed<br>
+<br>-to accomplish one’s purpose, attain his goal and to succeed<br><br>
 <strong>关怀 Caring</strong>
-<br>-to act with kindness and compassion and contributes to the betterment of the community and the world<br>
+<br>-to act with kindness and compassion and contributes to the betterment of the community and the world<br><br>
 <strong>革新 Innovative</strong>
-<br>-to be creative and come up with new ideas, new inventions, and new ways of doing things<br>
+<br>-to be creative and come up with new ideas, new inventions, and new ways of doing things<br><br>
 <strong>敏锐 Observant</strong>
-<br>-to be sensitive to the environment and have a keen perception of things<br>
+<br>-to be sensitive to the environment and have a keen perception of things<br><br>
 <strong>团结 United</strong>
-<br>-to stand together for a common purpose<br>
+<br>-to stand together for a common purpose<br><br>
 <strong>真诚 Sincere</strong>
-<br>-to be honest and true<br>
+<br>-to be honest and true<br><br>
 <strong>忠诚 Loyal</strong>
-<br>-to stay devoted to one’s values and roots<br>
+<br>-to stay devoted to one’s values and roots<br><br>
 <strong>朝气 Youthful</strong>
 <br>-to be vigorous, fresh and energetic
 </p>
@@ -41,7 +41,7 @@ variant: markdown
 </p>
 <p>and thereby preparing them for the 21st century.</p>
 
-<h3>CCE Learning Outcomes</h3>
+<h3><strong>CCE Learning Outcomes</strong></h3>
 <p style="text-align:justify">CCE is central to the 21st Century Competencies Framework. It emphasizes the interconnectedness of the core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are critical for character and citizenship development of our students.</p>
 
 <p style="text-align:justify">The learning outcomes of CCE state what we want our students to learn and attain in CCE, and guide the development of the curriculum for CCE.</p>
@@ -51,7 +51,8 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p><strong>Learning Outcome 1:</strong>
 </p>
-</th><th rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p style="text-align:justify">Develop self-awareness and self-management skills to achieve personal well-being and effectiveness.</p>
 </th>
 </tr>
