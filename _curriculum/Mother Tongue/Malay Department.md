@@ -33,34 +33,37 @@ I Read Programme (Program Saya Membaca)
 
 **Proverbs Practice (Peribahasa Pagi)**
 
-Primary 3 and Primary 6 pupils are encouraged to attend this programme every morning between 7 a.m. and 7.10 a.m. to answer the meaning or proverbs or vice versa, to encourage memory work. Pupils who are able to answer a set of questions will be excused to attend for the week whereas others will have to attend throughout the week.
+<p style="text-align:justify">Primary 3 and Primary 6 pupils are encouraged to attend this programme every morning between 7 a.m. and 7.10 a.m. to answer the meaning or proverbs or vice versa, to encourage memory work. Pupils who are able to answer a set of questions will be excused to attend for the week whereas others will have to attend throughout the week.</p>
 
 **Comments from participants:**  
-‘This programme made me more focus in memorizing proverbs.’ – Siti Zubaidah, 3 Innovative
 
-‘I treat this as challenge so that I will be excused much earlier than my friends.’ – Muhammad Lutfil Hazieq, 6 Loyal
+‘This programme made me more focus in memorizing proverbs.’ <i><b>– Siti Zubaidah, 3 Innovative</b></i>
+
+‘I treat this as challenge so that I will be excused much earlier than my friends.’ <i><b>– Muhammad Lutfil Hazieq, 6 Loyal</b></i>
 
 ![](/images/ML%202.png)
 
 **Tracking for Words (Jejak Kata)**
 
-Tracking for Words is a technique to use the Malay dictionary for Primary 3 to Primary 6 Malay Language pupils. Jejak Kata aims to develop frequent and efficient usage of the Malay dictionary through games.
+<p style="text-align:justify">Tracking for Words is a technique to use the Malay dictionary for Primary 3 to Primary 6 Malay Language pupils. Jejak Kata aims to develop frequent and efficient usage of the Malay dictionary through games.</p>
 
-**Comments from participants:**  
-‘It is fun!’ – Muhamad Amann, 5 Respectful
+<b>Comments from participants:</b>
 
-‘I am able to search words for meaning or spelling quicker without having to ask for my teacher’s assistance.’ – Nur Elmira, 6 Observant
+‘It is fun!’ <i><b>– Muhamad Amann, 5 Respectful</b></i>
+
+‘I am able to search words for meaning or spelling quicker without having to ask for my teacher’s assistance.’ <i><b>– Nur Elmira, 6 Observant</b></i>
 
 ![](/images/ML%203.png)
 
 **Mother Tongue Language Fortnight Part 1 (Pesta Bahasa Chongfu)**
 
-Mother Tongue Fortnight Part 1 was conducted in Term 2. Pesta Bahasa Chongfu aims to develop the love for the Malay Language among pupils.
+<p style="text-align:justify">Mother Tongue Fortnight Part 1 was conducted in Term 2. Pesta Bahasa Chongfu aims to develop the love for the Malay Language among pupils.</p>
 
 **Comments from participants:**  
-‘I like singing with my friends.’ – Ulfah, 1 United
 
-‘We had fun advertising our product!’ – Irra Umairah &amp; Nurfaizah, 5 United
+‘I like singing with my friends.’ <i><b>– Ulfah, 1 United</b></i>
+
+‘We had fun advertising our product!’ <i><b>– Irra Umairah &amp; Nurfaizah, 5 United</b></i>
 
 ![](/images/ML%204.png)
 
