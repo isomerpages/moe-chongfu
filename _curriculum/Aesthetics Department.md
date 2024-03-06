@@ -56,7 +56,7 @@ variant: markdown
 
 <p style="text-align:justify"><b><em>We would like to also thank the parent volunteers who came forward to set up the stations and carry out the recess activities. We hope everyone enjoyed themselves through the joy of learning in Art and Music.</em></b></p>
 
-<h5><strong>Art Cart Segment:</strong></h5>
+<h5><strong>Art Cart Segment</strong></h5>
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic1.jpeg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic2.jpeg">
@@ -82,8 +82,8 @@ variant: markdown
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic37.jpeg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic40.jpeg">
 </p>
-
-##### Tie-dye Segment: #####
+<br>
+<h5><strong>Tie-dye Segment</strong></h5>
 
 <p>
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic5.jpeg">
@@ -115,7 +115,7 @@ variant: markdown
 </p><p style="clear: both;">
 </p>
 
-##### Roving Art Truck Segment: #####
+<h5><strong>Roving Art Truck Segment</strong></h5>
 <p>
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic46.jpg">
 <img style="float: left; width: 99%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/chongfu_arts_fest2_2023_pic47.jpg">
