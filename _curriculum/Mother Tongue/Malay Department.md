@@ -69,45 +69,49 @@ I Read Programme (Program Saya Membaca)
 
 **Mother Tongue Language Fortnight Part 2 (Pesta Budaya Chongfu)**
 
-Mother Tongue Fortnight Part 2 was conducted in Term 3. Pesta Budaya Chongfu aims to create awareness and to practice the Malay culture among pupils.
+<p style="text-align:justify">Mother Tongue Fortnight Part 2 was conducted in Term 3. Pesta Budaya Chongfu aims to create awareness and to practice the Malay culture among pupils.</p>
 
 **Comments from participants:**  
-‘I like to eat kuih makmur and kuih bangkit.’ – Muhammad Ansar, 2 Caring
 
-‘Writing Hari Raya card to my friend was great.’ – Siti Nurriyani, 4 Innovative
+‘I like to eat kuih makmur and kuih bangkit.’ <i><b>– Muhammad Ansar, 2 Caring</b></i>
+
+‘Writing Hari Raya card to my friend was great.’ <i><b>– Siti Nurriyani, 4 Innovative</b></i>
 
 ![](/images/ML%205.png)
 
 **Mass Borrowing @ MRL (Pinjam Buku Lambak di Perpustakaan)**
 
-Mass Borrowing @ MRL was organized by the Library Committee. Pinjam Buku Lambak di Perpustakaan aims to encourage pupils to borrow the Malay story books brought by the National Library Board at the Media Resource Library.
+<p style="text-align:justify">Mass Borrowing @ MRL was organized by the Library Committee. Pinjam Buku Lambak di Perpustakaan aims to encourage pupils to borrow the Malay story books brought by the National Library Board at the Media Resource Library.</p>
 
 **Comments from participants:**  
-‘I have received a gift for borrowing eight Malay story books.’ – Putra Syahril, 3 Caring
 
-‘I look forward to next year’s mass borrowing programme.’ – Nur Azizie Adrieana, 5 Achieving
+‘I have received a gift for borrowing eight Malay story books.’ <i><b>– Putra Syahril, 3 Caring</b></i>
+
+‘I look forward to next year’s mass borrowing programme.’ <i><b>– Nur Azizie Adrieana, 5 Achieving</b></i>
 
 ![](/images/ML%206.png)
 
 **Learning Using ICT (Pembelajaran Canggih)**
 
-Learning Using ICT attracts pupils to learn the Malay Language in a fun interactive way. Pembelajaran Canggih aims to encourage pupils to learn the Malay Language using the MS Power Point, MS Word, AsknLearn (Learning Management System), iMTL Portal, Vocarro, Padlet and many more.
+<p style="text-align:justify">Learning Using ICT attracts pupils to learn the Malay Language in a fun interactive way. Pembelajaran Canggih aims to encourage pupils to learn the Malay Language using the MS Power Point, MS Word, AsknLearn (Learning Management System), iMTL Portal, Vocarro, Padlet and many more.</p>
 
 **Comments from participants:**  
-‘I am able to read instant comments in AsknLearn after my oral conversation practice.’ – Muhammed Raiyan, 6 Loyal
 
-‘My friends contributed ideas by typing them via Padlet.’ – Muhammad Ilhan, 3 Achieving
+‘I am able to read instant comments in AsknLearn after my oral conversation practice.’ <i><b>– Muhammed Raiyan, 6 Loyal</b></i>
+
+‘My friends contributed ideas by typing them via Padlet.’ <i><b>– Muhammad Ilhan, 3 Achieving</b></i>
 
 ![](/images/ML%207.png)
 
 **Malay Cultural Camp (Pesta Budaya Chongfu)**
 
-The Malay Cultural Camp was organised for Primary 3 to Primary 6 Malay Language pupils in Term 4 as a post exam programme. Pesta Budaya Chongfu aims to expose pupils to the Malay musical instruments and to engage pupils in active in learning of the Malay culture.
+<p style="text-align:justify">The Malay Cultural Camp was organised for Primary 3 to Primary 6 Malay Language pupils in Term 4 as a post exam programme. Pesta Budaya Chongfu aims to expose pupils to the Malay musical instruments and to engage pupils in active in learning of the Malay culture.</p>
 
 **Comments from participants:**  
-‘I played angklung for the first time.’ – Farzad, 6 United
 
-‘Kompang was my favourite instrument.’ – Nurin Qistina, 3 Innovative
+‘I played angklung for the first time.’ <i><b>– Farzad, 6 United</b></i>
+
+‘Kompang was my favourite instrument.’ <i><b>– Nurin Qistina, 3 Innovative</b></i>
 
 ![](/images/ML%208.png)
 
@@ -115,12 +119,13 @@ The Malay Cultural Camp was organised for Primary 3 to Primary 6 Malay Language 
 
 **N2 Cluster PLT Sharing of Best Practices in ML Teaching &amp; Learning (Primary) (Sesi Perkongsian Kelompok Utara 2)**
 
-Chongfu School was given the opportunity to host the N2 Cluster PLT Sharing of Best Practices in ML Teaching &amp; Learning (Primary) 2013, in Term 2. Sesi Perkongsian Kelompok Utara 2 aims to encourage ML teachers from N2 Cluster schools to promote and share best practices of classroom teaching.
+<p style="text-align:justify">Chongfu School was given the opportunity to host the N2 Cluster PLT Sharing of Best Practices in ML Teaching &amp; Learning (Primary) 2013, in Term 2. Sesi Perkongsian Kelompok Utara 2 aims to encourage ML teachers from N2 Cluster schools to promote and share best practices of classroom teaching.</p>
 
 **Comments from participants:**  
-‘Although I am a Beginning Teacher, I learned a lot from this sharing session.’ – Cikgu Nur Humaira
 
-‘Other schools commended on our sharing on P6 Oral Conversation technique.’ – Cikgu Nor Adilah
+‘Although I am a Beginning Teacher, I learned a lot from this sharing session.’ <i><b>– Cikgu Nur Humaira</b></i>
+
+‘Other schools commended on our sharing on P6 Oral Conversation technique.’ <i><b>– Cikgu Nor Adilah</b></i>
 
 ![](/images/ML%209.png)
 
