@@ -7,18 +7,18 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Ms Joo Wei Xin</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Administrative Manager (AM)</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:joo_wei_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Joo_wei_xin@moe.edu.sg</a> 
 <br>
 <br>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
