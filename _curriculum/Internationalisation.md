@@ -16,17 +16,17 @@ variant: markdown
 	<li>Broaden global vision.</li>
 </ul>
 <p>Below are some blogs of previous overseas learning journeys:</p>
-
-* [Chongfu Taipei Discovery 2008](http://taipei30101.blogspot.com/)  
-* [Chongfu Combined Uniform Groups Overseas Activities Blog](http://chongfu-ug.blogspot.com/)  
-* [Chongfu Primary 4 Tainan Trip 2009](http://cfpstainan2009.blogspot.com/)  
-* [Chongfu Primary 5 Suzhou Trip 2010](http://chongfusuzhou2010.wordpress.com/)  
-* [Chongfu School Taiwan Trip 2012](http://www.facebook.com/CfsTaiwan2012)  
-* [Chongfu School Hangzhou Trip 2012](http://blog.sina.com.cn/u/2710564123)  
-* [Chongfu School Suzhou Trip 2012](http://blog.sina.com.cn/u/2761420854)  
-* [Chongfu School Beijing Trip 2012](http://blog.sina.com.cn/u/2764812670)  
-* [Chongfu School Hong Kong Trip 2012](http://www.cfshk2012.blogspot.com/)
-
+<ul>
+<li><a href="http://taipei30101.blogspot.com/" target="_blank" rel="noopener noreferrer">Chongfu Taipei Discovery 2008</a></li>
+<li><a href="http://chongfu-ug.blogspot.com/" target="_blank" rel="noopener noreferrer">Chongfu Combined Uniform Groups Overseas Activities Blog</a></li>
+<li><a href="http://cfpstainan2009.blogspot.com/" target="_blank" rel="noopener noreferrer">Chongfu Primary 4 Tainan Trip 2009</a></li>
+<li><a href="http://chongfusuzhou2010.wordpress.com/" target="_blank" rel="noopener noreferrer">Chongfu Primary 5 Suzhou Trip 2010</a></li>	
+<li><a href="http://www.facebook.com/CfsTaiwan2012" target="_blank" rel="noopener noreferrer">Chongfu School Taiwan Trip 2012</a></li>
+<li><a href="http://blog.sina.com.cn/u/2710564123" target="_blank" rel="noopener noreferrer">Chongfu School Hangzhou Trip 2012</a></li>
+<li><a href="http://blog.sina.com.cn/u/2761420854" target="_blank" rel="noopener noreferrer">Chongfu School Suzhou Trip 2012</a></li>
+<li><a href="http://blog.sina.com.cn/u/2764812670" target="_blank" rel="noopener noreferrer">Chongfu School Beijing Trip 2012</a></li>  
+<li><a href="http://www.cfshk2012.blogspot.com/" target="_blank" rel="noopener noreferrer">Chongfu School Hong Kong Trip 2012</a></li>
+</ul>
 
 <h3><strong>Beijing, China Visit</strong></h3>
 
