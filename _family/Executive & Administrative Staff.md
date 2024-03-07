@@ -17,12 +17,11 @@ variant: markdown
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
 
-<h5 style="color:#000000"><center><b>Head of Departments</b></center></h5>
-<table class="tg" style="undefined;table-layout: fixed; width: 751px">
+<table class="tg" style="undefined;table-layout: fixed; width: 771px">
 <colgroup>
 <col style="width: 257px">
 <col style="width: 234px">
-<col style="width: 260px">
+<col style="width: 280px">
 </colgroup>
 
 <tbody>
