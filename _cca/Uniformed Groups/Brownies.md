@@ -26,7 +26,7 @@ our Brownies family!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Yap Xinyi Filicia (2 I/C)</p>
+	<p>Ms Yap Xinyi Filicia <b>(2 I/C)</b></p>
 </li>
 <li>
 <p>Ms Madihah</p>
@@ -39,7 +39,7 @@ our Brownies family!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Veron (IC)</p>
+<p>Veron <b>(IC)</b></p>
 </li>
 <li>
 <p>Sabrina</p>
