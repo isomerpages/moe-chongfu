@@ -20,7 +20,7 @@ them to healthy activities such as will help them to develop CITIZENSHIP.”</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Gan Kok Onn (IC)</p>
+<p>Mr Gan Kok Onn <b>(IC)</b></p>
 </li>
 <li>
 <p>Mr Mohamad Izhar Bin Ramlan</p>
