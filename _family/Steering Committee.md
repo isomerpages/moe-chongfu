@@ -18,7 +18,7 @@ variant: markdown
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
 
-<h5 style="color:#000000"><center><b>Head of Departments</b></center></h5>
+<h5 style="color:#000000"><center><b>Heads of Department</b></center></h5>
 <table class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
 <col style="width: 257px">
@@ -120,7 +120,7 @@ variant: markdown
 </tr>
 <tr>
  <td class="tg-yhj3">Mr Ng Keh Siong</td>
- <td class="tg-yhj3">SH English</td>
+ <td class="tg-yhj3">SH English Language</td>
 </tr>
 <tr>
   <td class="tg-yhj3">Mdm Sri Rahayu Binte Ramlan</td>
@@ -153,8 +153,12 @@ variant: markdown
  <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
 </tr>
 <tr>
+  <td class="tg-yhj3">Ms Chiang Yu Rong</td>
+  <td class="tg-yhj3">Senior Teacher/ Chinese Language</td>
+ </tr>
+<tr>
  <td class="tg-yhj3">Mdm Chew Geik Bee Angeline<br></td>
- <td class="tg-yhj3">Senior Teacher/ English</td>
+ <td class="tg-yhj3">Senior Teacher/ English Language</td>
 </tr>
 <tr>
  <td class="tg-yhj3">Mdm Eng Hwee Yen</td>
@@ -168,9 +172,5 @@ variant: markdown
  <td class="tg-yhj3">Mdm Toh Guat Lay</td>
  <td class="tg-yhj3">Senior Teacher/ Mathematics</td>
 </tr>
-<tr>
-  <td class="tg-yhj3">Ms Chiang Yu Rong</td>
-  <td class="tg-yhj3">Senior Teacher/ Chinese Language</td>
- </tr>
 </tbody>
 </table>
