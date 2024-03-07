@@ -5,15 +5,17 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<p>Stimulating programmes, involving exciting, challenging, and progressive
-activities based on interest of young people, incorporating contact with
+<p style="text-align:justify">Stimulating programmes, involving exciting, challenging, and progressive activities based on interest of young people, incorporating contact with
 nature, a rich learning environment where simplicity, creatively and discovery
 come together to provide adventure and challenge.&nbsp;</p>
-<p>A Game with a purpose.</p>
-<p>“Scouting is a game for boys, under the leadership of boys, in which elder
-brothers can give their younger brothers a healthy environment and encourage
+
+<p style="text-align:justify">A Game with a purpose.</p>
+
+<p style="text-align:justify">“Scouting is a game for boys, under the leadership of boys, in which elder brothers can give their younger brothers a healthy environment and encourage
 them to healthy activities such as will help them to develop CITIZENSHIP.”</p>
-<p>– Lord Baden-Powell</p>
+
+<p><i>– Lord Baden-Powell</i></p>
+
 <p><strong>Teachers In Charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
