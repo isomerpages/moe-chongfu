@@ -4,7 +4,7 @@ permalink: /partners/singapore-hokkien-huay-kuan/
 description: ""
 variant: markdown
 ---
-**Visit us at:**<br>
+<b>Visit us at:</b><br>
 [https://www.shhk.com.sg](https://www.shhk.com.sg/)
 <br><br>
 <a href="https://www.shhk.com.sg">
