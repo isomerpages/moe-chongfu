@@ -31,10 +31,10 @@ variant: markdown
 <h3><strong>Beijing, China Visit</strong></h3>
 
 <img src="/images/P5-Beijing.jpeg" style="width:50%"><br>
-<img style="width:65%" src="/images/beijing.png">
+<img style="width:80%" src="/images/beijing.png">
 
 <h3><strong>Taipei, Taiwan Trip</strong></h3>
-<img style="width:80%" src="/images/taiwan.png">
+<img style="width:100%" src="/images/taiwan.png">
 
 <h3><strong>Perth, Australia Visit</strong></h3>
-<img style="width:90%" src="/images/perth.png">
+<img style="width:100%" src="/images/perth.png">
