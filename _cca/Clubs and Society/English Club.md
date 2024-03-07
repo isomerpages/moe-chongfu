@@ -5,19 +5,19 @@ description: ""
 third_nav_title: Clubs and Society
 variant: markdown
 ---
-Our English Club CCA aims to excite students about the learning of the English language through interesting and engaging activities in a fun environment, helping build their oracy and confidence in public speaking.
+<p style="text-align:justify">Our English Club CCA aims to excite students about the learning of the English language through interesting and engaging activities in a fun environment, helping build their oracy and confidence in public speaking.</p>
 
-The objectives of our CCA are to:
+<p style="text-align:justify">The objectives of our CCA are to:</p>
+<ul>
+	<li>Provide opportunities for students to use the English language purposefully.</li>
+	<li>Cultivate the love of the English language through storytelling and drama.</li>
+	<li>Develop confident speakers, effective communicators and creative thinkers.</li>
+</ul>
+<p style="text-align:justify">Some activities that our English Club CCA carries out include the crafting of storytelling scripts and performing of skits to develop improvisation and characterisation skills, playing educational word games such as Scrabble, and theatre and literary arts appreciation.</p>
 
-*   Provide opportunities for students to use the English language purposefully
-*   Cultivate the love of the English language through storytelling and drama
-*   Develop confident speakers, effective communicators and creative thinkers
+<p style="text-align:justify">Selected students are also given the opportunity to participate in school events and external competitions/ programmes e.g. Wits &amp; Words: Inter-school Debate Championship, Primary School Debate Open (PSDO), Inter-School National Scrabble Championship (ISNSC), YMCA-Plain English Speaking Award (PESA), ACJC Mythos (Junior Orators) Competition, amongst many others.</p>
 
-Some activities that our English Club CCA carries out include the crafting of storytelling scripts and performing of skits to develop improvisation and characterisation skills, playing educational word games such as Scrabble, and theatre and literary arts appreciation.
-
-Selected students are also given the opportunity to participate in school events and external competitions/ programmes e.g. Wits &amp; Words: Inter-school Debate Championship, Primary School Debate Open (PSDO), Inter-School National Scrabble Championship (ISNSC), YMCA-Plain English Speaking Award (PESA), ACJC Mythos (Junior Orators) Competition, amongst many others.
-
-**Teachers In Charge:**
+<b>Teachers In Charge:</b>
 
 <ul>
 <li> Mr Ng Keh Siong Dave <b>(I/C)</b></li>
@@ -25,7 +25,7 @@ Selected students are also given the opportunity to participate in school events
 <li> Ms Geraldine Ann D'Cotta  </li>
 </ul>
 
-**CCA Day &amp; Venue:**
+<b>CCA Day &amp; Venue:</b>
 
 <ul>
 <li>Fridays, 1.45pm – 3.45pm | Idea Lab 
