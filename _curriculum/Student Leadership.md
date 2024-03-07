@@ -51,18 +51,18 @@ variant: markdown
 <li>Committed leaders guided by sound values and effective life-skills.</li>
 </ul>
 
-### Student Leadership Structure
-
+<h3><strong>Student Leadership Structure</strong></h3>
+<br>
 <img style="width:100%" src="/images/studleadership2023_pic2.png">
 
-**Empowering our Students Leaders through a tiered approach:**
-
-* Every student is a leader, a thinking citizen, capable of leading themselves and others
-* Meaningful leadership opportunities in classroom and within school
-
+<b>Empowering our Students Leaders through a tiered approach:</b>
+<ul>
+<li>Every student is a leader, a thinking citizen, capable of leading themselves and others.</li>
+<li>Meaningful leadership opportunities in classroom and within school.</li>
+<br>
 <img style="width:100%" src="/images/studleadership2023_pic3a.png">
 
-### Student Leaders Empowerment Programmes:
+<h3><strong>Student Leaders Empowerment Programmes:</strong></h3>
 
 <ul class="jekyllcodex_accordion">
 &nbsp;&nbsp;<li>
@@ -105,4 +105,4 @@ variant: markdown
 <p><img style="width:100%" src="/images/studleadership2023_pic9.jpg"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
-</ul>
+</ul></ul>
