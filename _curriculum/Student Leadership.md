@@ -59,6 +59,7 @@ variant: markdown
 <ul>
 <li>Every student is a leader, a thinking citizen, capable of leading themselves and others.</li>
 <li>Meaningful leadership opportunities in classroom and within school.</li>
+</ul>
 <br>
 <img style="width:100%" src="/images/studleadership2023_pic3a.png">
 
@@ -105,4 +106,4 @@ variant: markdown
 <p><img style="width:100%" src="/images/studleadership2023_pic9.jpg"></p>
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
-</ul></ul>
+</ul>
