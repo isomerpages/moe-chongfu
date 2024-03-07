@@ -40,14 +40,16 @@ variant: markdown
 </ul>
 <img style="width:75%" src="/images/studleadership2023_pic1.png">
 
-### Approach
-* Three-prong approach 
-* First level: Broad base, represents Personal leadership - **Lead Self**
-* Second level: Peer leadership - **Serve and Lead Peers**
-* Third level: People leadership which entails serving and leading at the school level -&nbsp;**Lead School**
-* Students will be developed as leaders of self and leaders of others through Servant Leadership
-* Students with leadership potential will take on roles as leaders of teams and leaders of leaders
-* Committed leaders guided by sound values and effective life-skills
+<h3><strong>Approach</strong></h3>
+<ul>
+<li>Three-prong approach.</li> 
+	<li>First level: Broad base, represents Personal leadership - <b>Lead Self</b>.</li>
+	<li>Second level: Peer leadership - <b>Serve and Lead Peers</b>.</li>
+<li>Third level: People leadership which entails serving and leading at the school level -&nbsp;<b> Lead School</b>.</li>
+<li>Students will be developed as leaders of self and leaders of others through Servant Leadership.</li>
+<li>Students with leadership potential will take on roles as leaders of teams and leaders of leaders.</li>
+<li>Committed leaders guided by sound values and effective life-skills.</li>
+</ul>
 
 ### Student Leadership Structure
 
