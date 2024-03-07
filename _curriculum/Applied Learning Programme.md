@@ -2,16 +2,17 @@
 title: Applied Learning Programme
 permalink: /curriculum/applied-learning-programme/
 description: ""
+variant: markdown
 ---
-Chongfu School aims to nurture a community of thinkers who are patriotic, gracious and global in outlook. To achieve this, students will have to be equipped with skills and knowledge, social and emotional competencies and life skills to develop into concerned citizens and active contributors. The school is constantly looking for opportunities to impart students with the skills, abilities, mind-set and values for long-term growth.
+<p style="text-align:justify">Chongfu School aims to nurture a community of thinkers who are patriotic, gracious and global in outlook. To achieve this, students will have to be equipped with skills and knowledge, social and emotional competencies and life skills to develop into concerned citizens and active contributors. The school is constantly looking for opportunities to impart students with the skills, abilities, mind-set and values for long-term growth.</p>
 
-The ALP will focus on the use of Design Thinking practices to deliver the observable, aspirational and achievable outcomes as stated in the table below:
+<p style="text-align:justify">The ALP will focus on the use of Design Thinking practices to deliver the observable, aspirational and achievable outcomes as stated in the table below:</p>
 
-<img style="width:100%" src="/images/alp_2023_table1.png">
+<img align="center" style="width:80%" src="/images/alp_2023_table1.png">
 
-**APPROACH**
+<b>APPROACH</b>
 
-Our efforts to drive the&nbsp;**Chongfu Design Thinkers’ Programme**&nbsp;will be done using the Design Thinking (DT) Framework to solve problems which students identify. This design methodology provides a solution-based approach to solving problems. As shown in the diagram below, it is a non-linear, iterative process where the students will work in teams to understand the users, redefine the problems, challenge their assumptions and create innovative solutions. They will also prototype and test their solutions.
+Our efforts to drive the <b style="color:blue">Chongfu Design Thinkers’ Programme</b> will be done using the Design Thinking (DT) Framework to solve problems which students identify. This design methodology provides a solution-based approach to solving problems. As shown in the diagram below, it is a non-linear, iterative process where the students will work in teams to understand the users, redefine the problems, challenge their assumptions and create innovative solutions. They will also prototype and test their solutions.
 
 Students will be guided through these 5 processes in the Design Thinking Framework to generate innovative solutions and use enterprising ways to tackle everyday problems.
 
