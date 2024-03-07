@@ -3,36 +3,31 @@ title: Supplier Information
 permalink: /heritage/School-Information/supplier-information/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
-
-
-
-
-#### SCHOOL BUS SERVICE
-Tong Tar Transport Service Pte Ltd<br>
+<h5><strong>SCHOOL BUS SERVICE</strong></h5>
+<div style="font-size:18px">Tong Tar Transport Service Pte Ltd<br>
 8 Soon Lee Road,<br>
-Singapore 628073<br>
-Tel: 6261 5537
+Singapore 628073<br><br>Tel: <b><u>6261 5537</u></b><br>
+Whatsapp or SMS: <b><u>9773 0426</u></b><br>
+Email address: <b><u>chongfu@tongtar.com</u></b></div>
 
-Whatsapp or SMS: 9773 0426<br>
-Email address: chongfu@tongtar.com
+<h5><strong>BOOKSHOP</strong></h5>
+<div style="font-size:18px">Pacific Bookstores Pte Ltd<br><br>
+Tel: <b><u>6464 0111</u> / <u>6482 3564</u></b></div>
 
-#### BOOKSHOP
-Pacific Bookstores Pte Ltd<br>
-Tel: 6464 0111/ 6482 3564
-
-#### UNIFORM SUPPLIER
-Chop Kong Chong, The Uniform Specialist<br>
+<h5><strong>UNIFORM SUPPLIER</strong></h5>
+<div style="font-size:18px">Chop Kong Chong, The Uniform Specialist<br>
 604 Sembawang Road<br>
 Sembawang Shopping Centre, #02-13<br>
-Singapore 758459<br>
-Tel: 6753 1489<br>
-Fax: 6758 9290
+Singapore 758459<br><br>
+Tel: <b><u>6753 1489</u></b><br>
+Fax: <b><u>6758 9290</u></b><br></div>
 
-#### SCHOOL DENTAL CLINIC
-Ms Ang Yoke Hoo (Dental Therapist)<br>
-Tel: 8518 7296<br>
+<h5><strong>SCHOOL DENTAL CLINIC</strong></h5>
+<div style="font-size:18px">Ms Ang Yoke Hoo (Dental Therapist)<br><br>
+Tel: <b><u>8518 7296</u></b><br><br>
 
-**Operating Hours:** <br>
+<b>Operating Hours:</b><br>
 8.00am to 5.30pm (Monday to Thursday)<br>
-8.00am to 5.00pm (Friday)
+8.00am to 5.00pm (Friday)</div>

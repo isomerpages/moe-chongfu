@@ -2,57 +2,68 @@
 title: Student Leadership
 permalink: /curriculum/studentleadership/
 description: ""
+variant: markdown
 ---
-### Objective
+<h3><strong>Objective</strong></h3>
 
-To develop and maximise the potential of&nbsp;each **student leader**&nbsp;in Chongfu School in the domains of knowledge, skills and attributes to enable them to become excellent individuals who can contribute effectively to the school, home, community, nation and the world.
+<p style="text-align:justify">To develop and maximise the potential of&nbsp;each <b>student leader</b> in Chongfu School in the domains of knowledge, skills and attributes to enable them to become excellent individuals who can contribute effectively to the school, home, community, nation and the world.</p>
 
-### Every Student is a Leader
-* Comprehensive School Wide Leadership 
-* To hone every student’s leadership skills
-* Betterment of self, home, peers, school, community, nation and the world.
-* Structured Leadership Development
-* A systematic approach
-* Meaningful opportunities
+<h3><strong>Every Student is a Leader</strong></h3>
+<ul>
+<li>Comprehensive School Wide Leadership.</li>
+<li>To hone every student’s leadership skills.</li>
+<li>Betterment of self, home, peers, school, community, nation and the world.</li>
+<li>Structured Leadership Development.</li>
+<li>A systematic approach.</li>
+<li>Meaningful opportunities.</li>
+</ul>
 
-### Leadership Development
-* **Leaders:**
-	* *Confident*
-	* *Strength of character*
-	* *Ready to serve*
-* **Adopts Prof Thomas Lickona’s theory:**
-	* *Moral Knowing*
-	* *Moral Feeling*
-	* *Moral Action*
-* “**Head, Heart, Hands**” approach in engaging the whole child
-* **Learner-centric** approach to support students’ learning. 
-* **Aims to impart knowledge**, inculcate values and motivate students to take the right actions.
-* **Formal and informal curricula**: knowledge on values and leadership skills 
-* **Character and leadership can be actualized:** Opportunities and experiential learning platforms
-
+<h3><strong>Leadership Development</strong></h3>
+<ul>
+	<li>Leaders:</li>
+<ul>
+	<li><i>Confident</i></li>
+	<li><i>Strength of character</i></li>
+	<li><i>Ready to serve</i></li>
+	</ul>
+	<li>Adopts Prof Thomas Lickona’s theory:</li>
+<ul>
+	<li><i>Moral Knowing</i></li>
+	<li><i>Moral Feeling</i></li>
+	<li><i>Moral Action</i></li>
+</ul>
+	<li><b>"Head, Heart, Hands”</b> approach in engaging the whole child.</li>
+	<li><b>Learner-centric</b> approach to support students’ learning.</li> 
+	<li><b>Aims to impart knowledge</b>, inculcate values and motivate students to take the right actions.</li>
+	<li><b>Formal and informal curricula</b>: knowledge on values and leadership skills.</li> 
+	<li><b>Character and leadership can be actualized:</b> Opportunities and experiential learning platforms.</li>
+</ul>
 <img style="width:75%" src="/images/studleadership2023_pic1.png">
 
-### Approach
-* Three-prong approach 
-* First level: Broad base, represents Personal leadership - **Lead Self**
-* Second level: Peer leadership - **Serve and Lead Peers**
-* Third level: People leadership which entails serving and leading at the school level -&nbsp;**Lead School**
-* Students will be developed as leaders of self and leaders of others through Servant Leadership
-* Students with leadership potential will take on roles as leaders of teams and leaders of leaders
-* Committed leaders guided by sound values and effective life-skills
+<h3><strong>Approach</strong></h3>
+<ul>
+<li>Three-prong approach.</li> 
+	<li>First level: Broad base, represents Personal leadership - <b>Lead Self</b>.</li>
+	<li>Second level: Peer leadership - <b>Serve and Lead Peers</b>.</li>
+<li>Third level: People leadership which entails serving and leading at the school level -&nbsp;<b> Lead School</b>.</li>
+<li>Students will be developed as leaders of self and leaders of others through Servant Leadership.</li>
+<li>Students with leadership potential will take on roles as leaders of teams and leaders of leaders.</li>
+<li>Committed leaders guided by sound values and effective life-skills.</li>
+</ul>
 
-### Student Leadership Structure
-
+<h3><strong>Student Leadership Structure</strong></h3>
+<br>
 <img style="width:100%" src="/images/studleadership2023_pic2.png">
 
-**Empowering our Students Leaders through a tiered approach:**
-
-* Every student is a leader, a thinking citizen, capable of leading themselves and others
-* Meaningful leadership opportunities in classroom and within school
-
+<b>Empowering our Students Leaders through a tiered approach:</b>
+<ul>
+<li>Every student is a leader, a thinking citizen, capable of leading themselves and others.</li>
+<li>Meaningful leadership opportunities in classroom and within school.</li>
+</ul>
+<br>
 <img style="width:100%" src="/images/studleadership2023_pic3a.png">
 
-### Student Leaders Empowerment Programmes:
+<h3><strong>Student Leaders Empowerment Programmes:</strong></h3>
 
 <ul class="jekyllcodex_accordion">
 &nbsp;&nbsp;<li>

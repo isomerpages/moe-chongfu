@@ -3,13 +3,13 @@ title: Chinese Orchestra
 permalink: /cca-chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
-variant: tiptap
+variant: markdown
 ---
-<p>Our Chinese Orchestra CCA aims to create the opportunity for students
+<p style="text-align:justify">Our Chinese Orchestra CCA aims to create the opportunity for students
 who have passion and interest in music. We will help the students to develop
 their musical skills and understand the tradition of Chinese musical culture.</p>
-<p>We will also develop students confident, teamwork &amp; leadership skills
-through the musical performances &amp; competitions.</p>
+
+<p style="text-align:justify">We will also develop students confident, teamwork &amp; leadership skills through the musical performances &amp; competitions.</p>
 <p><strong>Teachers In Charge: Tuesdays</strong>
 </p>
 <ul data-tight="true" class="tight">

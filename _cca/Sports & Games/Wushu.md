@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-The origins of Chinese martial arts can be traced over 6,000 years ago. It exists mainly for self-defense needs. Today, Wushu is a highly regarded sport for people from all walks of life. Its richness in Chinese cultural philosophies and the physical health benefits imparted through practicing has made it one of the most popular national sport.&nbsp;  
+<p style="text-align:justify">The origins of Chinese martial arts can be traced over 6,000 years ago. It exists mainly for self-defense needs. Today, Wushu is a highly regarded sport for people from all walks of life. Its richness in Chinese cultural philosophies and the physical health benefits imparted through practicing has made it one of the most popular national sport.</p>
   
-Martial Arts system of ethical and moral values are instilled to nurture sensible children whom are the future valuable assets of the society.&nbsp;
+<p style="text-align:justify">Martial Arts system of ethical and moral values are instilled to nurture sensible children whom are the future valuable assets of the society.</p>
 
-Wushu members learn the various Wushu movements such as Chinese Taijiquan, as well as the use of sword, spear and cudgel in combat. They will be taught the basic Wushu movements.
+<p style="text-align:justify">Wushu members learn the various Wushu movements such as Chinese Taijiquan, as well as the use of sword, spear and cudgel in combat. They will be taught the basic Wushu movements.</p>
 
-From P3 onwards, students may be selected to join the Wushu school team to represent the Chongfu School in National Inter-Primary Schools Wushu Championships.
+<p style="text-align:justify">From P3 onwards, students may be selected to join the Wushu school team to represent the Chongfu School in National Inter-Primary Schools Wushu Championships.</p>
 
-**P3 and P4 Teachers In Charge: Tuesdays**
+<b>P3 and P4 Teachers In Charge: Tuesdays</b>
 
 <ul>
 <li> Mdm Joanne Chua <b>(I/C)</b></li>
@@ -21,14 +21,14 @@ From P3 onwards, students may be selected to join the Wushu school team to repre
 <li> Benin </li>
 </ul>
 
-**P5 and P6 Teachers In Charge: Fridays**
+<b>P5 and P6 Teachers In Charge: Fridays</b>
 
 <ul>
 <li> Ms Toh Sio Cheng </li>
 <li> Mdm Koh Siew Geok </li>
 </ul>
 
-**CCA Day &amp; Venue:**
+<b>CCA Day &amp; Venue:</b>
 
 <ul>
 <li>Tuesdays, 1.45pm – 4.45pm | ISH </li>

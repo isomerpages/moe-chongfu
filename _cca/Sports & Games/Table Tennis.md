@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-Chongfu School Table Tennis aims to provide all players with the opportunity to enjoy the sport regardless of their skill level. Players are provided with the opportunities to develop their skills at their own pace. Players who have the tenacity to train hard are given opportunities to represent schools at the zonal and national competitions.
+<p style="text-align:justify">Chongfu School Table Tennis aims to provide all players with the opportunity to enjoy the sport regardless of their skill level. Players are provided with the opportunities to develop their skills at their own pace. Players who have the tenacity to train hard are given opportunities to represent schools at the zonal and national competitions.</p>
 
-The objectives of Chongfu School Table Tennis are to nurture and develop discipline, confidence, resilience, and perseverance among our members. In Chongfu School Table Tennis, we believe that a high level of self-discipline brings about a high level of focus, which is a key to high level of achievement. We also inculcate the values of sportsmanship and teamwork during CCAs where players are given opportunities to work with each other and grow together.
+<p style="text-align:justify">The objectives of Chongfu School Table Tennis are to nurture and develop discipline, confidence, resilience, and perseverance among our members. In Chongfu School Table Tennis, we believe that a high level of self-discipline brings about a high level of focus, which is a key to high level of achievement. We also inculcate the values of sportsmanship and teamwork during CCAs where players are given opportunities to work with each other and grow together.</p>
 
-During trainings, players will learn different techniques such as stroke play, footwork, ball control, serve, defence and attack strategies. In addition, sparring matches are incorporated during training&nbsp;to increase members’ cooperation, competitiveness and game readiness.
+<p style="text-align:justify">During trainings, players will learn different techniques such as stroke play, footwork, ball control, serve, defence and attack strategies. In addition, sparring matches are incorporated during training&nbsp;to increase members’ cooperation, competitiveness and game readiness.</p>
 
-**P3 and P4 Teachers In Charge: Tuesdays**
+<b>P3 and P4 Teachers In Charge: Tuesdays</b>
 
 <ul>
 <li> Ms Jillyn Woo Wanyi <b>(I/C)</b></li>
@@ -19,7 +19,7 @@ During trainings, players will learn different techniques such as stroke play, f
 <li> Ms Shi Jia </li>
 </ul>
 
-**P5 and P6 Teachers In Charge: Fridays**
+<b>P5 and P6 Teachers In Charge: Fridays</b>
 
 <ul>
 <li> Mr Edwin Goh Keng Lim <b>(I/C)</b></li>
@@ -27,7 +27,7 @@ During trainings, players will learn different techniques such as stroke play, f
 <li> Ms Zhang Li  </li>
 </ul>
 
-**CCA Day &amp; Venue:**
+<b>CCA Day &amp; Venue:</b>
 
 <ul>
 <li><b>P3 and P4:</b> Tuesdays, 1.45pm – 3.45pm | TKKH Hall &amp; CCA Room</li>
@@ -35,10 +35,10 @@ During trainings, players will learn different techniques such as stroke play, f
 <li><b>School Team:</b> Mondays, Tuesdays and Fridays,<br> 1.45pm – 4.45pm | TKKH Hall &amp; CCA Room</li>
 </ul>
 
-**CCA Coaches:**  
+<b>CCA Coaches:</b>
 Mr Wang Xiaoke, Ms Xu Shuguang
 
-### CCA Achievements
+<h3><strong>CCA Achievements</strong></h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -79,7 +79,7 @@ Mr Wang Xiaoke, Ms Xu Shuguang
 </tbody>
 </table>
 
-### CCA Schedule (as of year 2023)
+<h3><strong>CCA Schedule (as of year 2023)</strong></h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
