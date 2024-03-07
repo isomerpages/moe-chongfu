@@ -5,19 +5,17 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<p>In our Malay Dance Club, students are exposed to the different genres
-of Malay traditional dances namely Asli, Inang, Joget, Zapin and Masri.
+<p style="text-align:justify">In our Malay Dance Club, students are exposed to the different genres of Malay traditional dances namely Asli, Inang, Joget, Zapin and Masri.
 Through the weekly practices and exposure, we hope to ignite their interest
 and passion in deepening their appreciation for the Malay Culture and Heritage
 in a supportive environment.</p>
-<p>There are various platforms for our students to showcase their talents
-and hone their art. To date, our students have performed at school events
+<p style="text-align:justify">There are various platforms for our students to showcase their talents and hone their art. To date, our students have performed at school events
 such as National Day and also participated in the Singapore Youth Festival.
 They have also recently showcased a dance that celebrates the vibrancy
 of youth at the Groundbreaking Ceremony for Chong Pang Integrated Development,
 an event that was graced by the Prime Minister.</p>
-<p><strong>P3 and P4 Teachers In Charge: Tuesdays</strong>
-</p>
+
+<p><strong>P3 and P4 Teachers In Charge: Tuesdays</strong></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Sabariah Bte Alwi <strong>(I/C)</strong>
@@ -48,8 +46,7 @@ an event that was graced by the Prime Minister.</p>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture1.jpg">
 </div>
-<p><strong><em>The Malay Dance CCA members had a prestigious photo opportunity with Minister Mr K Shanmugam during the 'Groundbreaking Ceremony of Chong Pang City' on 26 March 2023, where the members gave a pleasing performance to the audience.</em></strong>
-</p>
+<p style="text-align:justify"><strong><em>The Malay Dance CCA members had a prestigious photo opportunity with Minister Mr K Shanmugam during the 'Groundbreaking Ceremony of Chong Pang City' on 26 March 2023, where the members gave a pleasing performance to the audience.</em></strong></p>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture4.jpg">
 </div>
@@ -62,8 +59,7 @@ an event that was graced by the Prime Minister.</p>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture2.jpg">
 </div>
-<p><strong><em>Rentak Ria, an upbeat dance that showcases a vibrant celebration of youthful vitality, was proudly presented by members of our Malay Dance CCA at the Groundbreaking Ceremony for the Chong Pang Integrated Development (CPID) in March 2023. It was an honour to represent Chongfu School in such an important community event.</em></strong>
-</p>
+<p style="text-align:justify"><strong><em>Rentak Ria, an upbeat dance that showcases a vibrant celebration of youthful vitality, was proudly presented by members of our Malay Dance CCA at the Groundbreaking Ceremony for the Chong Pang Integrated Development (CPID) in March 2023. It was an honour to represent Chongfu School in such an important community event.</em></strong></p>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture8.jpg">
 </div>
@@ -82,5 +78,4 @@ an event that was graced by the Prime Minister.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya-2.jpg">
 </div>
-<p><strong><em>Members develop their self-confidence and sense of commitment as they go about the rigour of weekly practices and rehearsals, an integral part of a successful and laudable performance.</em></strong>
-</p>
+<p style="text-align:justify"><strong><em>Members develop their self-confidence and sense of commitment as they go about the rigour of weekly practices and rehearsals, an integral part of a successful and laudable performance.</em></strong></p>
