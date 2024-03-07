@@ -2,34 +2,42 @@
 title: Student Leadership
 permalink: /curriculum/studentleadership/
 description: ""
+variant: markdown
 ---
-### Objective
+<h3><strong>Objective</strong></h3>
 
-To develop and maximise the potential of&nbsp;each **student leader**&nbsp;in Chongfu School in the domains of knowledge, skills and attributes to enable them to become excellent individuals who can contribute effectively to the school, home, community, nation and the world.
+<p style="text-align:justify">To develop and maximise the potential of&nbsp;each <b>student leader</b> in Chongfu School in the domains of knowledge, skills and attributes to enable them to become excellent individuals who can contribute effectively to the school, home, community, nation and the world.</p>
 
-### Every Student is a Leader
-* Comprehensive School Wide Leadership 
-* To hone every student’s leadership skills
-* Betterment of self, home, peers, school, community, nation and the world.
-* Structured Leadership Development
-* A systematic approach
-* Meaningful opportunities
+<h3><strong>Every Student is a Leader</strong></h3>
+<ul>
+<li>Comprehensive School Wide Leadership</li>
+<li>To hone every student’s leadership skills</li>
+<li>Betterment of self, home, peers, school, community, nation and the world.</li>
+<li>Structured Leadership Development</li>
+<li>A systematic approach</li>
+<li>Meaningful opportunities</li>
+</ul>
 
-### Leadership Development
-* **Leaders:**
-	* *Confident*
-	* *Strength of character*
-	* *Ready to serve*
-* **Adopts Prof Thomas Lickona’s theory:**
-	* *Moral Knowing*
-	* *Moral Feeling*
-	* *Moral Action*
-* “**Head, Heart, Hands**” approach in engaging the whole child
-* **Learner-centric** approach to support students’ learning. 
-* **Aims to impart knowledge**, inculcate values and motivate students to take the right actions.
-* **Formal and informal curricula**: knowledge on values and leadership skills 
-* **Character and leadership can be actualized:** Opportunities and experiential learning platforms
-
+<h3><strong>Leadership Development</strong></h3>
+<ul>
+	<li>Leaders:</li>
+<ul>
+	<li><i>Confident</i></li>
+	<li><i>Strength of character</i></li>
+	<li><i>Ready to serve</i></li>
+	</ul>
+	<li>Adopts Prof Thomas Lickona’s theory:</li>
+<ul>
+	<li><i>Moral Knowing</i></li>
+	<li><i>Moral Feeling</i></li>
+	<li><i>Moral Action</i></li>
+</ul>
+	<li><b>"Head, Heart, Hands”</b> approach in engaging the whole child.</li>
+	<li><b>Learner-centric</b> approach to support students’ learning.</li> 
+	<li><b>Aims to impart knowledge</b>, inculcate values and motivate students to take the right actions.</li>
+	<li><b>Formal and informal curricula</b>: knowledge on values and leadership skills.</li> 
+	<li><b>Character and leadership can be actualized:</b> Opportunities and experiential learning platforms.</li>
+</ul>
 <img style="width:75%" src="/images/studleadership2023_pic1.png">
 
 ### Approach
