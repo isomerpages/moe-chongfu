@@ -5,23 +5,21 @@ description: ""
 third_nav_title: Clubs and Society
 variant: markdown
 ---
-<p>Serving as an introductory platform to computer science, the Chongfu ICT
-Club provides our members with opportunities to develop their programming
+<p style="text-align:justify">Serving as an introductory platform to computer science, the Chongfu ICT Club provides our members with opportunities to develop their programming
 knowledge, create digital media and raise awareness of cyber wellness.</p>
-<p>The ICT Club aims to cultivate self and relationship management through
+
+<p style="text-align:justify">The ICT Club aims to cultivate self and relationship management through
 the incorporation of project work.</p>
 <p><strong>Coding</strong>
 </p>
-<p>Block-based coding is a form of programming language where the students
-assign instructions by dragging and dropping blocks. The syntax-free coding
+<p style="text-align:justify">Block-based coding is a form of programming language where the students assign instructions by dragging and dropping blocks. The syntax-free coding
 encourages the exploration of learning among our younger learners who have
 just embarked on their journey of computer science. Through familiarization
 with block-based coding, students learn how to solve challenges critically
 and creatively.</p>
 <p><strong>Adobe Photoshop and Lightroom</strong>
 </p>
-<p>The editing of photos allows students to express their creativity. They
-are taught the technicality of picture creation through layering and photo
+<p style="text-align:justify">The editing of photos allows students to express their creativity. They are taught the technicality of picture creation through layering and photo
 editing. In addition, students develop their competencies in responsible
 decision making and relationship management through project work.</p>
 <p><strong>P3 and P5 Teachers In Charge:</strong>
