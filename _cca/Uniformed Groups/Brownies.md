@@ -5,21 +5,20 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<p>In collaboration with Girl Guides Singapore (GGS), Chongfu Brownies aim
+<p style="text-align:justify">In collaboration with Girl Guides Singapore (GGS), Chongfu Brownies aim
 to create opportunities for girls to discover and develop their strengths
 and leadership skills. Our weekly CCA sessions and GGS activities offers
 Brownies a wide range of activities for them to learn life skills and social
 skills, explore and be developed in her area of interest. They also get
 to develop values and competencies that prepare them for a rapidly changing
 world.</p>
-<p>Through the attainment of proficiency badges, Brownies are encouraged
-to explore and discover the world around them, as well as to be more independent.
-By participating in Pack Holiday and International Camps, Brownies forge
+
+<p style="text-align:justify">Through the attainment of proficiency badges, Brownies are encouraged to explore and discover the world around them, as well as to be more independent. By participating in Pack Holiday and International Camps, Brownies forge
 unique memories with participants worldwide and foster enriching experiences.
 The VIA programmes ensures that they live up to their Brownies Motto –
 To Lend A Hand and leave a lasting impact on others in the community.</p>
-<p>GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities
-for Brownies to start an exciting adventure of their life journey. All
+
+<p style="text-align:justify">GGS activities, CCA weekly sessions and Pack Holiday Camps are opportunities for Brownies to start an exciting adventure of their life journey. All
 activities a Brownie does is full of adventure – it is a world of great
 discovery, new interests and lasting friendships. Join Us and Be part of
 our Brownies family!</p>
