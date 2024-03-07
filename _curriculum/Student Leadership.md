@@ -10,12 +10,12 @@ variant: markdown
 
 <h3><strong>Every Student is a Leader</strong></h3>
 <ul>
-<li>Comprehensive School Wide Leadership</li>
-<li>To hone every student’s leadership skills</li>
+<li>Comprehensive School Wide Leadership.</li>
+<li>To hone every student’s leadership skills.</li>
 <li>Betterment of self, home, peers, school, community, nation and the world.</li>
-<li>Structured Leadership Development</li>
-<li>A systematic approach</li>
-<li>Meaningful opportunities</li>
+<li>Structured Leadership Development.</li>
+<li>A systematic approach.</li>
+<li>Meaningful opportunities.</li>
 </ul>
 
 <h3><strong>Leadership Development</strong></h3>
