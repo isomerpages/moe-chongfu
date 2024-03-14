@@ -652,9 +652,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jame Pang Sook Fui
-<br>
-</p>
+<p>Ms Nurnadiah Begum Asraffe</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -717,8 +716,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Goh Keng Lim
-<br><a href="mailto:goh_keng_lim_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_keng_lim_edwin@moe.edu.sg</a>
+<p>Mdm Wen Xiwen
+<br><a href="mailto:wen_xiwen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wen_xiwen_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -733,8 +732,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jennifer D/O Anthoney
-<br>
+<p>Ms Chew Geik Bee Angeline</p>
+<p><a href="mailto:chew_geik_bee_angeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_geik_bee_angeline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
