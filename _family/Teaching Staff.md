@@ -11,7 +11,7 @@ variant: markdown
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:15px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  font-weight:normal;overflow:hidden;padding:15px 5px;word-break:normal;}
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
 .tg .tg-feqv{background-color:#d0021b;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
