@@ -8,8 +8,8 @@ variant: tiptap
 <ul>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Primary 1</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary One</strong>
-<br><strong>Assistant Year Head&nbsp;</strong>
+<p><strong>2024 Primary One</strong> 
+<br><strong>Assistant Year Head&nbsp;</strong> 
 <br>Mdm Nur Lailie Bte Jamal
 <br><a rel="noopener noreferrer nofollow" target="_blank">nur_lailie_jamal@moe.edu.sg</a>
 </p>
@@ -196,8 +196,8 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Primary 2</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary Two</strong>
-<br><strong>Assistant Year Head</strong>
+<p><strong>2024 Primary Two</strong> 
+<br><strong>Assistant Year Head</strong> 
 <br>Ms Madihah Binte Ghazali
 <br><a rel="noopener noreferrer nofollow" target="_blank">madihah_ghazali@moe.edu.sg</a>
 </p>
@@ -210,6 +210,10 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Form Teacher</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Co-form Teacher</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -232,6 +236,11 @@ variant: tiptap
 <br><a href="mailto:noraini_amin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_amin@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lilys Satini Thamrin</p>
+<p><a href="mailto:lilys_satini_thamrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lilys_satini_thamrin@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -239,14 +248,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sun Weiwei 孙维维
-<br><a href="mailto:sun_weiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sun_weiwei@moe.edu.sg</a>
+<p>Ms Chua Chia Mei</p>
+<p><a href="mailto:chua_chia_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chia_mei@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shona Cha Siew Lian
-<br>
+<br><a href="mailto:shona_cha_siew_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shona_cha_siew_lian@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -264,6 +276,9 @@ variant: tiptap
 <br><a href="mailto:tee_sow_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tee_sow_chin@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -280,6 +295,9 @@ variant: tiptap
 <br><a href="mailto:chen_xiuqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_xiuqin@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -293,8 +311,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fong Yoke Inn
-<br>
+<br><a href="mailto:fong_yoke_inn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fong_yoke_inn@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -309,8 +330,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chia Eng Lee 谢英利
-<br>
+<br><a href="mailto:chia_eng_lee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_eng_lee_a@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -328,6 +352,12 @@ variant: tiptap
 <br><a href="mailto:srinidta_gobinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s_sunitha_pillay@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Saikrithika J</p>
+<p><a href="mailto:j_saikrithika@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">j_saikrithika@moe.edu.sg</a>
+</p>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -340,9 +370,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kylicia Soo Geok Ling
+<p>Ms Loh Soo Hua Debbie</p>
+<p>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -360,6 +394,9 @@ variant: tiptap
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -376,6 +413,9 @@ variant: tiptap
 <br><a href="mailto:zhou_weihua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_weihua@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -383,8 +423,8 @@ variant: tiptap
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Primary 3</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary Three</strong>
-<br><strong>Assistant Year Head&nbsp;</strong>
+<p><strong>2024 Primary Three</strong> 
+<br><strong>Assistant Year Head&nbsp;</strong> 
 <br>Ms&nbsp;Lau Kui Fang Audrey</p>
 <p><a href="mailto:lau_kui_fang_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kui_fang_audrey@moe.edu.sg</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <table>
@@ -533,8 +573,8 @@ variant: tiptap
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Primary 4</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary Four</strong>
-<br><strong>Lower Primary Year Head</strong>
+<p><strong>2024 Primary Four</strong> 
+<br><strong>Lower Primary Year Head</strong> 
 <br>Mdm Ong Shu Ying
 <br><a href="mailto:ong_shu_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shu_ying@moe.edu.sg</a>
 </p>
@@ -614,7 +654,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tricia Lim Xiu Xuan 林秀暄
-<br><a href="mailto:tricia_lim_xiu_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tricia_lim_xiu_xuan@moe.edu.sg</a>
+<br><a href="mailto:tricia_lim_xiu_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tricia_lim_xiu_xuan@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -689,8 +729,8 @@ variant: tiptap
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Primary 5</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary Five</strong>
-<br><strong>Upper Primary Year Head</strong>
+<p><strong>2024 Primary Five</strong> 
+<br><strong>Upper Primary Year Head</strong> 
 <br>Ms Yap Xin Yi Filicia</p>
 <p><a href="mailto:yap_xin_yi_filicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_xin_yi_filicia@moe.edu.sg</a>
 </p>
@@ -842,7 +882,7 @@ variant: tiptap
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Primary 6</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary Six</strong>
+<p><strong>2024 Primary Six</strong> 
 <br><strong>Assistant Year Head </strong>
 <br>Ms Soh Jingsi
 <br><a href="mailto:soh_jingsi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_jingsi@moe.edu.sg</a>
