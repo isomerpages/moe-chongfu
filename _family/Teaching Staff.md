@@ -4,11 +4,8 @@ permalink: /family/teaching-staff/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<ul>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Primary 1</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary One</strong> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>2024 Primary 1</strong> 
 <br><strong>Assistant Year Head&nbsp;</strong> 
 <br>Mdm Nur Lailie Bte Jamal
 <br><a rel="noopener noreferrer nofollow" target="_blank">nur_lailie_jamal@moe.edu.sg</a>
@@ -17,7 +14,6 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <p><strong>Class</strong>
 </p>
 </th>
@@ -192,11 +188,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-</li>
-<li>
-<p><strong>Primary 2</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary Two</strong> 
+<p>&nbsp;&nbsp;&nbsp;</p>
+<p><strong>2024 Primary 2</strong> 
 <br><strong>Assistant Year Head</strong> 
 <br>Ms Madihah Binte Ghazali
 <br><a rel="noopener noreferrer nofollow" target="_blank">madihah_ghazali@moe.edu.sg</a>
@@ -420,10 +413,9 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
+<ul>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Primary 3</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary Three</strong> 
+<p><strong>2024 Primary 3</strong>
 <br><strong>Assistant Year Head&nbsp;</strong> 
 <br>Ms&nbsp;Lau Kui Fang Audrey</p>
 <p><a href="mailto:lau_kui_fang_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kui_fang_audrey@moe.edu.sg</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -443,7 +435,8 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Co-form Teacher</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -602,9 +595,8 @@ variant: tiptap
 </table>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Primary 4</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary Four</strong> 
+</ul>
+<p><strong>2024 Primary 4</strong> 
 <br><strong>Lower Primary Year Head</strong> 
 <br>Mdm Ong Shu Ying
 <br><a href="mailto:ong_shu_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shu_ying@moe.edu.sg</a>
@@ -756,10 +748,7 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Primary 5</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary Five</strong> 
+<p><strong>2024 Primary 5</strong> 
 <br><strong>Upper Primary Year Head</strong> 
 <br>Ms Yap Xin Yi Filicia</p>
 <p><a href="mailto:yap_xin_yi_filicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_xin_yi_filicia@moe.edu.sg</a>
@@ -780,7 +769,8 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Co-form Teacher</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -941,15 +931,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Primary 6</strong> &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>2024 Primary Six</strong> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>2024 Primary 6</strong> 
 <br><strong>Assistant Year Head </strong>
 <br>Ms Soh Jingsi
 <br><a href="mailto:soh_jingsi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_jingsi@moe.edu.sg</a>
 </p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -1097,7 +1085,6 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <table>
 <tbody>
 <tr>
@@ -1124,6 +1111,4 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-</ul>
 <p></p>
