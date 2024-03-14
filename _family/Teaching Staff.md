@@ -1073,8 +1073,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sharin Bin Sulaiman
-<br><a href="mailto:sharin_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharin_sulaiman@moe.edu.sg</a>
+<p>Ms Laila Binte Othman</p>
+<p><a href="mailto:laila_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">laila_othman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1089,17 +1089,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yong Yock Hone Katherine
-<br><a href="mailto:yong_yock_hone_katherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_yock_hone_katherine@moe.edu.sg</a>
+<p>Mdm Yong Yock Hone Katherine</p>
+<p><a href="mailto:yong_yock_hone_katherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_yock_hone_katherine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Other Teachers &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <table>
 <tbody>
 <tr>
@@ -1115,17 +1113,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Chia Mei - NIE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nadrah Binte Anuar - NIE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Oh Cheng Jie - NIE</p>
+<p>Mr Oh Cheng Jie Jimmy - NIE</p>
 </td>
 </tr>
 </tbody>
