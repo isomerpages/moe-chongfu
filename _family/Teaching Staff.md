@@ -90,7 +90,7 @@ Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg" style="
 <b>Assistant Year Head</b><br>
 Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg" style="text-decoration:none; color:#744d9f">madihah_ghazali@moe.edu.sg</a><br></p>
 
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 618px">
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 858px">
 <colgroup>
 <col style="width: 100px">
 <col style="width: 234px">
@@ -175,7 +175,7 @@ Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg" style="t
 Ms Lau Kui Fang Audrey<br><a href="mailto:lau_kui_fang_audrey@moe.edu.sg" style="text-decoration:none; color:#744d9f">lau_kui_fang_audrey@moe.edu.sg</a><br></p>
 
 
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 618px">
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 858px">
 <colgroup>
 <col style="width: 100px">
 <col style="width: 234px">
@@ -251,7 +251,6 @@ Mdm Ong Shu Ying<br><a href="mailto:ong_shu_ying@moe.edu.sg" style="text-decorat
 <col style="width: 100px">
 <col style="width: 234px">
 <col style="width: 284px">
-<col style="width: 240px">
 </colgroup>
 <tbody>
 <tr>
@@ -307,7 +306,7 @@ Mdm Ong Shu Ying<br><a href="mailto:ong_shu_ying@moe.edu.sg" style="text-decorat
 <b>Upper Primary Year Head</b><br>
 Ms Yap Xin Yi Filicia<br><a href="mailto:yap_xin_yi_filicia@moe.edu.sg" style="text-decoration:none; color:#744d9f">yap_xin_yi_filicia@moe.edu.sg</a><br></p>
 
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 618px">
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 858px">
 <colgroup>
 <col style="width: 100px">
 <col style="width: 234px">
@@ -382,7 +381,6 @@ Ms Soh Jingsi<br><a href="mailto:soh_jingsi@moe.edu.sg" style="text-decoration:n
 <col style="width: 100px">
 <col style="width: 234px">
 <col style="width: 284px">
-	<col style="width: 240px">
 </colgroup>
 <tbody>
 <tr>
