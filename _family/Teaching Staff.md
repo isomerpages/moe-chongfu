@@ -224,7 +224,7 @@ Ms Lau Kui Fang Audrey<br><a href="mailto:lau_kui_fang_audrey@moe.edu.sg" style=
 </tr>
 <tr>
 <td class="tg-yhj3">3 Observant<br></td>
-<td class="tg-yhj3">Mr Kenn Roy Anthony<br><a href="mailto:kenn_roy_anthony@moe.edu.sg" style="text-decoration:none; color:#744d9f">kenn_roy_anthony@moe.edu.sg/a&gt;<br></a></td>
+<td class="tg-yhj3">Mr Kenn Roy Anthony<br><a href="mailto:kenn_roy_anthony@moe.edu.sg" style="text-decoration:none; color:#744d9f">kenn_roy_anthony@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Ms Lin Wan Ting Joli 林纨廷<br><a href="mailto:lin_wanting_joli@moe.edu.sg" style="text-decoration:none; color:#744d9f">lin_wanting_joli@moe.edu.sg</a><br></td>
 <td class="tg-yhj3"><br></td>
 </tr>
