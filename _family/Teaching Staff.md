@@ -438,10 +438,16 @@ Ms Soh Jingsi<br><a href="mailto:soh_jingsi@moe.edu.sg" style="text-decoration:n
 <tbody>
 
 <tr>
-<td class="tg-yhj3">Ms Nadrah Binte Anuar - NIE<br></td>
+<td class="tg-yhj3">Ms Nadrah Binte Anuar<br></td>
 </tr>
 <tr>
-<td class="tg-yhj3">Mr Oh Cheng Jie - NIE<br></td>	
+<td class="tg-yhj3">Mr Oh Cheng Jie Jimmy<br></td>	
+</tr>
+<tr>
+<td class="tg-yhj3">Mdm Sharifah Najibah<br></td>	
+</tr>
+<tr>
+<td class="tg-yhj3">Mr Silas Abdul Karim - NIE<br></td>	
 </tr>
 </tbody>
 </table>
