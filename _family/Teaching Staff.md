@@ -427,11 +427,11 @@ Ms Soh Jingsi<br><a href="mailto:soh_jingsi@moe.edu.sg" style="text-decoration:n
 <td class="tg-yhj3">Mdm Aini Bte Bujang<br><a href="mailto:aini_bujang@moe.edu.sg" style="text-decoration:none; color:#744d9f">aini_bujang@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Mdm Yong Yock Hone Katherine<br><a href="mailto:yong_yock_hone_katherine@moe.edu.sg" style="text-decoration:none; color:#744d9f">yong_yock_hone_katherine@moe.edu.sg</a><br></td>
 </tr>
-	
+</tbody>
+</table>
 
-
-
-</tbody></table><table align="left" class="tg" style="undefined; table-layout: fixed; width: 238px">
+<p><b>Other Teachers</b></p>
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 238px">
 <colgroup>
 <col style="width: 238px">
 </colgroup>
