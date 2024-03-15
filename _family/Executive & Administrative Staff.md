@@ -89,6 +89,11 @@ variant: markdown
 		<td class="tg-yhj3"><a href="mailto:siti_norkamariah_khalid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_norkamariah_khalid@moe.edu.sg</a></td>
   </tr>
 	<tr>
+    <td class="tg-yhj3">Ms Thenmozhi D/O Gunasegaran<br></td>
+    <td class="tg-yhj3">SEN Officer</td>
+		<td class="tg-yhj3"><a href="mailto:thenmozhi_gunasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thenmozhi_gunasegaran@moe.edu.sg</a></td>
+  </tr>
+	<tr>
     <td class="tg-yhj3">Mdm Suminah Bte Salim<br></td>
     <td class="tg-yhj3">Operations Support Officer (OSO)</td>
 		<td class="tg-yhj3"><a href="mailto:suminah_salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suminah_salim@moe.edu.sg</a></td>
