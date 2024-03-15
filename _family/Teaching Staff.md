@@ -430,7 +430,7 @@ Ms Soh Jingsi<br><a href="mailto:soh_jingsi@moe.edu.sg" style="text-decoration:n
 </tbody>
 </table>
 
-<p><b>Other Teachers</b></p>
+<p><b>Other Teachers</b><br><br></p>
 <table align="left" class="tg" style="undefined; table-layout: fixed; width: 238px">
 <colgroup>
 <col style="width: 238px">
