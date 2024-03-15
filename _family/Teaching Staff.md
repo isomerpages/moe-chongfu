@@ -377,7 +377,7 @@ Ms Soh Jingsi<br><a href="mailto:soh_jingsi@moe.edu.sg" style="text-decoration:n
 <table align="left" class="tg" style="undefined; table-layout: fixed; width: 620px">
 <colgroup>
 <col style="width: 100px">
-<col style="width: 236px">
+<col style="width: 238px">
 <col style="width: 284px">
 </colgroup>
 <tbody>
