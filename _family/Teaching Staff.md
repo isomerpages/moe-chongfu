@@ -430,15 +430,12 @@ Ms Soh Jingsi<br><a href="mailto:soh_jingsi@moe.edu.sg" style="text-decoration:n
 </tbody>
 </table>
 
-<p><b>Other Teachers</b><br><br></p>
+<p><b>Other Teachers</b><br></p>
 <table align="left" class="tg" style="undefined; table-layout: fixed; width: 238px">
 <colgroup>
 <col style="width: 238px">
 </colgroup>
 <tbody>
-<tr>
-<td class="tg-feqv"><span style="color:#FFFFFF;background-color:#d0021b"><b>Other Teachers</b></span></td>
-</tr>
 
 <tr>
 <td class="tg-yhj3">Ms Nadrah Binte Anuar - NIE<br></td>
