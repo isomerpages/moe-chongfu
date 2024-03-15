@@ -4,8 +4,6 @@ permalink: /family/executive-administrative-staff/
 description: ""
 variant: markdown
 ---
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
@@ -46,7 +44,7 @@ variant: markdown
 		<td class="tg-yhj3"><a href="mailto:mardiana_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mardiana_omar@moe.edu.sg</a></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Miss Nurfitri Kasman<br></td>
+    <td class="tg-yhj3">Ms Nurfitri Kasman<br></td>
     <td class="tg-yhj3">Administration Executive (AE)</td>
 		<td class="tg-yhj3"><a href="mailto:nurfitri_kasman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurfitri_kasman@moe.edu.sg</a></td>
   </tr>
@@ -118,6 +116,11 @@ variant: markdown
     <td class="tg-yhj3">Mr Yakub Hussain Mohamed Elias<br></td>
     <td class="tg-yhj3">Desktop Engineer (DE)</td>
 		<td class="tg-yhj3"><a href="mailto:yakub.hussain.mohamed.elias@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">yakub.hussain.mohamed.elias@ncs.com.sg</a></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Siti Razilah Binte Amir Khan<br></td>
+    <td class="tg-yhj3">ICT Trainer</td>
+		<td class="tg-yhj3"><a href="mailto:siti_razilah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_razilah@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Ms Nur Aqilah Binte Ahmah<br></td>
