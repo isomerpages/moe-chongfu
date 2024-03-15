@@ -374,10 +374,10 @@ Ms Yap Xin Yi Filicia<br><a href="mailto:yap_xin_yi_filicia@moe.edu.sg" style="t
 <b>Assistant Year Head</b><br>
 Ms Soh Jingsi<br><a href="mailto:soh_jingsi@moe.edu.sg" style="text-decoration:none; color:#744d9f">soh_jingsi@moe.edu.sg</a><br></p>
 
-<p></p><p></p><table align="left" class="tg" style="undefined; table-layout: fixed; width: 620px">
+<p></p><p></p><table align="left" class="tg" style="undefined; table-layout: fixed; width: 629px">
 <colgroup>
 <col style="width: 100px">
-<col style="width: 238px">
+<col style="width: 245px">
 <col style="width: 284px">
 </colgroup>
 <tbody>
