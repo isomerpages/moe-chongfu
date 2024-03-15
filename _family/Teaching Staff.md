@@ -304,12 +304,12 @@ Mdm Ong Shu Ying<br><a href="mailto:ong_shu_ying@moe.edu.sg" style="text-decorat
 <b>Upper Primary Year Head</b><br>
 Ms Yap Xin Yi Filicia<br><a href="mailto:yap_xin_yi_filicia@moe.edu.sg" style="text-decoration:none; color:#744d9f">yap_xin_yi_filicia@moe.edu.sg</a><br></p>
 
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 806px">
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 802px">
 <colgroup>
 <col style="width: 100px">
 <col style="width: 238px">
 <col style="width: 234px">
-	<col style="width: 234px">
+	<col style="width: 230px">
 </colgroup>
 <tbody>
 <tr>
