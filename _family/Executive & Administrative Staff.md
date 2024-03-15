@@ -15,11 +15,11 @@ variant: markdown
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
 
-<table class="tg" style="undefined;table-layout: fixed; width: 776px">
+<table class="tg" style="undefined;table-layout: fixed; width: 779px">
 <colgroup>
 <col style="width: 257px">
 <col style="width: 234px">
-<col style="width: 285px">
+<col style="width: 288px">
 </colgroup>
 
 <tbody>
