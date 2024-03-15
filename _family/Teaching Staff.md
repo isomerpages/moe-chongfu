@@ -247,7 +247,7 @@ Mdm Ong Shu Ying<br><a href="mailto:ong_shu_ying@moe.edu.sg" style="text-decorat
 <table align="left" class="tg" style="undefined; table-layout: fixed; width: 629px">
 <colgroup>
 <col style="width: 100px">
-<col style="width: 245px">
+<col style="width: 250px">
 <col style="width: 284px">
 </colgroup>
 <tbody>
