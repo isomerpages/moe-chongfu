@@ -415,7 +415,7 @@ Ms Soh Jingsi<br><a href="mailto:soh_jingsi@moe.edu.sg" style="text-decoration:n
 <tr>
 <td class="tg-yhj3">6 Observant<br></td>
 <td class="tg-yhj3">Mr Chan Kai Chun Vincent<br><a href="mailto:chan_kai_chun_vincent@moe.edu.sg" style="text-decoration:none; color:#744d9f">chan_kai_chun_vincent@moe.edu.sg</a><br></td>
-<td class="tg-yhj3">Mr Ng Min Zhou Jonathan<br><a href="mailto:sharin_sulaiman@moe.edu.sg" style="text-decoration:none; color:#744d9f">sharin_sulaiman@moe.edu.sg</a><br></td>
+<td class="tg-yhj3">Mr Ng Min Zhou Jonathan<br><a href="mailto:ng_min_zhou_jonathan@moe.edu.sg" style="text-decoration:none; color:#744d9f">ng_min_zhou_jonathan@moe.edu.sg</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">6 United<br></td>
