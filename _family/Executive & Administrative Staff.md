@@ -64,6 +64,11 @@ variant: markdown
 		<td class="tg-yhj3"><a href="mailto:tan_pek_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pek_ning@moe.edu.sg</a></td>
   </tr>
 	<tr>
+    <td class="tg-yhj3">Ms Nur Afiqah Binte Abuyamin<br></td>
+    <td class="tg-yhj3">Corporate Support Officer (CSO)</td>
+		<td class="tg-yhj3"><a href="mailto:nur_afiqah_abuyamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_afiqah_abuyamin@moe.edu.sg</a></td>
+  </tr>
+	<tr>
     <td class="tg-yhj3">Ms Nur Ziela Binte Ramli<br></td>
     <td class="tg-yhj3">ICT Associate</td>
 		<td class="tg-yhj3"><a href="mailto:nur_ziela_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ziela_ramli@schools.gov.sg</a></td>
