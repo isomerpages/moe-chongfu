@@ -244,10 +244,10 @@ Ms Lau Kui Fang Audrey<br><a href="mailto:lau_kui_fang_audrey@moe.edu.sg" style=
 <b>Lower Primary Year Head</b><br>
 Mdm Ong Shu Ying<br><a href="mailto:ong_shu_ying@moe.edu.sg" style="text-decoration:none; color:#744d9f">ong_shu_ying@moe.edu.sg</a><br></p>
 
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 669px">
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 674px">
 <colgroup>
 <col style="width: 100px">
-<col style="width: 285px">
+<col style="width: 290px">
 <col style="width: 284px">
 </colgroup>
 <tbody>
