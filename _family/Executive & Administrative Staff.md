@@ -74,6 +74,11 @@ variant: markdown
 		<td class="tg-yhj3"><a href="mailto:nur_ziela_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ziela_ramli@schools.gov.sg</a></td>
   </tr>
 	<tr>
+    <td class="tg-yhj3">Ms Ang Boon Hui Cheryl<br></td>
+    <td class="tg-yhj3">School Counsellor</td>
+		<td class="tg-yhj3"><a href="mailto:ang_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_boon_hui@moe.edu.sg</a></td>
+  </tr>
+	<tr>
     <td class="tg-yhj3">Mdm Chin Siew Foong<br></td>
     <td class="tg-yhj3">SEN Officer</td>
 		<td class="tg-yhj3"><a href="mailto:chin_siew_foong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_siew_foong@moe.edu.sg</a></td>
