@@ -49,26 +49,6 @@ variant: markdown
 		<td class="tg-yhj3"><a href="mailto:nurfitri_kasman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurfitri_kasman@moe.edu.sg</a></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Mdm Joyce Lim Kiat Huay<br></td>
-    <td class="tg-yhj3">Management Support Officer (MSO)</td>
-		<td class="tg-yhj3"><a href="mailto:lim_kiat_huay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kiat_huay@moe.edu.sg</a></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Mdm Sa'adatul Khairiah Binte Anwar<br></td>
-    <td class="tg-yhj3">Corporate Support Officer (CSO)</td>
-		<td class="tg-yhj3"><a href="mailto:saadatul_khairiah_anwar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saadatul_khairiah_anwar@moe.edu.sg</a></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Mdm Tan Pek Ning<br></td>
-    <td class="tg-yhj3">Corporate Support Officer (CSO)</td>
-		<td class="tg-yhj3"><a href="mailto:tan_pek_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pek_ning@moe.edu.sg</a></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Ms Nur Afiqah Binte Abuyamin<br></td>
-    <td class="tg-yhj3">Corporate Support Officer (CSO)</td>
-		<td class="tg-yhj3"><a href="mailto:nur_afiqah_abuyamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_afiqah_abuyamin@moe.edu.sg</a></td>
-  </tr>
-	<tr>
     <td class="tg-yhj3">Ms Nur Ziela Binte Ramli<br></td>
     <td class="tg-yhj3">ICT Associate</td>
 		<td class="tg-yhj3"><a href="mailto:nur_ziela_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ziela_ramli@schools.gov.sg</a></td>
@@ -92,6 +72,26 @@ variant: markdown
     <td class="tg-yhj3">Ms Thenmozhi D/O Gunasegaran<br></td>
     <td class="tg-yhj3">SEN Officer</td>
 		<td class="tg-yhj3"><a href="mailto:thenmozhi_gunasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thenmozhi_gunasegaran@moe.edu.sg</a></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Joyce Lim Kiat Huay<br></td>
+    <td class="tg-yhj3">Management Support Officer (MSO)</td>
+		<td class="tg-yhj3"><a href="mailto:lim_kiat_huay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kiat_huay@moe.edu.sg</a></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Sa'adatul Khairiah Binte Anwar<br></td>
+    <td class="tg-yhj3">Corporate Support Officer (CSO)</td>
+		<td class="tg-yhj3"><a href="mailto:saadatul_khairiah_anwar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saadatul_khairiah_anwar@moe.edu.sg</a></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mdm Tan Pek Ning<br></td>
+    <td class="tg-yhj3">Corporate Support Officer (CSO)</td>
+		<td class="tg-yhj3"><a href="mailto:tan_pek_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pek_ning@moe.edu.sg</a></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Ms Nur Afiqah Binte Abuyamin<br></td>
+    <td class="tg-yhj3">Corporate Support Officer (CSO)</td>
+		<td class="tg-yhj3"><a href="mailto:nur_afiqah_abuyamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_afiqah_abuyamin@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Suminah Bte Salim<br></td>
