@@ -31,72 +31,72 @@ variant: markdown
 	<tr>
     <td class="tg-yhj3">Ms Joo Wei Xin<br></td>
     <td class="tg-yhj3">Administrative Manager (AM)</td>
-		<td class="tg-yhj3"><a href="mailto:joo_wei_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joo_wei_xin@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:joo_wei_xin@moe.edu.sg" style="text-decoration:none; color:#744d9f">joo_wei_xin@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Indira Davi<br></td>
     <td class="tg-yhj3">Operations Manager (OM)</td>
-		<td class="tg-yhj3"><a href="mailto:indira_davi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indira_davi@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:indira_davi@moe.edu.sg" style="text-decoration:none; color:#744d9f">indira_davi@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Mardiana Bte Omar<br></td>
     <td class="tg-yhj3">Administration Executive (AE)</td>
-		<td class="tg-yhj3"><a href="mailto:mardiana_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mardiana_omar@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:mardiana_omar@moe.edu.sg" style="text-decoration:none; color:#744d9f">mardiana_omar@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Ms Nurfitri Kasman<br></td>
     <td class="tg-yhj3">Administration Executive (AE)</td>
-		<td class="tg-yhj3"><a href="mailto:nurfitri_kasman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurfitri_kasman@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:nurfitri_kasman@moe.edu.sg" style="text-decoration:none; color:#744d9f">nurfitri_kasman@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Ms Nur Ziela Binte Ramli<br></td>
     <td class="tg-yhj3">ICT Associate</td>
-		<td class="tg-yhj3"><a href="mailto:nur_ziela_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ziela_ramli@schools.gov.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:nur_ziela_ramli@schools.gov.sg" style="text-decoration:none; color:#744d9f">nur_ziela_ramli@schools.gov.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Ms Ang Boon Hui Cheryl<br></td>
     <td class="tg-yhj3">School Counsellor</td>
-		<td class="tg-yhj3"><a href="mailto:ang_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_boon_hui@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:ang_boon_hui@moe.edu.sg" style="text-decoration:none; color:#744d9f">ang_boon_hui@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Chin Siew Foong<br></td>
     <td class="tg-yhj3">SEN Officer</td>
-		<td class="tg-yhj3"><a href="mailto:chin_siew_foong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_siew_foong@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:chin_siew_foong@moe.edu.sg" style="text-decoration:none; color:#744d9f">chin_siew_foong@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Siti Norkamariah Binte Khalid<br></td>
     <td class="tg-yhj3">SEN Officer</td>
-		<td class="tg-yhj3"><a href="mailto:siti_norkamariah_khalid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_norkamariah_khalid@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:siti_norkamariah_khalid@moe.edu.sg" style="text-decoration:none; color:#744d9f">siti_norkamariah_khalid@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Ms Thenmozhi D/O Gunasegaran<br></td>
     <td class="tg-yhj3">SEN Officer</td>
-		<td class="tg-yhj3"><a href="mailto:thenmozhi_gunasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thenmozhi_gunasegaran@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:thenmozhi_gunasegaran@moe.edu.sg" style="text-decoration:none; color:#744d9f">thenmozhi_gunasegaran@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Joyce Lim Kiat Huay<br></td>
     <td class="tg-yhj3">Management Support Officer (MSO)</td>
-		<td class="tg-yhj3"><a href="mailto:lim_kiat_huay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kiat_huay@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:lim_kiat_huay@moe.edu.sg" style="text-decoration:none; color:#744d9f">lim_kiat_huay@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Sa'adatul Khairiah Binte Anwar<br></td>
     <td class="tg-yhj3">Corporate Support Officer (CSO)</td>
-		<td class="tg-yhj3"><a href="mailto:saadatul_khairiah_anwar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saadatul_khairiah_anwar@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:saadatul_khairiah_anwar@moe.edu.sg" style="text-decoration:none; color:#744d9f">saadatul_khairiah_anwar@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Tan Pek Ning<br></td>
     <td class="tg-yhj3">Corporate Support Officer (CSO)</td>
-		<td class="tg-yhj3"><a href="mailto:tan_pek_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pek_ning@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:tan_pek_ning@moe.edu.sg" style="text-decoration:none; color:#744d9f">tan_pek_ning@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Ms Nur Afiqah Binte Abuyamin<br></td>
     <td class="tg-yhj3">Corporate Support Officer (CSO)</td>
-		<td class="tg-yhj3"><a href="mailto:nur_afiqah_abuyamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_afiqah_abuyamin@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:nur_afiqah_abuyamin@moe.edu.sg" style="text-decoration:none; color:#744d9f">nur_afiqah_abuyamin@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Suminah Bte Salim<br></td>
     <td class="tg-yhj3">Operations Support Officer (OSO)</td>
-		<td class="tg-yhj3"><a href="mailto:suminah_salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suminah_salim@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:suminah_salim@moe.edu.sg" style="text-decoration:none; color:#744d9f">suminah_salim@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mr Then Yoon Fatt<br></td>
@@ -126,16 +126,16 @@ variant: markdown
 	<tr>
     <td class="tg-yhj3">Mr Ravinder Supparamaiam<br></td>
     <td class="tg-yhj3">Desktop Engineer (DE)</td>
-		<td class="tg-yhj3"><a href="mailto:ravinder.supparamaiam@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">ravinder.supparamaiam@ncs.com.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:ravinder.supparamaiam@ncs.com.sg" style="text-decoration:none; color:#744d9f">ravinder.supparamaiam@ncs.com.sg</a></td>
 		</tr><tr>
     <td class="tg-yhj3">Mr Yakub Hussain Mohamed Elias<br></td>
     <td class="tg-yhj3">Desktop Engineer (DE)</td>
-		<td class="tg-yhj3"><a href="mailto:yakub.hussain.mohamed.elias@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">yakub.hussain.mohamed.elias@ncs.com.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:yakub.hussain.mohamed.elias@ncs.com.sg" style="text-decoration:none; color:#744d9f">yakub.hussain.mohamed.elias@ncs.com.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Mdm Siti Razilah Binte Amir Khan<br></td>
     <td class="tg-yhj3">ICT Trainer</td>
-		<td class="tg-yhj3"><a href="mailto:siti_razilah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_razilah@moe.edu.sg</a></td>
+		<td class="tg-yhj3"><a href="mailto:siti_razilah@moe.edu.sg" style="text-decoration:none; color:#744d9f">siti_razilah@moe.edu.sg</a></td>
   </tr>
 	<tr>
     <td class="tg-yhj3">Ms Nur Aqilah Binte Ahmah<br></td>
