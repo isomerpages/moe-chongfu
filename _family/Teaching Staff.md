@@ -374,7 +374,7 @@ Ms Yap Xin Yi Filicia<br><a href="mailto:yap_xin_yi_filicia@moe.edu.sg" style="t
 <b>Assistant Year Head</b><br>
 Ms Soh Jingsi<br><a href="mailto:soh_jingsi@moe.edu.sg" style="text-decoration:none; color:#744d9f">soh_jingsi@moe.edu.sg</a><br></p>
 
-<p></p><p></p><table align="left" class="tg" style="undefined; table-layout: fixed; width: 620px">
+<p></p><p></p><p></p><p></p><table align="left" class="tg" style="undefined; table-layout: fixed; width: 620px">
 <colgroup>
 <col style="width: 100px">
 <col style="width: 238px">
@@ -428,6 +428,7 @@ Ms Soh Jingsi<br><a href="mailto:soh_jingsi@moe.edu.sg" style="text-decoration:n
 <td class="tg-yhj3">Mdm Yong Yock Hone Katherine<br><a href="mailto:yong_yock_hone_katherine@moe.edu.sg" style="text-decoration:none; color:#744d9f">yong_yock_hone_katherine@moe.edu.sg</a><br></td>
 </tr>
 	
+
 
 </tbody></table><table align="left" class="tg" style="undefined; table-layout: fixed; width: 238px">
 <colgroup>
