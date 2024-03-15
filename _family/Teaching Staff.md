@@ -4,8 +4,6 @@ permalink: /family/teaching-staff/
 description: ""
 variant: markdown
 ---
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -306,10 +304,10 @@ Mdm Ong Shu Ying<br><a href="mailto:ong_shu_ying@moe.edu.sg" style="text-decorat
 <b>Upper Primary Year Head</b><br>
 Ms Yap Xin Yi Filicia<br><a href="mailto:yap_xin_yi_filicia@moe.edu.sg" style="text-decoration:none; color:#744d9f">yap_xin_yi_filicia@moe.edu.sg</a><br></p>
 
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 802px">
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 806px">
 <colgroup>
 <col style="width: 100px">
-<col style="width: 234px">
+<col style="width: 238px">
 <col style="width: 234px">
 	<col style="width: 234px">
 </colgroup>
