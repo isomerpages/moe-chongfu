@@ -30,8 +30,9 @@ variant: markdown
 <p style="text-align:justify">All our P3 and P4 students internalise the Design Thinking processes through 20 hours of hands-on activities, discussions, group work, prototype building and presentations where students go through the entire Design Thinking Process, making for a rich learning experience. </p>
 
 <p style="text-align:justify">Students will have ample opportunities to generate innovative solutions for everyday problems and will be empowered to work with group members to use enterprising ways to care for the environment. Students will learn to build empathy in reframing and resolving problems, practice wearing user-centric lenses, and learn to present with aids such as prototypes and storyboards to garner feedback and spark new ideas as part of the non-linear, iterative Design process. Interacting via Zoom with students from other countries will help open their minds up and help them to challenge assumptions. Students will enjoy the engaging learning process as they develop crucial future-ready skills to face a volatile, uncertain, complex and ambiguous (VUCA) world. </p> 		
+<figure>
 <img style="width:80%" src="/images/alp_2023_picture1.jpg">
-Students presenting their prototype
+	Students presenting their prototype</figure>
 <br>
 <br>		
 <img style="width:80%" src="/images/alp_2023_picture2.jpg">
