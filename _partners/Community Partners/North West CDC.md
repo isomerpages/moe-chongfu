@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Community Partners
 variant: markdown
 ---
+<h3><strong>Outstanding School Partner Awards 2024 (Silver)</strong></h3>
+<p style="text-align:justify">2024 marks the third consecutive year of Chongfu School’s attainment of the&nbsp;<b>Outstanding School Partner Awards 2024 (Silver)</b>&nbsp;which is awarded in recognition of our sustained efforts to collaborate with the NorthWest CDC in community outreach and environmental efforts.</p>
+<img src="/images/NorthWestCDC_SilverAward.png" style="width:100%">
+
 <h3><strong>Outstanding School Partner Awards 2023 (Silver)</strong></h3>
 <p style="text-align:justify">2023 marks the second year of Chongfu School’s attainment of the&nbsp;<b>Outstanding School Partner Awards 2023 (Silver)</b>&nbsp;which was awarded in recognition of our sustained efforts to collaborate with the North West CDC in community outreach and environmental efforts.</p>
 <img src="/images/NorthWestCDC_SilverAward.png" style="width:100%">
