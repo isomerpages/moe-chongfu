@@ -30,16 +30,17 @@ variant: markdown
 <p style="text-align:justify">All our P3 and P4 students internalise the Design Thinking processes through 20 hours of hands-on activities, discussions, group work, prototype building and presentations where students go through the entire Design Thinking Process, making for a rich learning experience. </p>
 
 <p style="text-align:justify">Students will have ample opportunities to generate innovative solutions for everyday problems and will be empowered to work with group members to use enterprising ways to care for the environment. Students will learn to build empathy in reframing and resolving problems, practice wearing user-centric lenses, and learn to present with aids such as prototypes and storyboards to garner feedback and spark new ideas as part of the non-linear, iterative Design process. Interacting via Zoom with students from other countries will help open their minds up and help them to challenge assumptions. Students will enjoy the engaging learning process as they develop crucial future-ready skills to face a volatile, uncertain, complex and ambiguous (VUCA) world. </p> 		
+<figure>
 <img style="width:80%" src="/images/alp_2023_picture1.jpg">
-Students presenting their prototype
+	Students presenting their prototype</figure>
 <br>
 <br>		
-<img style="width:80%" src="/images/alp_2023_picture2.jpg">
-		Prototype building	
+<figure><img style="width:80%" src="/images/alp_2023_picture2.jpg">
+	Prototype building</figure>	
 <br>
 <br>
-<img style="width:80%" src="/images/alp_2023_picture3.jpg">
-		Students showing off their prototype	
+<figure><img style="width:80%" src="/images/alp_2023_picture3.jpg">
+	Students showing off their prototype</figure>	
 </div>
 </li>
 <li>  
@@ -80,17 +81,17 @@ Students presenting their prototype
 <p style="text-align:justify">During IvP sessions, students will have opportunities to interact with innovation-mentors from external organisations.</p>
 				
 <p style="text-align:justify">The IvP culminates in the Young Innovator’s Fair in November, where selected projects will be showcased through a stage presentation and poster exhibition.</p>
-				
+<figure>				
 <img style="width:75%" src="/images/alp_2023_picture8.jpg">
-Innovation Mentor from Nanyang Polytechnic
+	Innovation Mentor from Nanyang Polytechnic</figure>
 <br>
 <br>
-<img style="width:75%" src="/images/alp_2023_picture9.jpg">
-Doing a Divergent Thinking Activity
+<figure><img style="width:75%" src="/images/alp_2023_picture9.jpg">
+	Doing a Divergent Thinking Activity</figure>
 <br>
 <br>
-<img style="width:75%" src="/images/alp_2023_picture10.jpg">
-Brainwriting
+<figure><img style="width:75%" src="/images/alp_2023_picture10.jpg">
+	Brainwriting</figure>
 </div>
 	</li>
 				<li>  
@@ -104,13 +105,13 @@ SHHK Thinkers' Programme</b></label>
 <p style="text-align:justify">Over the March school break, our students had the chance to engage with industry professionals, including a doctor and senior staff from the Ministry of Health and the Health Promotion Board. The knowledge and perspectives shared by these experts helped our students generate ideas and solutions to empower Singaporeans to improve their quality of life by staying healthy.</p>
 				
 <p style="text-align:justify">Our students will be participating in a Thinkers Showcase where the best teams from all 5 SHHK schools come together and pitch their ideas to a panel of judges.</p>
-
+<figure>
 <img style="width:75%" src="/images/alp_2023_picture11.jpg">
-Booth at the final showcase in 2022
+	Booth at the final showcase in 2022</figure>
 <br>
 <br>
-<img style="width:75%" src="/images/alp_2023_picture12.jpg">
-Sharing with judges and guests
+<figure><img style="width:75%" src="/images/alp_2023_picture12.jpg">
+	Sharing with judges and guests</figure>
 	</div>
 	</li>
 </ul>

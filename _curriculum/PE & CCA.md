@@ -54,10 +54,10 @@ variant: markdown
 <p style="text-align:justify">For our Primary Six cohort who have missed out on major in-person activities for the last two years due to Covid-19 restrictions, Camp iNspire was certainly an event which they looked forward to. Through Camp iNspire, the school hopes to nurture healthy, active and confident students through outdoor education. On 22 and 23 June 2022 of the June Holidays, our students returned to school for supplementary lessons in the morning before attending the half-day non-residential camp in the afternoon.</p>
 
 <p style="text-align:justify">In the spirit of Camp iNspire being an adventure learning programme, our graduating cohort was introduced to Dragon Boating and the theme of the camp hinges on Relationship Management. It was a fun-filled afternoon spent at the Singapore Dragon Boat Association as students familiarised themselves with basic commands and picked up paddling strokes that allow them to work in their teams. Exhilaration was written all over their faces as many of the students were experiencing dragon boating for the very first time.</p>
-<img src="/images/CampInspire_2022_Pic1.jpg" style="width:60%">
-<img src="/images/CampInspire_2022_Pic2.jpg" style="width:60%">
-<img src="/images/CampInspire_2022_Pic5.jpg" style="width:60%">
-<img src="/images/CampInspire_2022_Pic4.jpg" style="width:60%">
+<img src="/images/CampInspire_2022_Pic1.jpg" style="width:60%"><br>
+<img src="/images/CampInspire_2022_Pic2.jpg" style="width:60%"><br>
+<img src="/images/CampInspire_2022_Pic5.jpg" style="width:60%"><br>
+<img src="/images/CampInspire_2022_Pic4.jpg" style="width:60%"><br>
 <img src="/images/CampInspire_2022_Pic3.jpg" style="width:60%">
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 </li>
