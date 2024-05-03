@@ -302,7 +302,7 @@ Mdm Ong Shu Ying<br><a href="mailto:ong_shu_ying@moe.edu.sg" style="text-decorat
 <tr>
 <td class="tg-yhj3">4 United<br></td>
 <td class="tg-yhj3">Ms Nur Syafiqah Binte Mohamad Sham<br><a href="mailto:nur_syafiqah_mohamad_sham@moe.edu.sg" style="text-decoration:none; color:#744d9f">nur_syafiqah_mohamad_sham@moe.edu.sg</a><br></td>
-<td class="tg-yhj3">Ms Chew Geik Bee Angeline<br></td>
+<td class="tg-yhj3">Ms Chew Geik Bee Angeline<br><a href="mailto:chew_geik_bee_angeline@moe.edu.sg" style="text-decoration:none; color:#744d9f">chew_geik_bee_angeline@moe.edu.sg</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">4 Sincere<br></td>
