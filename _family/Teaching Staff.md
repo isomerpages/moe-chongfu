@@ -75,6 +75,7 @@ Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg" style="
 <td class="tg-yhj3">1 Loyal<br></td>
 <td class="tg-yhj3">Ms Wee Sze Hui Priscilla 王思慧<br><a href="mailto:wee_sze_hui_priscilla@moe.edu.sg" style="text-decoration:none; color:#744d9f">wee_sze_hui_priscilla@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Ms Shi Jia 石佳<br><a href="mailto:shi_jia@moe.edu.sg" style="text-decoration:none; color:#744d9f">shi_jia@moe.edu.sg</a><br></td>
+<td class="tg-yhj3">Jennifer D/O Anthoney<br><a href="mailto:jennifer_do_anthoney@moe.edu.sg" style="text-decoration:none; color:#744d9f">jennifer_do_anthoney@moe.edu.sg</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">1 Youthful<br></td>
