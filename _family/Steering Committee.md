@@ -107,6 +107,10 @@ variant: markdown
  <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
 </tr>
 <tr>
+ <td class="tg-yhj3">Mdm Yep Lee Yong</td>
+ <td class="tg-yhj3">SH Character &amp; Citizenship Education</td>
+</tr>
+<tr>
  <td class="tg-yhj3">Mdm Goh Siew Peng</td>
  <td class="tg-yhj3">SH Chinese Language</td>
 </tr>
@@ -125,6 +129,10 @@ variant: markdown
 <tr>
  <td class="tg-yhj3">Ms Shalini D/O Sandra Mohan<br></td>
  <td class="tg-yhj3">LH Mathematics</td>
+</tr>
+<tr>
+ <td class="tg-yhj3">Mdm Ngiam Wen Yuan<br></td>
+ <td class="tg-yhj3">SH Physical Education</td>
 </tr>
 <tr>
  <td class="tg-yhj3">Mdm Aini Bte Bujang</td>
