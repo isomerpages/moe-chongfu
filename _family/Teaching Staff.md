@@ -23,6 +23,7 @@ Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg" style="
 <col style="width: 100px">
 <col style="width: 234px">
 <col style="width: 284px">
+<col style="width: 234px">
 </colgroup>
 <tbody>
 <tr>
@@ -35,41 +36,49 @@ Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg" style="
 <td class="tg-yhj3">1 Gracious<br></td>
 <td class="tg-yhj3">Ms Tan Yi-Lin Jolene<br><a href="mailto:tan_yi-lin_jolene@moe.edu.sg" style="text-decoration:none; color:#744d9f">tan_yi-lin_jolene@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Ms Siti Sarah Bte Ahmad<br><a href="mailto:siti_sarah_ahmad@moe.edu.sg" style="text-decoration:none; color:#744d9f">siti_sarah_ahmad@moe.edu.sg</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">1 Respectful<br></td>
 <td class="tg-yhj3">Mdm Ng Ju Li<br><a href="mailto:ng_ju_li@moe.edu.sg" style="text-decoration:none; color:#744d9f">ng_ju_li@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Ms Thiyagarajan Kaviya<br><a href="mailto:thiyagarajan_kaviya@moe.gov.sg" style="text-decoration:none; color:#744d9f">thiyagarajan_kaviya@moe.gov.sg</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">1 Achieving<br></td>
 <td class="tg-yhj3">Ms Tan Li 陈俪<br><a href="mailto:tan_li@moe.edu.sg" style="text-decoration:none; color:#744d9f">tan_li@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Ms M Monessha Nair<br><a href="mailto:m_monessha_nair@moe.edu.sg" style="text-decoration:none; color:#744d9f">m_monessha_nair@moe.edu.sg</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">1 Caring<br></td>
 <td class="tg-yhj3">Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg" style="text-decoration:none; color:#744d9f">nur_lailie_jamal@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Ms Shang Lingru 尚凌如<br><a href="mailto:shang_lingru@moe.edu.sg" style="text-decoration:none; color:#744d9f">shang_lingru@moe.edu.sg</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">1 Innovative<br></td>
 <td class="tg-yhj3">Ms Chow Yin<br><a href="mailto:chow_yin@moe.edu.sg" style="text-decoration:none; color:#744d9f">chow_yin@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Mr Low Yee Leong 罗裕良<br><a href="mailto:low_yee_leong@moe.edu.sg" style="text-decoration:none; color:#744d9f">low_yee_leong@moe.edu.sg</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">1 Observant<br></td>
 <td class="tg-yhj3">Mdm Teo Le-Geak<br><a href="mailto:teo_le_geak@moe.edu.sg" style="text-decoration:none; color:#744d9f">teo_le_geak@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Mdm Toh Sio Cheng 卓小菁<br><a href="mailto:toh_sio_cheng@moe.edu.sg" style="text-decoration:none; color:#744d9f">toh_sio_cheng@moe.edu.sg</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">1 United<br></td>
 <td class="tg-yhj3">Ms Malani D/O Selvaraj<br><a href="mailto:malani_selvaraj@moe.edu.sg" style="text-decoration:none; color:#744d9f">malani_selvaraj@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Mdm Zheng Shanbo 郑珊博<br><a href="mailto:zheng_shanbo@moe.edu.sg" style="text-decoration:none; color:#744d9f">zheng_shanbo@moe.edu.sg</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">1 Sincere<br></td>
 <td class="tg-yhj3">Mdm Loo Ai Ling 吕爱玲<br><a href="mailto:loo_ai_ling@moe.edu.sg" style="text-decoration:none; color:#744d9f">loo_ai_ling@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Ms Li Pei Jie 李佩洁<br><a href="mailto:li_pei_jie@moe.edu.sg" style="text-decoration:none; color:#744d9f">li_pei_jie@moe.edu.sg</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 <tr>
 <td class="tg-yhj3">1 Loyal<br></td>
@@ -81,6 +90,7 @@ Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg" style="
 <td class="tg-yhj3">1 Youthful<br></td>
 <td class="tg-yhj3">Mdm Tan Hui Yin 陈惠芸<br><a href="mailto:tan_hui_yin@moe.edu.sg" style="text-decoration:none; color:#744d9f">tan_hui_yin@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Mrs Lim Meng Wah 张玉婵<br><a href="mailto:lim_meng_wah@moe.edu.sg" style="text-decoration:none; color:#744d9f">lim_meng_wah@moe.edu.sg</a><br></td>
+<td class="tg-yhj3"></td>
 </tr>
 </tbody>
 </table>
