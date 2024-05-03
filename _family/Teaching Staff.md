@@ -210,7 +210,7 @@ Ms Lau Kui Fang Audrey<br><a href="mailto:lau_kui_fang_audrey@moe.edu.sg" style=
 <tr>
 <td class="tg-yhj3">3 Respectful<br></td>
 <td class="tg-yhj3">Ms Png Jin Yee 方静亿<br><a href="mailto:png_jin_yee@moe.edu.sg" style="text-decoration:none; color:#744d9f">png_jin_yee@moe.edu.sg</a><br></td>
-<td class="tg-yhj3">Ms Courtney Chng Jing Ying<br><br></td>
+<td class="tg-yhj3">Ms Courtney Chng Jing Ying<br><a href="mailto:courtney_chng_jing_ying_a@moe.edu.sg" style="text-decoration:none; color:#744d9f">courtney_chng_jing_ying_a@moe.edu.sg</a><br></td>
 <td class="tg-yhj3"><br></td>
 </tr>
 <tr>
