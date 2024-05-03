@@ -30,6 +30,7 @@ Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg" style="
 <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#d0021b"><b>Class</b></span></td>
 <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#d0021b"><b>Form Teacher</b></span></td>
 <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#d0021b"><b>Co-Form Teacher</b></span></td>
+<td class="tg-feqv"><span style="color:#FFFFFF;background-color:#d0021b"><b>Co-Form Teacher</b></span></td>
 </tr>
 
 <tr>
