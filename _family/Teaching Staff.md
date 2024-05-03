@@ -22,7 +22,7 @@ Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg" style="
 <colgroup>
 <col style="width: 100px">
 <col style="width: 234px">
-<col style="width: 284px">
+<col style="width: 234px">
 <col style="width: 234px">
 </colgroup>
 <tbody>
