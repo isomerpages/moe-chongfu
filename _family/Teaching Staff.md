@@ -157,7 +157,7 @@ Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg" style="t
 <tr>
 <td class="tg-yhj3">2 Loyal<br></td>
 <td class="tg-yhj3">Ms Chan Jing Ling 陈晶玲<br><a href="mailto:chan_jing_ling@moe.edu.sg" style="text-decoration:none; color:#744d9f">chan_jing_ling@moe.edu.sg</a><br></td>
-<td class="tg-yhj3">Mrs V.J Naidu<br></td>
+<td class="tg-yhj3">Mrs V.J Naidu<br><a href="mailto:vadugaiah_vasanthra_devi@moe.edu.sg" style="text-decoration:none; color:#744d9f">vadugaiah_vasanthra_devi@moe.edu.sg</a><br></td>
 <td class="tg-yhj3"></td>
 </tr>
 <tr>
