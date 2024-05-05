@@ -162,7 +162,9 @@ Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg" style="t
 <tr>
 <td class="tg-yhj3">2 Sincere<br></td>
 <td class="tg-yhj3">Ms Srinidta Gobinathan<br><a href="mailto:srinidta_gobinathan@moe.edu.sg" style="text-decoration:none; color:#744d9f">srinidta_gobinathan@moe.edu.sg</a><br></td>
-<td class="tg-yhj3">Ms Loh Soo Hua Debbie<br></td>
+<td class="tg-yhj3">Ms Loh Soo Hua Debbie<br><a href="mailto:loh_soo_hua_debbie@moe.edu.sg" style="text-decoration:none; color:#744d9f">loh_soo_hua_debbie@moe.edu.sg</a><br></td>
+
+
 <td class="tg-yhj3"></td>
 </tr>
 <tr>
@@ -352,8 +354,10 @@ Ms Yap Xin Yi Filicia<br><a href="mailto:yap_xin_yi_filicia@moe.edu.sg" style="t
 <tr>
 <td class="tg-yhj3">5 Caring<br></td>
 <td class="tg-yhj3">Ms Sherlyn Ng Yee Theng<br><a href="mailto:ng_yee_theng_sherlyn@moe.edu.sg" style="text-decoration:none; color:#744d9f">ng_yee_theng_sherlyn@moe.edu.sg</a><br></td>
-<td class="tg-yhj3">Mdm Lauren Joy Yong Jia Jia<br></td>
+<td class="tg-yhj3">Mdm Lauren Joy Yong Jia Jia<br><a href="mailto:lauren_joy_yong_jia@moe.edu.sg" style="text-decoration:none; color:#744d9f">lauren_joy_yong_jia@moe.edu.sg</a><br></td>
 <td class="tg-yhj3"></td>
+
+
 </tr>
 <tr>
 <td class="tg-yhj3">5 Innovative<br></td>
