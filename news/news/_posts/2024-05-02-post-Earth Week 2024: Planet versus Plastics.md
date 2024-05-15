@@ -13,4 +13,4 @@ variant: markdown
 
 <p style="text-align:justify">Together, let's make a positive impact for a greener and healthier planet. Make every day Earth Day!</p>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdEScUQVGl75mxaBXZWHOFvGm2dkxN84EpSWGgO09L3fFNKKSIhkm8yLNHfqhEMsL2iEJ36-_j3H_9/embed?"></iframe>
+<iframe allowfullscreen="true" height="400" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdEScUQVGl75mxaBXZWHOFvGm2dkxN84EpSWGgO09L3fFNKKSIhkm8yLNHfqhEMsL2iEJ36-_j3H_9/embed?"></iframe>
