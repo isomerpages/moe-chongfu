@@ -15,6 +15,4 @@ variant: markdown
 
 <iframe allowfullscreen="true" height="458" width="750" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdEScUQVGl75mxaBXZWHOFvGm2dkxN84EpSWGgO09L3fFNKKSIhkm8yLNHfqhEMsL2iEJ36-_j3H_9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 <br><br>
-<a href="/news">
-	<p style="text-align:right"><em>back to News and Updates</em></p>
-</a>
+<a href="/news"><div style="text-align:right"><em>back to News and Updates</em></div></a>
