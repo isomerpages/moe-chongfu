@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: markdown
 ---
+<p style="text-align:justify">Chongfu Festive Drums performances at Chong Pang Zone 1 &amp; 2 RC CNY Celebrations.</p>
+
