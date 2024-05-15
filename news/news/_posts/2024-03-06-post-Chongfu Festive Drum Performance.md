@@ -8,3 +8,5 @@ image: ""
 variant: markdown
 ---
 <p style="text-align:justify">Chongfu Festive Drums performances at Chong Pang Zone 1 &amp; 2 RC CNY Celebrations.</p>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TZtDXhKyad4?si=dDzT36IzJVWCuoyw" height="315" width="560"></iframe>
