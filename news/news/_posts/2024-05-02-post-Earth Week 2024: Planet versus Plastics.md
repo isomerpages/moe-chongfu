@@ -15,6 +15,6 @@ variant: markdown
 
 <iframe allowfullscreen="true" height="458" width="750" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdEScUQVGl75mxaBXZWHOFvGm2dkxN84EpSWGgO09L3fFNKKSIhkm8yLNHfqhEMsL2iEJ36-_j3H_9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-<a href="https://www.facebook.com/people/Chongfu-School-Passion-Parent-Support-Group/100064488288153/">
+<a href="/departments/Science/our-achievements">
 <img src="/images/CFS_FB_Passion_Emblem.png" style="width:50%">
 </a>
