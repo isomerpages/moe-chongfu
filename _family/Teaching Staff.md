@@ -149,7 +149,7 @@ Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg" style="t
 </tr>
 <tr>
 <td class="tg-yhj3">2 Observant<br></td>
-<td class="tg-yhj3">Ms Chong Yue Yen Juliana 钟宇嫣<br><a href="mailto:chong_yue_yen@moe.edu.sg" style="text-decoration:none; color:#744d9f">chong_yue_yen@moe.edu.sg</a><br></td>
+<td class="tg-yhj3">Ms Chong Yue Yen Juliana 钟宇嫣<br><a href="mailto:chong_yue_yen_juliana@moe.edu.sg" style="text-decoration:none; color:#744d9f">chong_yue_yen_juliana@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Mr Chia Eng Lee 谢英利<br><a href="mailto:chia_eng_lee_a@moe.edu.sg" style="text-decoration:none; color:#744d9f">chia_eng_lee_a@moe.edu.sg</a><br></td>
 <td class="tg-yhj3"></td>
 </tr>
