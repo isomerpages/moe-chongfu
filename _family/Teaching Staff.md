@@ -103,7 +103,7 @@ Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg" style="t
 <table align="left" class="tg" style="undefined; table-layout: fixed; width: 802px">
 <colgroup>
 <col style="width: 100px">
-<col style="width: 237px">
+<col style="width: 240px">
 <col style="width: 234px">
 <col style="width: 234px">
 </colgroup>
