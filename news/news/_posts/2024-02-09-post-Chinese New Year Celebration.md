@@ -7,5 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p style="text-align:justify">Chongfu School wishes one and all a joyous and prosperous Lunar New Year! 祝您在新的一年里吉祥如意，心想事成!</p>
-
+<p style="text-align:justify">Chongfu School wishes one and all a joyous and prosperous Lunar New Year!<br> 祝您在新的一年里吉祥如意，心想事成!</p>
