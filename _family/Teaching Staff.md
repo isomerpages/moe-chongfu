@@ -100,12 +100,12 @@ Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg" style="
 <b>Assistant Year Head</b><br>
 Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg" style="text-decoration:none; color:#744d9f">madihah_ghazali@moe.edu.sg</a><br></p>
 
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 804px">
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 100px">
 <col style="width: 240px">
 <col style="width: 230px">
-<col style="width: 234px">
+<col style="width: 230px">
 </colgroup>
 
 <tbody>
