@@ -100,12 +100,12 @@ Mdm Nur Lailie Bte Jamal<br><a href="mailto:nur_lailie_jamal@moe.edu.sg" style="
 <b>Assistant Year Head</b><br>
 Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg" style="text-decoration:none; color:#744d9f">madihah_ghazali@moe.edu.sg</a><br></p>
 
-<table align="left" class="tg" style="undefined; table-layout: fixed; width: 802px">
+<table align="left" class="tg" style="undefined; table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 100px">
-<col style="width: 234px">
-<col style="width: 234px">
-<col style="width: 234px">
+<col style="width: 240px">
+<col style="width: 230px">
+<col style="width: 230px">
 </colgroup>
 
 <tbody>
@@ -149,7 +149,7 @@ Ms Madihah Binte Ghazali<br><a href="mailto:madihah_ghazali@moe.edu.sg" style="t
 </tr>
 <tr>
 <td class="tg-yhj3">2 Observant<br></td>
-<td class="tg-yhj3">Ms Chong Yue Yen Juliana 钟宇嫣<br><a href="mailto:chong_yue_yen@moe.edu.sg" style="text-decoration:none; color:#744d9f">chong_yue_yen@moe.edu.sg</a><br></td>
+<td class="tg-yhj3">Ms Chong Yue Yen Juliana 钟宇嫣<br><a href="mailto:chong_yue_yen_juliana@moe.edu.sg" style="text-decoration:none; color:#744d9f">chong_yue_yen_juliana@moe.edu.sg</a><br></td>
 <td class="tg-yhj3">Mr Chia Eng Lee 谢英利<br><a href="mailto:chia_eng_lee_a@moe.edu.sg" style="text-decoration:none; color:#744d9f">chia_eng_lee_a@moe.edu.sg</a><br></td>
 <td class="tg-yhj3"></td>
 </tr>
