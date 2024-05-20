@@ -2,5 +2,6 @@
 title: Core Values
 permalink: /heritage/core-values/
 description: ""
+variant: markdown
 ---
-![](/images/GRACIOUSLY-2.jpeg)
+<img src="/images/Graciously_word_updated.png">
