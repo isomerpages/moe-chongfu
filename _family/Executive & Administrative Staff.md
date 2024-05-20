@@ -88,7 +88,7 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_ziela_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ziela_ramli@schools.gov.sg</a>
+<p><a href="mailto:nur_ziela_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ziela_ramli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -156,7 +156,7 @@ variant: tiptap
 <p>SEN Officer - NIE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Lim_Yi_Qing_C@moe.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Lim_Yi_Qing_C@moe.edu.sg</a>
 </p>
 </td>
 </tr>
