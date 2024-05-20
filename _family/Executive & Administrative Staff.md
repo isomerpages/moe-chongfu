@@ -151,7 +151,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Yi Qing</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEN Officer - NIE</p>
