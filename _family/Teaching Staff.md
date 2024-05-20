@@ -2,7 +2,7 @@
 title: Teaching Staff
 permalink: /family/teaching-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong>2024 Primary 1</strong> 
 <br><strong>Assistant Year Head</strong> 
