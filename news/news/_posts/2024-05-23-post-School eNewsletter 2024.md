@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
+<div style="text-align:right"><a href="/news"><em>back to News</em></a></div>
