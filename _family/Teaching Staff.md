@@ -229,8 +229,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jennifer D/O Anthoney
-<br><a href="mailto:jennifer_do_anthoney@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jennifer_do_anthoney@moe.edu.sg</a> 
+<p>
 <br>
 </p>
 </td>
