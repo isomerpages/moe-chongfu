@@ -1011,7 +1011,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joey Ng Jia Yi
-<br><a href="mailto:joey_ng_jia_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joey_ng_jia_yi@moe.edu.sg</a> 
+<br><a href="mailto:joey_ng_jia_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joey_ng_jia_yi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1185,15 +1185,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yep Lee Yong
-<br><a href="mailto:yep_lee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yep_lee_yong@moe.edu.sg</a> 
+<p>Mr Ng Ai Peng Jason</p>
+<p><a href="mailto:ng_ai_peng_jason@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ai_peng_jason@moe.edu.sg</a>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Ai Peng Jason
-<br><a href="mailto:ng_ai_peng_jason@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ai_peng_jason@moe.edu.sg</a> 
-<br>
+<p>Ms Saikrithika J</p>
+<p><a href="mailto:j_saikrithika@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">j_saikrithika@moe.edu.sg</a>
 </p>
 </td>
 </tr>
