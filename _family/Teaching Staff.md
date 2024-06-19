@@ -176,7 +176,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zheng Shanbo 郑珊博
-<br><a href="mailto:zheng_shanbo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_shanbo@moe.edu.sg</a> 
+<br><a href="mailto:zheng_shanbo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_shanbo@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -580,14 +580,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Png Jin Yee 方静亿
-<br><a href="mailto:png_jin_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">png_jin_yee@moe.edu.sg</a> 
-<br>
+<p>Ms Sharifah Najibah
+<br><a href="mailto:sharifah__najibah_syed_mustapa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah__najibah_syed_mustapa@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Courtney Chng Jing Ying
-<br><a href="mailto:courtney_chng_jing_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">courtney_chng_jing_ying_a@moe.edu.sg</a> 
+<p>Ms Png Jin Yee 方静亿
+<br><a href="mailto:png_jin_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">png_jin_yee@moe.edu.sg</a>
 <br>
 </p>
 </td>
@@ -610,10 +609,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Foo Xiang Yi
-<br><a href="mailto:Foo_Xiang_Yi_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Foo_Xiang_Yi_A@moe.edu.sg</a> 
-<br>
-</p>
+<p>Mr Muhammad Riduwan Khairin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wang Shi Yun Jaslyn
@@ -683,10 +680,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Wan Ting Joli 林纨廷
-<br><a href="mailto:lin_wanting_joli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_wanting_joli@moe.edu.sg</a> 
-<br>
-</p>
+<p>Tang WC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -707,8 +701,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Senthilkumar Muthuselvi Shruti
-<br><a href="mailto:senthilkumar_muthuselvi_shruthi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">senthilkumar_muthuselvi_shruthi@moe.edu.sg</a> 
+<p>Lin WT
 <br>
 </p>
 </td>
