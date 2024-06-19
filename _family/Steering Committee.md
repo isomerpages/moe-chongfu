@@ -107,10 +107,6 @@ variant: markdown
  <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
 </tr>
 <tr>
- <td class="tg-yhj3">Mdm Yep Lee Yong</td>
- <td class="tg-yhj3">SH Character &amp; Citizenship Education</td>
-</tr>
-<tr>
  <td class="tg-yhj3">Mdm Goh Siew Peng</td>
  <td class="tg-yhj3">SH Chinese Language</td>
 </tr>
