@@ -609,7 +609,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Riduwan Khairin</p>
-<p></p>
+<p><a href="mailto:muhammad_riduwan_khairin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_riduwan_khairin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wang Shi Yun Jaslyn
