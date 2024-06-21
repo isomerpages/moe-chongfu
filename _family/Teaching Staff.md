@@ -1312,28 +1312,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Other Teachers</strong> 
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sharifah Najibah
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Silas Abdul Karim - NIE
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p></p>
