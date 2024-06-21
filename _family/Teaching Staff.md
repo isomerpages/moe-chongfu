@@ -703,7 +703,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lin Wan Ting Joli 林纨廷
-<br>
+<br><a href="mailto:lin_wanting_joli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_wanting_joli@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
