@@ -1060,7 +1060,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Si Yun</p>
-<p></p>
+<p><a href="mailto:tan_si_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_si_yun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
