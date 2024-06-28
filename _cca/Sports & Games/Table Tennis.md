@@ -12,7 +12,7 @@ variant: markdown
 <p style="text-align:justify">During trainings, players will learn different techniques such as stroke play, footwork, ball control, serve, defence and attack strategies. In addition, sparring matches are incorporated during training&nbsp;to increase members’ cooperation, competitiveness and game readiness.</p>
 
 <h3><strong>CCA Schedule (as of year 2024)</strong></h3>
-<b style="font-size:16px">P3 and P4 Teachers In Charge: Tuesdays</b><br>
+<b style="font-size:16px">P3 and P4 Teachers In Charge: Tuesdays</b>
 <ul>
 	<li style="font-size:16px">Mr Silas Abdul Karim</li>
 	<li style="font-size:16px">Ms Xu Shuguang</li>
