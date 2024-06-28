@@ -11,32 +11,62 @@ variant: markdown
 
 <p style="text-align:justify">During trainings, players will learn different techniques such as stroke play, footwork, ball control, serve, defence and attack strategies. In addition, sparring matches are incorporated during training&nbsp;to increase members’ cooperation, competitiveness and game readiness.</p>
 
-<b>P3 and P4 Teachers In Charge: Tuesdays</b>
-
+<h3><strong>CCA Schedule (as of year 2024)</strong></h3>
+<b style="font-size:16px">P3 and P4 Teachers In Charge: Tuesdays</b>
 <ul>
-<li> Ms Jillyn Woo Wanyi <b>(I/C)</b></li>
-<li> Mdm Zhou Wei Hua </li>
-<li> Ms Shi Jia </li>
+	<li style="font-size:16px">Mr Silas Abdul Karim <b>(I/C)</b></li>
+	<li style="font-size:16px">Mdm Zhou Wei Hua</li>
+	<li style="font-size:16px">Ms Shi Jia</li>
 </ul>
-
-<b>P5 and P6 Teachers In Charge: Fridays</b>
-
+<b style="font-size:16px">P5 and P6 Teachers In Charge: Fridays</b>
 <ul>
-<li> Mr Edwin Goh Keng Lim <b>(I/C)</b></li>
-<li> Mr Brian Reis   </li>
-<li> Ms Zhang Li  </li>
+	<li style="font-size:16px">Ms Jillyn Woo Wanyi <b>(I/C)</b></li>
+	<li style="font-size:16px">Mr Brian Reis</li>
 </ul>
+<span style="color:blue; font-size:16px"><b>CCA Coaches: </b></span><span style="font-size:16px">
+Mr Wang Xiaoke, Ms Xu Shuguang</span><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
 
-<b>CCA Day &amp; Venue:</b>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig"><span style="font-weight:bold">Team</span></th>
+    <th class="tg-1wig"><span style="font-weight:bold">Day </span></th>
+    <th class="tg-1wig"><span style="font-weight:bold">Venue</span></th>
+    <th class="tg-1wig"><span style="font-weight:bold">Time</span></th>
+  </tr>
+</thead>
+<tbody>
 
-<ul>
-<li><b>P3 and P4:</b> Tuesdays, 1.45pm – 3.45pm | TKKH Hall &amp; CCA Room</li>
-<li><b>P5 and P6:</b> Fridays, 1.45pm – 3.45pm | TKKH Hall &amp; CCA Room</li>
-<li><b>School Team:</b> Mondays, Tuesdays and Fridays,<br> 1.45pm – 4.45pm | TKKH Hall &amp; CCA Room</li>
-</ul>
 
-<b>CCA Coaches:</b>
-Mr Wang Xiaoke, Ms Xu Shuguang
+  <tr>
+    <td class="tg-0lax">P3 and P4 Development Team</td>
+    <td class="tg-0lax">Tuesdays</td>
+    <td class="tg-0lax">CCA Room</td>
+    <td class="tg-0lax">1.45pm – 3.45pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">P5 and P6 Development Team</td>
+    <td class="tg-0lax">Fridays</td>
+    <td class="tg-0lax">CCA Room</td>
+    <td class="tg-0lax">1.45pm – 3.45pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">School Team</td>
+    <td class="tg-0lax">Mondays (Term 1 &amp; Term 2)<br> Tuesdays, Fridays (Term 1 to Term 4)</td>
+    <td class="tg-0lax">TKKH Hall</td>
+    <td class="tg-0lax">1.45pm – 3.45pm</td>
+  </tr>
+</tbody>
+</table>
 
 <h3><strong>CCA Achievements</strong></h3>
 
@@ -58,7 +88,13 @@ Mr Wang Xiaoke, Ms Xu Shuguang
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-0lax" rowspan="2">2024</td>
+    <td class="tg-0lax">National School Games Table Tennis Senior Division Girls (Nationals)</td>
+    <td class="tg-0lax">2nd position</td>
+  </tr>
   <tr>
+  </tr><tr>
     <td class="tg-0lax" rowspan="2">2022</td>
     <td class="tg-0lax">National School Games Table Tennis Senior Division Boys (North Zone)</td>
     <td class="tg-0lax">2nd position</td>
@@ -78,49 +114,6 @@ Mr Wang Xiaoke, Ms Xu Shuguang
   </tr>
 </tbody>
 </table>
-
-<h3><strong>CCA Schedule (as of year 2023)</strong></h3>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bold">Team</span></th>
-    <th class="tg-1wig"><span style="font-weight:bold">Day </span></th>
-    <th class="tg-1wig"><span style="font-weight:bold">Venue</span></th>
-    <th class="tg-1wig"><span style="font-weight:bold">Time</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">P3 and P4 Development Team</td>
-    <td class="tg-0lax">Tuesdays</td>
-    <td class="tg-0lax">TKKH Hall</td>
-    <td class="tg-0lax">1.45pm – 3.45pm</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P5 and P6 Development Team</td>
-    <td class="tg-0lax">Fridays</td>
-    <td class="tg-0lax">TKKH Hall</td>
-    <td class="tg-0lax">1.45pm – 3.45pm</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">School Team</td>
-    <td class="tg-0lax">Mondays, Tuesdays, Fridays</td>
-    <td class="tg-0lax">TKKH Hall</td>
-    <td class="tg-0lax">1.45pm – 4.45pm</td>
-  </tr>
-</tbody>
-</table>
-
 <p>
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture5.jpg">
 <img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture4.jpg">
