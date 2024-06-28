@@ -14,7 +14,7 @@ variant: markdown
 <b>P3 and P4 Teachers In Charge: Tuesdays</b>
 
 <ul>
-<li> Ms Jillyn Woo Wanyi <b>(I/C)</b></li>
+<li> Mr Silas Abdul Karim <b>(I/C)</b></li>
 <li> Mdm Zhou Wei Hua </li>
 <li> Ms Shi Jia </li>
 </ul>
@@ -22,9 +22,8 @@ variant: markdown
 <b>P5 and P6 Teachers In Charge: Fridays</b>
 
 <ul>
-<li> Mr Edwin Goh Keng Lim <b>(I/C)</b></li>
-<li> Mr Brian Reis   </li>
-<li> Ms Zhang Li  </li>
+<li> Ms Jillyn Woo Wanyi <b>(I/C)</b></li>
+<li> Mr Brian Reis  </li>
 </ul>
 
 <b>CCA Day &amp; Venue:</b>
