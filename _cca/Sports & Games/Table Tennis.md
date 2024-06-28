@@ -22,7 +22,8 @@ variant: markdown
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<br><b style="color:blue">CCA Coaches:</b><br><br><table class="tg">
+<br><p style="color:blue; font-size:14px">CCA Coaches:
+Mr Wang Xiaoke, Ms Xu Shuguang</p><br><br><table class="tg">
 <thead>
   <tr>
     <th class="tg-1wig"><span style="font-weight:bold">Team</span></th>
@@ -54,7 +55,6 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-Mr Wang Xiaoke, Ms Xu Shuguang
 
 <h3><strong>CCA Achievements</strong></h3>
 
