@@ -681,7 +681,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tang Wan Chin 陈婉君</p>
-<p></p>
+<p><a href="mailto:tang_wan_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_wan_chin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
