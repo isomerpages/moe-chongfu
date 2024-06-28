@@ -13,9 +13,9 @@ variant: markdown
 
 <h3><strong>CCA Schedule (as of year 2024)</strong></h3>
 <b>P3 and P4 Teachers In Charge: Tuesdays</b><br>
-<ul style="font-size:16px">
-	<li>Mr Silas Abdul Karim</li>
-	<li>Ms Xu Shuguang</li>
+<ul>
+	<li style="font-size:16px">Mr Silas Abdul Karim</li>
+	<li style="font-size:16px">Ms Xu Shuguang</li>
 	</ul>
 <span style="color:blue; font-size:16px"><b>CCA Coaches: </b></span><span style="font-size:16px">
 Mr Wang Xiaoke, Ms Xu Shuguang</span><br>
