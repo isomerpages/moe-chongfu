@@ -12,8 +12,8 @@ variant: markdown
 <p style="text-align:justify">During trainings, players will learn different techniques such as stroke play, footwork, ball control, serve, defence and attack strategies. In addition, sparring matches are incorporated during training&nbsp;to increase members’ cooperation, competitiveness and game readiness.</p>
 
 <h3><strong>CCA Schedule (as of year 2024)</strong></h3>
-<br><span style="color:blue; font-size:16px"><b>CCA Coaches: </b></span><span style="font-size:16px">
-Mr Wang Xiaoke, Ms Xu Shuguang</span><br><br>
+<span style="color:blue; font-size:16px"><b>CCA Coaches: </b></span><span style="font-size:16px">
+Mr Wang Xiaoke, Ms Xu Shuguang</span><br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
