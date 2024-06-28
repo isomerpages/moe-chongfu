@@ -22,7 +22,7 @@ variant: markdown
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<br><b style="color:blue">CCA Coaches:</b><br><br><table class="tg">
 <thead>
   <tr>
     <th class="tg-1wig"><span style="font-weight:bold">Team</span></th>
@@ -32,6 +32,8 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
+
+
   <tr>
     <td class="tg-0lax">P3 and P4 Development Team</td>
     <td class="tg-0lax">Tuesdays</td>
@@ -52,9 +54,8 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-<br>
-<b>CCA Coaches:</b>
 Mr Wang Xiaoke, Ms Xu Shuguang
+
 <h3><strong>CCA Achievements</strong></h3>
 
 <style type="text/css">
