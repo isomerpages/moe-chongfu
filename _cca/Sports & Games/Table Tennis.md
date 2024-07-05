@@ -114,6 +114,24 @@ Mr Wang Xiaoke, Ms Xu Shuguang</span><br>
   </tr>
 </tbody>
 </table>
-<br>
-<iframe allowfullscreen="true" height="569" width="900" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdXRGngLy1zO9d2NTz35_aAz2lIIgMMsgsLemvFEy2-DPabbrBauqDehRxMzfGOg5juAx_Wy-BE_YL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-<br>
+
+<table style="width: 770px">
+<colgroup>
+<col style="width: 385px">
+<col style="width: 385px">
+</colgroup>
+<tbody>
+<tr>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture01.jpg" style="width:95%"></td>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture03.jpg" style="width:95%"></td>
+</tr>
+<tr>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture02.jpg" style="width:95%"></td>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture04.jpg" style="width:95%"></td>
+</tr>
+<tr>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture05.jpg" style="width:95%"></td>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture06.jpg" style="width:95%"></td>
+</tr>
+</tbody>
+</table>
