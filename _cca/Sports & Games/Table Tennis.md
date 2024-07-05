@@ -114,33 +114,24 @@ Mr Wang Xiaoke, Ms Xu Shuguang</span><br>
   </tr>
 </tbody>
 </table>
-<p>
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture5.jpg">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture4.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture6.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture7.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture8.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture9.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture10.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture11.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture12.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture15.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture14.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture13.jpg">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture2.jpg">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture1.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture21.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture22.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture23.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture24.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture25.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture26.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture31.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture27.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture29.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture30.jpg">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/table_tennis_cca_2023_picture3.jpg">
-</p>
-
-![](/images/table%20tennis.png)
-![](/images/Picsart_22-04-20_16-23-46-266-2048x1291.jpg)
+<br>
+<table style="width: 770px">
+<colgroup>
+<col style="width: 385px">
+<col style="width: 385px">
+</colgroup>
+<tbody>
+<tr>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture01.jpg" style="width:95%"></td>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture03.jpg" style="width:95%"></td>
+</tr>
+<tr>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture02.jpg" style="width:95%"></td>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture04.jpg" style="width:95%"></td>
+</tr>
+<tr>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture05.jpg" style="width:95%"></td>
+<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture06.jpg" style="width:95%"></td>
+</tr>
+</tbody>
+</table>
