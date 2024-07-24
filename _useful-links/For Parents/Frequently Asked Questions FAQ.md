@@ -45,8 +45,7 @@ Parents will be notified should the applicant be shortlisted.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">Where do I find the Calendar of Events?</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link below:
-<a href="/files/Calendar-of-Events-2022-Sem-1.pdf">Calendar of Events 2022 Sem 1</a></p>  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link below: <i>TBA</i></p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
@@ -87,9 +86,7 @@ You can view the PASSION facebook page here: <a href="https://www.facebook.com/C
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion10">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion10">How do I become a member of the Chongfu Alumni?</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>To apply for Chongfu Alumni member, the application form can be downloaded from the Chongfu Alumni website.
-
-For more information on Chongfu Alumni, please refer to:<a href="http://www.chongfualumni.com/">http://www.chongfualumni.com/</a>. Alternatively, you can contact them at 6257 6656 on Saturdays.</p>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>To apply for Chongfu Alumni member, you can contact them at 6257 6656 on Saturdays.</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
