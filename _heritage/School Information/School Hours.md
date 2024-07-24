@@ -1,6 +1,6 @@
 ---
 title: School Hours
-permalink: /heritage/School-Information/school-hours/
+permalink: /heritage/school-information/school-hours/
 description: ""
 third_nav_title: School Information
 variant: tiptap

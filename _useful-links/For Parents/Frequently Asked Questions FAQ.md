@@ -3,6 +3,7 @@ title: Frequently Asked Questions FAQ
 permalink: /useful-links/For-Parents/Frequently-Asked-Questions-FAQ/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">  
 &nbsp;&nbsp;<li>  
@@ -18,7 +19,7 @@ For more information on the Primary One Registration Exercise, please refer to t
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">How do I register as a Parent Volunteer to be eligible for Phase 2B during the Primary One registration exercise?</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>The application period for Parent Volunteers (for child born between 2nd Jan 2019 to 1st Jan 2020) is from 1 August 2023 to 31 October 2023. Shortlisted applicants will be contacted via email by end December 2023. The application form will be available at the following link during the application period: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>The application period for Parent Volunteers (for child born between 2nd Jan 2020 to 1st Jan 2021) is from 1 August 2024 to 31 October 2024. Shortlisted applicants will be contacted via email by end December 2024. The application form will be available at the following link during the application period: 
 <a href="https://www.chongfu.moe.edu.sg/useful-links/For-Parents/Forms-Download/">/useful-links/for-parents/forms-download/</a>
 				
 For more information on the eligibility of phases for the Primary One registration exercise, please refer to the following website:<a href="https://moe.gov.sg/primary/p1-registration">https://moe.gov.sg/primary/p1-registration</a></p>  
@@ -37,15 +38,14 @@ Parents will be notified should the applicant be shortlisted.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">When are my child’s long days?</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link:&nbsp;<a href="/heritage/school-information/school-hours">/heritage/school-information/school-hours/</a>&nbsp;.This information is also available in the Term 1 letter which is distributed to all students in the first week of Term 1.</p>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link: <a href="/heritage/school-information/school-hours/">/heritage/school-information/school-hours/</a>&nbsp;.This information is also available in the Term 1 letter which is distributed to all students in the first week of Term 1.</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">Where do I find the Calendar of Events?</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link below:
-<a href="/files/Calendar-of-Events-2022-Sem-1.pdf">Calendar of Events 2022 Sem 1</a></p>  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link below: <i>TBA</i></p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
@@ -86,9 +86,7 @@ You can view the PASSION facebook page here: <a href="https://www.facebook.com/C
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion10">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion10">How do I become a member of the Chongfu Alumni?</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>To apply for Chongfu Alumni member, the application form can be downloaded from the Chongfu Alumni website.
-
-For more information on Chongfu Alumni, please refer to:<a href="http://www.chongfualumni.com/">http://www.chongfualumni.com/</a>. Alternatively, you can contact them at 6257 6656 on Saturdays.</p>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>To apply for Chongfu Alumni member, you can contact them at 6257 6656 on Saturdays.</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
