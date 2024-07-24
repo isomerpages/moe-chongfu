@@ -3,6 +3,7 @@ title: Frequently Asked Questions FAQ
 permalink: /useful-links/For-Parents/Frequently-Asked-Questions-FAQ/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">  
 &nbsp;&nbsp;<li>  
@@ -37,7 +38,7 @@ Parents will be notified should the applicant be shortlisted.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">  
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">When are my child’s long days?</label>  
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link:&nbsp;<a href="/heritage/school-information/school-hours">/heritage/school-information/school-hours/</a>&nbsp;.This information is also available in the Term 1 letter which is distributed to all students in the first week of Term 1.</p>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Please refer to the following link: <a href="/heritage/school-information/school-hours/">/heritage/school-information/school-hours/</a>&nbsp;.This information is also available in the Term 1 letter which is distributed to all students in the first week of Term 1.</p>  
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
 </li>
 <li>  
