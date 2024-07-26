@@ -13,14 +13,12 @@ variant: markdown
 .tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
+<tbody>
   <tr>
     <th class="tg-lm9i">Chairman</th>
     <th class="tg-lm9i">Mr Chua Kee Seng Thomas</th>
   </tr>
-</thead>
-<tbody>
-  <tr>
+	<tr>
     <td class="tg-lm9i">Honorary Secretary</td>
     <td class="tg-lm9i">Mr Lee Cheng Chye William</td>
   </tr>
@@ -37,7 +35,7 @@ variant: markdown
     <td class="tg-lm9i">Mr Ang Jian Kai</td>
   </tr>
   <tr>
-    <td class="tg-lm9i" rowspan="8">Member</td>
+    <td class="tg-lm9i" rowspan="9">Member</td>
     <td class="tg-lm9i">Mr Loo Lip Giam Paul</td>
   </tr>
   <tr>
@@ -63,7 +61,7 @@ variant: markdown
   </tr>
   <tr>
    <td class="tg-lm9i">Ms Tan Ee Li Joyce</td>
-  </tr>
-	<tr></tr>
+ </tr>
+<tr></tr>
 </tbody>
 </table>
