@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /family/school-management-committee/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -25,7 +26,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-lm9i">Honorary Treasurer</td>
-    <td class="tg-lm9i">Mr Ang Bock Cheng Derrick</td>
+    <td class="tg-lm9i">Mr Lim Beng Beng</td>
   </tr>
   <tr>
     <td class="tg-lm9i">Supervisor</td>
@@ -33,7 +34,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-lm9i">Deputy Supervisor</td>
-    <td class="tg-lm9i">Mr Ong Chuon Yi</td>
+    <td class="tg-lm9i">Mr Ang Jian Kai</td>
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="8">Member</td>
@@ -45,20 +46,26 @@ description: ""
   <tr>
     <td class="tg-lm9i">Mr Lee Sze Leong</td>
   </tr>
+	 <tr>
+    <td class="tg-lm9i">Mr Neo Kah Kiat</td>
+  </tr>
   <tr>
     <td class="tg-lm9i">Ms Ng Hsueh Ling</td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Lim Eng Koo Nelson</td>
   </tr>
-  <tr>
-    <td class="tg-lm9i">Mr Neo Kah Kiat</td>
+	<tr>
+    <td class="tg-lm9i">Mr Kenneth Goi</td>
+  </tr>
+	<tr>
+    <td class="tg-lm9i">Mr Lawrence Tan</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Mr Lee Swee Keng</td>
+    <td class="tg-lm9i">Mr Yap Kok Cheng</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Mr Teo Chin Meng Jimmy</td>
+    <td class="tg-lm9i">Ms Tan Ee Li Joyce</td>
   </tr>
 </tbody>
 </table>
