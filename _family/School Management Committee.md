@@ -38,34 +38,32 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lm9i" rowspan="8">Member</td>
-    <td class="tg-lm9i">Mr Chan Hock Keng</td>
-  </tr>
-  <tr>
     <td class="tg-lm9i">Mr Loo Lip Giam Paul</td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Lee Sze Leong</td>
   </tr>
-	 <tr>
+  <tr>
     <td class="tg-lm9i">Mr Neo Kah Kiat</td>
   </tr>
-  <tr>
+	 <tr>
     <td class="tg-lm9i">Ms Ng Hsueh Ling</td>
   </tr>
   <tr>
     <td class="tg-lm9i">Mr Lim Eng Koo Nelson</td>
   </tr>
-	<tr>
+  <tr>
     <td class="tg-lm9i">Mr Kenneth Goi</td>
   </tr>
 	<tr>
     <td class="tg-lm9i">Mr Lawrence Tan</td>
   </tr>
-  <tr>
+	<tr>
     <td class="tg-lm9i">Mr Yap Kok Cheng</td>
   </tr>
   <tr>
-    <td class="tg-lm9i">Ms Tan Ee Li Joyce</td>
+   <td class="tg-lm9i">Ms Tan Ee Li Joyce</td>
   </tr>
+	<tr></tr>
 </tbody>
 </table>
