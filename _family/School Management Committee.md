@@ -4,64 +4,78 @@ permalink: /family/school-management-committee/
 description: ""
 variant: markdown
 ---
+<br>
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+
+<br>
+<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+</colgroup>
+
 <tbody>
   <tr>
-    <th class="tg-lm9i">Chairman</th>
-    <th class="tg-lm9i">Mr Chua Kee Seng Thomas</th>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
   </tr>
 	<tr>
-    <td class="tg-lm9i">Honorary Secretary</td>
-    <td class="tg-lm9i">Mr Lee Cheng Chye William</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Honorary Treasurer</td>
-    <td class="tg-lm9i">Mr Lim Beng Beng</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Supervisor</td>
-    <td class="tg-lm9i">Mr Tan Kang Uei Anthony</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Deputy Supervisor</td>
-    <td class="tg-lm9i">Mr Ang Jian Kai</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i" rowspan="9">Member</td>
-    <td class="tg-lm9i">Mr Loo Lip Giam Paul</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Mr Lee Sze Leong</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Mr Neo Kah Kiat</td>
-  </tr>
-	 <tr>
-    <td class="tg-lm9i">Ms Ng Hsueh Ling</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Mr Lim Eng Koo Nelson</td>
-  </tr>
-  <tr>
-    <td class="tg-lm9i">Mr Kenneth Goi</td>
+    <td class="tg-yhj3">Chairman</td>
+    <td class="tg-yhj3">Mr Chua Kee Seng Thomas</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Honorary Secretary</td>
+    <td class="tg-yhj3">Mr Lee Cheng Chye William</td>
   </tr>
 	<tr>
-    <td class="tg-lm9i">Mr Lawrence Tan</td>
+    <td class="tg-yhj3">Honorary Treasurer</td>
+    <td class="tg-yhj3">Mr Lim Beng Beng</td>
   </tr>
 	<tr>
-    <td class="tg-lm9i">Mr Yap Kok Cheng</td>
-  </tr>
-  <tr>
-   <td class="tg-lm9i">Ms Tan Ee Li Joyce</td>
+    <td class="tg-yhj3">Supervisor</td>
+    <td class="tg-yhj3">Mr Tan Kang Uei Anthony</td>
  </tr>
-<tr></tr>
+	<tr>
+    <td class="tg-yhj3">Deputy Supervisor</td>
+    <td class="tg-yhj3">Mr Ang Jian Kai</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3" rowspan="9">Member</td>
+    <td class="tg-yhj3">Mr Loo Lip Giam Paul</td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Mr Lee Sze Leong</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Mr Neo Kah Kiat</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Ms Ng Hsueh Ling</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Mr Lim Eng Koo Nelson</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Mr Kenneth Goi</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Mr Lawrence Tan</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Mr Yap Kok Cheng</td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Ms Tan Ee Li Joyce</td>
+	</tr>
+	<tr></tr>
 </tbody>
 </table>
