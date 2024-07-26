@@ -2,6 +2,7 @@
 title: Financial and Non Financial Information
 permalink: /heritage/financial-and-non-financial-information/
 description: ""
+variant: markdown
 ---
 ### 1. Non-Financial Information
 
@@ -25,7 +26,7 @@ description: ""
 **Sincerity and Perseverance**
 
 ##### Key Employees
-**Mdm Foo Mui Chuw, Principal**
+**Mr Tan King Ming, Principal**
 
 ##### Name of Auditor
 **Baker Tilly TFW LLP**
