@@ -810,8 +810,9 @@ variant: tiptap
 <br><a href="mailto:ong_shu_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shu_ying@moe.edu.sg</a> 
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -829,6 +830,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Co-Form Teacher</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -849,6 +853,9 @@ variant: tiptap
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -867,6 +874,9 @@ variant: tiptap
 <br><a href="mailto:nurnadiah_begum_asraffe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurnadiah_begum_asraffe@moe.edu.sg</a> 
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -887,6 +897,9 @@ variant: tiptap
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -905,6 +918,9 @@ variant: tiptap
 <br><a href="mailto:tricia_lim_xiu_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tricia_lim_xiu_xuan@moe.edu.sg</a> 
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -925,6 +941,9 @@ variant: tiptap
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -939,9 +958,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Nurul Shahira Binte Fazil</p>
+<p><a href="mailto:nurul_shahira_fazil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_shahira_fazil@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Wen Xiwen
 <br><a href="mailto:wen_xiwen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wen_xiwen_a@moe.edu.sg</a> 
-<br>
 </p>
 </td>
 </tr>
@@ -963,6 +986,9 @@ variant: tiptap
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -981,6 +1007,9 @@ variant: tiptap
 <br><a href="mailto:sri_rahayu_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_rahayu_ramlan@moe.edu.sg</a> 
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
