@@ -496,9 +496,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hayati
-<br>
-<br>
+<p>Mdm Noor Hayati Binte Mohamed Noor
+<br><a href="mailto:noor_hayati_mohamed_noor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_hayati_mohamed_noor_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -964,7 +963,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wen Xiwen
-<br><a href="mailto:wen_xiwen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wen_xiwen_a@moe.edu.sg</a> 
+<br><a href="mailto:wen_xiwen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wen_xiwen_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
