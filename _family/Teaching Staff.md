@@ -1230,9 +1230,7 @@ variant: tiptap
 <br><strong>Assistant Year Head</strong> 
 <br>Ms Soh Jingsi
 <br><a href="mailto:soh_jingsi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_jingsi@moe.edu.sg</a> 
-<br>
 </p>
-<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -1408,6 +1406,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated 29/7/2024</strong>
+<p><strong>Updated 30/7/2024</strong>
 </p>
 <p></p>
