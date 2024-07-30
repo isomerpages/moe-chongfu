@@ -1229,7 +1229,7 @@ variant: tiptap
 <p><strong>2024 Primary 6</strong> 
 <br><strong>Assistant Year Head</strong> 
 <br>Ms Soh Jingsi
-<br><a href="mailto:soh_jingsi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_jingsi@moe.edu.sg</a> 
+<br><a href="mailto:soh_jingsi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_jingsi@moe.edu.sg</a>
 </p>
 <p></p>
 <table style="minWidth: 75px">
