@@ -552,8 +552,8 @@ variant: tiptap
 </table>
 <p><strong>2024 Primary 3</strong> 
 <br><strong>Assistant Year Head</strong> 
-<br>Ms Lau Kui Fang Audrey
-<br><a href="mailto:lau_kui_fang_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kui_fang_audrey@moe.edu.sg</a> 
+<br>Mdm Ong Shu Ying
+<br><a href="mailto:ong_shu_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shu_ying@moe.edu.sg</a> 
 <br>
 </p>
 <table style="minWidth: 125px">
@@ -1406,6 +1406,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated 30/7/2024</strong>
+<p><strong>Updated 02/08/2024</strong>
 </p>
 <p></p>
