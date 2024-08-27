@@ -12,7 +12,7 @@ links:
     collection: achievements
   - title: Partners
     collection: partners
-  - title: Contact Us
-    url: /contact-us
   - title: School Bus Advertisement
     url: /school-bus-advertisement/
+  - title: Contact Us
+    url: /contact-us
