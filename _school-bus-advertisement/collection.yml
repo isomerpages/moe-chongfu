@@ -1,5 +1,0 @@
-collections:
-  school-bus-advertisement:
-    output: true
-    order:
-      - School Bus Advertisement.md
