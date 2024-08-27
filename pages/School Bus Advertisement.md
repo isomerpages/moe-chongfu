@@ -31,7 +31,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 <b>How to get there?</b>
 <ul>
 	<li><b>Nearest MRT: </b> Yishun MRT (NS13)</li>
-	<li><b>Bus number: </b> 811</li>
+	<li><b>Bus number: </b> 811, 811T</li>
 </ul>
 <br>
 <br>
