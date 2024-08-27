@@ -14,7 +14,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 	<li><a href="/files/3__T_C_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service_.pdf" target="_blank" rel="noopener noreferrer">Terms and Conditions for School Bus Operator to Provide School Bus Services</a></li>
 	<li><a href="/files/4__Request_for_School_Bus_Service_and_T_C_Governing_the_Requests_for_Services___For_Single_Bus_Service_.pdf" target="_blank" rel="noopener noreferrer">Request for School Bus Services</a></li>
 </ol>
-<br><br>
+<br>
 <b>Application Procedure</b>
 <br>
 <ol>
@@ -27,7 +27,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 	<li><b>Email: </b>mardiana_omar@moe.edu.sg</li>
 	<li><b>Contact Person: </b>Mdm Mardiana Bte Omar</li>
 </ul>
-<br><br>
+<br>
 <b>How to get there?</b>
 <ul>
 	<li><b>Nearest MRT: </b> Yishun MRT (NS13)</li>
