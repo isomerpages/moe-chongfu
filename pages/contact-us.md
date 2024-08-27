@@ -23,9 +23,9 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <br><b>Bus Service:</b><br> 670, 811, 811T  <br><br> <b>Nearest MRT
-          Station:</b><br> Yishun (NS13)<br>Opposite Yishun MRT Station, Exit
-          B<br>board bus 811
+      - other: <br><b>Bus Service:</b><br> 811, 811T  <br><br> <b>Nearest MRT
+          Station:</b><br> Yishun (NS13)<br> board bus 811 from Yishun
+          Interchange
     title: Getting There
 feedback: ""
 ---
