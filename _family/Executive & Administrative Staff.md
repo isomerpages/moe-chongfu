@@ -333,7 +333,7 @@ variant: tiptap
 <p>ICT Trainer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>N/A</p>
 </td>
 </tr>
 <tr>
