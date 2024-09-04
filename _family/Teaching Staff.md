@@ -1126,14 +1126,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Bee Kheng Sally</p>
-<p><a href="mailto:tan_bee_kheng_sally@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_kheng_sally@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Hasnah Pauzan</p>
 <p><a href="mailto:hasnah_pauzan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasnah_pauzan_a@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
