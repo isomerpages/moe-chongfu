@@ -202,7 +202,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siak Yim Peng
+<p>Mdm Siak Yim Peng
 <br><a href="mailto:siak_yim_peng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siak_yim_peng_a@moe.edu.sg</a>
 </p>
 </td>
@@ -593,7 +593,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharifah Najibah
+<p>Mdm Sharifah Najibah
 <br><a href="mailto:sharifah__najibah_syed_mustapa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_najibah_syed_mustapa@moe.edu.sg</a>
 <br>
 </p>
@@ -735,9 +735,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tang Wan Chin 陈婉君</p>
-<p><a href="mailto:tang_wan_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_wan_chin@moe.edu.sg</a>
-</p>
+<p>Mr Quek Chin Peng 郭进平</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
