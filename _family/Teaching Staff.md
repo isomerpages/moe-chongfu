@@ -202,7 +202,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siak Yim Peng
+<p>Mdm Siak Yim Peng
 <br><a href="mailto:siak_yim_peng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siak_yim_peng_a@moe.edu.sg</a>
 </p>
 </td>
@@ -593,7 +593,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharifah Najibah
+<p>Mdm Sharifah Najibah
 <br><a href="mailto:sharifah__najibah_syed_mustapa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_najibah_syed_mustapa@moe.edu.sg</a>
 <br>
 </p>
@@ -735,9 +735,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tang Wan Chin 陈婉君</p>
-<p><a href="mailto:tang_wan_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_wan_chin@moe.edu.sg</a>
-</p>
+<p>Mr Quek Chin Peng 郭进平</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -863,7 +862,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Amirah Sabrina Mohamad
+<p>Ms Nur Amirah Sabrina Mohamad
 <br><a href="mailto:nur_amirah_sabrina_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amirah_sabrina_mohamad@moe.edu.sg</a> 
 <br>
 </p>
@@ -1126,14 +1125,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Bee Kheng Sally</p>
-<p><a href="mailto:tan_bee_kheng_sally@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_kheng_sally@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Hasnah Pauzan</p>
 <p><a href="mailto:hasnah_pauzan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasnah_pauzan_a@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1154,9 +1151,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Si Yun</p>
-<p><a href="mailto:tan_si_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_si_yun@moe.edu.sg</a>
-</p>
+<p>Ms Tian Xiao 田晓</p>
 </td>
 </tr>
 <tr>
@@ -1406,6 +1401,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated 02/08/2024</strong>
+<p><strong>Updated 06/09/2024</strong>
 </p>
 <p></p>

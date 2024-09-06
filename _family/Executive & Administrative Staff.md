@@ -333,8 +333,7 @@ variant: tiptap
 <p>ICT Trainer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_razilah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_razilah@moe.edu.sg</a>
-</p>
+<p>N/A</p>
 </td>
 </tr>
 <tr>
