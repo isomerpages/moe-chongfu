@@ -1153,6 +1153,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tian Xiao 田晓</p>
+<p><a href="tian_xiao@moe.edu.sg" rel="noopener nofollow" target="_blank">tian_xiao@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
