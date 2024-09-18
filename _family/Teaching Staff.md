@@ -736,7 +736,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Quek Chin Peng 郭进平</p>
-<p></p>
+<p><a href="mailto:quek_chin_peng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_chin_peng_a@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -1152,6 +1153,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tian Xiao 田晓</p>
+<p><a href="tian_xiao@moe.edu.sg" rel="noopener nofollow" target="_blank">tian_xiao@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
