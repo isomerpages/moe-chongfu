@@ -23,7 +23,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <br><b>Bus Service:</b><br> 811, 811T  <br><br> <b>Nearest MRT
+      - other: <br><b>Bus Service:</b><br> 811, 811T, 861  <br><br> <b>Nearest MRT
           Station:</b><br> Yishun (NS13)<br> board bus 811 from Yishun
           Interchange
     title: Getting There
