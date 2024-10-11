@@ -29,8 +29,6 @@ variant: markdown
 
 
 
-<img src="/images/Label_MuseumBasedLearning_V3-2048x1104.png" style="width:75%">
-
 <h3><strong>Excel</strong></h3>
 
 
