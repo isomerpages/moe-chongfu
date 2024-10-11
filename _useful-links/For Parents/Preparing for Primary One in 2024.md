@@ -14,11 +14,6 @@ variant: markdown
 *   [Information on Edusave Account](https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds?toggle-id=moe-funded-schools)
 *   [Application for EPSO](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
 
- 
- **<u>Declaration on Medical Conditions/ Special Educational Needs</u>**
- * [Declaration Form](https://go.gov.sg/declaration2024)
-
-
 
 **<u>Financial Assistance Scheme (FAS)</u>**
 

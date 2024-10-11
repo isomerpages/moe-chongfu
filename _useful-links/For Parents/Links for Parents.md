@@ -8,7 +8,7 @@ variant: markdown
 ### Links for Parents
 
 * [Letters to Parents](/links-for-parents/letters-to-parent/)
-* [Wellness](/links-for-parents/links-for-parents/wellness/)
+* [Wellness](/links-for-parents/wellness/)
 * [Parenting](/links-for-parents/parenting/)
 * [Content](/links-for-parents/content/)
 * [Primary - MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/myskillsfuture-for-students.html)

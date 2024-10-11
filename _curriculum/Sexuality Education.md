@@ -100,7 +100,7 @@ an opt-out form. This form will be communicated &nbsp;to parents at the
 start of the year and is also downloadable <a href="/files/SEd_opt_out_form_Updated_22_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 opt-out form is to be submitted by 29/01/2024.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at <u>+65 6758 5527</u> for discussion or to seek clarification about the
-school’s Sexuality Education programme.</p>
+at +65 6758 5527 for discussion or to seek clarification about the school’s
+Sexuality Education programme.</p>
 <p></p>
 <p></p>

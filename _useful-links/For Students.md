@@ -2,12 +2,13 @@
 title: For Students
 permalink: /links-for-students/
 description: ""
+variant: markdown
 ---
 <a href="https://kahoot.it/">
 <img src="/images/kahoot.png" style="width:30%">
 </a>
 <p style="text-align:center;">	
-	<a href="https://khoot.it/"> Kahoot</a>
+	<a href="https://kahoot.com/"> Kahoot</a>
 </p>
 
 <hr>
@@ -23,28 +24,18 @@ description: ""
 <hr>
 <br>
 
-<a href="https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr">
+<a href="https://www.dancemattypingguide.com/">
 <img src="/images/Dance-mat-typing-230x300.png" style="width:30%">
 </a>
 
 
 
 <p style="text-align:center;">	
-	<a href="https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr">Dance Mat Typing</a>
+	<a href="https://www.dancemattypingguide.com">Dance Mat Typing</a>
 </p>
 
 <hr>
 <br>
-
-<a href="http://portal.swn.moe.edu.sg/">
-<img src="/images/WIFI-SWN.png" style="width:30%">
-</a>
-
-<p style="text-align:center;">	
-	<a href="http://portal.swn.moe.edu.sg/">School wifi logout link</a>
-</p>
-
-<hr>
 <br>
 
 <a href="https://vle.learning.moe.edu.sg/login">
@@ -58,15 +49,7 @@ description: ""
 <hr>
 <br>
 
-<a href="https://www.csa.gov.sg/Programmes/sg-cyber-safe-students/about-sg-cyber-safe-students">
-<img src="/images/ICT-CONNECTION-1-300x179.png" style="width:30%">
-</a>
 
-<p style="text-align:center;">	
-	<a href="https://www.csa.gov.sg/Programmes/sg-cyber-safe-students/about-sg-cyber-safe-students">Navigate Safely in Cyberspace</a>
-</p>
-
-<hr>
 <br>
 
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">

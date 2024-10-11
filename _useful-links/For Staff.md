@@ -2,12 +2,8 @@
 title: For Staff
 permalink: /for-staff/
 description: ""
+variant: markdown
 ---
-<p style="text-align:center;">	
-<a href="https://docs.google.com/forms/d/1HnkhDDa37Jp-QST2eNZY9IUe3dmir8RxVQav8zDEUVE/viewform?usp=send_form">Application to leave the Republic</a>
-</p>
-
-<hr>
 <br>
 
 <a href="https://vle.learning.moe.edu.sg/login">
@@ -15,17 +11,6 @@ description: ""
 </a>
 <p style="text-align:center;">	
 <a href="https://vle.learning.moe.edu.sg/login">Student Learning Space (SLS)</a>
-</p>
-
-<hr>
-<br>
-
-<a href="https://access.moe.edu.sg/login/login.jsp?bmctx=F0CBAE08CEF826EC3B3B6FECAB3944EF&contextType=external&username=string&miscCookie=secure&max_authn_level=5&password=secure_string&challenge_url=https%3A%2F%2Faccess.moe.edu.sg%2Flogin%2Flogin.jsp&ssoCookie=secure&request_id=-5841164141307742925&authn_try_count=0&locale=en_US&resource_url=https%253A%252F%252Fidentity.moe.edu.sg%252Fidentity">
-<img src="/images/SSOE-Image-V2.jpg" style="width:30%">
-</a>
-
-<p style="text-align:center;">	
-<a href="https://access.moe.edu.sg/login/login.jsp?bmctx=F0CBAE08CEF826EC3B3B6FECAB3944EF&contextType=external&username=string&miscCookie=secure&max_authn_level=5&password=secure_string&challenge_url=https%3A%2F%2Faccess.moe.edu.sg%2Flogin%2Flogin.jsp&ssoCookie=secure&request_id=-5841164141307742925&authn_try_count=0&locale=en_US&resource_url=https%253A%252F%252Fidentity.moe.edu.sg%252Fidentity">SSOE/IAMS Password Reset</a>
 </p>
 
 <hr>
