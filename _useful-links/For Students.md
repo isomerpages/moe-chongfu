@@ -24,7 +24,7 @@ variant: markdown
 <hr>
 <br>
 
-<a href="https://www.bbc.co.uk/games/interactive/activity-dance-mat-typing?exitGameUrl=http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr">
+<a href="https://www.dancemattypingguide.com/">
 <img src="/images/Dance-mat-typing-230x300.png" style="width:30%">
 </a>
 
