@@ -5,7 +5,6 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-*   [LMS login for parents](https://lms.wizlearn.com/CFS/login.aspx)
 *   [Raising a Compassionate child](https://www.schoolbag.edu.sg/story/raising-a-compassionate-child)
 *   [Raising Confident Children](https://www.schoolbag.edu.sg/story/raising-confident-children)
 *   [Building resilience muscle](https://www.schoolbag.edu.sg/story/building-the-resilience-muscle)
