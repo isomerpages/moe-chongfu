@@ -36,16 +36,6 @@ variant: markdown
 
 <hr>
 <br>
-
-<a href="http://portal.swn.moe.edu.sg/">
-<img src="/images/WIFI-SWN.png" style="width:30%">
-</a>
-
-<p style="text-align:center;">	
-	<a href="http://portal.swn.moe.edu.sg/">School wifi logout link</a>
-</p>
-
-<hr>
 <br>
 
 <a href="https://vle.learning.moe.edu.sg/login">
@@ -59,15 +49,7 @@ variant: markdown
 <hr>
 <br>
 
-<a href="https://www.csa.gov.sg/Programmes/sg-cyber-safe-students/about-sg-cyber-safe-students">
-<img src="/images/ICT-CONNECTION-1-300x179.png" style="width:30%">
-</a>
 
-<p style="text-align:center;">	
-	<a href="https://www.csa.gov.sg/Programmes/sg-cyber-safe-students/about-sg-cyber-safe-students">Navigate Safely in Cyberspace</a>
-</p>
-
-<hr>
 <br>
 
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">
