@@ -42,9 +42,6 @@ variant: markdown
 <img src="/images/MOE-Intranet-V2.jpg" style="width:30%">
 </a>
 
-<p style="text-align:center;">	
-<a href="https://intranet.moe.gov.sg/Pages/Home.aspx">MOE Intranet</a>
-</p>
 
 <hr>
 <br>
@@ -119,9 +116,6 @@ variant: markdown
 <img src="/images/MOE-HR-Online-V2.jpg" style="width:30%">
 </a>
 
-<p style="text-align:center;">	
-<a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx">HR Online</a>
-</p>
 
 <hr>
 <br>

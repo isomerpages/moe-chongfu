@@ -11,16 +11,12 @@ variant: markdown
 <p style="text-align:justify">With Visual Arts, our students are able to observe and understand and make meaning in what they see. They are also able to communicate their ideas by using and creating visuals. This helps students to see the value and recognise the relevance of art in their lives.</p>
 
 
-<a href="https://photos.google.com/share/AF1QipPvw3RPIH_I7osikyNKKo4KIz4Fu-3xCeikmzR2xwCVztK6g9yA5mMy0h8fhJFV5Q?key=NFpIR1dVZ2h2ZGRaS284Q2JQdmpwMnR4R0tFa2RB">
-<img src="/images/Label_VisualArtsMusic_V3-1024x472.png" style="width:75%">
-</a>
+
 
 <b>Performing Arts</b>
 
 <p style="text-align:justify">Performing Arts is an integral part of our society and it helps to enrich students’ social, cultural and historical awareness.</p>
 
-<a href="https://photos.google.com/share/AF1QipOoUHw70dU8W4G0PM-U0cJJU1s6Bp3mXGepDFy75Rn_jtP9mSK-LnAZl2xa0fgRKA?key=aTZfUE9YcGxBXzM2aTRJcFpmdTFEeXoyS2tXN3Z3">
-<img src="/images/Label_PerformingArts_V3-1024x530.png" style="width:75%"></a>
 	
 <h3><strong>Enjoy, Experience, Excel Approach</strong></h3>
 	
@@ -28,27 +24,17 @@ variant: markdown
 
 <h3><strong>Enjoy</strong></h3>
 
-<a href="https://photos.google.com/share/AF1QipPOKglHpHUZdf2hgByvfk2RGqPOLE0nM06_JFun_WJbZoMtR2pY4603woqoPnyO-A?key=dXFEcGEyb0hSZ0RlbDZwZEhyS2NnTDVLeWZSamd3">
-<img src="/images/Label_Enjoy_V3-768x498.png" style="width:75%"></a>
 
 <h3><strong>Experience</strong></h3>
 
-<a href="https://photos.google.com/share/AF1QipOoRDVkx8Y5tlsK2PzW4tD9h4-H8PMtjFXGSt8F2G0iWCk-phrJ3f4MlGnDhUHlQg?key=cS0tOENyVFgxWGFsVE05R0VaSXMzeFozSjZ1M19R">
-<img src="/images/Label_Experience_V3-2048x1003.png" style="width:75%"></a>
 
-<a href="https://photos.google.com/share/AF1QipPY4t2_FReMWXezjm9BTjQFjGyzYe8WMHuECsnWl_D-UU26IQERZFdWvBf0St1DWw?key=eEo2Ylh1OGN2NlN6TGJFYmo0UzR5Uy1CRjZXVG93">
-<img src="/images/Label_MuseumBasedLearning_V3-2048x1104.png" style="width:75%"></a>
+
+<img src="/images/Label_MuseumBasedLearning_V3-2048x1104.png" style="width:75%">
 
 <h3><strong>Excel</strong></h3>
 
-<a href="https://photos.google.com/share/AF1QipO4jjlGlLQogyMaOTl-6Gqz3Nhr4A-63yxWjpOJ1-vIDBMfd5udjQWAoh6HtzqS5A?key=a0U3LXNBcUVQNDVPdk9GSjd2ZnVkZEM3OFo5NEtR">
-<img src="/images/Label_Excel_SOTA_V3-2048x1135.png" style="width:75%"></a>
 
-<a href="https://photos.google.com/share/AF1QipOpQgWiiO-3oBuy5amOoYh-9vh7KN-OkckIXHunpzud2BMIpwpANZanjxZf9fg_8w?key=cjV1aS1iRm5ja0NRdnZIMGdFSU5yRDBhdHZvWHRB">
-<img src="/images/Label_Excel_SYF_V6-1024x586.png" style="width:75%"></a>
 
-<a href="https://photos.google.com/share/AF1QipNy-1lyXVjbdHYPByUp6UyYYA97d175sqjZ7DM0p9xI-DKVcSQXhe8TxXMUM7nfJA?key=eGxZR1FOc0lVbU1va2dxYkpvanVaRTd5S2w2QmVR">
-<img src="/images/Label_Excel_Staff_V4-2048x1357.png" style="width:75%"></a>
 
 <h3><strong><mark> Chongfu's Arts Fest 2.0, The Hearts of the Arts </mark></strong></h3>
 
