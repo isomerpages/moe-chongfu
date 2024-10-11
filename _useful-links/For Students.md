@@ -31,7 +31,7 @@ variant: markdown
 
 
 <p style="text-align:center;">	
-	<a href="https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr">Dance Mat Typing</a>
+	<a href="https://www.dancemattypingguide.com">Dance Mat Typing</a>
 </p>
 
 <hr>
