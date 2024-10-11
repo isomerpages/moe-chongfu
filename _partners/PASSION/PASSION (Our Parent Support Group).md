@@ -29,4 +29,4 @@ positive attitudes and social behaviour in them.</p></li>
 <p></p>
 <p style="text-align:justify">For more information on PASSION, please refer to our PASSION Facebook page:</p>
 <p><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Chongfu School PASSION (Parent Support Group)</a> </strong>or
-email us at:</p><div style="color:blue"> dads.at.chongfu@gmail.com<p></p></div>
+email us at:<span style="color:blue"> dads.at.chongfu@gmail.com</span></p>
