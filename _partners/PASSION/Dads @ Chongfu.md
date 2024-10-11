@@ -11,5 +11,5 @@ third_nav_title: PASSION
 <ul data-tight="true" class="tight">
 <li><p>Plan and organise father-child bonding activities and events.</p></li>
 </ul>
-<p>For more information on Dads@Chongfu, please email us at: <a href="mailto:dads.at.chongfu@gmail.com" rel="noopener noreferrer nofollow" target="_blank">dads.at.chongfu@gmail.com</a>
-</p>
+<p>For more information on Dads@Chongfu, please email us at: </p><div style="color:blue">dads.at.chongfu@gmail.com
+<p></p></div>
