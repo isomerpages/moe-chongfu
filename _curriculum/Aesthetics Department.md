@@ -24,13 +24,9 @@ variant: markdown
 
 <h3><strong>Enjoy</strong></h3>
 
-
 <h3><strong>Experience</strong></h3>
 
-
-
 <h3><strong>Excel</strong></h3>
-
 
 
 
