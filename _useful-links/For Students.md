@@ -2,12 +2,13 @@
 title: For Students
 permalink: /links-for-students/
 description: ""
+variant: markdown
 ---
 <a href="https://kahoot.it/">
 <img src="/images/kahoot.png" style="width:30%">
 </a>
 <p style="text-align:center;">	
-	<a href="https://khoot.it/"> Kahoot</a>
+	<a href="https://kahoot.com/"> Kahoot</a>
 </p>
 
 <hr>
