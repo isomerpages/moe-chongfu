@@ -551,7 +551,7 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>2024 Primary 3</strong> 
-<br><strong>Assistant Year Head</strong> 
+<br><strong>Lower Primary Year Head</strong> 
 <br>Mdm Ong Shu Ying
 <br><a href="mailto:ong_shu_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shu_ying@moe.edu.sg</a> 
 <br>
