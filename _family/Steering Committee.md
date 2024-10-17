@@ -76,13 +76,9 @@ variant: markdown
     <td class="tg-yhj3">Mdm Madihah Ghazali</td>
     <td class="tg-yhj3">Assistant Year Head (P2)</td>
 	</tr>
-  <tr>
-    <td class="tg-yhj3">Mdm Ong Shu Ying</td>
-    <td class="tg-yhj3">Assistant Year Head (P3)</td>
-	</tr>
 	<tr>
     <td class="tg-yhj3">Mdm Ong Shu Ying</td>
-    <td class="tg-yhj3">Lower Primary Year Head (P4)</td>
+    <td class="tg-yhj3">Lower Primary Year Head (P3 and P4)</td>
  </tr>
 	<tr>
     <td class="tg-yhj3">Ms Yap Xin Yi Filicia</td>
