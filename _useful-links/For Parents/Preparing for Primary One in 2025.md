@@ -5,17 +5,20 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-**Preparing for Primary One in 2024**
+**Preparing for Primary One in 2025**
 
 <strong><u>GIRO and Enrichment Programme Standing Order (EPSO) for Edusave Account</u></strong>
 
-*   [Information on GIRO Scheme](https://www.moe.gov.sg/financial-matters/fees?toggle-id=giro)
+*   [Information on School fees](https://www.moe.gov.sg/financial-matters/fees?toggle-id=giro)
 *   [MOE eGIRO Services](https://www.moe.gov.sg/financial-matters/fees/egiro)
 *   [Information on Edusave Account](https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds?toggle-id=moe-funded-schools)
 *   [Application for EPSO](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
 
+**<u>Declaration on Medical Conditions/ Special Educational Needs</u>**
+*  Please click [here](https://form.gov.sg/6715cff8380689b626de9c51) for the form.
 
-**<u>Financial Assistance Scheme (FAS)</u>**
+
+**<u>MOE Financial Assistance Scheme (MOE FAS)</u>**
 
 * [MOE FAS Pamphlet - English](/files/p1reg2024_moe_fas_pamphet_el.pdf)
 * [MOE FAS Pamphlet - Chinese](/files/p1reg2024_moe_fas_pamphet_cl.pdf)
