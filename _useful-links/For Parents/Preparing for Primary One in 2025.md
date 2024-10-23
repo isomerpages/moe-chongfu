@@ -15,7 +15,7 @@ variant: markdown
 *   [Application for EPSO](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
 
 **<u>Declaration on Medical Conditions/ Special Educational Needs</u>**
-*  Please click [here](https://form.gov.sg/6715cff8380689b626de9c51) for the form.
+*  Link: [https://form.gov.sg/6715cff8380689b626de9c51](https://form.gov.sg/6715cff8380689b626de9c51)
 
 
 **<u>MOE Financial Assistance Scheme (MOE FAS)</u>**
@@ -30,21 +30,22 @@ variant: markdown
 
 **<u>School Essential Supplies - Textbooks &amp; Stationeries</u>**
 
-* [P1 Booklist 2024](/files/P1_Booklist.pdf)
+* [P1 Booklist 2025](/files/Booklist.pdf)
 
-* [Online Purchase](https://www.pacificbookstores.com/public/)
+* [Online Purchase (from 7 November 2024 – 14 December 2024)](https://www.pacificbookstores.com/public/)
 
 **<u>School Essential Supplies - Uniform</u>**
-* [CFS Uniform Selling Dates](/files/p1reg_uniform_2023_sales_date_for_cfs_dec_2.pdf)
+* [CFS Uniform Selling Dates](/files/Uniform_Sale_Dates.pdf)
 * [Online Purchase](https://www.euniforms.com.sg/shop/product-category/primary-schools/cfps/)
 
 **<u>Application for Bus Transport</u>**
-*   [School Bus Registration](https://www.tongtar.com) (Please register by **30 November 2023**)
+*   [School Bus Registration](https://www.tongtar.com) (Please register by **30 November 2024**)
 *   Contact: 6261 5537 / 9773 0426 (Whatsapp or SMS)
 *   Email: chongfu@tongtar.com
 
-**<u>Student Care Service</u>**
-*  [Student Care Registration](/files/p1reg2024_big_hearts_cover_letter.pdf)
+**<u>Application for Student Care Service</u>**
+*  [Student Care Registration](/files/Student_Care.pdf)
+*  [Big Heart Student Care Corporate Video](https://youtu.be/SyIR_kgAnks)
 
 **<u>Parent Support Group (PASSION) and Alumni Classes</u>**
 
