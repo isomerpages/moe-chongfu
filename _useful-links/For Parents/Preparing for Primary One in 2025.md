@@ -47,7 +47,7 @@ variant: markdown
 *  [Student Care Registration](/files/Student_Care.pdf)
 *  [Big Heart Student Care Corporate Video](https://youtu.be/SyIR_kgAnks)
 
-**<u>Parent Support Group (PASSION) and Alumni Classes</u>**
+**<u>Parent Support Group (PASSION)</u>**
 
 *   [Passion Application Form_FormSG](https://go.gov.sg/rt226d)
 *   [The Dads@Chongfu Video](http://shorturl.at/cwF14)
