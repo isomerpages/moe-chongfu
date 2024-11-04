@@ -233,4 +233,25 @@ _Click on the following links to find out more._
 <a href="https://heyzine.com/flip-book/0b79f03ba9.html">P6 - Chongfu Anthology 2023 P6</a>	
 </div>  
 </li>
+<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion10">  
+<label for="accordion10"><b>Chongfu Anthology 2024</b></label>  
+<div>
+<p style="text-align:justify">At the EL Department, we are committed to fostering a love for the English Language in our students. The&nbsp;<em>Chongfu Anthology</em>&nbsp;is a platform that proudly showcases their creative work each year.</p>
+
+<p>This year, our students explored the theme of "Family" through their own poems and haikus, aligning with the theme of the JAL Haiku Contest 2023-2024, in which some of our students participated. We are thrilled to share their unique perspectives and heartfelt expressions with you.</p>
+	
+<p>Here are the links to the flipbook copies:</p>
+<a href="https://heyzine.com/flip-book/d3f1ba17ea.html">P1 Poems</a>
+<br>
+<a href="https://heyzine.com/flip-book/eccd1b1362.html">P2 Poems</a><br>
+<a href="https://heyzine.com/flip-book/87f9b87b15.html">P3 Poems</a>	
+<br>
+<a href="https://heyzine.com/flip-book/bffe5043b3.html">P4 Poems</a>	
+<br>
+	<a href="https://heyzine.com/flip-book/1410c33038.html">P5 Poems</a>	
+<br>
+<a href="https://heyzine.com/flip-book/094af7ff89.html">P6 Poems</a>	
+</div>  
+</li>
 </ul>
