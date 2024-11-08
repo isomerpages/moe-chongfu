@@ -244,7 +244,7 @@ _Click on the following links to find out more._
 <p>Here are the links to the flipbook copies:</p>
 <a href="https://heyzine.com/flip-book/d3f1ba17ea.html">P1 Poems</a>
 <br>
-<a href="https://heyzine.com/flip-book/eccd1b1362.html">P2 Poems</a><br>
+<a href="https://heyzine.com/flip-book/eccd1b1362.html">P2 Poems</a><em><b>- Erratum for: Page 22 - Creator: Low Jun Yi, Lucian, 2 Loyal</b></em><br>
 <a href="https://heyzine.com/flip-book/87f9b87b15.html">P3 Poems</a>	
 <br>
 <a href="https://heyzine.com/flip-book/bffe5043b3.html">P4 Poems</a>	
