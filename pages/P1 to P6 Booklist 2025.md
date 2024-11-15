@@ -78,5 +78,7 @@ description: ""
 </li>
 </ul>
 <p></p>
-<p>Back to link for Parents</p>
+<p></p>
+<p><a href="/links-for-parents/" rel="noopener nofollow" target="_blank">Back to Link for Parents</a>
+</p>
 <p></p>
