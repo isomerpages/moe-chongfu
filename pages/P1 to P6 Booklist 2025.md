@@ -41,6 +41,6 @@ description: ""
 
 * [Primary 6 Foundation Booklist](/files/2025_Primary_P6__Foundation__Booklist.pdf)
 
-<p><a href="/links-for-parents/" rel="noopener nofollow" target="_blank">Back to Link for Parents</a>
+<p><a href="/links-for-parents/" rel="noopener nofollow" target="_blank">Back to Links for Parents</a>
 </p>
 <p></p>
