@@ -1,5 +1,5 @@
 ---
-title: School Bus Advertisement
+title: School Bus Information
 permalink: /school-bus-advertisement/
 variant: markdown
 description: ""
