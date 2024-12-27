@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Information
 variant: markdown
 ---
-<p><strong>Reporting Time:</strong> Students are to report to school by 7.15 am and proceed to the hall on Monday and Friday and to their respective classrooms on Tuesday, Wednesday and Thursday for the morning assembly.</p>
+<p><strong>Reporting Time:</strong> Students are to report to school by 7.15 am and proceed to the hall on Monday and Friday, and to their respective classrooms on Tuesday, Wednesday and Thursday for the morning assembly.</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
