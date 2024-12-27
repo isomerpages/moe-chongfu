@@ -32,7 +32,7 @@ description: ""
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/our-partners/expertisewing/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title"> Expertise Wing </div><div class="isomer-card-link">https://chongfu.moe.edu.sg/our-partners/expertisewing/</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/our-partners/expertisewing/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Expertise Wing</div><div class="isomer-card-link">https://chongfu.moe.edu.sg/our-partners/expertisewing/</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/our-partners/dads-chongfu/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dads @ Chongfu</div>
