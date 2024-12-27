@@ -4,7 +4,6 @@ permalink: /co-curricular-activities-cca/
 variant: markdown
 description: ""
 ---
-
 <h3>Co-Curricular Activities</h3>
 <p style="text-align:justify">These are the CCAs offered in Chongfu School.</p>
 
