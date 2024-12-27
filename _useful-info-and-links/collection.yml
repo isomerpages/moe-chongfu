@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Supplier Information.md
       - For Parents/Parenting Tips.md
       - For Parents/Forms Download.md
       - For Parents/Frequently Asked Questions FAQ.md
