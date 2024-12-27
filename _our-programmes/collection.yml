@@ -2,7 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
-      - Our Programmes.md
+      - Discover.md
       - English.md
       - Mathematics.md
       - Mother Tongue/.keep
