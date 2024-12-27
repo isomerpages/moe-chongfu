@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Useful Info and Links.md
-      - For Students.md
       - For Parents.md
+      - For Students.md
       - For Staff.md
