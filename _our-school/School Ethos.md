@@ -14,7 +14,7 @@ outlook.</p>
 thereby preparing them for the future.</p>
 <p>通过德智体群美五育,
 <br>造就未来的新人</p>
-<h3>Our Motto </h3>
+<h3>Our Motto</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/motto-copy.jpeg">
 </div>
