@@ -5,4 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: Teaching Staff
 ---
-<p></p>
+<img style="width:60%" src="/images/Check_back_soon_for_updates.png">
