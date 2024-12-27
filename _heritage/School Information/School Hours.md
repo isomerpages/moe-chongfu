@@ -6,12 +6,12 @@ third_nav_title: School Information
 variant: markdown
 ---
 <p><strong>Reporting Time:</strong> Students are to report to school by 7.15 am and proceed to the hall on Monday and Friday and to their respective classrooms on Tuesday, Wednesday and Thursday for the morning assembly.</p>
-<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left; vertical-align:middle}
 .tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;}
