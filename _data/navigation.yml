@@ -5,10 +5,8 @@ links:
   - title: Our Family
     url: /our-family/
   - title: Our Programmes
-    collection: our-programmes
-  - title: Our Partners
-    collection: our-partners
-  - title: Useful Info And Links
-    collection: useful-info-and-links
-  - title: Our School
-    url: /our-school/
+    url: /our-programmes/
+  - title: OUR PARTNERS
+    url: /our-partners/
+  - title: USEFUL INFO AND LINKS
+    url: /useful-info-and-links/
