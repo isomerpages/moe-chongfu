@@ -13,41 +13,41 @@ variant: markdown
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
-.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left; vertical-align:middle}
+.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;}
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
 
-<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+<table class="tg" style="undefined;table-layout: fixed; width: 468px">
 <colgroup>
-<col style="width: 257px">
+<col style="width: 234px">
 <col style="width: 234px">
 </colgroup>
 
 <tbody>
   <tr>
-    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Days</span></td>
-    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">School Hours (for all levels)</span></td>
+    <td style="text-align:center" class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Days</span></td>
+    <td style="text-align:center" class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">School Hours (for all levels)</span></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Monday</td>
-    <td class="tg-yhj3"></td>
+    <td style="text-align:center" class="tg-yhj3">Monday</td>
+    <td style="text-align:center" class="tg-yhj3" rowspan="4">7.30am to 1.30pm</td>
 	</tr>
 	<tr>
-    <td class="tg-yhj3">Tuesday* </td>
+    <td style="text-align:center" class="tg-yhj3">Tuesday * </td>
     <td class="tg-yhj3"></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Wednesday</td>
-    <td class="tg-yhj3">7.30am to 1.30pm</td>
+    <td style="text-align:center" class="tg-yhj3">Wednesday</td>
+    <td class="tg-yhj3"></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Thursday</td>
+    <td style="text-align:center" class="tg-yhj3">Thursday</td>
     <td class="tg-yhj3"></td>
  </tr>
 	<tr>
-    <td class="tg-yhj3">Friday*</td>
-    <td class="tg-yhj3">7.30am to 1.15pm</td>
+    <td style="text-align:center" class="tg-yhj3">Friday *</td>
+    <td style="text-align:center" class="tg-yhj3">7.30am to 1.15pm</td>
 	</tr>
 </tbody>
 </table>
