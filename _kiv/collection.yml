@@ -2,4 +2,5 @@ collections:
   kiv:
     output: true
     order:
+      - Content.md
       - Letters to Parents.md
