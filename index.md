@@ -13,9 +13,6 @@ sections:
           description: View Our Latest Happenings!
           url: /news
         - title: SOCIAL MEDIA
-          description: View Our Latest Happenings!
-          url: /find-us/
-        - title: USEFUL LINKS
-          description: Click Here for Useful Links
-          url: useful-links/links-for-parents/
+          description: Stay Connected with us!
+          url: https://www.facebook.com/ChongfuSch/
 ---
