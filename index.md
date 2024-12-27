@@ -17,5 +17,5 @@ sections:
           url: /find-us/
         - title: USEFUL LINKS
           description: Click Here for Useful Links
-          url: /links-for-parents/
+          url: useful-links/links-for-parents/
 ---
