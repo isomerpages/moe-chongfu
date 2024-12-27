@@ -2,7 +2,7 @@ collections:
   our-partners:
     output: true
     order:
-      - At a Glance.md
+      - Quick Look.md
       - Singapore Hokkien Huay Kuan.md
       - Chongfu Alumni.md
       - Community Partners/.keep
