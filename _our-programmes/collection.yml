@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Departments/Information & Communication Technology.md
       - Departments/Student Leadership.md
       - Departments/Sexuality Education.md
       - Departments/Character & Citizenship Education.md
