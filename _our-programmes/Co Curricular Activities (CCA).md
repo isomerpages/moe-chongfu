@@ -6,8 +6,6 @@ description: ""
 ---
 <input type="checkbox" id="accordion7">
 <label for="accordion7"><b>Co-Curricular Activities</b></label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p style="text-align:justify">These are the CCAs offered in Chongfu School.</p>
 
 <style type="text/css">
@@ -228,7 +226,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <h3><strong>CCA List</strong></h3>
