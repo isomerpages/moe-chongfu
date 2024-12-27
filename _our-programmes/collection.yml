@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  our-programmes:
     output: true
     order:
       - English.md
