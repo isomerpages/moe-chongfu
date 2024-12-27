@@ -4,12 +4,14 @@ links:
     collection: our-school
   - title: Our Family
     collection: our-family
-  - title: Curriculum
+  - title: Our Programmes
     collection: curriculum
+  - title: Our Partners
+    collection: partners
+  - title: Useful Info and Links
+    collection: useful-links
   - title: CCA
     collection: cca
-  - title: Partners
-    collection: partners
   - title: School Bus Advertisement
     url: /school-bus-advertisement/
   - title: Contact Us
