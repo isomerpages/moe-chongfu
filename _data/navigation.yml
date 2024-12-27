@@ -3,10 +3,10 @@ links:
   - title: Our School
     collection: our-school
   - title: Our Family
-    url: /our-family/
+    collection: our-family
   - title: Our Programmes
     url: /our-programmes/
   - title: Our Partners
-    url: /our-partners/
+    collection: our-partners
   - title: Useful Info and Links
     url: /useful-info-and-links/
