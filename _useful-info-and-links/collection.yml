@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Supplier Information.md
       - For Parents/Preparing for Primary One in 2025.md
+      - For Parents/Supplier Information.md
       - For Parents/Links for Parents.md
       - For Parents/Letters to Parents.md
       - For Parents/Wellness.md
