@@ -4,7 +4,6 @@ collections:
     order:
       - English.md
       - Departments/.keep
-      - Departments/Mathematics.md
       - Departments/Science.md
       - Departments/Physical Education (PE).md
       - Departments/Aesthetics.md
