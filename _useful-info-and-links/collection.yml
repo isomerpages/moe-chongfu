@@ -2,6 +2,7 @@ collections:
   useful-info-and-links:
     output: true
     order:
+      - Useful Info and Links.md
       - For Students.md
       - For Parents.md
       - For Staff.md
