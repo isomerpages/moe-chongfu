@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Physical Education.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -10,6 +9,7 @@ collections:
       - Mother Tongue/Chinese Department.md
       - Mother Tongue/Malay Department.md
       - Mother Tongue/Tamil Department.md
+      - Physical Education.md
       - Aesthetics.md
       - PE & CCA.md
       - Character & Citizenship Education.md
