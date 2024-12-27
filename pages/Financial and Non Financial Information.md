@@ -4,14 +4,25 @@ permalink: /our-school/financial-and-non-financial-information/
 description: ""
 variant: markdown
 ---
-### 1. Non-Financial Information
+### Financial Information
 
-<p>
-<table border="0">
+Information on the school’s financial information is available at MOE’s website:<br>
+[https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)
+
+
+### Non-Financial Information
+<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+</table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
+<colgroup>
+<col style="width: 320px">
+<col style="width: 320px">
+</colgroup>
+
+</table><table border="0">
 <tbody><tr><td><b>Name of School</b><br><br><b>Address</b></td>
 <td>      Chongfu School<br><br>      170 Yishun Avenue 6 Singapore 768959</td></tr>
 </tbody></table>
-</p>	
+<p></p>	
 		
 ##### Contact Information
 
@@ -30,6 +41,3 @@ variant: markdown
 
 ##### Name of Auditor
 **Baker Tilly TFW LLP**
-
-### 2. Financial Information
-Please refer to this [link](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary) for financial information.
