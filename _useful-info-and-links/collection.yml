@@ -2,10 +2,10 @@ collections:
   useful-info-and-links:
     output: true
     order:
-      - Financial and Non Financial Information.md
       - Summary.md
       - For Parents.md
       - For Students.md
       - For Staff.md
+      - Financial and Non Financial Information.md
       - Privacy Statement.md
       - Terms of Use.md
