@@ -2,9 +2,9 @@ collections:
   useful-info-and-links:
     output: true
     order:
-      - Terms of Use.md
-      - Privacy Statement.md
       - Useful Info and Links.md
       - For Parents.md
       - For Students.md
       - For Staff.md
+      - Privacy Statement.md
+      - Terms of Use.md
