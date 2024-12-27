@@ -1,5 +1,5 @@
 collections:
-  partners:
+  our-partners:
     output: true
     order:
       - PASSION/.keep
