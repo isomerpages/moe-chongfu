@@ -18,4 +18,8 @@ thereby preparing them for the future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/motto-copy.jpeg">
 </div>
+<h3>Our Values</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graciously_word_updated.png">
+</div>
 <p></p>
