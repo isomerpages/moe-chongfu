@@ -1,5 +1,4 @@
 collections:
   achievements:
     output: true
-    order:
-      - 2021.md
+    order: []
