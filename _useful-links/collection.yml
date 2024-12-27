@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Contact Us.md
       - For Parents/.keep
       - For Parents/Preparing for Primary One in 2025.md
       - For Parents/Links for Parents.md
@@ -15,3 +14,4 @@ collections:
       - For Students.md
       - For Staff.md
       - School Bus Information.md
+      - Contact Us.md
