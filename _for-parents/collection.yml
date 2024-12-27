@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Preparing for Primary One in 2025.md
       - P1 to P6 Booklist 2025.md
