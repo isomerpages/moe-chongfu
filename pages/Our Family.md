@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/our-family/school-management-committee" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">School Management Committee</div><div class="isomer-card-link">https://chongfu.moe.edu.sg/our-family/school-management-committee</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/our-family/school-management-committee/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">School Management Committee</div><div class="isomer-card-link">https://chongfu.moe.edu.sg/our-family/school-management-committee</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/our-family/school-steering-committee" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">School Steering Committee</div>
@@ -17,7 +17,7 @@ description: ""
 <div class="isomer-card-title">Primary 1</div>
 <div class="isomer-card-link">Form Teachers 2025</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/primary-2/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Primary 2 </div><div class="isomer-card-link">Form Teachers 2025</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/primary-2/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Primary 2</div><div class="isomer-card-link">Form Teachers 2025</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/primary-3/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Primary 3</div>
