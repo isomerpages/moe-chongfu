@@ -2,10 +2,10 @@ collections:
   useful-info-and-links:
     output: true
     order:
-      - For Parents/School Bus Information.md
-      - For Parents/Financial and Non Financial Information.md
       - For Parents/.keep
       - For Parents/Preparing for Primary One in 2025.md
+      - For Parents/School Bus Information.md
+      - For Parents/Financial and Non Financial Information.md
       - For Parents/Supplier Information.md
       - For Parents/Links for Parents.md
       - For Parents/Letters to Parents.md
