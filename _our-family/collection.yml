@@ -2,7 +2,7 @@ collections:
   our-family:
     output: true
     order:
-      - Content Page.md
+      - Learn More.md
       - School Management Committee.md
       - School Steering Committee.md
       - Teaching Staff/.keep
