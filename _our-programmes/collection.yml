@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Departments/Mother Tongue Languages.md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md
