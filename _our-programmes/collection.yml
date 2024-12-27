@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Student Leadership.md
       - Sexuality Education.md
       - Character & Citizenship Education.md
       - Aesthetics.md
