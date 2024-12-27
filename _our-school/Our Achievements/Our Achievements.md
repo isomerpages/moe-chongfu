@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Our Achievements
 ---
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/2024/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2024</div><div class="isomer-card-link">https://chongfu.moe.edu.sg/2024</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/2023" class="isomer-card">
 <div class="isomer-card-body">
