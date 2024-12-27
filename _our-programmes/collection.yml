@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Departments/.keep
-      - Departments/English.md
       - Departments/Mathematics.md
       - Departments/Science.md
       - Departments/Physical Education (PE).md
