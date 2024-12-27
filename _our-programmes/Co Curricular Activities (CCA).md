@@ -4,8 +4,8 @@ permalink: /co-curricular-activities-cca/
 variant: markdown
 description: ""
 ---
-<input type="checkbox" id="accordion7">
-<label for="accordion7"><b>Co-Curricular Activities</b></label>
+
+<h3>Co-Curricular Activities</h3>
 <p style="text-align:justify">These are the CCAs offered in Chongfu School.</p>
 
 <style type="text/css">
