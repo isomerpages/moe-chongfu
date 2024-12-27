@@ -18,4 +18,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" src="/images/school-logo.jpeg">
 </div>
+<h3>Our School Song</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/pic_schoolsong.jpeg">
+</div>
 <p></p>
