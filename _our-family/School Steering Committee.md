@@ -18,155 +18,141 @@ variant: markdown
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
 
-<h5 style="color:#000000"><center><b>Heads of Department</b></center></h5>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
+</style>
+<h4 style="color:#000000"><center><b>School Leaders</b></center></h4>
 <table class="tg" style="undefined;table-layout: fixed; width: 491px">
+</table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
-<col style="width: 257px">
-<col style="width: 234px">
+<col style="width: 320px">
+<col style="width: 320px">
 </colgroup>
 
 <tbody>
   <tr>
-    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
     <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
   </tr>
-	<tr>
-    <td class="tg-yhj3">Ms Zheng Yijun Elaine</td>
-    <td class="tg-yhj3">HOD English Language</td>
-	</tr>
-	<tr>
-    <td class="tg-yhj3">Mr Ng Min Zhou Jonathan </td>
-    <td class="tg-yhj3">HOD ICT</td>
+		<tr>
+    <td class="tg-yhj3">Principal</td>
+    <td class="tg-yhj3">Mr Tan King Ming<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
+	 <tr><td class="tg-yhj3">Vice Principal (EO)</td>
+    <td class="tg-yhj3">Mr Soon Woo Sin<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
+ <tr><td class="tg-yhj3">Vice-Principal (EO)</td>
+    <td class="tg-yhj3">Ms Angelynna Lim Hwee Mien<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
+ <tr><td class="tg-yhj3">Vice-Principal (Administration)</td>
+    <td class="tg-yhj3">Mr Alvin Tan<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
+</tbody>
+</table>
+
+<h4 style="color:#000000"><center><b>Steering Committee</b></center></h4>
+<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+</table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
+<colgroup>
+<col style="width: 320px">
+<col style="width: 320px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
   </tr>
-	<tr>
-    <td class="tg-yhj3">Mr Ng Ai Peng Jason</td>
-    <td class="tg-yhj3">HOD Mathematics</td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">Ms Low Hwee Pin</td>
-    <td class="tg-yhj3">HOD Mother Tongue Language</td>
- </tr>
-	<tr>
-    <td class="tg-yhj3">Ms Lee Huoy Fen</td>
-    <td class="tg-yhj3">HOD Science</td>
-	</tr>
-	<tr>
-    <td class="tg-yhj3">Mdm Yong Yock Hone Katherine<br></td>
+		<tr>
     <td class="tg-yhj3">School Staff Developer</td>
-  </tr>
-</tbody>
-</table>
-
-<h5 style="color:#000000"><center><b>Year Heads</b></center></h5>
-<table class="tg" style="undefined;table-layout: fixed; width: 491px">
-<colgroup>
-<col style="width: 257px">
-<col style="width: 234px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
-    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
+    <td class="tg-yhj3">Mdm Yong Yock Hone Katherine<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yong_yock_hone_katherin@schools.gov.sg">yong_yock_hone_katherine@schools.gov.sg</a></td></tr>
+	<tr>
+    <td class="tg-yhj3">Head of Department<br>English Language</td>
+    <td class="tg-yhj3">Ms Zheng Yijun Elaine<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_yijun_elaine@schools.gov.sg">zheng_yijun_elaine@schools.gov.sg</a></td>
+  </tr>	
+	<tr>
+    <td class="tg-yhj3">Head of Department<br>Mother Tongue Language</td>
+    <td class="tg-yhj3">Ms Low Hwee Pin<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:low_hwee_pin@schools.gov.sg">low_hwee_pin@schools.gov.sg</a></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Mdm Nur Lailie Bte Jamal<br></td>
-    <td class="tg-yhj3">Assistant Year Head (P1)</td>
+    <td class="tg-yhj3">Head of Department<br>Mathematics</td>
+    <td class="tg-yhj3">Mr Ng Ai Peng Jason<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_ai_peng_jason@schools.gov.sg">ng_ai_peng_jason@schools.gov.sg</a> </td>
+ </tr>
+	<tr>
+    <td class="tg-yhj3">Head of Department<br>Science</td>
+    <td class="tg-yhj3">Ms Lee Huoy Fen<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lee_huoy_fen@schools.gov.sg">lee_huoy_fen@schools.gov.sg</a> </td>
+ </tr>
+		<tr>
+    <td class="tg-yhj3">Head of Department<br>Aesthetics</td>
+    <td class="tg-yhj3">Mdm Ang Hui Min Pauline <br>
+			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_hui_min_pauline@schools.gov.sg">ang_hui_min_pauline@schools.gov.sg</a></td>
+ </tr>		
+	<tr>
+    <td class="tg-yhj3">Year Head<br>Primary 3 and 4</td>
+    <td class="tg-yhj3">Mdm Ong Shu Ying <br>
+			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_shu_ying@schools.gov.sg">ong_shu_ying@schools.gov.sg</a></td>
+ </tr>
+	<tr>
+    <td class="tg-yhj3">Year Head<br>Primary 5 and 6</td>
+    <td class="tg-yhj3">Ms Yap Xin Yi Filicia <br>
+			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yap_xin_yi_filicia@schools.gov.sg">yap_xin_yi_filicia@schools.gov.sg</a></td>
+ </tr>
+		<tr>
+    <td class="tg-yhj3">Assistant Year Head<br>Primary 1 and 2</td>
+    <td class="tg-yhj3">Ms Madihah Binte Ghazali<br>
+			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:madihah_ghazali@schools.gov.sg">madihah_ghazali@schools.gov.sg</a></td>
+ </tr>
+	<tr>
+    <td class="tg-yhj3">Subject Head<br>English Language</td>
+    <td class="tg-yhj3">Mr Ng Keh Siong<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_keh_siong@schools.gov.sg">ng_keh_siong@schools.gov.sg</a></td>
   </tr>
-	 <tr>
-    <td class="tg-yhj3">Mdm Madihah Ghazali</td>
-    <td class="tg-yhj3">Assistant Year Head (P2)</td>
+	<tr>
+    <td class="tg-yhj3">Subject Head<br>Chinese Language</td>
+    <td class="tg-yhj3">Mdm Goh Siew Peng<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_siew_peng@schools.gov.sg">goh_siew_peng@schools.gov.sg</a></td>
+  </tr><tr>
+    <td class="tg-yhj3">Subject Head<br>Malay Language</td>
+    <td class="tg-yhj3">Mdm Sri Rahayu Binte Ramlan<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sri_rahayu_ramlan@schools.gov.sg">sri_rahayu_ramlan@schools.gov.sg</a></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Level Head<br>Mathematics</td>
+    <td class="tg-yhj3">Ms Shalini D/O Sandra Mohan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shalini_sandra_mohan@schools.gov.sg">shalini_sandra_mohan@schools.gov.sg</a></td>
+	</tr>
+		<tr>
+    <td class="tg-yhj3">Subject Head<br>Science</td>
+		<td class="tg-yhj3">Mdm Aini Bte Bujang<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:aini_bujang@schools.gov.sg">aini_bujang@schools.gov.sg</a></td>
 	</tr>
 	<tr>
-    <td class="tg-yhj3">Mdm Ong Shu Ying</td>
-    <td class="tg-yhj3">Lower Primary Year Head (P3 and P4)</td>
- </tr>
+    <td class="tg-yhj3">Subject Head<br>Character &amp; Citizenship Education</td>
+		<td class="tg-yhj3">Mdm Nur Lailie Bte Jamal<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_lailie_jamal@schools.gov.sg">nur_lailie_jamal@schools.gov.sg</a></td>
+	</tr>
+		<tr>
+    <td class="tg-yhj3">Subject Head<br>Information &amp; Communications Technology</td>
+		<td class="tg-yhj3">Ms Soh Jingsi (Violet)<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:soh_jingsi@schools.gov.sg">soh_jingsi@schools.gov.sg</a></td>
+	</tr>
 	<tr>
-    <td class="tg-yhj3">Ms Yap Xin Yi Filicia</td>
-    <td class="tg-yhj3">Upper Primary Year Head (P5)</td>
-  </tr>
-  <tr>
-    <td class="tg-yhj3">Ms Soh Jingsi</td>
-    <td class="tg-yhj3">Assistant Year Head (P6)</td>
-  </tr>
-</tbody>
-</table>
-
-<h5 style="color:#000000"><center><b>Level/ Subject Heads</b></center></h5>
-<table class="tg" style="undefined;table-layout: fixed; width: 491px">
-<colgroup>
-<col style="width: 257px">
-<col style="width: 234px">
-</colgroup>
-<tbody>
- <tr>
- <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
- <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
-</tr>
-<tr>
- <td class="tg-yhj3">Mdm Goh Siew Peng</td>
- <td class="tg-yhj3">SH Chinese Language</td>
-</tr>
-<tr>
-<td class="tg-yhj3">Mr Brian Jeremy Reis</td>
-<td class="tg-yhj3">SH Discipline</td>
-</tr>
-<tr>
- <td class="tg-yhj3">Mr Ng Keh Siong</td>
- <td class="tg-yhj3">SH English Language</td>
-</tr>
-<tr>
-  <td class="tg-yhj3">Mdm Sri Rahayu Binte Ramlan</td>
-  <td class="tg-yhj3">SH Malay Language</td>
- </tr>
-<tr>
- <td class="tg-yhj3">Ms Shalini D/O Sandra Mohan<br></td>
- <td class="tg-yhj3">LH Mathematics</td>
-</tr>
-<tr>
- <td class="tg-yhj3">Mdm Ngiam Wen Yuan<br></td>
- <td class="tg-yhj3">SH Physical Education</td>
-</tr>
-<tr>
- <td class="tg-yhj3">Mdm Aini Bte Bujang</td>
- <td class="tg-yhj3">SH Science</td>
-</tr>
-<tr>
-<td class="tg-yhj3">Ms Nachammal D/O Selva Nachiappan</td>
-<td class="tg-yhj3">SH Student Leadership</td>
-</tr>
-</tbody>
-</table>
-
-<h5 style="color:#000000"><center><b>Lead/ Senior Teachers</b></center></h5>
-<table class="tg" style="undefined;table-layout: fixed; width: 514px">
-<colgroup>
-<col style="width: 257px">
-<col style="width: 257px">
-</colgroup>
-<tbody>
- <tr>
- <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
- <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
-</tr>
-<tr>
-  <td class="tg-yhj3">Ms Chiang Yu Rong</td>
-  <td class="tg-yhj3">Senior Teacher/ Chinese Language</td>
- </tr>
-<tr>
- <td class="tg-yhj3">Mdm Chew Geik Bee Angeline<br></td>
- <td class="tg-yhj3">Senior Teacher/ English Language</td>
-</tr>
-<tr>
- <td class="tg-yhj3">Mdm Eng Hwee Yen</td>
- <td class="tg-yhj3">Senior Teacher/ Mathematics</td>
-</tr>
-<tr>
- <td class="tg-yhj3">Mdm Koh Siew Geok</td>
- <td class="tg-yhj3">Senior Teacher/ Mathematics</td>
-</tr>
-<tr>
- <td class="tg-yhj3">Mdm Toh Guat Lay</td>
- <td class="tg-yhj3">Senior Teacher/ Mathematics</td>
-</tr>
+		</tr><tr>
+    <td class="tg-yhj3">Subject Head<br>Physical Education</td>
+		<td class="tg-yhj3">Mdm Ngiam Wen Yuan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ngiam_wen_yuan@schools.gov.sg">ngiam_wen_yuan@schools.gov.sg</a></td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Subject Head<br>Student Discipline</td>
+    <td class="tg-yhj3">Ms Nachammal D/O Selva Nachiappan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nachammai_selva_nachiappan@schools.gov.sg">nachammai_selva_nachiappan@schools.gov.sg</a></td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Subject Head<br>Student Leadership</td>
+    <td class="tg-yhj3">Mr Brian Jeremy Reis<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:brian_jeremy_reis@schools.gov.sg">brian_jeremy_reis@schools.gov.sg</a></td>
+	</tr>
 </tbody>
 </table>
