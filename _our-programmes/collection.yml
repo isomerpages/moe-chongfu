@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Departments/Character & Citizenship Education.md
       - Departments/Aesthetics.md
       - Departments/Physical Education (PE).md
       - Departments/Science.md
