@@ -5,4 +5,52 @@ description: ""
 third_nav_title: School Information
 variant: markdown
 ---
-<p><strong>Reporting Time:</strong>&nbsp;Pupils are to report to school by 7.25 a.m. and proceed to their respective classrooms for the morning assembly.</p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Level</strong></p></th><th rowspan="1" colspan="1"><p><strong>Day(s)</strong></p></th><th rowspan="1" colspan="2"><p><strong>Dismissal Time</strong></p></th><th rowspan="1" colspan="1"><p><strong>Remarks</strong></p></th></tr><tr><td rowspan="2" colspan="1"><p>P1</p></td><td rowspan="1" colspan="1"><p>Monday, Tuesday, Thursday and Friday</p></td><td rowspan="1" colspan="2"><p>1.15 pm</p></td><td rowspan="2" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Wednesday</p></td><td rowspan="1" colspan="2"><p>2.45 pm</p></td></tr><tr><td rowspan="2" colspan="1"><p>P2</p></td><td rowspan="1" colspan="1"><p>Monday, Tuesday, Thursday, and Friday</p></td><td rowspan="1" colspan="2"><p>1.15 pm</p></td><td rowspan="2" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Wednesday</p></td><td rowspan="1" colspan="2"><p>2.45 pm</p></td></tr><tr><td rowspan="2" colspan="1"><p>P3</p></td><td rowspan="1" colspan="1"><p>Monday, Tuesday, Wednesday and Friday</p></td><td rowspan="1" colspan="2"><p>1.15 pm</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Thursday</p></td><td rowspan="1" colspan="2"><p>3.45 pm</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="2" colspan="1"><p>P4<br><br></p></td><td rowspan="1" colspan="1"><p>Monday, Tuesday, Wednesday and Friday</p></td><td rowspan="1" colspan="2"><p>1.15 pm</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Thursday</p></td><td rowspan="1" colspan="2"><p>3.45 pm</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="2" colspan="1"><p>P5</p></td><td rowspan="1" colspan="1"><p>Monday, Tuesday, Thursday and Friday</p></td><td rowspan="1" colspan="2"><p>1.15 pm</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Wednesday**</p></td><td rowspan="1" colspan="2"><p>Refer to class Timetable</p></td><td rowspan="1" colspan="1"><p>** 2.45pm (for non-HMT students) <br>345pm (for HMT students)</p></td></tr><tr><td rowspan="2" colspan="1"><p>P6</p></td><td rowspan="1" colspan="1"><p>Monday, Tuesday, Wednesday and Friday</p></td><td rowspan="1" colspan="1"><p>1.15 pm</p></td><td rowspan="1" colspan="2"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Thursday</p></td><td rowspan="1" colspan="1"><p>3.45pm</p></td><td rowspan="1" colspan="2"><p></p></td></tr></tbody></table><ul data-tight="true" class="tight"><li><p>CCAs will continue to be held on every Tuesday and/or Friday from 1.45pm - 3.45pm. Your child/ward may be required to attend CCA on Tuesday and/or Friday depending on the nature/schedule of his/her CCA.</p></li></ul><p></p>
+<p><strong>Reporting Time:</strong> Students are to report to school by 7.15 am and proceed to the hall on Monday and Friday and to their respective classrooms on Tuesday, Wednesday and Thursday for the morning assembly.</p>
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
+</style>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+<colgroup>
+<col style="width: 257px">
+<col style="width: 234px">
+</colgroup>
+
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Days</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">School Hours (for all levels)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Monday</td>
+    <td class="tg-yhj3"></td>
+	</tr>
+	<tr>
+    <td class="tg-yhj3">Tuesday* </td>
+    <td class="tg-yhj3"></td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Wednesday</td>
+    <td class="tg-yhj3">7.30am to 1.30pm</td>
+  </tr>
+	<tr>
+    <td class="tg-yhj3">Thursday</td>
+    <td class="tg-yhj3"></td>
+ </tr>
+	<tr>
+    <td class="tg-yhj3">Friday*</td>
+    <td class="tg-yhj3">7.30am to 1.15pm</td>
+	</tr>
+</tbody>
+</table>
+
+<p><b>*</b> CCA Days on Tuesdays and Fridays, from 2 pm to 4 pm.
+<br>Please refer to the schedule from respective CCAs for the exact schedule.</p>
