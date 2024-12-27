@@ -2,21 +2,21 @@ collections:
   our-programmes:
     output: true
     order:
-      - Information & Communication Education.md
-      - Student Leadership.md
-      - Sexuality Education.md
-      - Character & Citizenship Education.md
-      - Aesthetics.md
-      - Physical Education (PE).md
-      - Science.md
-      - Mathematics.md
       - English.md
+      - Mathematics.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Department.md
       - Mother Tongue/Malay Department.md
       - Mother Tongue/Tamil Department.md
-      - Co Curricular Activities (CCA).md
+      - Science.md
+      - Physical Education (PE).md
+      - Aesthetics.md
+      - Character & Citizenship Education.md
+      - Student Leadership.md
+      - Sexuality Education.md
       - Internationalisation.md
       - Programme for Active Learning (PAL).md
       - Applied Learning Programme.md
+      - Information & Communication Education.md
+      - Co Curricular Activities (CCA).md
       - Student Learning Space (SLS).md
