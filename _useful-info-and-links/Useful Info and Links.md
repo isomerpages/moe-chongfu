@@ -12,7 +12,7 @@ description: ""
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/for-staff/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">For Staff</div><div class="isomer-card-link">https://chongfu.moe.edu.sg/for-staff/</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/useful-links/for-staff/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">For Staff</div><div class="isomer-card-link">https://chongfu.moe.edu.sg/useful-links/for-staff/</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/our-school/financial-and-non-financial-information" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Financial and Non Financial Information</div>
@@ -20,7 +20,6 @@ description: ""
 </div>
 </a>
 </div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/privacy/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Privacy</div><div class="isomer-card-link">https://chongfu.moe.edu.sg/privacy/</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/terms-of-use/" class="isomer-card">
 <div class="isomer-card-body">
