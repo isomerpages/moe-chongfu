@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Mathematics.md
       - English.md
       - Departments/.keep
       - Departments/Science.md
