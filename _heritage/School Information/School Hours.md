@@ -18,9 +18,9 @@ variant: markdown
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
 
-<table class="tg" style="undefined;table-layout: fixed; width: 468px">
+<table class="tg" style="undefined;table-layout: fixed; width: 434px">
 <colgroup>
-<col style="width: 234px">
+<col style="width: 200px">
 <col style="width: 234px">
 </colgroup>
 
