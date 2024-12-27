@@ -4,7 +4,6 @@ collections:
     order:
       - Departments/English.md
       - Departments/.keep
-      - Mathematics.md
       - Science.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Department.md
