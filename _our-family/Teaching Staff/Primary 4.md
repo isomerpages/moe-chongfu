@@ -5,4 +5,76 @@ variant: markdown
 description: ""
 third_nav_title: Teaching Staff
 ---
-<h5 style="color:#000000">Year Head: Mdm Ong Shu Ying </h5>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
+</style>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
+</style>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+</table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
+<colgroup>
+<col style="width: 320px">
+<col style="width: 320px">
+</colgroup>
+
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Class</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
+  </tr>
+		<tr>
+    <td class="tg-yhj3">Gracious</td>
+    <td class="tg-yhj3">Mr Andy Soh Lee Ming <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:andy_soh_lee_ming@schools.gov.sg">[Email]</a><br>
+Ms Nadrah Binte Anuar <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nadrah_anuar@schools.gov.sg">[Email]</a><br>
+Michelle Sim</td></tr>
+		<tr>
+    <td class="tg-yhj3">Respectful</td>
+    <td class="tg-yhj3">Mdm Sharifah Najibah <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sharifah_najibah_syed_mustapa@schools.gov.sg">[Email]</a><br>
+			Ms Leau Wan Hwee </td></tr>
+	<tr>
+    <td class="tg-yhj3">Achieving</td>
+    <td class="tg-yhj3">Ms Tricia Lim Xiu Xuan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tricia_lim_xiu_xuan@schools.gov.sg">[Email]</a><br>
+Mrs Nadiah Wieseler </td></tr>
+<tr><td class="tg-yhj3">Caring</td>
+    <td class="tg-yhj3">Ms Shalini d/o Sandra Mohan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shalini_sandra_mohan@schools.gov.sg">[Email]</a><br>
+Mdm Ong Shu Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_shu_ying@schools.gov.sg">[Email]</a><br>
+Ms Chiang Yu Rong  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chiang_yu_rong@schools.gov.sg">[Email]</a><br>
+</td></tr>
+<tr>
+    <td class="tg-yhj3">Innovative</td>
+    <td class="tg-yhj3">Ms Lai Kexin<a><br>
+			Mdm Zheng Shanbo </a><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_shanbo@schools.gov.sg">[Email]</a></td></tr>
+			<tr>
+    <td class="tg-yhj3">Observant</td>
+    <td class="tg-yhj3">Mdm Eng Hwee Yen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:eng_hwee_yen@schools.gov.sg">[Email]</a><br>
+			Mdm Wen Xiwen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:wen_xiwen_a@schools.gov.sg">[Email]</a></td></tr>
+				<tr>
+    <td class="tg-yhj3">United</td>
+    <td class="tg-yhj3">Mr Shaik Muhammad Bin Mohamed Haleem <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shaik_muhammad_mohamed_haleem@schools.gov.sg">[Email]</a><br>
+			Ms Li Pei Jie <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_pei_jie@schools.gov.sg">[Email]</a></td></tr>
+		<tr>
+    <td class="tg-yhj3">Sincere</td>
+    <td class="tg-yhj3">Ms Ho Ser Hui <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_ser_hui@schools.gov.sg">[Email]</a><br>
+			Ms Nur Syafiqah Binte Mohamad Sham <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_syafiqah_mohamad_sham@schools.gov.sg">[Email]</a><br>
+Mr Ngo Wee Heng David</td></tr>
+		<tr>
+  
+</tr></tbody>
+</table>
