@@ -69,7 +69,7 @@ Ms Lilys<br>Mr Tham LM	 </td></tr>
 		<tr>
     <td class="tg-yhj3">Sincere</td>
     <td class="tg-yhj3">Ms Chong Yue Yen Juliana <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chong_yue_yen_juliana@schools.gov.sg">[Email]</a><br>
-			Ms Tee Sow Chin (郑老师)<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tee_sow_chin@schools.gov.sg">[Email]</a></td></tr>
+			Ms Tee Sow Chin (郑老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tee_sow_chin@schools.gov.sg">[Email]</a></td></tr>
 		<tr>
     <td class="tg-yhj3">Loyal</td>
     <td class="tg-yhj3">Ms Yeo Seow Mei Jenny (杨老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jenny_yeo_seow_mei@schools.gov.sg">[Email]</a><br>
