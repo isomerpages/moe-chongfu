@@ -5,4 +5,48 @@ variant: markdown
 description: ""
 third_nav_title: Teaching Staff
 ---
-<img style="width:60%" src="/images/Check_back_soon_for_updates.png">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
+</style>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
+</style>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+</table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
+<colgroup>
+<col style="width: 320px">
+<col style="width: 320px">
+</colgroup>
+
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Class</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
+  </tr>
+		<tr>
+    <td class="tg-yhj3">Gracious</td>
+    <td class="tg-yhj3">Mdm Toh Guat Lay <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_guat_lay@schools.gov.sg">[Email]</a><br>
+Mdm Teo Le-Geak <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_le_geak@schools.gov.sg">[Email]</a></td></tr>
+		<tr>
+    <td class="tg-yhj3">Respectful</td>
+    <td class="tg-yhj3">Mdm Toh Guat Lay <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_guat_lay@schools.gov.sg">[Email]</a><br>
+Mdm Teo Le-Geak <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_le_geak@schools.gov.sg">[Email]</a></td></tr>
+	
+</tbody>
+</table>
