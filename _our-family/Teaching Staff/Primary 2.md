@@ -65,16 +65,16 @@ Ms Shang Lingru <a target="_blank" rel="noopener noreferrer nofollow" href="mail
 									 <tr>
     <td class="tg-yhj3">United</td>
     <td class="tg-yhj3">Ms Malani D/O Selvaraj <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:malani_selvaraj@schools.gov.sg">[Email]</a><br>
-			Mr Jay V <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: @schools.gov.sg">
+			Mr Jay V 	</td></tr><tr>
+    <td class="tg-yhj3">Sincere</td>
+    <td class="tg-yhj3">Mdm Loo Ai Ling <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loo_ai_ling@schools.gov.sg">[Email]</a><br>
+			Mr Muhammad Riduwan Khairin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:muhammad_riduwan_khairin@schools.gov.sg">[Email]</a><br>
+					 </td></tr><tr>
+    <td class="tg-yhj3">Loyal</td>
+    <td class="tg-yhj3">Ms Wee Sze Hui Priscilla <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:wee_sze_hui_priscilla@schools.gov.sg">[Email]</a><br>
+			Ms Shi Jia 石佳  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:wee_sze_hui_priscilla@schools.gov.sg">[Email]</a><br>
 			
 			
+																		 
 			
-			
-			
-			
-			
-			
-			
-[Email]</a></td></tr>
-</tbody>
-</table>
+			</td></tr></tbody></table>
