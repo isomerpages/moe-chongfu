@@ -32,7 +32,7 @@ third_nav_title: Teaching Staff
 </table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
 <col style="width: 200px">
-<col style="width: 300px">
+<col style="width: 360px">
 </colgroup>
 
 <tbody>
