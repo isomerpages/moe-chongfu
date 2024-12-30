@@ -59,7 +59,7 @@ Ms Zheng Yijun Elaine <a target="_blank" rel="noopener noreferrer nofollow" href
 <tr>
     <td class="tg-yhj3">Innovative</td>
     <td class="tg-yhj3">Ms Lee Huoy Fen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lee_huoy_fen@schools.gov.sg">[Email]</a><br>
-			Mr Low Yee Leong <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:low_yee_leong@schools.gov.sg">[Email]</a></td></tr>
+			Mr Sarkunan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sarkunan_shanmugam@schools.gov.sg">[Email]</a></td></tr>
 			<tr>
     <td class="tg-yhj3">Observant</td>
     <td class="tg-yhj3">Mdm Yong Yock Hone Katherine <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yong_yock_hone_katherine@schools.gov.sg">[Email]</a><br>
