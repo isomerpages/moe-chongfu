@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Teaching Staff
 ---
-<style type="text/css">
+<h5 style="color:#000000">Year Head: Ms Yap Xin Yi Filicia </h5><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -48,7 +48,7 @@ Mdm Koh Siew Geok	<a target="_blank" rel="noopener noreferrer nofollow" href="ma
 		<tr> 
     <td class="tg-yhj3">Respectful</td>
     <td class="tg-yhj3">Mdm Li Fuxiao (李老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_fuxiao@schools.gov.sg">[Email]</a><br>
-			Ms Ms Yap Xin Yi Filicia <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yap_xin_yi_filicia@schools.gov.sg">[Email]</a></td></tr>
+			Ms Yap Xin Yi Filicia <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yap_xin_yi_filicia@schools.gov.sg">[Email]</a></td></tr>
 	<tr>
     <td class="tg-yhj3">Achieving</td>
     <td class="tg-yhj3">Mdm Chua Jennifer Joanne <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_jennifer_joanne@schools.gov.sg">[Email]</a><br>
