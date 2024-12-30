@@ -49,7 +49,7 @@ variant: markdown
     <td class="tg-yhj3">Ms Angelynna Lim Hwee Mien<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
  <tr><td class="tg-yhj3">Vice-Principal (Administration)</td>
-    <td class="tg-yhj3">Mr Alvin Tan<br>
+    <td class="tg-yhj3">Mr Tan Jin Lieng, Alvin<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
 </tbody>
 </table>
