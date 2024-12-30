@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Teaching Staff
 ---
-<style type="text/css">
+<h5 style="color:#000000">Assistant Year Head: Ms Madihah Binte Ghazali</h5><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -45,14 +45,14 @@ third_nav_title: Teaching Staff
 Mdm Teo Le-Geak <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_le_geak@schools.gov.sg">[Email]</a></td></tr>
 		<tr>
     <td class="tg-yhj3">Respectful</td>
-    <td class="tg-yhj3">Ms Chan Jing Ling <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_jing_ling@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Ms Chan Jing Ling (陈老师)<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_jing_ling@schools.gov.sg">[Email]</a><br>
 			Ms Michelle Peh </td></tr>
 	<tr>
     <td class="tg-yhj3">Achieving</td>
     <td class="tg-yhj3">Ms Luo Huixian Santarina <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:luo_huixian_santarina@schools.gov.sg">[Email]</a><br>
 Mr Zulkhair </td></tr>
 <tr><td class="tg-yhj3">Caring</td>
-    <td class="tg-yhj3">Ms Lin Wan Ting Joli <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lin_wanting_joli@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Ms Lin Wan Ting Joli (林老师)<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lin_wanting_joli@schools.gov.sg">[Email]</a><br>
 Ms Lilys<br>Mr Tham LM	 </td></tr>
 <tr>
     <td class="tg-yhj3">Innovative</td>
@@ -60,7 +60,7 @@ Ms Lilys<br>Mr Tham LM	 </td></tr>
 			Mr Chia Eng Lee <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chia_eng_lee_a@schools.gov.sg">[Email]</a></td></tr>
 			<tr>
     <td class="tg-yhj3">Observant</td>
-    <td class="tg-yhj3">Mdm Goh Siew Peng <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_siew_peng@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Mdm Goh Siew Peng (吴老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_siew_peng@schools.gov.sg">[Email]</a><br>
 			Ms Shona Cha Siew Lian <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shona_cha_siew_lian@schools.gov.sg">[Email]</a></td></tr>
 				<tr>
     <td class="tg-yhj3">United</td>
@@ -69,14 +69,14 @@ Ms Lilys<br>Mr Tham LM	 </td></tr>
 		<tr>
     <td class="tg-yhj3">Sincere</td>
     <td class="tg-yhj3">Ms Chong Yue Yen Juliana <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chong_yue_yen_juliana@schools.gov.sg">[Email]</a><br>
-			Ms Tee Sow Chin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tee_sow_chin@schools.gov.sg">[Email]</a></td></tr>
+			Ms Tee Sow Chin (郑老师)<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tee_sow_chin@schools.gov.sg">[Email]</a></td></tr>
 		<tr>
     <td class="tg-yhj3">Loyal</td>
-    <td class="tg-yhj3">Ms Yeo Seow Mei Jenny <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jenny_yeo_seow_mei@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Ms Yeo Seow Mei Jenny (杨老师)<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jenny_yeo_seow_mei@schools.gov.sg">[Email]</a><br>
 			Ms Norhayati Maksom 	</td></tr>
 		<tr>
     <td class="tg-yhj3">Youthful</td>
     <td class="tg-yhj3">Ms Srinidta Gobinathan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:srinidta_gobinathan@schools.gov.sg">[Email]</a><br>
-			Ms Bai Yang <a></a></td></tr>
+			Ms Bai Yang (白老师)<a></a></td></tr>
 </tbody>
 </table>
