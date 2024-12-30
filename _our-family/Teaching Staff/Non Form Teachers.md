@@ -5,45 +5,46 @@ variant: markdown
 description: ""
 third_nav_title: Teaching Staff
 ---
-<p></p>
-<table style="minWidth: 50px">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
+</style>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
+</style>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+</table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
-<col>
-<col>
+<col style="width: 200px">
+<col style="width: 300px">
 </colgroup>
+
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Name</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Designation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ding Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIE Trainee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dione Chew Ying Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIE Trainee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Liew Xinhua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIE Trainee</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+  <tr>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
+  </tr>
+		<tr>
+    <td class="tg-yhj3"></td>
+    <td class="tg-yhj3">Ding Hui</td></tr>
+	<tr>
+    <td class="tg-yhj3"></td>
+    <td class="tg-yhj3">Dione Chew Ying Ying</td></tr>	<tr>
+    <td class="tg-yhj3"></td>
+    <td class="tg-yhj3">Liew Xinhua</td></tr>
+	</tbody></table>
