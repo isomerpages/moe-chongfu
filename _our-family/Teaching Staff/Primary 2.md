@@ -60,7 +60,7 @@ Ms Shang Lingru (尚老師）<a target="_blank" rel="noopener noreferrer nofollo
 			Mr Low Yee Leong (罗老師) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:low_yee_leong@schools.gov.sg">[Email]</a></td></tr>
 			<tr>
     <td class="tg-yhj3">Observant</td>
-    <td class="tg-yhj3">Mdm Toh Sio Cheng （卓老师）<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_sio_cheng@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Mdm Toh Sio Cheng (卓老师）<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_sio_cheng@schools.gov.sg">[Email]</a><br>
 			Mr Lim Hui Ming <a></a></td></tr>
 									 <tr>
     <td class="tg-yhj3">United</td>
