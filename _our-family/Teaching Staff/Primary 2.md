@@ -61,7 +61,7 @@ Ms Shang Lingru (尚老師）<a target="_blank" rel="noopener noreferrer nofollo
 			<tr>
     <td class="tg-yhj3">Observant</td>
     <td class="tg-yhj3">Mdm Toh Sio Cheng (卓老师）<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_sio_cheng@schools.gov.sg">[Email]</a><br>
-			Mr Lim Hui Ming <a></a></td></tr>
+			Ms Lim Hui Min <a></a></td></tr>
 									 <tr>
     <td class="tg-yhj3">United</td>
     <td class="tg-yhj3">Ms Malani D/O Selvaraj <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:malani_selvaraj@schools.gov.sg">[Email]</a><br>
