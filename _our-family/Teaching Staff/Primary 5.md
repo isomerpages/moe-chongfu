@@ -51,25 +51,26 @@ Ms Teo Wei Ren<a target="_blank" rel="noopener noreferrer nofollow" href="mailto
 			Ms Tan Jie Ying Rachel <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_jie_ying_rachel@schools.gov.sg">[Email]</a></td></tr>
 	<tr>
     <td class="tg-yhj3">Achieving</td>
-    <td class="tg-yhj3">Mdm Chua Jennifer Joanne <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_jennifer_joanne@schools.gov.sg">[Email]</a><br>
-Mr Ng Ai Peng Jason <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_ai_peng_jason@schools.gov.sg">[Email]</a></td></tr>	
+    <td class="tg-yhj3">Mr Chan Kai Chun Vincent <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_kai_chun_vincent@schools.gov.sg">[Email]</a><br>
+Ms Gu Xiaoyan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:gu_xiaoyan@schools.gov.sg">[Email]</a></td></tr>	
+
 <tr><td class="tg-yhj3">Caring</td>
-    <td class="tg-yhj3">Ms Sherlyn Ng Yee Theng <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:bg_yee_theng_sherlyn@schools.gov.sg">[Email]</a><br>
-Ms Zheng Yijun Elaine <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_yijun_elaine@schools.gov.sg">[Email]</a><br> </td></tr>
+    <td class="tg-yhj3">Mr Yong Chung Wan Benin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yong_chung_wan@schools.gov.sg">[Email]</a><br>
+Ms Lim Pei Jun<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_pei_jun@schools.gov.sg">[Email]</a><br> </td></tr>
 <tr>
     <td class="tg-yhj3">Innovative</td>
-    <td class="tg-yhj3">Ms Lee Huoy Fen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lee_huoy_fen@schools.gov.sg">[Email]</a><br>
-			Mr Low Yee Leong <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:low_yee_leong@schools.gov.sg">[Email]</a></td></tr>
+    <td class="tg-yhj3">Ms Nachammai D/O Selva Nachiappan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nachammai_selva_nachiappan@schools.gov.sg">[Email]</a><br>
+			Ms Tok Chai Leng <a></a></td></tr>
 			<tr>
     <td class="tg-yhj3">Observant</td>
-    <td class="tg-yhj3">Mdm Yong Yock Hone Katherine <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yong_yock_hone_katherine@schools.gov.sg">[Email]</a><br>
-			Mr Brian Jeremy Reis	 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:brian_jeremy_reis@schools.gov.sg">[Email]</a><a></a></td></tr>
+    <td class="tg-yhj3">Ms Loh Jasmine <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loh_jasmine@schools.gov.sg">[Email]</a><br>
+			Mdm Sri Rahayu Binte Ramlan	 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sri_rahayu_ramlan@schools.gov.sg">[Email]</a><a></a></td></tr>
 									 <tr>
     <td class="tg-yhj3">United</td>
-    <td class="tg-yhj3">Ms Beh Audrey <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:beh_audrey@schools.gov.sg">[Email]</a><br>
-			Mdm Sabariah Bte Alwi	<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sabariah_alwi@schools.gov.sg">[Email]</a></td></tr><tr>
+    <td class="tg-yhj3">Ms Chew Geik Bee Angeline <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chew_geik_bee_angeline@schools.gov.sg">[Email]</a><br>
+			Mr Ghazali Bin Abdol Wahab	<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ghazali_abdol_wahab@schools.gov.sg">[Email]</a></td></tr><tr>
     <td class="tg-yhj3">Sincere</td>
-    <td class="tg-yhj3">Mr Ng Keh Siong <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_keh_siong@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Ms Nur Amirah Sabrina Binte Mohamad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_amirah_sabrina_mohamad@schools.gov.sg">[Email]</a><br>
 			Ms Sun Weiwei (孙老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sun_weiwei@schools.gov.sg">[Email]</a><br>
 					 </td></tr>
 
