@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Teaching Staff
 ---
-<style type="text/css">
+<h5 style="color:#000000">Year Head: Mdm Ong Shu Ying </h5><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14.5px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -50,12 +50,12 @@ Michelle Sim</td></tr>
 			Ms Leau Wan Hwee </td></tr>
 	<tr>
     <td class="tg-yhj3">Achieving</td>
-    <td class="tg-yhj3">Ms Tricia Lim Xiu Xuan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tricia_lim_xiu_xuan@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Ms Tricia Lim Xiu Xuan（林老师）<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tricia_lim_xiu_xuan@schools.gov.sg">[Email]</a><br>
 Mrs Nadiah Wieseler </td></tr>
 <tr><td class="tg-yhj3">Caring</td>
     <td class="tg-yhj3">Ms Shalini d/o Sandra Mohan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shalini_sandra_mohan@schools.gov.sg">[Email]</a><br>
 Mdm Ong Shu Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_shu_ying@schools.gov.sg">[Email]</a><br>
-Ms Chiang Yu Rong  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chiang_yu_rong@schools.gov.sg">[Email]</a><br>
+Ms Chiang Yu Rong （张老师）<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chiang_yu_rong@schools.gov.sg">[Email]</a><br>
 </td></tr>
 <tr>
     <td class="tg-yhj3">Innovative</td>
