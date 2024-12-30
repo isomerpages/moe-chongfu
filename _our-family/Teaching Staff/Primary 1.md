@@ -60,7 +60,7 @@ Ms Lilys<br>Mr Tham LM	 </td></tr>
 			Mr Chia Eng Lee <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chia_eng_lee_a@schools.gov.sg">[Email]</a></td></tr>
 			<tr>
     <td class="tg-yhj3">Observant</td>
-    <td class="tg-yhj3">Mdm Goh Siew Peng (吴老师)<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_siew_peng@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Mdm Goh Siew Peng (吴老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_siew_peng@schools.gov.sg">[Email]</a><br>
 			Ms Shona Cha Siew Lian <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shona_cha_siew_lian@schools.gov.sg">[Email]</a></td></tr>
 				<tr>
     <td class="tg-yhj3">United</td>
