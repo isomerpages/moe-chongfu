@@ -72,9 +72,15 @@ Ms Shang Lingru <a target="_blank" rel="noopener noreferrer nofollow" href="mail
 					 </td></tr><tr>
     <td class="tg-yhj3">Loyal</td>
     <td class="tg-yhj3">Ms Wee Sze Hui Priscilla <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:wee_sze_hui_priscilla@schools.gov.sg">[Email]</a><br>
-			Ms Shi Jia 石佳  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:wee_sze_hui_priscilla@schools.gov.sg">[Email]</a><br>
+			Ms Shi Jia 石佳  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shi_jia@schools.gov.sg">[Email]</a><br>
+			 </td></tr><tr>
+	<td class="tg-yhj3">Youthful</td>
+	<td class="tg-yhj3">Mdm Tan Hui Yin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_hui_yin@schools.gov.sg">[Email]</a><br>
+			Mrs Lim Meng Wah <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_meng_wah@schools.gov.sg">[Email]</a><br>
+																				 
+	
 			
 			
 																		 
 			
-			</td></tr></tbody></table>
+		</td></tr></tbody></table>
