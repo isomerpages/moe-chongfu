@@ -71,8 +71,8 @@ Ms Lim Pei Jun<a target="_blank" rel="noopener noreferrer nofollow" href="mailto
 			Mr Ghazali Bin Abdol Wahab	<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ghazali_abdol_wahab@schools.gov.sg">[Email]</a></td></tr><tr>
     <td class="tg-yhj3">Sincere</td>
     <td class="tg-yhj3">Ms Nur Amirah Sabrina Binte Mohamad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_amirah_sabrina_mohamad@schools.gov.sg">[Email]</a><br>
-			Ms Sun Weiwei (孙老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sun_weiwei@schools.gov.sg">[Email]</a><br>
-					 </td></tr>
+			Ms Ang Hui Min Pauline <a><br>
+					 </a></td></tr>
 
 	
 
