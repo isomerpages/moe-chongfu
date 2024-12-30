@@ -4,17 +4,16 @@ permalink: /for-students/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://vle.learning.moe.edu.sg/login" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Student Learning Space [SLS]" src="/images/SLS-Image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student Learning Space [SLS]</div><div class="isomer-card-link">https://vle.learning.moe.edu.sg/login</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://member.koobits.com/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Koobits" src="/images/koobits.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Koobits</div>
-<div class="isomer-card-link">https://member.koobits.com/</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="My Skills Future" src="/images/download.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">My Skills Future</div><div class="isomer-card-link">https://www.myskillsfuture.gov.sg/content/student/en/primary.html</div></div></a>
-</div>
+<h4><strong>MOE Check-in Survey Term 1 2025</strong></h4>
+<p></p>
+<p>Primary 2: <a href="https://forms.moe.edu.sg/forms/oanY1e" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oanY1e</a>
+</p>
+<p>Primary 3: <a href="https://forms.moe.edu.sg/forms/vyOw7w" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vyOw7w</a>
+</p>
+<p>Primary 4: <a href="https://forms.moe.edu.sg/forms/vwZEbN" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vwZEbN</a>
+</p>
+<p>Primary 5: <a href="https://forms.moe.edu.sg/forms/J2O8Rm" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J2O8Rm</a>
+</p>
+<p>Primary 6: <a href="https://forms.moe.edu.sg/forms/J9bgdx" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J9bgdx</a>
+</p>
 <p></p>
