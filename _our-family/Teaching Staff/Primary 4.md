@@ -60,7 +60,7 @@ Ms Chiang Yu Rong (张老师)  <a target="_blank" rel="noopener noreferrer nofol
 <tr>
     <td class="tg-yhj3">Innovative</td>
     <td class="tg-yhj3">Ms Lai Kexin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lai_kexin@schools.gov.sg">[Email]</a><br>
-			Mdm Zheng Shanbo <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_shanbo@schools.gov.sg">[Email]</a></td></tr>
+			Mdm Zheng Shanbo (郑老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_shanbo@schools.gov.sg">[Email]</a></td></tr>
 			<tr>
     <td class="tg-yhj3">Observant</td>
     <td class="tg-yhj3">Mdm Eng Hwee Yen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:eng_hwee_yen@schools.gov.sg">[Email]</a><br>
