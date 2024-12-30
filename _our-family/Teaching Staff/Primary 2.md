@@ -42,7 +42,7 @@ third_nav_title: Teaching Staff
 		<tr>
     <td class="tg-yhj3">Gracious</td>
     <td class="tg-yhj3">Ms Siti Sarah Bte Ahmad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_sarah_ahmad@schools.gov.sg">[Email]</a><br>
-Ms Shikin </td></tr>
+Ms Nurashikin Binte Rahmat </td></tr>
 		<tr>
     <td class="tg-yhj3">Respectful</td>
     <td class="tg-yhj3">Mdm Ng Ju Li <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_ju_li@schools.gov.sg">[Email]</a><br>
@@ -61,11 +61,11 @@ Ms Shang Lingru <a target="_blank" rel="noopener noreferrer nofollow" href="mail
 			<tr>
     <td class="tg-yhj3">Observant</td>
     <td class="tg-yhj3">Mdm Toh Sio Cheng <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_sio_cheng@schools.gov.sg">[Email]</a><br>
-			Ms Ang HM <a></a></td></tr>
+			Ms Ang Hui Min Pauline <a></a></td></tr>
 									 <tr>
     <td class="tg-yhj3">United</td>
     <td class="tg-yhj3">Ms Malani D/O Selvaraj <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:malani_selvaraj@schools.gov.sg">[Email]</a><br>
-			Mr Jay V 	</td></tr><tr>
+			Mrs V J Naidu	</td></tr><tr>
     <td class="tg-yhj3">Sincere</td>
     <td class="tg-yhj3">Mdm Loo Ai Ling <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loo_ai_ling@schools.gov.sg">[Email]</a><br>
 			Mr Muhammad Riduwan Khairin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:muhammad_riduwan_khairin@schools.gov.sg">[Email]</a><br>
