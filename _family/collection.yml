@@ -1,8 +1,0 @@
-collections:
-  family:
-    output: true
-    order:
-      - School Management Committee.md
-      - Steering Committee.md
-      - Teaching Staff.md
-      - Executive & Administrative Staff.md

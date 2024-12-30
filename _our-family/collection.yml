@@ -1,0 +1,16 @@
+collections:
+  our-family:
+    output: true
+    order:
+      - Learn More.md
+      - School Management Committee.md
+      - School Steering Committee.md
+      - Teaching Staff/.keep
+      - Teaching Staff/Primary 1.md
+      - Teaching Staff/Primary 2.md
+      - Teaching Staff/Primary 3.md
+      - Teaching Staff/Primary 4.md
+      - Teaching Staff/Primary 5.md
+      - Teaching Staff/Primary 6.md
+      - Teaching Staff/Non Form Teachers.md
+      - Executive & Administrative Staff.md

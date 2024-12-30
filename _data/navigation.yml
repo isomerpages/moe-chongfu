@@ -1,18 +1,12 @@
 logo: /images/CFS Emblem Isomer Site.png
 links:
-  - title: Heritage
-    collection: heritage
-  - title: Family
-    collection: family
-  - title: Curriculum
-    collection: curriculum
-  - title: CCA
-    collection: cca
-  - title: Achievements
-    collection: achievements
-  - title: Partners
-    collection: partners
-  - title: School Bus Advertisement
-    url: /school-bus-advertisement/
-  - title: Contact Us
-    url: /contact-us
+  - title: Our School
+    collection: our-school
+  - title: Our Family
+    collection: our-family
+  - title: Our Programmes
+    url: /our-programmes/
+  - title: Our Partners
+    collection: our-partners
+  - title: Useful Info And Links
+    collection: useful-info-and-links

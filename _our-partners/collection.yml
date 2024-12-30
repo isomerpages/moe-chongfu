@@ -1,0 +1,15 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - In Focus.md
+      - Singapore Hokkien Huay Kuan.md
+      - Chongfu Alumni.md
+      - Community Partners/.keep
+      - Community Partners/North West CDC.md
+      - Community Partners/Food from the Heart (FFTH).md
+      - PASSION/.keep
+      - PASSION/PASSION (Our Parent Support Group).md
+      - PASSION/Support & Social Wing.md
+      - PASSION/Expertise Wing.md
+      - PASSION/Dads @ Chongfu.md

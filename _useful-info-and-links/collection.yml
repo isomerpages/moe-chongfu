@@ -1,0 +1,9 @@
+collections:
+  useful-info-and-links:
+    output: true
+    order:
+      - What’s Inside.md
+      - For Parents.md
+      - For Students.md
+      - For Staff.md
+      - Financial and Non Financial Information.md

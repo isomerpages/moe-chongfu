@@ -1,0 +1,15 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - Get Started.md
+      - Our History.md
+      - School Ethos.md
+      - School Identity.md
+      - School Information.md
+      - Our Achievements/At A Glance.md
+      - Our Achievements/.keep
+      - Our Achievements/2024.md
+      - Our Achievements/2023.md
+      - Our Achievements/2022.md
+      - Our Achievements/2021.md
