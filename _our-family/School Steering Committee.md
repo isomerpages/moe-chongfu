@@ -145,11 +145,11 @@ variant: markdown
 	</tr>
 	<tr>
     <td class="tg-yhj3">Subject Head<br>Student Discipline</td>
-    <td class="tg-yhj3">Ms Nachammal D/O Selva Nachiappan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nachammai_selva_nachiappan@schools.gov.sg">nachammai_selva_nachiappan@schools.gov.sg</a></td>
+      <td class="tg-yhj3">Mr Brian Jeremy Reis<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:brian_jeremy_reis@schools.gov.sg">brian_jeremy_reis@schools.gov.sg</a></td>
 	</tr>
 	<tr>
     <td class="tg-yhj3">Subject Head<br>Student Leadership</td>
-    <td class="tg-yhj3">Mr Brian Jeremy Reis<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:brian_jeremy_reis@schools.gov.sg">brian_jeremy_reis@schools.gov.sg</a></td>
+ 	 <td class="tg-yhj3">Ms Nachammal D/O Selva Nachiappan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nachammai_selva_nachiappan@schools.gov.sg">nachammai_selva_nachiappan@schools.gov.sg</a></td>
 	</tr>
 </tbody>
 </table>
