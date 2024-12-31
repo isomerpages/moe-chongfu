@@ -2,7 +2,7 @@
 title: Executive & Administrative Staff
 permalink: /our-family/executive-administrative-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 75px">
 <colgroup>
