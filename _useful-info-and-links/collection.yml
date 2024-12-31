@@ -2,9 +2,9 @@ collections:
   useful-info-and-links:
     output: true
     order:
-      - School Bus Information.md
       - What’s Inside.md
       - For Parents.md
       - For Students.md
       - For Staff.md
+      - School Bus Information.md
       - Financial and Non Financial Information.md
