@@ -15,7 +15,8 @@ Please contact Operations Executive, Ms Shayla on School Bus transport matters.
 <br>If you are unable to contact Ms Shayla via call, please send her a message via Whatsapp/ SMS.
 <b>Period: 1 Jan 2025 to 31 Dec 2026</b>
 <br><img style="width:70%" src="/images/price_list_for_bus.png" align="left">
-<br><br><h5><strong>BOOKSHOP</strong></h5>
+<br><br>
+<h5><strong>BOOKSHOP</strong></h5>
 <div style="font-size:16px">Pacific Bookstores Pte Ltd<br>
 Tel: <b>6464 0111 / 6482 3564</b></div>
 
