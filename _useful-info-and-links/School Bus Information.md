@@ -12,4 +12,4 @@ If you are unable to contact Ms Shayla via call, please send her a message via S
 
 <b>Period:</b> 1 Jan 2025 to 31 Dec 2026
 
-![](/images/price_list_for_bus.png)
+<img src="/images/price_list_for_bus.png" style="width:70%">
