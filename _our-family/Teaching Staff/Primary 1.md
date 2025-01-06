@@ -77,6 +77,6 @@ Ms Lilys<br>Ms Tham Loke Mun</td></tr>
 		<tr>
     <td class="tg-yhj3">Youthful</td>
     <td class="tg-yhj3">Ms Srinidta Gobinathan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:srinidta_gobinathan@schools.gov.sg">[Email]</a><br>
-			Ms Bai Yang (白老师)<a></a></td></tr>
+			Ms Bai Yang (柏老师)<a></a></td></tr>
 </tbody>
 </table>
