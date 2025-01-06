@@ -6,6 +6,8 @@ description: ""
 ---
 <h4><strong>MOE Check-in Survey Term 1 2025</strong></h4>
 <p></p>
+<p>Primary 1<em>: <a rel="noopener noreferrer nofollow" target="_blank">https://www.dancemattypingguide.com/dance-mat-typing-level-1/stage-1/</a></em>
+</p>
 <p>Primary 2: <a href="https://forms.moe.edu.sg/forms/oanY1e" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oanY1e</a>
 </p>
 <p>Primary 3: <a href="https://forms.moe.edu.sg/forms/vyOw7w" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vyOw7w</a>
