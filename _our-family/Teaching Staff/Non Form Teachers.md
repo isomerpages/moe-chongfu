@@ -40,11 +40,11 @@ third_nav_title: Teaching Staff
     <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
   </tr>
 		<tr>
-    <td class="tg-yhj3"></td>
-    <td class="tg-yhj3">Ding Hui</td></tr>
+    <td class="tg-yhj3">NIE Trainees</td>
+    <td class="tg-yhj3">Ding Hui (EL and Science) </td></tr>
 	<tr>
-    <td class="tg-yhj3"></td>
-    <td class="tg-yhj3">Dione Chew Ying Ying</td></tr>	<tr>
-    <td class="tg-yhj3"></td>
-    <td class="tg-yhj3">Liew Xinhua</td></tr>
+    <td class="tg-yhj3">NIE Trainees</td>
+    <td class="tg-yhj3">Dione Chew Ying Ying (EL and Math)</td></tr>	<tr>
+    <td class="tg-yhj3">NIE Trainees</td>
+    <td class="tg-yhj3">Liew Xinhua (CL)</td></tr>
 	</tbody></table>
