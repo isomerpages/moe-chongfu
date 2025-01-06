@@ -43,7 +43,7 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3">Gracious</td>
     <td class="tg-yhj3">Ms Violet Soh
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:soh_jingsi@schools.gov.sg">[Email]</a><br>
-Ms Teo Wei Ren <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_wei_ren@schools.gov.sg">[Email]</a>
+Ms Teo Wei Ren (张老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_wei_ren@schools.gov.sg">[Email]</a>
 </td></tr>
 		<tr> 
     <td class="tg-yhj3">Respectful</td>
@@ -60,7 +60,7 @@ Ms Lim Pei Jun (林老师) <a target="_blank" rel="noopener noreferrer nofollow"
 <tr>
     <td class="tg-yhj3">Innovative</td>
     <td class="tg-yhj3">Ms Nachammai D/O Selva Nachiappan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nachammai_selva_nachiappan@schools.gov.sg">[Email]</a><br>
-			Ms Tok Chai Leng <a></a></td></tr>
+			Ms Tok Chai Leng (卓老师) <a></a></td></tr>
 			<tr>
     <td class="tg-yhj3">Observant</td>
     <td class="tg-yhj3">Ms Loh Jasmine <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loh_jasmine@schools.gov.sg">[Email]</a><br>
