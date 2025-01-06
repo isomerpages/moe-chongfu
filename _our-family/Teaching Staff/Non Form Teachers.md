@@ -30,7 +30,7 @@ third_nav_title: Teaching Staff
 <table class="tg" style="undefined;table-layout: fixed; width: 491px">
 </table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
-<col style="width: 200px">
+<col style="width: 300px">
 <col style="width: 300px">
 </colgroup>
 
@@ -40,11 +40,11 @@ third_nav_title: Teaching Staff
     <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
   </tr>
 		<tr>
-    <td class="tg-yhj3">NIE Trainees</td>
+    <td class="tg-yhj3">English and Science Teacher</td>
     <td class="tg-yhj3">Ding Hui (EL and Science) </td></tr>
 	<tr>
-    <td class="tg-yhj3">NIE Trainees</td>
+    <td class="tg-yhj3">English and Maths Teacher</td>
     <td class="tg-yhj3">Dione Chew Ying Ying (EL and Math)</td></tr>	<tr>
-    <td class="tg-yhj3">NIE Trainees</td>
+    <td class="tg-yhj3">Chinese Teacher</td>
     <td class="tg-yhj3">Liew Xinhua (CL)</td></tr>
 	</tbody></table>
