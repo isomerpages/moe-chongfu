@@ -29,7 +29,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager (AM)</p>
+<p>Administration Manager (AM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joo_wei_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joo_wei_xin@moe.edu.sg</a>
@@ -57,7 +57,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Executive (AE)</p>
+<p>Administrative Executive (AE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mardiana_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mardiana_omar@moe.edu.sg</a>
@@ -71,7 +71,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Executive (AE)</p>
+<p>Administrative Executive (AE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurfitri_kasman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurfitri_kasman@moe.edu.sg</a>
