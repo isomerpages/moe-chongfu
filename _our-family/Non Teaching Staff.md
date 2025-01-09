@@ -4,7 +4,6 @@ permalink: /our-family/non-teaching-staff/
 description: ""
 variant: markdown
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
@@ -40,7 +39,7 @@ variant: markdown
     <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
   </tr>
 <tr>
-    <td class="tg-yhj3">Administrative Manager (AM)</td>
+    <td class="tg-yhj3">Administration Manager (AM)</td>
     <td class="tg-yhj3">Ms Joo Wei Xin<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: joo_wei_xin@moe.edu.sg">joo_wei_xin@moe.edu.sg</a></td></tr>
 	 <tr><td class="tg-yhj3">Operations Manager (OM)</td>
@@ -136,4 +135,3 @@ yakub.hussain.mohamed.elias@ncs.com.sg</a></td></tr>
     <td class="tg-yhj3">Mr Abdul Razak Bin Hasan<br></td></tr>
 </tbody>
 </table>
-
