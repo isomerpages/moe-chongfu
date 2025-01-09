@@ -41,10 +41,10 @@ third_nav_title: Teaching Staff
   </tr>
 		<tr>
     <td class="tg-yhj3">English and Science Teacher</td>
-    <td class="tg-yhj3">Ding Hui (EL and Science) </td></tr>
+    <td class="tg-yhj3">Mdm Ding Hui </td></tr>
 	<tr>
     <td class="tg-yhj3">English and Maths Teacher</td>
-    <td class="tg-yhj3">Dione Chew Ying Ying (EL and Math)</td></tr>	<tr>
+    <td class="tg-yhj3">Mdm Dione Chew Ying Ying </td></tr>	<tr>
     <td class="tg-yhj3">Chinese Teacher</td>
-    <td class="tg-yhj3">Liew Xinhua (CL)</td></tr>
+    <td class="tg-yhj3">Ms Liew Xinhua </td></tr>
 	</tbody></table>
