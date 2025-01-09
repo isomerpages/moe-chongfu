@@ -41,7 +41,7 @@ third_nav_title: Teaching Staff
   </tr>
 		<tr>
     <td class="tg-yhj3">Gracious</td>
-    <td class="tg-yhj3">Ms Violet Soh
+    <td class="tg-yhj3">Ms Violet Soh Jingsi
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:soh_jingsi@schools.gov.sg">[Email]</a><br>
 Ms Teo Wei Ren (张老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_wei_ren@schools.gov.sg">[Email]</a>
 </td></tr>

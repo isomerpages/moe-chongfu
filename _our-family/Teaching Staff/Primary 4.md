@@ -43,7 +43,7 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3">Gracious</td>
     <td class="tg-yhj3">Mr Andy Soh Lee Ming <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:andy_soh_lee_ming@schools.gov.sg">[Email]</a><br>
 Ms Nadrah Binte Anuar <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nadrah_anuar@schools.gov.sg">[Email]</a><br>
-Ms Michelle Sim</td></tr>
+Ms Sim Yee Ping Michelle</td></tr>
 		<tr>
     <td class="tg-yhj3">Respectful</td>
     <td class="tg-yhj3">Mdm Sharifah Najibah <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sharifah_najibah_syed_mustapa@schools.gov.sg">[Email]</a><br> 

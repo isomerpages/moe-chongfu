@@ -46,14 +46,14 @@ Mdm Teo Le-Geak <a target="_blank" rel="noopener noreferrer nofollow" href="mail
 		<tr>
     <td class="tg-yhj3">Respectful</td>
     <td class="tg-yhj3">Ms Chan Jing Ling (陈老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_jing_ling@schools.gov.sg">[Email]</a><br>
-			Ms Michelle Peh </td></tr>
+			Ms Michelle Peh Tzu Fern</td></tr>
 	<tr>
     <td class="tg-yhj3">Achieving</td>
     <td class="tg-yhj3">Ms Luo Huixian Santarina <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:luo_huixian_santarina@schools.gov.sg">[Email]</a><br>
-Mr Zulkhair </td></tr>
+Mr Muhammad Zulkhair Bin Mustaffa </td></tr>
 <tr><td class="tg-yhj3">Caring</td>
     <td class="tg-yhj3">Ms Lin Wan Ting Joli (林老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lin_wanting_joli@schools.gov.sg">[Email]</a><br>
-Ms Lilys<br>Ms Tham Loke Mun</td></tr>
+Mdm Lilys Satini Thamrin<br>Ms Tham Loke Mun</td></tr>
 <tr>
     <td class="tg-yhj3">Innovative</td>
     <td class="tg-yhj3">Mdm Ngiam Wen Yuan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ngiam_wen_yuan@schools.gov.sg">[Email]</a><br>
@@ -68,7 +68,7 @@ Ms Lilys<br>Ms Tham Loke Mun</td></tr>
 			Mdm Siti Salha Bte Salihoddin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_salha_salihoddin@schools.gov.sg">[Email]</a></td></tr>
 		<tr>
     <td class="tg-yhj3">Sincere</td>
-    <td class="tg-yhj3">Ms Chong Yue Yen Juliana <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chong_yue_yen_juliana@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Ms Chong Yue Yen Juliana <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chong_yue_yen@schools.gov.sg">[Email]</a><br>
 			Ms Tee Sow Chin (郑老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tee_sow_chin@schools.gov.sg">[Email]</a></td></tr>
 		<tr>
     <td class="tg-yhj3">Loyal</td>
