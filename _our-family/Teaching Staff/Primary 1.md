@@ -68,7 +68,7 @@ Mdm Lilys Satini Thamrin<br>Ms Tham Loke Mun</td></tr>
 			Mdm Siti Salha Bte Salihoddin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_salha_salihoddin@schools.gov.sg">[Email]</a></td></tr>
 		<tr>
     <td class="tg-yhj3">Sincere</td>
-    <td class="tg-yhj3">Ms Chong Yue Yen Juliana <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chong_yue_yen_juliana@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Ms Chong Yue Yen Juliana <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chong_yue_yen@schools.gov.sg">[Email]</a><br>
 			Ms Tee Sow Chin (郑老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tee_sow_chin@schools.gov.sg">[Email]</a></td></tr>
 		<tr>
     <td class="tg-yhj3">Loyal</td>
