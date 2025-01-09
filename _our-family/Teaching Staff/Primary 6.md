@@ -60,7 +60,7 @@ Ms Zheng Yijun Elaine <a target="_blank" rel="noopener noreferrer nofollow" href
 <tr>
     <td class="tg-yhj3">Innovative</td>
     <td class="tg-yhj3">Ms Lee Huoy Fen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lee_huoy_fen@schools.gov.sg">[Email]</a><br>
-			Mr Sarkunan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sarkunan_shanmugam@schools.gov.sg">[Email]</a></td></tr>
+			Mr Sarkunan S/O Shanmugam<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sarkunan_shanmugam@schools.gov.sg">[Email]</a></td></tr>
 			<tr>
     <td class="tg-yhj3">Observant</td>
     <td class="tg-yhj3">Mdm Yong Yock Hone Katherine <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yong_yock_hone_katherine@schools.gov.sg">[Email]</a><br>
@@ -70,7 +70,7 @@ Ms Zheng Yijun Elaine <a target="_blank" rel="noopener noreferrer nofollow" href
     <td class="tg-yhj3">Ms Beh Audrey <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:beh_audrey@schools.gov.sg">[Email]</a><br>
 			Mdm Sabariah Bte Alwi	<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sabariah_alwi@schools.gov.sg">[Email]</a></td></tr><tr>
     <td class="tg-yhj3">Sincere</td>
-    <td class="tg-yhj3">Mr Ng Keh Siong <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_keh_siong@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Mr Ng Keh Siong Dave<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_keh_siong@schools.gov.sg">[Email]</a><br>
 			Ms Sun Weiwei (孙老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sun_weiwei@schools.gov.sg">[Email]</a><br>
 					 </td></tr>
 
