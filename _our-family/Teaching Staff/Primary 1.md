@@ -46,7 +46,7 @@ Mdm Teo Le-Geak <a target="_blank" rel="noopener noreferrer nofollow" href="mail
 		<tr>
     <td class="tg-yhj3">Respectful</td>
     <td class="tg-yhj3">Ms Chan Jing Ling (陈老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_jing_ling@schools.gov.sg">[Email]</a><br>
-			Ms Michelle Peh </td></tr>
+			Ms Michelle Peh Tzu Fern</td></tr>
 	<tr>
     <td class="tg-yhj3">Achieving</td>
     <td class="tg-yhj3">Ms Luo Huixian Santarina <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:luo_huixian_santarina@schools.gov.sg">[Email]</a><br>
