@@ -223,7 +223,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
+<p>Operation Support Officer (OSO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suminah_salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suminah_salim@moe.edu.sg</a>
@@ -237,7 +237,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
+<p>Operation Support Officer (OSO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N/A</p>
@@ -250,7 +250,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
+<p>Operation Support Officer (OSO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N/A</p>
@@ -263,7 +263,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
+<p>Operation Support Officer (OSO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N/A</p>
@@ -276,7 +276,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
+<p>Operation Support Officer (OSO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N/A</p>
