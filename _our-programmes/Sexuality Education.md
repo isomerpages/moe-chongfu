@@ -4,7 +4,6 @@ permalink: /our-programmes/sexuality-education/
 description: ""
 variant: tiptap
 ---
-<h3>CHONGFU SCHOOL</h3>
 <h3>MOE SEXUALITY EDUCATION IN SCHOOLS</h3>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 (SEd) in schools aims to enable students to understand the physiological,
