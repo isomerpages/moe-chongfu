@@ -36,13 +36,11 @@ for Sexuality Education is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
 Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information on the scope of Sexuality Education in the school curriculum.</li>
-<br>
-	<li>The subjects that incorporate topics on sexuality include:</li>
+<br><li>The subjects that incorporate topics on sexuality include:</li>
 <ul>
 	<li>Science</li>
 	<li>Character and Citizenship Education (CCE)</li>
 </ul>
-<br>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <li>The upper primary years mark the onset of puberty. With better nutrition and improved health care,
 children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional
