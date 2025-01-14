@@ -84,4 +84,4 @@ responsible decisions to keep themselves safe from sexuality-related risks.</li>
 <br>
 <li>Parents can contact the school at <b style="color:blue">67585527</b> for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a></ol>
+<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a></ol>[](/files/SEL_Opt_Out_Form_2025__Annex_A_.pdf)
