@@ -19,7 +19,6 @@ basic unit of society. This means encouraging healthy, heterosexual marriages an
   <li>Help students develop a moral compass and respect for themselves and others by having positive
 mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</li>
 </ul>
-<br>
 	<li> The <strong>Key Messages</strong> of Sexuality Education are:</li>
 <ul type="a" style="text-align:justify">
 	<li>Love and respect yourself as you love and respect others;</li>
@@ -29,12 +28,10 @@ mainstream values and attitudes about sexuality that are premised on the family 
   <li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies.
 		Casual sex can harm and hurt you and your loved ones.</li>
 	</ul>
-<br>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
 on MOE Sexuality Education.</p>
-<p></p>
 <p><strong>OVERVIEW OF CHONGFU SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></p>
-<br><li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content
+<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
 Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
@@ -47,7 +44,6 @@ information on the scope of Sexuality Education in the school curriculum.</li>
 </ul>
 <br>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
-<br>
 <li>The upper primary years mark the onset of puberty. With better nutrition and improved health care,
 children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional
 maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and
