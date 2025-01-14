@@ -12,7 +12,7 @@ social and emotional changes they experience as they mature, develop healthy and
 basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li>
 <br>
 <li>The <strong>Goals</strong> of Sexuality Education are:</li>
- <ul type="a" style="text-align:justify">
+ <ul style="text-align:justify" type="a">
 	 <li>Support students in managing their physiological, social and emotional changes as they grow
 		 up and develop safe and healthy relationships.</li>
 	<li>Guide students to make wise, informed and responsible decisions on sexuality matters.</li>
