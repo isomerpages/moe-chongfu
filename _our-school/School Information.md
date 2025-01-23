@@ -4,9 +4,9 @@ permalink: /school-information/
 variant: markdown
 description: ""
 ---
-<p><strong>Reporting Time:</strong> <br>Students are to report to school by <strong>7.25 a.m.</strong> and proceed to the hall on Monday and Friday, and to their respective classrooms on Tuesday, Wednesday and Thursday for the morning assembly.</p>
+<p><strong>Reporting Time:</strong> <br>Students are to report to school by <strong>7.25 a.m.</strong> and proceed to the hall on Monday and Friday, and to their respective classrooms on Tuesday, Wednesday and Thursday for the morning assembly.
 
-
+Students are to assemble in the hall/classroom <strong> by  7.30 a.m. </strong> Students who enter the school  <strong> after 7.30am.  </strong> are considered late and their names will be recorded.</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -67,3 +67,9 @@ description: ""
 
 <p><b>*</b> CCA Days on Tuesdays and Fridays, from 2 pm to 4 pm.
 <br>Please refer to the schedule from respective CCAs for the exact schedule.</p>
+
+<p><strong>Late Coming Matters:</strong>
+<br><b>- </b> If a student is late for the 3rd time in a particular term, parents will be informed.
+	<br><b>- </b> If a student is late for the 4 times in a term without valid reasons, it will be deemed as a major offence, and he/she will be subjected to disciplinary consequences .</p>
+	
+	
