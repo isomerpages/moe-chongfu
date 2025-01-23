@@ -67,4 +67,4 @@ description: ""
 <p><strong>Late Coming Matters:</strong>
 	<br> Students who enter the school  <strong> after 7.30am.  </strong> are considered late and their names will be recorded.</p>
 <b>- </b> If a student is late for the 3rd time in a particular term, parents will be informed.
-	<br><b>- </b> If a student is late for the 4 times in a term without valid reasons, it will be deemed as a major offence, and he/she will be subjected to disciplinary consequences .<p></p>
+	<br><b>- </b> If a student is late for the 4 times in a term without valid reasons, it will be deemed as a major offence, and he/she will be subjected to disciplinary consequences .
