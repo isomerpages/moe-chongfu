@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - Parent Resources.md
       - Preparing for Primary One in 2025.md
       - P1 to P6 Booklist 2025.md
       - Supplier Information.md
       - Forms Download.md
       - Frequently Asked Questions FAQ.md
       - Parenting Tips.md
+      - Parent Resources.md
