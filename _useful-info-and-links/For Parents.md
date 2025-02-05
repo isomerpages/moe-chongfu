@@ -23,6 +23,6 @@ description: ""
 <div class="isomer-card-title">Parenting Tips</div>
 <div class="isomer-card-link">https://chongfu.moe.edu.sg/parenting-tips</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Parent Resources</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/parent-resources/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Parent Resources</div><div class="isomer-card-link">Approved Dictionaries and Calculators</div></div></a>
 </div>
 <p></p>
