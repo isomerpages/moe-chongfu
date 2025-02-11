@@ -4,9 +4,6 @@ permalink: /our-programmes/co-curricular-activities-cca/
 variant: markdown
 description: ""
 ---
-
-
-<h3><strong>CCA List</strong></h3>
 <h4><strong>Uniformed Groups</strong></h4>
 <a href="/cca-brownies/"><img src="/images/Brownies-Main-Picture.jpg" style="width:50%"></a>
 <center><a href="/cca-brownies">Brownies</a></center>
