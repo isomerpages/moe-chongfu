@@ -4,67 +4,75 @@ permalink: /our-programmes/co-curricular-activities-cca/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <h4><strong>Uniformed Groups</strong></h4>
-<a href="/cca-brownies/"><img src="/images/Brownies-Main-Picture.jpg" style="width:50%"></a>
-<center><a href="/cca-brownies">Brownies</a></center>
-
-<a href="/cca-red-cross/"><img src="/images/Red-Cross-Title-Image-225x300.jpg" style="width:50%"></a>
-<center><a href="/cca-red-cross">Red Cross</a></center>
-
-<a href="/cca-cub-scouts/"><img src="/images/CubScouts_TitleImage.jpg" style="width:50%"></a>
-<center><a href="/cca-cub-scouts/">Scouts</a></center>
-
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Brownies-Main-Picture.jpg">
+</div>
+<p><a href="/cca-brownies" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
+</p>
+<p></p>
+<p><a href="/cca-red-cross" rel="noopener noreferrer nofollow" target="_blank">Red Cross</a>
+</p>
+<p></p>
+<p><a href="/cca-cub-scouts/" rel="noopener noreferrer nofollow" target="_blank">Scouts</a>
+</p>
 <h3><strong>Performing Arts</strong></h3>
+<p>
 <br>
-<a href="/cca-guzheng-ensemble/"><img src="/images/Guzheng_TitleImage-1.jpg" style="width:50%"></a>
-<center><a href="/cca-guzheng-ensemble/">Guzheng Ensemble</a></center>
-
-<a href="/cca-festive-drums/">
-<img src="/images/FestiveDrums_TitleImage-768x432.jpg" style="width:50%"></a>
-<center><a href="/cca-festive-drums/">Festive Drums</a></center>
-
-<a href="/cca-chinese-orchestra/">
-<img src="/images/Chinese-Orchestra-Main-Picture-768x429.jpg" style="width:50%"></a>
-<center><a href="/cca-chinese-orchestra/">Chinese Orchestra</a></center>
-
-<a href="/cca-modern-contemporary-dance/"><img src="/images/Contemporary-Dance-Main-Picture-768x646.jpg" style="width:50%"></a>
-<center><a href="/cca-modern-contemporary-dance/">Modern Contemporary Dance</a></center>
-
-<a href="/cca-malay-dance/"><img src="/images/P6-2022-768x576.jpg" style="width:50%"></a>
-<center><a href="/cca-malay-dance/">Malay Dance</a></center>
-
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Guzheng_TitleImage-1.jpg">
+</div>
+<p><a href="/cca-guzheng-ensemble/" rel="noopener noreferrer nofollow" target="_blank">Guzheng Ensemble</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/FestiveDrums_TitleImage-768x432.jpg">
+</div>
+<p><a href="/cca-festive-drums/" rel="noopener noreferrer nofollow" target="_blank">Festive Drums</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Chinese-Orchestra-Main-Picture-768x429.jpg">
+</div>
+<p><a href="/cca-chinese-orchestra/" rel="noopener noreferrer nofollow" target="_blank">Chinese Orchestra</a>
+</p>
+<p></p>
+<p><a href="/cca-modern-contemporary-dance/" rel="noopener noreferrer nofollow" target="_blank">Modern Contemporary Dance</a>
+</p>
+<p></p>
+<p><a href="/cca-malay-dance/" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a>
+</p>
 <h3><strong>Clubs &amp; Society</strong></h3>
-
-<a href="/cca-english-club/"><img src="/images/EnglishClub_TitlePicture-300x225.jpg" style="width:50%"></a>
-<center><a href="/cca-english-club/">English Club</a></center>
-
-<a href="/cca-chinese-club/">
-<img src="/images/ChineseClub_TitlePicture-768x384.jpg" style="width:50%"></a>
-<center><a href="/cca-chinese-club/">Chinese Club</a></center>
-
-<a href="/cca-ict-club/"><img src="/images/ICT_Club_TitlePicture-1.jpg" style="width:50%"></a>
-<center><a href="/cca-ict-club/">ICT Club</a></center>
-
-<a href="/cca-arts-club/"><img src="/images/ArtClub_Picture1-1.jpg" style="width:50%"></a>
-<center><a href="/cca-arts-club/">Art Club</a></center>
-
-<a href="/cca-environmental-club/"><img src="/images/EnvironmentalClub_TitlePicture.jpg" style="width:50%"></a>
-<center><a href="/cca-environmental-club/">Environmental Club</a></center>
-
-
+<p></p>
+<p><a href="/cca-english-club/" rel="noopener noreferrer nofollow" target="_blank">English Club</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/ChineseClub_TitlePicture-768x384.jpg">
+</div>
+<p><a href="/cca-chinese-club/" rel="noopener noreferrer nofollow" target="_blank">Chinese Club</a>
+</p>
+<p></p>
+<p><a href="/cca-ict-club/" rel="noopener noreferrer nofollow" target="_blank">ICT Club</a>
+</p>
+<p></p>
+<p><a href="/cca-arts-club/" rel="noopener noreferrer nofollow" target="_blank">Art Club</a>
+</p>
+<p></p>
+<p><a href="/cca-environmental-club/" rel="noopener noreferrer nofollow" target="_blank">Environmental Club</a>
+</p>
 <h3><strong>Sports &amp; Games</strong></h3>
-
-<a href="/cca-athletics-club/"><img src="/images/Athletics_TitlePicture-768x576.jpg" style="width:50%"></a>
-<center><a href="/cca-athletics-club/">Athletics Club</a></center>
-
-<a href="/cca-wushu/"><img src="/images/Wushu_TitleImage-1.jpg" style="width:50%"></a>
-<center><a href="/cca-wushu/">Wushu</a></center>
-
-<a href="/cca-floorball/"><img src="/images/Floor-Ball-Main-Image-768x566.jpg" style="width:50%"></a>
-<center><a href="/cca-floorball/">Floorball</a></center>
-
-<a href="/cca-table-tennis/"><img src="/images/Table-Tennis-Main-Picture-768x489.jpg" style="width:50%"></a>
-<center><a href="/cca-table-tennis/">Table Tennis</a></center>
-
-<a href="/cca-fun-and-fitness/"><img src="/images/Fun-and-Fitness-Main-Picture-768x432.jpg" style="width:50%"></a>
-<center><a href="/cca-fun-and-fitness/">Fun and Fitness</a></center>
+<p></p>
+<p><a href="/cca-athletics-club/" rel="noopener noreferrer nofollow" target="_blank">Athletics Club</a>
+</p>
+<p></p>
+<p><a href="/cca-wushu/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a>
+</p>
+<p></p>
+<p><a href="/cca-floorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>
+</p>
+<p></p>
+<p><a href="/cca-table-tennis/" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a>
+</p>
+<p></p>
+<p><a href="/cca-fun-and-fitness/" rel="noopener noreferrer nofollow" target="_blank">Fun and Fitness</a>
+</p>
