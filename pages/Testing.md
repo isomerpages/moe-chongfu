@@ -55,15 +55,15 @@ body {
 <p><a href="/cca-arts-club/" style="text-decoration:none">Art Club</a><br><a href="/cca-chinese-club/" style="text-decoration:none">Chinese Club</a><br><a href="/cca-english-club/" style="text-decoration:none">English Club</a><br><a href="/cca-environmental-club/" style="text-decoration:none">Environmental Club</a><br><a href="/cca-ict-club/" style="text-decoration:none">ICT Club</a></p>
 </div>
 <div class="card">
-<h3>Card 2</h3>
-<p>This is card number 2</p>
+<h3><strong>Performing Arts</strong></h3>
+<p><a href="/cca-chinese-orchestra/" style="text-decoration:none">Chinese Orchestra</a><br><a href="/cca-festive-drums/" style="text-decoration:none">Festive Drums</a><br><a href="/cca-guzheng-ensemble/" style="text-decoration:none">Guzheng Ensemble</a><br><a href="/cca-malay-dance/" style="text-decoration:none">Malay Dance</a><br><a href="/cca-modern-contemporary-dance/" style="text-decoration:none">Modern Contemporary Dance</a></p>
 </div>
 <div class="card">
-<h3>Card 3</h3>
-<p>This is card number 3</p>
+<h3><strong>Sports &amp; Games</strong></h3>
+<p><a href="/cca-athletics-club/" style="text-decoration:none">Athletics</a><br>Football Girls (N2 Cluster)<br><a href="/cca-floorball/" style="text-decoration:none">Floorball</a><br><a href="/cca-fun-and-fitness/" style="text-decoration:none">Health and Fitness</a><br><a href="/cca-table-tennis/" style="text-decoration:none">Table Tennis</a><br><a href="/cca-wushu/" style="text-decoration:none">Wushu</a></p>
 </div>
 <div class="card">
-<h3>Card 4</h3>
+<h3><strong>Uniformed Groups</strong></h3>
 <p>This is card number 4</p>
 </div>
 </div>
