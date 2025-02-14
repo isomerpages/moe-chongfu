@@ -74,7 +74,6 @@ background-color: #d0021b;
 </tr> 
 </tbody>
 </table>
-<br><br><br><br><br><br><br><br>
 
 <table class="table"> 
 <tbody>
