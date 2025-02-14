@@ -12,9 +12,10 @@ padding: 0;
 } 
 
 .table-container { 
+display: flex; 
 flex-wrap: wrap; 
 justify-content: space-between; 
-margin: 100px; 
+margin: 200px; 
 } 
 
 .table { 
