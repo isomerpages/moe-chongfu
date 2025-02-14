@@ -48,21 +48,21 @@ body {
   }
 </style>
 
- <div class="container">
- <div class="card">
-	 <h3><strong>Clubs &amp; Societies</strong></h3>
-  <p><a href="/cca-arts-club/">Art Club</a><br><a href="/cca-chinese-club/">Chinese Club</a><br><a href="/cca-english-club/">English Club</a><br><a href="/cca-environmental-club/">Environmental Club</a><br><a href="/cca-ict-club/">ICT Club</a></p>
-  </div>
-  <div class="card">
-  <h3>Card 2</h3>
-  <p>This is card number 2</p>
-  </div>
-  <div class="card">
-  <h3>Card 3</h3>
-  <p>This is card number 3</p>
-  </div>
-  <div class="card">
-  <h3>Card 4</h3>
-  <p>This is card number 4</p>
-  </div>
-  </div>
+<div class="container">
+<div class="card">
+<h3><strong>Clubs &amp; Societies</strong></h3>
+<p><a href="/cca-arts-club/">Art Club</a><br><a href="/cca-chinese-club/">Chinese Club</a><br><a href="/cca-english-club/">English Club</a><br><a href="/cca-environmental-club/">Environmental Club</a><br><a href="/cca-ict-club/">ICT Club</a></p>
+</div>
+<div class="card">
+<h3>Card 2</h3>
+<p>This is card number 2</p>
+</div>
+<div class="card">
+<h3>Card 3</h3>
+<p>This is card number 3</p>
+</div>
+<div class="card">
+<h3>Card 4</h3>
+<p>This is card number 4</p>
+</div>
+</div>
