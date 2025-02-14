@@ -4,7 +4,7 @@ permalink: /testing/
 variant: markdown
 description: ""
 ---
-<style>
+<style type="text/css">
 body {
 	font-family: Arial, sans-serif;
   margin: 0;
