@@ -43,10 +43,9 @@ padding: 0;
 } 
 
 .table-container { 
-display: flex; 
 flex-wrap: wrap; 
 justify-content: space-between; 
-margin: 10px; 
+margin: 15px; 
 } 
 
 .table { 
