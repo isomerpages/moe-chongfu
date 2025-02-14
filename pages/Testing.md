@@ -65,44 +65,41 @@ background-color: #d0021b;
 } 
 </style> 
 
- 
 <div class="table-container"> 
 <table class="table"> 
-	
 <tbody>
-<tr> 
-<th><span style="color:#FFFFFF;background-color:#d0021b">Clubs &amp; Societies</span></th> 
-</tr> 
-	
-<tr> 
+<tr><th><span style="color:#FFFFFF;background-color:#d0021b">Clubs &amp; Societies</span></th> 
+</tr><tr> 
 <td>Art Club<br>Chinese Club<br>English Club<br>Environmental Club<br>ICT Club</td>
 </tr> 
 </tbody>
-</table> 
+</table>
 <br><br><br><br><br><br><br><br>
+
 <table class="table"> 
-<tbody><tr> 
-<th>Firstname</th> 
-<th>Lastname</th> 
-<th>Age</th> 
-</tr> 
+<tbody>
+<tr><th><span style="color:#FFFFFF;background-color:#d0021b">Performing Arts</span></th> 
+</tr><tr> 
+<td>Chinese Orchestra<br>Festive Drums<br>Guzheng Ensemble<br>Malay Dance<br>Modern Contemporary Dance</td>
+</tr>  
+</tbody>
+</table>
 
-<tr> 
-<td>Priya</td> 
-<td>Sharma</td> 
-<td>24</td> 
-</tr> 
-			
-<tr> 
-<td>Arun</td> 
-<td>Singh</td> 
-<td>32</td> 
-</tr> 
+<table class="table"> 
+<tbody>
+<tr><th><span style="color:#FFFFFF;background-color:#d0021b">Sports &amp; Games</span></th> 
+</tr><tr> 
+<td>Athletics<br>Football Girls (N2 Cluster)<br>Floorball<br>Health and Fitness<br>Table Tennis<br>Wushu</td>
+</tr>  
+</tbody>
+</table>
 
-<tr> 
-<td>Sam</td> 
-<td>Watson</td> 
-<td>41</td> 
-</tr> 
-</tbody></table> 
+<table class="table"> 
+<tbody>
+<tr><th><span style="color:#FFFFFF;background-color:#d0021b">Uniformed Groups</span></th> 
+</tr><tr> 
+<td>Brownies<br>Red Cross<br>Scouts</td>
+</tr>  
+</tbody>
+</table> 
 </div>
