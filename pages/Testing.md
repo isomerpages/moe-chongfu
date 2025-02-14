@@ -52,8 +52,7 @@ margin: 10px;
 
 .table { 
 border-collapse: collapse; 
-width: 100%; 
-margin-bottom: 5px; 
+margin-bottom: 10px; 
 } 
 
 th, 
