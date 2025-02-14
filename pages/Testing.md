@@ -36,7 +36,7 @@ background-color: #E40D03;
 </style> 
 
 <div class="table-container"> 
-<table class="table" style="width:50%"> 
+<table class="table" style="width:70%"> 
 <tbody>
 <tr>
 <th><span style="color:#FFFFFF;background-color:#E40D03">Clubs &amp; Societies</span></th> 
@@ -46,7 +46,7 @@ background-color: #E40D03;
 </tbody>
 </table>
 
-<table class="table" style="width:50%">
+<table class="table" style="width:70%">
 <tbody>
 <tr><th><span style="color:#FFFFFF;background-color:#E40D03">Performing Arts</span></th> 
 </tr><tr> 
@@ -55,7 +55,7 @@ background-color: #E40D03;
 </tbody>
 </table>
 
-<table class="table"> 
+<table class="table" style="width:70%"> 
 <tbody>
 <tr><th><span style="color:#FFFFFF;background-color:#E40D03">Sports &amp; Games</span></th> 
 </tr><tr> 
@@ -64,7 +64,7 @@ background-color: #E40D03;
 </tbody>
 </table>
 
-<table class="table"> 
+<table class="table" style="width:70%"> 
 <tbody>
 <tr><th><span style="color:#FFFFFF;background-color:#E40D03">Uniformed Groups</span></th> 
 </tr><tr> 
