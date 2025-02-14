@@ -4,143 +4,123 @@ permalink: /testing/
 variant: markdown
 description: ""
 ---
-
-
-
-
-
-| Column 1 |  | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;<style>
-
-        table {
-
-            width: 20%;
-
-            border-collapse: collapse;
-
-            margin: 20px auto;
-
-        }
-
-        th, td {
-
-            border: 1px solid black;
-
-            padding: 10px;
-
-            text-align: center;
-
-        }
-
-        th {
-
-            background-color: #f2f2f2;
-
-        }
-
-        a {
-
-            text-decoration: none;
-
-            color: blue;
-
-        }
-
-        a:hover {
-
-            text-decoration: underline;
-
-        }
-
-    </style>
-
-
-
-
-
-  
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;<table><tbody><tr><th>Clubs and Society</th><th>Sports and Games</th></tr><tr><td>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Art Club</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Environmental Club</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">ICT Club</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">English Club</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Chinese Club</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Table Tennis</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Wushu</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Track &amp; Field</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Floorball</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Fun and Fitness</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr><tr><th>Performing Arts</th><th>Uniformed Groups</th></tr><tr><td>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Modern Contemporary Dance</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Chinese Orchestra</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Festive Drums</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Malay Dance</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Guzheng</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Scouts</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Red Cross</a><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Brownies</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-
-</tbody></table>
+<style type="text/css">
+.tg  {border-spacing:0;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:16px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:16px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#6495ED;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 450px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 50px">
+<col style="width: 150px">	
+</colgroup>
+
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#6495ED">Clubs &amp; Societies</span></td>
+		 <td border="0"></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#6495ED">Performing Arts</span></td>
+  </tr>
+		<tr>
+    <td class="tg-yhj3"><a href="/cca-english-club/">Art Club</a></td>
+			 <td border="0"></td>
+    <td class="tg-yhj3"><a href="/cca-english-club/">Chinese Orchestra</a></td>
+	</tr>
+</tbody>
+</table>
+
+
+<style type="text/css">
+body { 
+font-family: Arial, sans-serif; 
+margin: 0; 
+padding: 0; 
+} 
+
+.table-container { 
+display: flex; 
+flex-wrap: wrap; 
+justify-content: space-between; 
+margin: 20px; 
+} 
+
+.table { 
+border-collapse: collapse; 
+width: 100%; 
+margin-bottom: 10px; 
+} 
+
+th, 
+td { 
+border: 1px solid #ddd; 
+padding: 8px; 
+text-align: left; 
+} 
+
+th { 
+background-color: #f2f2f2; 
+} 
+} 
+</style> 
+
+ 
+<div class="table-container"> 
+<table class="table"> 
+	
+<tbody><tr> 
+<th>Firstname</th> 
+<th>Lastname</th> 
+<th>Age</th> 
+</tr> 
+	
+<tr> 
+<td>Aman</td> 
+<td>Sharma</td> 
+<td>34</td> 
+</tr> 
+
+<tr> 
+<td>Akash</td> 
+<td>Singh</td> 
+<td>24</td> 
+</tr> 
+
+<tr> 
+<td>Shiva</td> 
+<td>Jain</td> 
+<td>41</td> 
+</tr> 
+</tbody></table> 
+
+<table class="table"> 
+<tbody><tr> 
+<th>Firstname</th> 
+<th>Lastname</th> 
+<th>Age</th> 
+</tr> 
+
+<tr> 
+<td>Priya</td> 
+<td>Sharma</td> 
+<td>24</td> 
+</tr> 
+			
+<tr> 
+<td>Arun</td> 
+<td>Singh</td> 
+<td>32</td> 
+</tr> 
+
+<tr> 
+<td>Sam</td> 
+<td>Watson</td> 
+<td>41</td> 
+</tr> 
+</tbody></table> 
+</div> 
