@@ -51,7 +51,7 @@ body {
 <div class="container">
 <div class="card">
 <h3><strong>Clubs &amp; Societies</strong></h3>
-<p><a href="/cca-arts-club/">Art Club</a><br><a href="/cca-chinese-club/">Chinese Club</a><br><a href="/cca-english-club/">English Club</a><br><a href="/cca-environmental-club/">Environmental Club</a><br><a href="/cca-ict-club/">ICT Club</a></p>
+<p><a href="/cca-arts-club/" style="text-decoration:none">Art Club</a><br><a href="/cca-chinese-club/" style="text-decoration:none">Chinese Club</a><br><a href="/cca-english-club/" style="text-decoration:none">English Club</a><br><a href="/cca-environmental-club/" style="text-decoration:none">Environmental Club</a><br><a href="/cca-ict-club/" style="text-decoration:none">ICT Club</a></p>
 </div>
 <div class="card">
 <h3>Card 2</h3>
