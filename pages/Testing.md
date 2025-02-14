@@ -25,7 +25,8 @@ margin-bottom: 100px;
  
 td { 
 padding: 8px; 
-text-align: left; 
+text-align: left;
+background-color: #F8F8F8;
 } 
 
 th { 
