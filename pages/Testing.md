@@ -38,7 +38,7 @@ description: ""
 
 <style type="text/css">
 body { 
-font-family: Arial, sans-serif; 
+font-family: Arial, sans-serif;
 margin: 0; 
 padding: 0; 
 } 
@@ -52,18 +52,16 @@ margin: 10px;
 
 .table { 
 border-collapse: collapse; 
-margin-bottom: 10px; 
+margin-bottom: 10px;
 } 
-
-th, 
+ 
 td { 
-border: 1px solid #ddd; 
 padding: 8px; 
 text-align: left; 
 } 
 
 th { 
-background-color: #d0021b; 
+background-color: #d0021b;
 } 
 } 
 </style> 
@@ -74,7 +72,7 @@ background-color: #d0021b;
 	
 <tbody>
 <tr> 
-<th>Clubs &amp; Societies</th> 
+<th><span style="color:#FFFFFF;background-color:#d0021b">Clubs &amp; Societies</span></th> 
 </tr> 
 	
 <tr> 
@@ -82,7 +80,7 @@ background-color: #d0021b;
 </tr> 
 </tbody>
 </table> 
-
+<br><br>
 <table class="table"> 
 <tbody><tr> 
 <th>Firstname</th> 
