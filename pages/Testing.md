@@ -35,8 +35,8 @@ background-color: #E40D03;
 } 
 </style> 
 
-<div class="table-container" style="width:100%"> 
-<table class="table" style="width:40%"> 
+<div class="table-container"> 
+<table class="table" style="width:50%"> 
 <tbody>
 <tr>
 <th><span style="color:#FFFFFF;background-color:#E40D03">Clubs &amp; Societies</span></th> 
@@ -46,7 +46,7 @@ background-color: #E40D03;
 </tbody>
 </table>
 
-<table class="table" style="width:40%">
+<table class="table" style="width:50%">
 <tbody>
 <tr><th><span style="color:#FFFFFF;background-color:#E40D03">Performing Arts</span></th> 
 </tr><tr> 
