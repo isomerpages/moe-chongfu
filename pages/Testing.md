@@ -47,7 +47,7 @@ padding: 0;
 display: flex; 
 flex-wrap: wrap; 
 justify-content: space-between; 
-margin: 20px; 
+margin: 10px; 
 } 
 
 .table { 
