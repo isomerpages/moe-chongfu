@@ -43,9 +43,10 @@ padding: 0;
 } 
 
 .table-container { 
+display: flex; 
 flex-wrap: wrap; 
 justify-content: space-between; 
-margin: 15px; 
+margin: 10px; 
 } 
 
 .table { 
@@ -69,7 +70,7 @@ background-color: #d0021b;
 <tbody>
 <tr><th><span style="color:#FFFFFF;background-color:#d0021b">Clubs &amp; Societies</span></th> 
 </tr><tr> 
-	<td><a href="/cca-arts-club/">Art Club</a><br><a href="/cca-chinese-club/">Chinese Club</a><br><a href="/cca-english-club/">English Club</a><br><a href="/cca-environmental-club/">Environmental Club</a><br><a href="/cca-ict-club/">ICT Club</a></td>
+	<td><a href="/cca-arts-club/">Art Club</a><br><a href="/cca-chinese-club/">Chinese Club</a><br><a href="/cca-english-club/">English Club</a><br><a href="/cca-environmental-club/">Environmental Club</a><br><a href="/cca-arts-club/">ICT Club</a></td>
 </tr> 
 </tbody>
 </table>
