@@ -57,7 +57,7 @@ background-color: #E40D03;
 <tbody>
 <tr><th><span style="color:#FFFFFF;background-color:#E40D03">Sports &amp; Games</span></th> 
 </tr><tr> 
-<td>Athletics<br>Football Girls (N2 Cluster)<br>Floorball<br>Health and Fitness<br>Table Tennis<br>Wushu</td>
+	<td><a href="/cca-athletics-club/">Athletics</a><br>Football Girls (N2 Cluster)<br><a href="/cca-floorball/">Floorball</a><br><a href="/cca-fun-and-fitness/">Health and Fitness</a><br><a href="/cca-table-tennis/">Table Tennis</a><br><a href="/cca-wushu/">Wushu</a></td>
 </tr>  
 </tbody>
 </table>
@@ -66,7 +66,7 @@ background-color: #E40D03;
 <tbody>
 <tr><th><span style="color:#FFFFFF;background-color:#E40D03">Uniformed Groups</span></th> 
 </tr><tr> 
-<td>Brownies<br>Red Cross<br>Scouts</td>
+	<td><a href="/cca-brownies/">Brownies</a><br><a href="/cca-red-cross/">Red Cross</a><br><a href="/cca-cub-scouts/">Scouts</a></td>
 </tr>  
 </tbody>
 </table> 
