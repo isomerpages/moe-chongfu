@@ -64,6 +64,6 @@ body {
 </div>
 <div class="card">
 <h3><strong>Uniformed Groups</strong></h3>
-<p>This is card number 4</p>
+<p><a href="/cca-brownies/" style="text-decoration:none">Brownies</a><br><a href="/cca-red-cross/" style="text-decoration:none">Red Cross</a><br><a href="/cca-cub-scouts/" style="text-decoration:none">Scouts</a></p>
 </div>
 </div>
