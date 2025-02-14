@@ -53,7 +53,7 @@ margin: 10px;
 .table { 
 border-collapse: collapse; 
 width: 100%; 
-margin-bottom: 10px; 
+margin-bottom: 5px; 
 } 
 
 th, 
@@ -73,30 +73,16 @@ background-color: #f2f2f2;
 <div class="table-container"> 
 <table class="table"> 
 	
-<tbody><tr> 
-<th>Firstname</th> 
-<th>Lastname</th> 
-<th>Age</th> 
+<tbody>
+<tr> 
+<th>Clubs &amp; Societies</th> 
 </tr> 
 	
 <tr> 
-<td>Aman</td> 
-<td>Sharma</td> 
-<td>34</td> 
+<td>Art Club<br>Chinese Club<br>English Club<br>Environmental Club<br>ICT Club</td>
 </tr> 
-
-<tr> 
-<td>Akash</td> 
-<td>Singh</td> 
-<td>24</td> 
-</tr> 
-
-<tr> 
-<td>Shiva</td> 
-<td>Jain</td> 
-<td>41</td> 
-</tr> 
-</tbody></table> 
+</tbody>
+</table> 
 
 <table class="table"> 
 <tbody><tr> 
