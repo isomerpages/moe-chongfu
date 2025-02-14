@@ -12,7 +12,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   background-color: #f4f4f4;
 	}
 
@@ -47,6 +46,7 @@ body {
  .card p {
   color: #777;
   font-size: 1em;
+	text-decoration: none;
   }
 </style>
 
