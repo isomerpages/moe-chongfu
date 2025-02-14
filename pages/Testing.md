@@ -70,7 +70,7 @@ background-color: #d0021b;
 <tbody>
 <tr><th><span style="color:#FFFFFF;background-color:#d0021b">Clubs &amp; Societies</span></th> 
 </tr><tr> 
-<td>Art Club<br>Chinese Club<br>English Club<br>Environmental Club<br>ICT Club</td>
+	<td><a href="/cca-arts-club/">Art Club</a><br><a href="/cca-chinese-club/">Chinese Club</a><br><a href="/cca-english-club/">English Club</a><br><a href="/cca-environmental-club/">Environmental Club</a><br><a href="/cca-arts-club/">ICT Club</a></td>
 </tr> 
 </tbody>
 </table>
