@@ -20,7 +20,7 @@ margin: 230px;
 
 .table { 
 border-collapse: collapse; 
-margin-bottom: 10px;
+margin-bottom: 100px;
 } 
  
 td { 
