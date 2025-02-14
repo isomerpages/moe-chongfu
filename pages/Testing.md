@@ -48,7 +48,7 @@ background-color: #E40D03;
 <tbody>
 <tr><th><span style="color:#FFFFFF;background-color:#E40D03">Performing Arts</span></th> 
 </tr><tr> 
-<td>Chinese Orchestra<br>Festive Drums<br>Guzheng Ensemble<br>Malay Dance<br>Modern Contemporary Dance</td>
+	<td><a href="/cca-chinese-orchestra/">Chinese Orchestra</a><br><a href="/cca-festive-drums/">Festive Drums</a><br><a href="/cca-guzheng-ensemble/">Guzheng Ensemble</a><br><a href="/cca-malay-dance/">Malay Dance</a><br><a href="/cca-modern-contemporary-dance/">Modern Contemporary Dance</a></td>
 </tr>  
 </tbody>
 </table>
