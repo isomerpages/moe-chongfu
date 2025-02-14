@@ -35,17 +35,18 @@ background-color: #E40D03;
 } 
 </style> 
 
-<div class="table-container"> 
-<table class="table"> 
+<div class="table-container" style="width:100%"> 
+<table class="table" style="width:40%"> 
 <tbody>
-<tr><th><span style="color:#FFFFFF;background-color:#E40D03">Clubs &amp; Societies</span></th> 
+<tr>
+<th><span style="color:#FFFFFF;background-color:#E40D03">Clubs &amp; Societies</span></th> 
 </tr><tr> 
-	<td><a href="/cca-arts-club/">Art Club</a><br><a href="/cca-chinese-club/">Chinese Club</a><br><a href="/cca-english-club/">English Club</a><br><a href="/cca-environmental-club/">Environmental Club</a><br><a href="/cca-ict-club/">ICT Club</a></td>
+<td><a href="/cca-arts-club/">Art Club</a><br><a href="/cca-chinese-club/">Chinese Club</a><br><a href="/cca-english-club/">English Club</a><br><a href="/cca-environmental-club/">Environmental Club</a><br><a href="/cca-ict-club/">ICT Club</a></td>
 </tr> 
 </tbody>
 </table>
 
-<table class="table"> 
+<table class="table" style="width:40%">
 <tbody>
 <tr><th><span style="color:#FFFFFF;background-color:#E40D03">Performing Arts</span></th> 
 </tr><tr> 
