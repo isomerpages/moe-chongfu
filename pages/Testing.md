@@ -15,7 +15,7 @@ padding: 0;
 display: flex; 
 flex-wrap: wrap; 
 justify-content: space-between; 
-margin: 200px; 
+margin: 25px; 
 } 
 
 .table { 
