@@ -45,7 +45,7 @@ body {
 
  .card p {
   color: #777;
-  font-size: 1em;
+  font-size: 16px;
 	text-decoration: none;
   }
 </style>
