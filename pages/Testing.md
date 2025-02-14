@@ -27,6 +27,11 @@ body {
  transition: transform 0.3s ease-in-out;
  }
 
+.card a {
+ color: #777;
+ text-decoration: none;
+}
+	
  .card:hover {
   transform: translateY(-10px);
 	background-color: #F8F8F8;
