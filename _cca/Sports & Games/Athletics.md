@@ -1,5 +1,5 @@
 ---
-title: Athletics Club
+title: Athletics
 permalink: /cca-athletics-club/
 description: ""
 third_nav_title: Sports & Games
