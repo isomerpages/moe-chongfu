@@ -14,8 +14,8 @@ background-color: #f7f7f7;
 
 .card-grid {
 display: grid;
-grid-template-columns: repeat(3, 1fr);
-gap: 20px;
+grid-template-columns: repeat(2, 1fr);
+gap: 25px;
 width: 80%;
 max-width: 1200px;
 }
@@ -92,6 +92,3 @@ opacity: 1;
 <img class="image-hover" alt="Image 6" src="image6.jpg">
 </div>
 </div>
-
-
-
