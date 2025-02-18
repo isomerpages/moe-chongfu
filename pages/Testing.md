@@ -70,3 +70,5 @@ opacity: 1;
 <img class="image-hover" alt="Image 6" src="image6.jpg">
 </div>
 </div>
+
+<img src="Table_Tennis_Picture06.jpg">
