@@ -15,17 +15,19 @@ background-color: #f7f7f7;
 
 .card-grid {
 display: grid;
-grid-template-columns: repeat(3, 1fr);
-gap: 20px;
-width: 80%;
+grid-template-columns: repeat(2, 1fr);
+gap: 40px;
+width: 80%;y
+height:20%;
 max-width: 1200px;
+max-height:500px;
 }
 
 .card {
 position: relative;
 width: 100%;
 padding-bottom: 100%; /* Maintains square aspect ratio */
-background-color: #fff;
+background-color: #F8F8F8;
 box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 overflow: hidden;
 border-radius: 10px;
@@ -35,6 +37,7 @@ transition: transform 0.3s ease;
 
 .card:hover {
 transform: scale(1.05);
+background-color: #ffffff;
 }
 
 .card img {
