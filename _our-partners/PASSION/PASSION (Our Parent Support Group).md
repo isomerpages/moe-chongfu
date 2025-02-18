@@ -21,7 +21,7 @@ parenting tips.</p></li>
 support and interest in our children’s school life, helping to develop
 positive attitudes and social behaviour in them.</p></li>
 </ul>
-<h4><strong>Our 2024 PASSION Executive Committee (EXCO)</strong></h4>
+<h4><strong>Our 2025 PASSION Executive Committee (EXCO)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="80%" alt="" src="/images/PASSION_Committees_Ver2.png">
