@@ -26,7 +26,7 @@ positive attitudes and social behaviour in them.</p></li>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="70%" alt="" src="/images/PASSION_Committees_2025.png">
 </div>
-<div><br><strong><a href="/files/2024_PASSION_Support_CFS_Activities_V2.pdf" style="font-size:16px">PASSION Support CFS Activities [For Reference]</a></strong></div>
+<div><br><strong><a href="/files/2024_PASSION_Support_CFS_Activities_V2.pdf" style="font-size:18px">PASSION Support CFS Activities [For Reference]</a></strong></div>
 <p style="text-align:justify">For more information on PASSION, please refer to our PASSION Facebook page:</p>
-<div><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Chongfu School PASSION (Parent Support Group)</a> </strong>or
-email us at:<span style="color:blue"> dads.at.chongfu@gmail.com</span></div>
+<p style="font-size:18px"><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Chongfu School PASSION (Parent Support Group)</a> </strong>or
+email us at:<span style="color:blue"> dads.at.chongfu@gmail.com</span></p>
