@@ -21,12 +21,12 @@ parenting tips.</p></li>
 support and interest in our children’s school life, helping to develop
 positive attitudes and social behaviour in them.</p></li>
 </ul>
-<h4><strong>Our 2024 PASSION Executive Committee (EXCO)</strong></h4>
+<h4><strong>Our 2025 PASSION Executive Committee (EXCO)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="80%" alt="" src="/images/PASSION_Committees_Ver2.png">
+<img style="width:85%" alt="" src="/images/PASSION_Committees_2025.png">
 </div>
-<p></p>
+<div><br><strong><a href="/files/2024_PASSION_Support_CFS_Activities_V2.pdf" style="font-size:20px">PASSION Support CFS Activities [For Reference]</a></strong></div>
 <p style="text-align:justify">For more information on PASSION, please refer to our PASSION Facebook page:</p>
-<p><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Chongfu School PASSION (Parent Support Group)</a> </strong>or
+<p style="font-size:20px"><strong><a href="https://www.facebook.com/profile.php?id=100064488288153" rel="noopener noreferrer nofollow" target="_blank">Chongfu School PASSION (Parent Support Group)</a> </strong>or
 email us at:<span style="color:blue"> dads.at.chongfu@gmail.com</span></p>
