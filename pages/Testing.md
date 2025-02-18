@@ -45,6 +45,19 @@ object-fit: cover;
 transition: opacity 0.3s ease;
 }
 
+.card .card-title {
+position: absolute;
+bottom: 10px;
+left: 10px;
+right: 10px;
+font-size: 1.2em;
+color: #dd;
+padding: 10px;
+text-align: center;
+border-radius: 5px;
+transition: opacity 0.3s ease;
+}
+	
 .card .image-hover {
 opacity: 0;
 }
@@ -58,8 +71,9 @@ opacity: 1;
 
 <div class="card-grid">
 <div class="card">
-<img class="image1" alt="Image 1" src="community_outreach_3.jpg">
-<img class="image-hover" alt="Image 2" src="Chinese_New_Year_Celebration.jpg">
+<img style="width:20%" class="image1" alt="Image 1" src="/images/community_outreach_3.jpg">
+<img class="image-hover" alt="Image 2" src="/images/Chinese_New_Year_Celebration.jpg">
+<div class="card-title">title 1</div>
 </div>
 <div class="card">
 <img class="image1" alt="Image 3" src="image3.jpg">
@@ -70,5 +84,3 @@ opacity: 1;
 <img class="image-hover" alt="Image 6" src="image6.jpg">
 </div>
 </div>
-
-<img src="Table_Tennis_Picture06.jpg">
