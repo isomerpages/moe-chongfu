@@ -24,7 +24,7 @@ positive attitudes and social behaviour in them.</p></li>
 <h4><strong>Our 2025 PASSION Executive Committee (EXCO)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="80%" alt="" src="/images/PASSION_Committees_Ver2.png">
+<img style="width: 100%" height="auto" width="80%" alt="" src="/images/PASSION_Committees_2025.png">
 </div>
 <p></p>
 <p style="text-align:justify">For more information on PASSION, please refer to our PASSION Facebook page:</p>
