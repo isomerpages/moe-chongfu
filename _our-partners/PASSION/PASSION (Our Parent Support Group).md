@@ -24,7 +24,7 @@ positive attitudes and social behaviour in them.</p></li>
 <h4><strong>Our 2025 PASSION Executive Committee (EXCO)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="80%" alt="" src="/images/PASSION_Committees_2025.png">
+<img style="width: 100%" height="auto" width="70%" alt="" src="/images/PASSION_Committees_2025.png">
 </div>
 <div><br><strong><a href="/files/2024_PASSION_Support_CFS_Activities_V2.pdf" style="font-size:16px">PASSION Support CFS Activities [For Reference]</a></strong></div>
 <p style="text-align:justify">For more information on PASSION, please refer to our PASSION Facebook page:</p>
