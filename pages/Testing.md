@@ -34,14 +34,14 @@ description: ""
 
   .card:hover {
     transform: scale(1.05);
-    background-color: #ffffff;
   }
 
   /* Title positioning */
   .card .card-title {
     font-size: 1.5em;
-    color: #fff;
-    background-color: #D3D3D3;
+	  font-weight: bold;
+    color: #708090;
+    background-color: #F8F8F8;
     padding: 10px;
     text-align: center;
     border-radius: 5px 5px 0 0; /* Rounded top corners */
@@ -51,6 +51,13 @@ description: ""
     z-index: 1; /* Ensures title stays above the image */
   }
 
+	.card:hover .card-title{
+	 color: #ffffff;
+	font-weight: bold;
+	background-color: #d0021b;
+	transition: opacity 3.0s ease-in-out; /* Smooth transition for opacity */
+	}
+	
   /* Styling for images */
   .card img {
     position: absolute;
@@ -89,17 +96,22 @@ description: ""
 
 <div class="card-grid">
   <div class="card">
-    <div class="card-title">Card Title 1</div>
-    <img class="image1" alt="Image 1" src="/images/community_outreach_3.jpg">
-    <img class="image-hover" alt="Image 2" src="/images/Yishun_pond_2024.jpg">
+		<div class="card-title">Our History</div>
+    <img class="image1" alt="Image 1" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842____Vivid_Cool.jpg">
+    <img class="image-hover" alt="Image 2" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842_.jpg">
   </div>
   <div class="card">
-    <div class="card-title">Card Title 2</div>
+    <div class="card-title">School Ethos</div>
     <img class="image1" alt="Image 3" src="image3.jpg">
     <img class="image-hover" alt="Image 4" src="image4.jpg">
   </div>
   <div class="card">
-    <div class="card-title">Card Title 3</div>
+    <div class="card-title">School Identity</div>
+    <img class="image1" alt="Image 5" src="image5.jpg">
+    <img class="image-hover" alt="Image 6" src="image6.jpg">
+  </div>
+	 <div class="card">
+    <div class="card-title">School Information</div>
     <img class="image1" alt="Image 5" src="image5.jpg">
     <img class="image-hover" alt="Image 6" src="image6.jpg">
   </div>
