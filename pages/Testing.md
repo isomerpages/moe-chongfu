@@ -9,7 +9,7 @@ description: ""
 	body {
   margin: 0;
 	padding:0;
-  background-color: #f7f7f7;
+  background-color: #f4f4f4;
   }
 
   .card-grid {
