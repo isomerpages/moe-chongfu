@@ -98,21 +98,25 @@ description: ""
   <div class="card">
 		<div class="card-title">Our History</div>
     <img class="image1" alt="Image 1" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842____Vivid_Cool.jpg">
-    <img class="image-hover" alt="Image 2" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842_.jpg">
+		<a href="/our-school/history/">
+    <img class="image-hover" alt="Image 2" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842_.jpg"></a>
   </div>
   <div class="card">
     <div class="card-title">School Ethos</div>
-    <img class="image1" alt="Image 3" src="image3.jpg">
-    <img class="image-hover" alt="Image 4" src="image4.jpg">
+    <img class="image1" alt="Image 3" src="/images/School_Ethos____Vivid_Cool.jpg">
+    <a href="/our-school/school-ethos/">
+			<img class="image-hover" alt="Image 4" src="/images/School_Ethos_.jpg"></a>
   </div>
   <div class="card">
     <div class="card-title">School Identity</div>
-    <img class="image1" alt="Image 5" src="image5.jpg">
-    <img class="image-hover" alt="Image 6" src="image6.jpg">
+    <img class="image1" alt="Image 5" src="/images/School_Identity____Vivid_Cool.jpg">
+    <a href="/our-school/school-identity/">
+			<img class="image-hover" alt="Image 6" src="/images/School_Identity_.jpg"></a>
   </div>
 	 <div class="card">
-    <div class="card-title">School Information</div>
-    <img class="image1" alt="Image 5" src="image5.jpg">
-    <img class="image-hover" alt="Image 6" src="image6.jpg">
+		 <div class="card-title">School Information</div>
+		 <img class="image1" alt="Image 5" src="/images/School_Information____Vivid_Cool.jpg">
+		 <a href="/school-information/">
+			 <img class="image-hover" alt="Image 6" src="/images/School_Information_.jpg"></a>
   </div>
 </div>
