@@ -5,10 +5,11 @@ variant: markdown
 description: ""
 ---
 <style type="text/css">
-  body {
-    height: 100vh;
-    margin: 0;
-    background-color: #f7f7f7;
+  
+	body {
+  margin: 0;
+	padding:0;
+  background-color: #f7f7f7;
   }
 
   .card-grid {
