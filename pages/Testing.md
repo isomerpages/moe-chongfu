@@ -5,90 +5,102 @@ variant: markdown
 description: ""
 ---
 <style type="text/css">
-        
-body {
-height: 100vh;
-margin: 0;
-background-color: #f7f7f7;
-}
+  body {
+    height: 100vh;
+    margin: 0;
+    background-color: #f7f7f7;
+  }
 
-.card-grid {
-display: grid;
-grid-template-columns: repeat(2, 1fr);
-gap: 25px;
-width: 80%;
-max-width: 1200px;
-}
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive grid */
+    gap: 20px; /* Adjust gap between cards */
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto; /* Center the grid */
+  }
 
-.card {
-display: flex;
-flex-direction: column; /* Stacks the title and image vertically */
-justify-content: flex-start;
-width: 100%;
-height: 300px; /* Set the height for the card */
-background-color: #fff;
-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-overflow: hidden;
-border-radius: 10px;
-cursor: pointer;
-transition: transform 0.3s ease;
-}
+  .card {
+    position: relative;
+    width: 100%;
+    padding-bottom: 75%; /* Aspect ratio for rectangular shape (can change this) */
+    background-color: #F8F8F8;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
 
-.card:hover {
-transform: scale(1.05);
-background-color:#F8F8F8;	
-}
+  .card:hover {
+    transform: scale(1.05);
+    background-color: #ffffff;
+  }
 
-.card .card-title {
-font-size: 1.5em;
-color: #fff;
-background-color: rgba(0, 0, 0, 0.5);
-padding: 10px;
-text-align: center;
-border-radius: 5px 5px 0 0; /* Round top corners */
-transition: opacity 0.3s ease;
-z-index: 1; /* Ensures title stays on top of the image */
-}
+  /* Title positioning */
+  .card .card-title {
+    font-size: 1.5em;
+    color: #fff;
+    background-color: #D3D3D3;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px 5px 0 0; /* Rounded top corners */
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1; /* Ensures title stays above the image */
+  }
 
-.card .card-title {
-opacity: 1;
-}
+  /* Styling for images */
+  .card img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image fills the card */
+    transform: translate(-50%, -50%); /* Centers the image */
+    transition: opacity 0.5s ease-in-out; /* Smooth transition for opacity */
+  }
 
-.card img {
-width: 80%; /* Makes the image smaller */
-height: auto;
-object-fit: contain;
-align-self: center; /* Centers the image horizontally */
-margin-top: 10px;
-transition: opacity 0.3s ease;
-}
+  /* Default: image opacity set to 1 */
+  .card .image1 {
+    opacity: 1; /* Fully opaque initially */
+  }
 
-.card .image-hover {
-opacity: 0;
-}
+  /* On hover, change opacity of the image */
+  .card:hover .image1 {
+    opacity: 0.5; /* Make the image semi-transparent on hover */
+  }
 
-.card:hover .image-hover {
-opacity: 1;
-}
-        
+  .card .image-hover {
+    opacity: 0; /* Hide the second image initially */
+  }
+
+  /* On hover, fade image 1 out and fade image 2 in */
+  .card:hover .image-hover {
+    opacity: 1; /* Show the second image */
+  }
+
+  .card:hover .image1 {
+    opacity: 0; /* Hide the first image */
+  }
 </style>
 
-
-
 <div class="card-grid">
-<div class="card">
-<div class="card-title">Card Title 1</div>
-<img class="image1" alt="Image 1" src="image1.jpg">
-<img class="image-hover" alt="Image 2" src="image2.jpg">
-</div>
-<div class="card">
-<div class="card-title">Card Title 2</div>
-<img class="image1" alt="Image 3" src="image3.jpg">
-<img class="image-hover" alt="Image 4" src="image4.jpg">
-</div>
-<div class="card">
-<div class="card-title">Card Title 3</div>
-<img class="image1" alt="Image 5" src="image5.jpg">
-<img class="image-hover" alt="Image 6" src="image6.jpg">
-</div>
+  <div class="card">
+    <div class="card-title">Card Title 1</div>
+    <img class="image1" alt="Image 1" src="/images/community_outreach_3.jpg">
+    <img class="image-hover" alt="Image 2" src="/images/Yishun_pond_2024.jpg">
+  </div>
+  <div class="card">
+    <div class="card-title">Card Title 2</div>
+    <img class="image1" alt="Image 3" src="image3.jpg">
+    <img class="image-hover" alt="Image 4" src="image4.jpg">
+  </div>
+  <div class="card">
+    <div class="card-title">Card Title 3</div>
+    <img class="image1" alt="Image 5" src="image5.jpg">
+    <img class="image-hover" alt="Image 6" src="image6.jpg">
+  </div>
 </div>
