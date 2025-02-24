@@ -36,7 +36,7 @@ third_nav_title: Teaching Staff
     <td class="tg-yhj3">Mdm Dione Chew Ying Ying </td></tr>
 		<tr>
     <td class="tg-yhj3">Chinese Teacher</td>
-    <td class="tg-yhj3">Ms Liew Xinhua </td></tr>
+    <td class="tg-yhj3">Mdm Ding Hui </td></tr>
 		<tr>
     <td class="tg-yhj3">School Counsellor</td>
     <td class="tg-yhj3">Ms Ang Boon Hui Cheryl<br>
