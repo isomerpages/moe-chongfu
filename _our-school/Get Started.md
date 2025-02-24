@@ -28,7 +28,6 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">School Information</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">https://www.chongfu.moe.edu.sg/school-information/</div>
 </div>
 </a>
