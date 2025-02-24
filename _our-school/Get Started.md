@@ -1,120 +1,35 @@
 ---
 title: Get Started
 permalink: /our-school/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<style type="text/css">
-  
-	body {
-  margin: 0;
-	padding:0;
-  background-color: #f4f4f4;
-  }
-
-  .card-grid {
-  display: grid;
- grid-template-columns: repeat(2, 1fr);
- gap: 40px;
-  }
-
-  .card {
-    position: relative;
-    width: 100%;
-    padding-bottom: 75%; /* Aspect ratio for rectangular shape (can change this) */
-    background-color: #F8F8F8;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    border-radius: 10px;
-    cursor: pointer;
-    transition: transform 0.3s ease;
-  }
-
-  .card:hover {
-    transform: scale(1.05);
-  }
-
-  /* Title positioning */
-  .card .card-title {
-    font-size: 1.5em;
-	  font-weight: bold;
-    color: #708090;
-    background-color: #F8F8F8;
-    padding: 10px;
-    text-align: center;
-    border-radius: 5px 5px 0 0; /* Rounded top corners */
-    position: absolute;
-    top: 0;
-    width: 100%;
-    z-index: 1; /* Ensures title stays above the image */
-  }
-
-	.card:hover .card-title{
-	 color: #ffffff;
-	font-weight: bold;
-	background-color: #d0021b;
-	transition: opacity 3.0s ease-in-out; /* Smooth transition for opacity */
-	}
-	
-  /* Styling for images */
-  .card img {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Ensures the image fills the card */
-    transform: translate(-50%, -50%); /* Centers the image */
-    transition: opacity 0.5s ease-in-out; /* Smooth transition for opacity */
-  }
-
-  /* Default: image opacity set to 1 */
-  .card .image1 {
-    opacity: 1; /* Fully opaque initially */
-  }
-
-  /* On hover, change opacity of the image */
-  .card:hover .image1 {
-    opacity: 0.5; /* Make the image semi-transparent on hover */
-  }
-
-  .card .image-hover {
-    opacity: 0; /* Hide the second image initially */
-  }
-
-  /* On hover, fade image 1 out and fade image 2 in */
-  .card:hover .image-hover {
-    opacity: 1; /* Show the second image */
-  }
-
-  .card:hover .image1 {
-    opacity: 0; /* Hide the first image */
-  }
-</style>
-
-<div class="card-grid">
-  <div class="card">
-		<div class="card-title">Our History</div>
-    <img class="image1" alt="Image 1" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842____Vivid_Cool.jpg">
-		<a href="/our-school/history/">
-    <img class="image-hover" alt="Image 2" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842_.jpg"></a>
-  </div>
-  <div class="card">
-    <div class="card-title">School Ethos</div>
-    <img class="image1" alt="Image 3" src="/images/School_Ethos____Vivid_Cool.jpg">
-    <a href="/our-school/school-ethos/">
-			<img class="image-hover" alt="Image 4" src="/images/School_Ethos_.jpg"></a>
-  </div>
-  <div class="card">
-    <div class="card-title">School Identity</div>
-    <img class="image1" alt="Image 5" src="/images/School_Identity____Vivid_Cool.jpg">
-    <a href="/our-school/school-identity/">
-			<img class="image-hover" alt="Image 6" src="/images/School_Identity_.jpg"></a>
-  </div>
-	 <div class="card">
-		 <div class="card-title">School Information</div>
-		 <img class="image1" alt="Image 5" src="/images/School_Information____Vivid_Cool.jpg">
-		 <a href="/school-information/">
-			 <img class="image-hover" alt="Image 6" src="/images/School_Information_.jpg"></a>
-  </div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.chongfu.moe.edu.sg/our-school/history/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our History" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our History</div><div class="isomer-card-link">https://www.chongfu.moe.edu.sg/our-school/history/</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.chongfu.moe.edu.sg/our-school/school-ethos/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Ethos" src="/images/School_Ethos____Vivid_Cool.jpg">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">School Ethos</div>
+<div class="isomer-card-link">https://www.chongfu.moe.edu.sg/our-school/school-ethos/</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.chongfu.moe.edu.sg/our-school/school-identity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="School Identity" src="/images/School_Identity____Vivid_Cool.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Identity</div><div class="isomer-card-link">https://www.chongfu.moe.edu.sg/our-school/school-identity/</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.chongfu.moe.edu.sg/school-information/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Information" src="/images/School_Information____Vivid_Cool.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">School Information</div>
+<div class="isomer-card-link">https://www.chongfu.moe.edu.sg/school-information/</div>
+</div>
+</a>
+</div>
+<p></p>
