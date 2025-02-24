@@ -114,17 +114,15 @@ nur_ziela_ramli@moe.edu.sg</a></td></tr>
     <td class="tg-yhj3">Ms Ain Syafiqa Binte Mohd Azhar<br></td></tr>
  <tr><td class="tg-yhj3">Desktop Engineer (DE)</td>
     <td class="tg-yhj3">Mr Ravinder Supparamaiam<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto: ravinder.supparamaiam@ncs.com.sg">ravinder.supparamaiam@ncs.com.sg</a></td></tr>
+</td></tr>
 <tr><td class="tg-yhj3">Desktop Engineer (DE)</td>
     <td class="tg-yhj3">Mr Yakub Hussain Mohamed Elias<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto: 
-yakub.hussain.mohamed.elias@ncs.com.sg">
-yakub.hussain.mohamed.elias@ncs.com.sg</a></td></tr>
+</td></tr>
 <tr><td class="tg-yhj3">ICT Trainer</td>
     <td class="tg-yhj3">Mdm Siti Razilah Binte Amir Khan<br></td></tr>
 <tr><td class="tg-yhj3">Operations Support Officer (OSO)</td>
     <td class="tg-yhj3">Mdm Suminah Bte Salim<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto: suminah_salim@moe.edu.sg">suminah_salim@moe.edu.sg</a></td></tr>
+</td></tr>
 <tr><td class="tg-yhj3"> Operations Support Officer (OSO)</td>
     <td class="tg-yhj3">Mr Then Yoon Fatt<br></td></tr>
 <tr><td class="tg-yhj3"> Operations Support Officer (OSO)</td>
