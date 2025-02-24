@@ -2,7 +2,7 @@ collections:
   our-school:
     output: true
     order:
-      - Get Started2.md
+      - Get Started.md
       - Our History.md
       - School Ethos.md
       - School Identity.md
