@@ -11,7 +11,7 @@ description: ""
 <div class="isomer-card-title">School Steering Committee</div>
 <div class="isomer-card-link">https://chongfu.moe.edu.sg/our-family/school-steering-committee</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/our-family/executive-administrative-staff/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Executive &amp; Administrative Staff</div><div class="isomer-card-link">https://chongfu.moe.edu.sg/our-family/executive-administrative-staff/</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.chongfu.moe.edu.sg/our-family/non-teaching-staff/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Executive &amp; Administrative Staff</div><div class="isomer-card-link">https://www.chongfu.moe.edu.sg/our-family/non-teaching-staff/</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/primary-1/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Primary 1</div>
