@@ -14,7 +14,7 @@ description: ""
 
   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 3fr)); /* Responsive grid */
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive grid */
     gap: 20px; /* Adjust gap between cards */
     width: 80%;
     max-width: 1200px;
@@ -105,7 +105,7 @@ description: ""
 
 @media (max-width: 768px) {
     .card-container {
-        grid-template-columns: repeat(3, 1fr); /* 2 columns for smaller screens */
+        grid-template-columns: repeat(2, 1fr); /* 2 columns for smaller screens */
     }
 }
 
