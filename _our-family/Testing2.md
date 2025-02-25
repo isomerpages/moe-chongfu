@@ -131,7 +131,7 @@ description: ""
 			<img class="image-hover" alt="Image 4" src="/images/Steering_Committee__resize_.png"></a>
   </div>
   <div class="card">
-    <div class="card-title">Executive &amp; Administrative Staff</div>
+    <div class="card-title">Non Teaching Staff</div>
     <img class="image1" alt="Image 5" src="/images/Executive_and_Administrative_Staff_resize_.png">
     <a href="/our-family/non-teaching-staff/">
 			<img class="image-hover" alt="Image 6" src="/images/Executive_and_Administrative_Staff_resize_.png"></a>
