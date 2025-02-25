@@ -14,11 +14,10 @@ description: ""
 
   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Responsive grid */
+    grid-template-columns: repeat(auto-fill, minmax(200px, 3fr)); /* Responsive grid */
     gap: 20px; /* Adjust gap between cards */
     width: 80%;
-	  height:50%;
-    max-width: 1000px;
+    max-width: 1300px;
     margin: 0 auto; /* Center the grid */
   }
 
@@ -53,7 +52,7 @@ description: ""
 
   /* Title positioning */
   .card .card-title {
-    font-size: 1em;
+    font-size: 1.1em;
 	  font-weight: bold;
     color: #708090;
     background-color: #F8F8F8;
