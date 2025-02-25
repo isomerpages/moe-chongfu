@@ -135,7 +135,6 @@ description: ""
     <a href="/our-family/non-teaching-staff/">
 			<img class="image-hover" alt="Image 6" src="/images/Executive_and_Administrative_Staff_resize_.png"></a>
   </div>
-	![](/images/Executive_and_Administrative_Staff_resize_.png)
 	 <div class="card">
 		 <div class="card-title">Primary 1</div>
 		 <img class="image1" alt="Image 5" src="/images/School_Information____Vivid_Cool.jpg">
