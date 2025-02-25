@@ -131,10 +131,11 @@ description: ""
   </div>
   <div class="card">
     <div class="card-title">Executive &amp; Administrative Staff</div>
-    <img class="image1" alt="Image 5" src="/images/School_Identity____Vivid_Cool.jpg">
+    <img class="image1" alt="Image 5" src="/images/Executive_and_Administrative_Staff_resize_.png">
     <a href="/our-family/non-teaching-staff/">
-			<img class="image-hover" alt="Image 6" src="/images/School_Identity_.jpg"></a>
+			<img class="image-hover" alt="Image 6" src="/images/Executive_and_Administrative_Staff_resize_.png"></a>
   </div>
+	![](/images/Executive_and_Administrative_Staff_resize_.png)
 	 <div class="card">
 		 <div class="card-title">Primary 1</div>
 		 <img class="image1" alt="Image 5" src="/images/School_Information____Vivid_Cool.jpg">
