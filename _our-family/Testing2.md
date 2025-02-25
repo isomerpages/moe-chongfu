@@ -138,8 +138,38 @@ description: ""
   </div>
 	 <div class="card">
 		 <div class="card-title">Primary 1</div>
-		 <img class="image1" alt="Image 5" src="/images/School_Information____Vivid_Cool.jpg">
+		 <img class="image1" alt="Image 5" src="/images/Primary_1_resize_.png">
 		 <a href="/primary-1/">
-			 <img class="image-hover" alt="Image 6" src="/images/School_Information_.jpg"></a>
+			 <img class="image-hover" alt="Image 6" src="/images/Primary_1_resize_.png"></a>
+  </div>
+<div class="card">
+		 <div class="card-title">Primary 2</div>
+		 <img class="image1" alt="Image 5" src="/images/Primary_2_resize_.png">
+		 <a href="/primary-2/">
+			 <img class="image-hover" alt="Image 6" src="/images/Primary_2_resize_.png"></a>
+  </div>
+<div class="card">
+		 <div class="card-title">Primary 3</div>
+		 <img class="image1" alt="Image 5" src="/images/Primary_3_resize_.png">
+		 <a href="/primary-3/">
+			 <img class="image-hover" alt="Image 6" src="/images/Primary_3_resize_.png"></a>
+  </div>
+	<div class="card">
+		 <div class="card-title">Primary 4</div>
+		 <img class="image1" alt="Image 5" src="/images/Primary_4_resize_.png">
+		 <a href="/primary-4/">
+			 <img class="image-hover" alt="Image 6" src="/images/Primary_4_resize_.png"></a>
+  </div>
+	<div class="card">
+		 <div class="card-title">Primary 5</div>
+		 <img class="image1" alt="Image 5" src="/images/Primary_5_resize_.png">
+		 <a href="/primary-5/">
+			 <img class="image-hover" alt="Image 6" src="/images/Primary_5_resize_.png"></a>
+  </div>
+<div class="card">
+		 <div class="card-title">Primary 6</div>
+		 <img class="image1" alt="Image 5" src="/images/Primary_6_resize_.png">
+		 <a href="/primary-6/">
+			 <img class="image-hover" alt="Image 6" src="/images/Primary_6_resize_.png"></a>
   </div>
 </div>
