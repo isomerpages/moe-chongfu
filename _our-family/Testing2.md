@@ -103,7 +103,7 @@ description: ""
 
 @media (max-width: 768px) {
     .card-container {
-        grid-template-columns: repeat(2, 1fr); /* 2 columns for smaller screens */
+        grid-template-columns: repeat(3, 1fr); /* 2 columns for smaller screens */
     }
 }
 
@@ -123,11 +123,10 @@ description: ""
   </div>
   <div class="card">
     <div class="card-title">School Steering Committee</div>
-    <img class="image1" alt="Image 3" src="/images/School_Ethos____Vivid_Cool.jpg">
+    <img class="image1" alt="Image 3" src="/images/Steering_Committee___Cool_Light.jpg">
     <a href="/our-school/school-ethos/">
-			<img class="image-hover" alt="Image 4" src="/images/School_Ethos_.jpg"></a>
+			<img class="image-hover" alt="Image 4" src="/images/Steering_Committee.jpg"></a>
   </div>
-	
   <div class="card">
     <div class="card-title">Executive &amp; Administrative Staff</div>
     <img class="image1" alt="Image 5" src="/images/Executive_and_Administrative_Staff___Cool_Light.jpg">
