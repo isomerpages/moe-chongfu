@@ -104,7 +104,7 @@ description: ""
 
 @media (max-width: 768px) {
     .card-container {
-        grid-template-columns: repeat(2, 1fr); /* 2 columns for smaller screens */
+        grid-template-columns: repeat(3, 1fr); /* 2 columns for smaller screens */
     }
 }
 
