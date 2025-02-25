@@ -135,7 +135,7 @@ description: ""
   </div>
 	 <div class="card">
 		 <div class="card-title">Primary 1</div>
-		 <img class="image1" alt="Image 5" src="/images/School_Information____Vivid_Cool.jpg">
+		 <img class="image1" alt="Image 5" src="/images/Primary_1____Vivid_Cool.jpg">
 		 <a href="/school-information/">
 			 <img class="image-hover" alt="Image 6" src="/images/School_Information_.jpg"></a>
   </div>
