@@ -14,17 +14,19 @@ description: ""
 
   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive grid */
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Responsive grid */
     gap: 20px; /* Adjust gap between cards */
     width: 80%;
-    max-width: 1200px;
+	  height:50%;
+    max-width: 1000px;
     margin: 0 auto; /* Center the grid */
   }
-/* Overall card styles */
+
+	/* Overall card styles */
 .card {
   position: relative;
   width: 100%;
-  padding-bottom: 75%; /* Aspect ratio for rectangular shape (adjust as needed) */
+  padding-bottom: 100%; /* Aspect ratio for rectangular shape (adjust as needed) */
   background-color: #F8F8F8;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
@@ -36,10 +38,10 @@ description: ""
 /* Styling for images */
 .card img {
   position: absolute;
-  top: 53%;
+  top: 66%;
   left: 50%;
   width: 100%; /* This ensures the image covers the full card */
-  height: 100%; 
+  height: 80%; 
   object-fit: cover; /* Ensures the image fills the card without distortion */
   transform: translate(-50%, -50%); /* Centers the image */
   transition: opacity 0.5s ease-in-out; /* Smooth transition for opacity */
