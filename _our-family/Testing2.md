@@ -130,9 +130,9 @@ description: ""
 	
   <div class="card">
     <div class="card-title">Executive &amp; Administrative Staff</div>
-    <img class="image1" alt="Image 5" src="/images/School_Identity____Vivid_Cool.jpg">
-    <a href="/our-school/school-identity/">
-			<img class="image-hover" alt="Image 6" src="/images/School_Identity_.jpg"></a>
+    <img class="image1" alt="Image 5" src="/images/Executive_and_Administrative_Staff___Cool_Light.jpg">
+    <a href="/our-family/non-teaching-staff/">
+			<img class="image-hover" alt="Image 6" src="/images/Executive_and_Administrative_Staff.jpg"></a>
   </div>
 	 <div class="card">
 		 <div class="card-title">Primary 1</div>
