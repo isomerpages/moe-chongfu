@@ -39,7 +39,7 @@ description: ""
 
   /* Title positioning */
   .card .card-title {
-    font-size: 1.5em;
+    font-size: 1em;
 	  font-weight: bold;
     color: #708090;
     background-color: #F8F8F8;
