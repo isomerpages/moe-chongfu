@@ -117,9 +117,9 @@ description: ""
 <div class="card-grid">
   <div class="card">
 		<div class="card-title">School Management Committee</div>
-    <img class="image1" alt="Image 1" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842____Vivid_Cool.jpg">
-		<a href="/our-school/history/">
-    <img class="image-hover" alt="Image 2" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842_.jpg"></a>
+    <img class="image1" alt="Image 1" src="/images/Steering_Committee___Cool_Light.jpg">
+		<a href="/our-family/school-management-committee/">
+    <img class="image-hover" alt="Image 2" src="/images/Steering_Committee.jpg"></a>
   </div>
   <div class="card">
     <div class="card-title">School Steering Committee</div>
@@ -127,6 +127,7 @@ description: ""
     <a href="/our-school/school-ethos/">
 			<img class="image-hover" alt="Image 4" src="/images/School_Ethos_.jpg"></a>
   </div>
+	
   <div class="card">
     <div class="card-title">Executive &amp; Administrative Staff</div>
     <img class="image1" alt="Image 5" src="/images/School_Identity____Vivid_Cool.jpg">
