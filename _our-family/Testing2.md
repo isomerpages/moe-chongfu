@@ -119,7 +119,7 @@ description: ""
 
 <div class="card-grid">
   <div class="card">
-		<div class="card-title">School Managment Committee</div>
+		<div class="card-title">School Management Committee</div>
     <img class="image1" alt="Image 1" src="/images/SMC_resize_.png">
 		<a href="/our-family/school-management-committee/">
     <img src="/images/SMC_resize_.png"></a>
