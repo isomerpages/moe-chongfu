@@ -126,9 +126,9 @@ description: ""
   </div>
   <div class="card">
     <div class="card-title">School Steering Committee</div>
-    <img class="image1" alt="Image 3" src="/images/School_Ethos____Vivid_Cool.jpg">
+    <img class="image1" alt="Image 3" src="/images/Steering_Committee__resize_.png">
     <a href="/our-family/school-steering-committee/">
-			<img class="image-hover" alt="Image 4" src="/images/School_Ethos_.jpg"></a>
+			<img class="image-hover" alt="Image 4" src="/images/Steering_Committee__resize_.png"></a>
   </div>
   <div class="card">
     <div class="card-title">Executive &amp; Administrative Staff</div>
