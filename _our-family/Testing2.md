@@ -14,10 +14,10 @@ description: ""
 
   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 3fr)); /* Responsive grid */
+    grid-template-columns: repeat(auto-fill, minmax(240px, 3fr)); /* Responsive grid */
     gap: 20px; /* Adjust gap between cards */
-    width: 80%;
-    max-width: 1300px;
+    width: 100%;
+    max-width: 1200px;
     margin: 0 auto; /* Center the grid */
   }
 
