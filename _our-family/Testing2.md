@@ -174,4 +174,4 @@ description: ""
   </div>
 </div>
 
-<strong>Updated on 24 February 2025</strong>
+<p style="font-size:16px"><strong>Updated on 24 February 2025</strong></p>
