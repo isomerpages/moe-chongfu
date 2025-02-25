@@ -116,7 +116,7 @@ description: ""
 
 <div class="card-grid">
   <div class="card">
-		<div class="card-title">Our History</div>
+		<div class="card-title"><a href="/our-school/history/">Our History</a></div>
     <img class="image1" alt="Image 1" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842____Vivid_Cool.jpg">
 		<a href="/our-school/history/">
     <img class="image-hover" alt="Image 2" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842_.jpg"></a>
