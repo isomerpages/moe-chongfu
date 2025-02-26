@@ -120,19 +120,19 @@ description: ""
 <div class="card-grid">
   <div class="card">
 		<div class="card-title">School Management Committee</div>
-    <img class="image1" alt="Image 1" src="/images/SMC_resize_.png">
+    <img class="image1" alt="Image 1" src="/images/SMC_resize__Cool_Light.png">
 		<a href="/our-family/school-management-committee/">
     <img src="/images/SMC_resize_.png"></a>
   </div>
   <div class="card">
     <div class="card-title">School Steering Committee</div>
-    <img class="image1" alt="Image 3" src="/images/Steering_Committee__resize_.png">
+    <img class="image1" alt="Image 3" src="/images/Steering_Committee__resize__Cool_Light.png">
     <a href="/our-family/school-steering-committee/">
 			<img class="image-hover" alt="Image 4" src="/images/Steering_Committee__resize_.png"></a>
   </div>
   <div class="card">
     <div class="card-title">Non Teaching Staff</div>
-    <img class="image1" alt="Image 5" src="/images/Executive_and_Administrative_Staff_resize_.png">
+    <img class="image1" alt="Image 5" src="/images/Executive_and_Administrative_Staff_resize__Cool_Light.png">
     <a href="/our-family/non-teaching-staff/">
 			<img class="image-hover" alt="Image 6" src="/images/Executive_and_Administrative_Staff_resize_.png"></a>
   </div>
@@ -144,34 +144,34 @@ description: ""
   </div>
 <div class="card">
 		 <div class="card-title">Primary 2</div>
-		 <img class="image1" alt="Image 5" src="/images/Primary_2_resize_.png">
+		 <img class="image1" alt="Image 5" src="/images/Primary_2_resize__Vivid_Cool.png">
 		 <a href="/primary-2/">
 			 <img class="image-hover" alt="Image 6" src="/images/Primary_2_resize_.png"></a>
   </div>
 <div class="card">
 		 <div class="card-title">Primary 3</div>
-		 <img class="image1" alt="Image 5" src="/images/Primary_3_resize_.png">
+		 <img class="image1" alt="Image 5" src="/images/Primary_3_resize__Vivid_Cool.png">
 		 <a href="/primary-3/">
 			 <img class="image-hover" alt="Image 6" src="/images/Primary_3_resize_.png"></a>
   </div>
 	<div class="card">
 		 <div class="card-title">Primary 4</div>
-		 <img class="image1" alt="Image 5" src="/images/Primary_4_resize_.png">
+		 <img class="image1" alt="Image 5" src="/images/Primary_4_resize__Vivid_Cool.png">
 		 <a href="/primary-4/">
 			 <img class="image-hover" alt="Image 6" src="/images/Primary_4_resize_.png"></a>
   </div>
 	<div class="card">
 		 <div class="card-title">Primary 5</div>
-		 <img class="image1" alt="Image 5" src="/images/Primary_5_resize_.png">
+		 <img class="image1" alt="Image 5" src="/images/Primary_5_resize__Vivid_Cool.png">
 		 <a href="/primary-5/">
 			 <img class="image-hover" alt="Image 6" src="/images/Primary_5_resize_.png"></a>
   </div>
 <div class="card">
 		 <div class="card-title">Primary 6</div>
-		 <img class="image1" alt="Image 5" src="/images/Primary_6_resize_.png">
+		 <img class="image1" alt="Image 5" src="/images/Primary_6_resize__Vivid_Cool.png">
 		 <a href="/primary-6/">
 			 <img class="image-hover" alt="Image 6" src="/images/Primary_6_resize_.png"></a>
   </div>
 </div>
 
-<p style="font-size:16px"><strong>Updated on 24 February 2025</strong></p>
+<p style="font-size:16px"><strong>Updated on 26 February 2025</strong></p>
