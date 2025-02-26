@@ -52,7 +52,7 @@ description: ""
 
   /* Title positioning */
   .card .card-title {
-    font-size: 1.1em;
+    font-size: 1.3em;
 	  font-weight: bold;
     color: #708090;
     background-color: #F8F8F8;
