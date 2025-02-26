@@ -126,9 +126,9 @@ description: ""
 <div class="card-grid">
   <div class="card">
 		<div class="card-title">School Management Committee</div>
-    <img class="image2" alt="Image 1" src="/images/SMC_resize__Cool_Light.png">
+    <img class="image1" alt="Image 1" src="/images/SMC_resize__Cool_Light.png">
 		<a href="/our-family/school-management-committee/">
-    <img src="/images/SMC_resize_.png"></a>
+    <img class="image-hover" alt="Image 2" src="/images/SMC_resize_.png"></a>
   </div>
   <div class="card">
     <div class="card-title">School Steering Committee</div>
@@ -144,39 +144,39 @@ description: ""
   </div>
 	 <div class="card">
 		 <div class="card-title">Primary 1</div>
-		 <img class="image1" alt="Image 5" src="/images/Primary_1_resize_.png">
+		 <img class="image1" alt="Image 7" src="/images/Primary_1_resize_.png">
 		 <a href="/primary-1/">
-			 <img class="image-hover" alt="Image 6" src="/images/Primary_1_resize_.png"></a>
+			 <img class="image-hover" alt="Image 8" src="/images/Primary_1_resize_.png"></a>
   </div>
 <div class="card">
 		 <div class="card-title">Primary 2</div>
-		 <img class="image1" alt="Image 5" src="/images/Primary_2_resize__Vivid_Cool.png">
+		 <img class="image1" alt="Image 9" src="/images/Primary_2_resize__Vivid_Cool.png">
 		 <a href="/primary-2/">
-			 <img class="image-hover" alt="Image 6" src="/images/Primary_2_resize_.png"></a>
+			 <img class="image-hover" alt="Image 10" src="/images/Primary_2_resize_.png"></a>
   </div>
 <div class="card">
 		 <div class="card-title">Primary 3</div>
-		 <img class="image1" alt="Image 5" src="/images/Primary_3_resize__Vivid_Cool.png">
+		 <img class="image1" alt="Image 11" src="/images/Primary_3_resize__Vivid_Cool.png">
 		 <a href="/primary-3/">
-			 <img class="image-hover" alt="Image 6" src="/images/Primary_3_resize_.png"></a>
+			 <img class="image-hover" alt="Image 12" src="/images/Primary_3_resize_.png"></a>
   </div>
 	<div class="card">
 		 <div class="card-title">Primary 4</div>
-		 <img class="image1" alt="Image 5" src="/images/Primary_4_resize__Vivid_Cool.png">
+		 <img class="image1" alt="Image 13" src="/images/Primary_4_resize__Vivid_Cool.png">
 		 <a href="/primary-4/">
-			 <img class="image-hover" alt="Image 6" src="/images/Primary_4_resize_.png"></a>
+			 <img class="image-hover" alt="Image 14" src="/images/Primary_4_resize_.png"></a>
   </div>
 	<div class="card">
 		 <div class="card-title">Primary 5</div>
-		 <img class="image1" alt="Image 5" src="/images/Primary_5_resize__Vivid_Cool.png">
+		 <img class="image1" alt="Image 15" src="/images/Primary_5_resize__Vivid_Cool.png">
 		 <a href="/primary-5/">
-			 <img class="image-hover" alt="Image 6" src="/images/Primary_5_resize_.png"></a>
+			 <img class="image-hover" alt="Image 16" src="/images/Primary_5_resize_.png"></a>
   </div>
 <div class="card">
 		 <div class="card-title">Primary 6</div>
-		 <img class="image1" alt="Image 5" src="/images/Primary_6_resize__Vivid_Cool.png">
+		 <img class="image1" alt="Image 17" src="/images/Primary_6_resize__Vivid_Cool.png">
 		 <a href="/primary-6/">
-			 <img class="image-hover" alt="Image 6" src="/images/Primary_6_resize_.png"></a>
+			 <img class="image-hover" alt="Image 18" src="/images/Primary_6_resize_.png"></a>
   </div>
 </div>
 
