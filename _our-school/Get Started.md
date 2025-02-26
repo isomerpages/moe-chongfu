@@ -135,8 +135,8 @@ description: ""
   </div>
 	 <div class="card">
 		 <div class="card-title">School Information</div>
-		 <img class="image1" alt="Image 5" src="/images/School_Information____Vivid_Cool.jpg">
+		 <img class="image1" alt="Image 5" src="/images/School_Information_resize.png">
 		 <a href="/school-information/">
-			 <img class="image-hover" alt="Image 6" src="/images/School_Information_.jpg"></a>
+			 <img class="image-hover" alt="Image 6" src="/images/School_Information_resize.png"></a>
   </div>
 </div>
