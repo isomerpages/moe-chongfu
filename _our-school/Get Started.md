@@ -39,11 +39,11 @@ description: ""
 
   /* Title positioning */
   .card .card-title {
-    font-size: 1.5em;
+    font-size: 1.4em;
 	  font-weight: bold;
     color: #708090;
     background-color: #F8F8F8;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     border-radius: 5px 5px 0 0; /* Rounded top corners */
     position: absolute;
