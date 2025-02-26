@@ -71,7 +71,7 @@ description: ""
 	  font-weight: bold;
     color: #708090;
     background-color: #F8F8F8;
-    padding: 12.5px;
+    padding: 14px;
     text-align: center;
     border-radius: 5px 5px 0 0; /* Rounded top corners */
     position: absolute;
