@@ -64,7 +64,20 @@ description: ""
     width: 100%;
     z-index: 1; /* Ensures title stays above the image */
   }
-
+  /* Title positioning */
+  .card .card-title1 {
+    font-size: 1.0em;
+	  font-weight: bold;
+    color: #708090;
+    background-color: #F8F8F8;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px 5px 0 0; /* Rounded top corners */
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1; /* Ensures title stays above the image */
+  }
 	.card:hover .card-title{
 	 color: #ffffff;
 	font-weight: bold;
@@ -72,6 +85,12 @@ description: ""
 	transition: opacity 3.0s ease-in-out; /* Smooth transition for opacity */
 	}
 	
+	.card:hover .card-title1{
+	 color: #ffffff;
+	font-weight: bold;
+	background-color: #d0021b;
+	transition: opacity 3.0s ease-in-out; /* Smooth transition for opacity */
+	}
 
   /* Default: image opacity set to 1 */
   .card .image1 {
@@ -119,8 +138,8 @@ description: ""
 
 <div class="card-grid">
   <div class="card">
-		<div class="card-title">School Management Committee</div>
-    <img class="image1" alt="Image 1" src="/images/SMC_resize__Cool_Light.png">
+		<div class="card-title1">School Management Committee</div>
+    <img class="image2" alt="Image 1" src="/images/SMC_resize__Cool_Light.png">
 		<a href="/our-family/school-management-committee/">
     <img src="/images/SMC_resize_.png"></a>
   </div>
