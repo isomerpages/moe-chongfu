@@ -14,16 +14,16 @@ description: ""
 
   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); /* Responsive grid */
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); /* Responsive grid */
     gap: 20px; /* Adjust gap between cards */
-    width: 80%;
+    width: 60%;
     max-width: 1200px;
     margin: 0 auto; /* Center the grid */
   }
 
   .card {
     position: relative;
-    width: 100%;
+    width: 90%;
     padding-bottom: 75%; /* Aspect ratio for rectangular shape (can change this) */
     background-color: #F8F8F8;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@ description: ""
 
   /* Title positioning */
   .card .card-title {
-    font-size: 1.5em;
+    font-size: 1.1em;
 	  font-weight: bold;
     color: #708090;
     background-color: #F8F8F8;
@@ -62,7 +62,7 @@ description: ""
   /* Styling for images */
   .card img {
     position: absolute;
-    top: 60%;
+    top: 66%;
     left: 50%;
     width: 100%;
     height: 100%;
