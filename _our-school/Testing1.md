@@ -62,7 +62,7 @@ description: ""
   /* Styling for images */
   .card img {
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     width: 100%;
     height: 100%;
@@ -135,8 +135,8 @@ description: ""
   </div>
 	 <div class="card">
 		 <div class="card-title">School Information</div>
-		 <img class="image1" alt="Image 5" src="/images/School_Information____Vivid_Cool.jpg">
+		 <img class="image1" alt="Image 7" src="/images/School_Information_Vivid_Cool.png">
 		 <a href="/school-information/">
-			 <img class="image-hover" alt="Image 6" src="/images/School_Information_.jpg"></a>
+			 <img class="image-hover" alt="Image 8" src="/images/School_Information.png"></a>
   </div>
 </div>
