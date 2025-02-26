@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Testing2.md
       - Learn More.md
       - School Management Committee.md
       - School Steering Committee.md
