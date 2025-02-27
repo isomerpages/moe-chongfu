@@ -93,6 +93,25 @@ description: ""
   .card:hover .image1 {
     opacity: 0; /* Hide the first image */
   }
+	
+	/* Responsive for smaller screens */
+@media (max-width: 1024px) {
+    .card-container {
+        grid-template-columns: repeat(3, 1fr); /* 3 columns for medium screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .card-container {
+        grid-template-columns: repeat(2, 1fr); /* 2 columns for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .card-container {
+        grid-template-columns: 1fr; /* 1 column for mobile screens */
+    }
+}
 </style>
 
 <div class="card-grid">
