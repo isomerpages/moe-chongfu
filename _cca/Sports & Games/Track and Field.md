@@ -1,5 +1,5 @@
 ---
-title: Athletics
+title: Track and Field
 permalink: /cca-athletics-club/
 description: ""
 third_nav_title: Sports & Games
