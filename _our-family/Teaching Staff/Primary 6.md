@@ -55,7 +55,7 @@ Mdm Koh Siew Geok	<a target="_blank" rel="noopener noreferrer nofollow" href="ma
     <td class="tg-yhj3">Mdm Chua Jennifer Joanne <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_jennifer_joanne@schools.gov.sg">[Email]</a><br>
 Mr Ng Ai Peng Jason <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_ai_peng_jason@schools.gov.sg">[Email]</a></td></tr>	
 <tr><td class="tg-yhj3">Caring</td>
-    <td class="tg-yhj3">Ms Sherlyn Ng Yee Theng <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:bg_yee_theng_sherlyn@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Ms Sherlyn Ng Yee Theng <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_yee_theng_sherlyn@schools.gov.sg">[Email]</a><br>
 Ms Zheng Yijun Elaine <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_yijun_elaine@schools.gov.sg">[Email]</a><br> </td></tr>
 <tr>
     <td class="tg-yhj3">Innovative</td>
