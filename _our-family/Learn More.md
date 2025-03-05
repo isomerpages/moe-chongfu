@@ -157,41 +157,41 @@ description: ""
 			<img class="image-hover" alt="Image 6" src="/images/Executive_and_Administrative_Staff_resize_.png"></a>
   </div>
 	 <div class="card">
-		 <div class="card-title">Primary 1</div>
+		 <div class="card-title">Primary 1 Teachers</div>
 		 <img class="image1" alt="Image 7" src="/images/Primary_1_resize_.png">
 		 <a href="/primary-1/">
 			 <img class="image-hover" alt="Image 8" src="/images/Primary_1_resize_.png"></a>
   </div>
 <div class="card">
-		 <div class="card-title">Primary 2</div>
+		 <div class="card-title">Primary 2 Teachers</div>
 		 <img class="image1" alt="Image 9" src="/images/Primary_2_resize__Vivid_Cool.png">
 		 <a href="/primary-2/">
 			 <img class="image-hover" alt="Image 10" src="/images/Primary_2_resize_.png"></a>
   </div>
 <div class="card">
-		 <div class="card-title">Primary 3</div>
+		 <div class="card-title">Primary 3 Teachers</div>
 		 <img class="image1" alt="Image 11" src="/images/Primary_3_resize__Vivid_Cool.png">
 		 <a href="/primary-3/">
 			 <img class="image-hover" alt="Image 12" src="/images/Primary_3_resize_.png"></a>
   </div>
 	<div class="card">
-		 <div class="card-title">Primary 4</div>
+		 <div class="card-title">Primary 4 Teachers</div>
 		 <img class="image1" alt="Image 13" src="/images/Primary_4_resize__Vivid_Cool.png">
 		 <a href="/primary-4/">
 			 <img class="image-hover" alt="Image 14" src="/images/Primary_4_resize_.png"></a>
   </div>
 	<div class="card">
-		 <div class="card-title">Primary 5</div>
+		 <div class="card-title">Primary 5 Teachers</div>
 		 <img class="image1" alt="Image 15" src="/images/Primary_5_resize__Vivid_Cool.png">
 		 <a href="/primary-5/">
 			 <img class="image-hover" alt="Image 16" src="/images/Primary_5_resize_.png"></a>
   </div>
 <div class="card">
-		 <div class="card-title">Primary 6</div>
+		 <div class="card-title">Primary 6 Teachers</div>
 		 <img class="image1" alt="Image 17" src="/images/Primary_6_resize__Vivid_Cool.png">
 		 <a href="/primary-6/">
 			 <img class="image-hover" alt="Image 18" src="/images/Primary_6_resize_.png"></a>
   </div>
 </div>
 
-<p style="font-size:16px"><strong>Updated on 27 February 2025</strong></p>
+<p style="font-size:16px"><strong>Updated on 5 March 2025</strong></p>
