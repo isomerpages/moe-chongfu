@@ -54,9 +54,8 @@ transform: translateX(0);
 
 <div class="slideshow-container">
 <div class="slides">
-<div class="slide"><img alt="Image 1" src="image1.jpg"></div>
-<div class="slide"><img alt="Image 2" src="image2.jpg"></div>
-<div class="slide"><img alt="Image 3" src="image3.jpg"></div>
+<div class="slide"><img alt="Image 1" src="/images/School_Information.png"></div>
+<div class="slide"><img alt="Image 2" src="/images/School_Information.png"></div>
+<div class="slide"><img alt="Image 3" src="/images/Primary_1_resize__Vivid_Cool.png"></div>
 </div>
 </div>
-
