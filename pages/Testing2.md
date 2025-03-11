@@ -107,4 +107,3 @@ opacity: 0.3;
 <label class="arrow arrow-right" for="slide2">❯</label>
 <label class="arrow arrow-right" for="slide3">❯</label>
 </div>
-
