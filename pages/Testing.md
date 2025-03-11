@@ -5,23 +5,24 @@ variant: markdown
 description: ""
 ---
 <style>
-  * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  }
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
 
- .slideshow-container {
- position: relative;
- width: 100%;
- max-width: 600px;
- margin: auto;
- overflow: hidden;
- }
+.slideshow-container {
+width: 100%;
+max-width: 600px;
+margin: auto;
+overflow: hidden;
+position: relative;
+}
 
 .slides {
 display: flex;
-transition: transform 0.5s ease-in-out;
+width: 300%; /* Total width = 100% * 3 images */
+animation: slideAnimation 9s infinite;
 }
 
 .slide {
@@ -34,53 +35,28 @@ width: 100%;
 height: auto;
 }
 
-/* Navigation arrows */
-.arrow {
-position: absolute;
-top: 50%;
-transform: translateY(-50%);
-font-size: 2em;
-color: #fff;
-background-color: rgba(0, 0, 0, 0.5);
-padding: 10px;
-border: none;
-cursor: pointer;
-z-index: 10;
-}
-
-.arrow-left {
-left: 10px;
-}
-
-.arrow-right {t
-right: 10px;
-}
-
-/* Slide transition styles */
-#slide1:target ~ .slides {
+/* Animation to shift the slides */
+@keyframes slideAnimation {
+0% {
 transform: translateX(0);
 }
-
-#slide2:target ~ .slides {
+33% {
 transform: translateX(-100%);
 }
-
-#slide3:target ~ .slides {
+66% {
 transform: translateX(-200%);
+}
+100% {
+transform: translateX(0);
+}
 }
 </style>
 
-
 <div class="slideshow-container">
-
-<a class="arrow arrow-left" href="#slide1">❮</a>
-<a class="arrow arrow-right" href="#slide2">❯</a>
-<a class="arrow arrow-right" href="#slide3">❯</a>
-
-
 <div class="slides">
-<div class="slide"><img id="slide1" alt="Image 1" src="/images/School_Information.png"></div>
-<div class="slide"><img id="slide2" alt="Image 2" src="/images/Primary_6_resize_.png"></div>
-<div class="slide"><img id="slide3" alt="Image 3" src="/images/Primary_1_resize_.png"></div>
+<div class="slide"><img alt="Image 1" src="image1.jpg"></div>
+<div class="slide"><img alt="Image 2" src="image2.jpg"></div>
+<div class="slide"><img alt="Image 3" src="image3.jpg"></div>
 </div>
 </div>
+
