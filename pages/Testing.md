@@ -22,7 +22,7 @@ position: relative;
 .slides {
 display: flex;
 width: 300%; /* Total width = 100% * 3 images */
-animation: slideAnimation 9s infinite;
+animation: slideAnimation 120s infinite;
 }
 
 .slide {
