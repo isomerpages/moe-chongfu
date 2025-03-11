@@ -95,7 +95,6 @@ opacity: 0.3;
 <input id="slide2" name="slide" type="radio">
 <input id="slide3" name="slide" type="radio">
     
- 
  <div class="slides">
  <div class="slide"><img alt="Image 1" src="/images/School_Information.png"></div>
  <div class="slide"><img alt="Image 2" src="/images/Primary_2_resize_.png"></div>
