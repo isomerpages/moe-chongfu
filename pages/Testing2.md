@@ -17,6 +17,7 @@ description: ""
   margin: auto;
   overflow: hidden;
   position: relative;
+	text-align:center;
 }
 
 .slides {
@@ -119,37 +120,36 @@ height: auto;
 <input id="slide8" name="slide" type="radio">
 <input id="slide9" name="slide" type="radio">
 <input id="slide10" name="slide" type="radio">
-
+<p></p>
 <div class="slides">
-
-<label class="slide" for="slide1">
+<label class="slide" for="slide2">
 <img alt="Image 1" src="/images/CCA%20Track%20&amp;%20Field/T_F01v.png">
 </label>
-<label class="slide" for="slide2">
+<label class="slide" for="slide3">
 <img alt="Image 2" src="/images/CCA%20Track%20&amp;%20Field/T_F02v.png">
 </label>
-<label class="slide" for="slide3">
+<label class="slide" for="slide4">
 <img alt="Image 3" src="/images/CCA%20Track%20&amp;%20Field/T_F03v.png">
 </label>
-<label class="slide" for="slide4">
+<label class="slide" for="slide5">
 <img alt="Image 4" src="/images/CCA%20Track%20&amp;%20Field/T_F04v.png">
 </label>
-<label class="slide" for="slide5">
+<label class="slide" for="slide6">
 <img alt="Image 5" src="/images/CCA%20Track%20&amp;%20Field/T_F05v.png">
 </label>
-<label class="slide" for="slide6">
+<label class="slide" for="slide7">
 <img alt="Image 6" src="/images/CCA%20Track%20&amp;%20Field/T_F06v.png">
 </label>
-<label class="slide" for="slide7">
+<label class="slide" for="slide8">
 <img alt="Image 7" src="/images/CCA%20Track%20&amp;%20Field/T_F07v.png">
 </label>
-<label class="slide" for="slide8">
+<label class="slide" for="slide9">
 <img alt="Image 8" src="/images/CCA%20Track%20&amp;%20Field/T_F08v.png">
 </label>
-<label class="slide" for="slide9">
+<label class="slide" for="slide10">
 <img alt="Image 9" src="/images/CCA%20Track%20&amp;%20Field/T_F09v.png">
 </label>
-<label class="slide" for="slide10">
+<label class="slide" for="slide1">
 <img alt="Image 10" src="/images/CCA%20Track%20&amp;%20Field/T_F10v.png">
 </label>
 </div>
