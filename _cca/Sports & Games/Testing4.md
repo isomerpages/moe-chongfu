@@ -27,12 +27,12 @@ width: 300%;
 }
 
 .slide {
-width: 100%; /* Each slide takes up 100% of the container */
+width: 300%; /* Each slide takes up 100% of the container */
 height: auto;
 }
 
 .slide img {
-width: 100%;
+width: 300%;
 height: auto;
 object-fit: cover;
 cursor: pointer; /* Make the images clickable */
