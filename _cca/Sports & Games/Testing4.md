@@ -66,7 +66,7 @@ opacity: 0.3;
 /* Mobile Devices (up to 600px) */
 @media (min-width: 600px) {
 .slide img {
-width: 100%;
+width: 60%;
 height: auto;
 }
 }
