@@ -7,105 +7,101 @@ variant: markdown
 ---
 <style>
 * {
-margin: 0;
-padding: 0;
-box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .slideshow-container {
-width: 100%;
-max-width: 700px;
-margin: auto;
-overflow: hidden;
-position: relative;
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+	text-align:center;
 }
 
 .slides {
-display: flex;
-transition: transform 0.5s ease; /* Smooth transition for sliding */
-width:950%;
+  display: flex;
+  transition: transform 0.5s ease; /* Smooth transition for sliding */
+  width: 1000%; /* Adjust this to match the number of slides */
 }
 
 .slide {
-width: 100%; /* Each slide takes up 100% of the container */
-height: auto;
+  width: 10%; /* Each slide takes up 10% of the container (for 10 slides) */
+  height: auto;
 }
 
 .slide img {
-width: 100%;
-height: auto;
-object-fit: cover;
-cursor: pointer; /* Make the images clickable */
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  cursor: pointer; /* Make the images clickable */
 }
-
 
 /* Control the slide transition when the radio buttons are selected */
 #slide1:checked ~ .slides {
-transform: translateX(0);
+  transform: translateX(0);
 }
 
 #slide2:checked ~ .slides {
-transform: translateX(-10%); /* Move to the second slide */
+  transform: translateX(-10%); /* Move to the second slide */
 }
 
 #slide3:checked ~ .slides {
-transform: translateX(-20%); /* Move to the third slide */
+  transform: translateX(-20%); /* Move to the third slide */
 }
 
 #slide4:checked ~ .slides {
-transform: translateX(-30%); /* Move to the fourth slide */
+  transform: translateX(-30%); /* Move to the fourth slide */
 }
 
 #slide5:checked ~ .slides {
-transform: translateX(-40%); /* Move to the fifth slide */
+  transform: translateX(-40%); /* Move to the fifth slide */
 }
 
 #slide6:checked ~ .slides {
-transform: translateX(-50%); /* Move to the sixth slide */
+  transform: translateX(-50%); /* Move to the sixth slide */
 }
 
 #slide7:checked ~ .slides {
 transform: translateX(-60%); /* Move to the seventh slide */
 }
-	
+
 #slide8:checked ~ .slides {
-transform: translateX(-70%); /* Move to the eighth slide */
+  transform: translateX(-70%); /* Move to the eighth slide */
 }
-	
+
 #slide9:checked ~ .slides {
-transform: translateX(-80%); /* Move to the ninth slide */
+  transform: translateX(-80%); /* Move to the ninth slide */
 }
-	
+
 #slide10:checked ~ .slides {
-transform: translateX(-90%); /* Move to the tenth slide */
+  transform: translateX(-90%); /* Move to the tenth slide */
 }
 
 /* Mobile Devices (up to 600px) */
-@media (min-width: 600px) {
-.slide img {
-width: 60%;
-height: auto;
-}
-}
-
-.slide img {
-width: 100%; /* Ensure the images take up the full container width */
-height: auto; /* Maintain aspect ratio */
-}
+@media (max-width: 600px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
 }
 
+/* Tablet devices (600px to 768px) */
 @media (max-width: 768px) {
-.slide img {
-width: 100%;
-height: auto;
-}
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
 }
 
+/* Desktop devices (769px and above) */
 @media (min-width: 769px) {
- .slide img {
- width: 80%;
- height: auto;
- }
+.slide img {
+width: 80%;
+height: auto;
+}
 }
 </style>
 
@@ -124,37 +120,37 @@ height: auto;
 <input id="slide7" name="slide" type="radio">
 <input id="slide8" name="slide" type="radio">
 <input id="slide9" name="slide" type="radio">
-<input id="slide10" name="slide" type="radio">	
-
+<input id="slide10" name="slide" type="radio">
+<p></p>
 <div class="slides">
-<label class="slide" for="slide1">
+<label class="slide" for="slide2">
 <img alt="Image 1" src="/images/CCA%20Track%20&amp;%20Field/T_F01v.png">
 </label>
-<label class="slide" for="slide2">
+<label class="slide" for="slide3">
 <img alt="Image 2" src="/images/CCA%20Track%20&amp;%20Field/T_F02v.png">
 </label>
-<label class="slide" for="slide3">
+<label class="slide" for="slide4">
 <img alt="Image 3" src="/images/CCA%20Track%20&amp;%20Field/T_F03v.png">
 </label>
-<label class="slide" for="slide4">
+<label class="slide" for="slide5">
 <img alt="Image 4" src="/images/CCA%20Track%20&amp;%20Field/T_F04v.png">
 </label>
-<label class="slide" for="slide5">
+<label class="slide" for="slide6">
 <img alt="Image 5" src="/images/CCA%20Track%20&amp;%20Field/T_F05v.png">
 </label>
-<label class="slide" for="slide6">
+<label class="slide" for="slide7">
 <img alt="Image 6" src="/images/CCA%20Track%20&amp;%20Field/T_F06v.png">
 </label>
-<label class="slide" for="slide7">
+<label class="slide" for="slide8">
 <img alt="Image 7" src="/images/CCA%20Track%20&amp;%20Field/T_F07v.png">
 </label>
-<label class="slide" for="slide8">
+<label class="slide" for="slide9">
 <img alt="Image 8" src="/images/CCA%20Track%20&amp;%20Field/T_F08v.png">
 </label>
-<label class="slide" for="slide9">
+<label class="slide" for="slide10">
 <img alt="Image 9" src="/images/CCA%20Track%20&amp;%20Field/T_F09v.png">
 </label>
-<label class="slide" for="slide10">
+<label class="slide" for="slide1">
 <img alt="Image 10" src="/images/CCA%20Track%20&amp;%20Field/T_F10v.png">
 </label>
 </div>
