@@ -63,18 +63,29 @@ pointer-events: none;
 opacity: 0.3;
 }
 	
-@media (max-width: 768px) {
+/* Mobile Devices (up to 600px) */
+@media (max-width: 600px) {
+.slideshow-container {
+width: 100%; /* Full width for mobile */
+max-width: none; /* Disable the max-width restriction for mobile */
+}
+
 .slide img {
-width: 100%;
-height: auto;
+width: 100%; /* Ensure the images take up the full container width */
+height: auto; /* Maintain aspect ratio */
 }
 }
 
-@media (min-width: 769px) {
+/* Large Screens (more than 768px) */
+@media (min-width: 768px) {
+.slideshow-container {
+width: 80%; /* Limit the slideshow width to 80% of the screen */
+max-width: 769px; /* Prevent it from growing beyond 769px */
+}
+
 .slide img {
-width: 80%;
+width: 100%; /* Images will be fully responsive */
 height: auto;
-flex:100%;
 }
 }
 </style>
