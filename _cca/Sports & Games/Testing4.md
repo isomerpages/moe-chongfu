@@ -76,17 +76,18 @@ height: auto; /* Maintain aspect ratio */
 }
 }
 
-/* Large Screens (more than 768px) */
-@media (min-width: 768px) {
-.slideshow-container {
-width: 80%; /* Limit the slideshow width to 80% of the screen */
-max-width: 769px; /* Prevent it from growing beyond 769px */
-}
-
+@media (max-width: 768px) {
 .slide img {
-width: 100%; /* Images will be fully responsive */
+width: 100%;
 height: auto;
 }
+}
+
+@media (min-width: 769px) {
+ .slide img {
+ width: 80%;
+ height: auto;
+ }
 }
 </style>
 
