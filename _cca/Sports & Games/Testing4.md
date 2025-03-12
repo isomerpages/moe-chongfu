@@ -64,7 +64,7 @@ opacity: 0.3;
 }
 	
 /* Mobile Devices (up to 600px) */
-@media (max-width: 600px) {
+@media (max-width: 1024px) {
 .slideshow-container {
 width: 100%; /* Full width for mobile */
 max-width: none; /* Disable the max-width restriction for mobile */
