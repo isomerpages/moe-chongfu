@@ -124,16 +124,16 @@ height: auto;
 <p></p>
 <div class="slides">
 <label class="slide" for="slide2">
-<img alt="Image 1" src="/images/CCA%20Track%20&amp;%20Field/T_F01v.png">
+<img alt="Image 1" src="/images/CCA%20Track%20&amp;%20Field/T_F01.jpg">
 </label>
 <label class="slide" for="slide3">
-<img alt="Image 2" src="/images/CCA%20Track%20&amp;%20Field/T_F02v.png">
+<img alt="Image 2" src="/images/CCA%20Track%20&amp;%20Field/T_F02.jpg">
 </label>
 <label class="slide" for="slide4">
-<img alt="Image 3" src="/images/CCA%20Track%20&amp;%20Field/T_F03v.png">
+<img alt="Image 3" src="/images/CCA%20Track%20&amp;%20Field/T_F03.jpg">
 </label>
 <label class="slide" for="slide5">
-<img alt="Image 4" src="/images/CCA%20Track%20&amp;%20Field/T_F04v.png">
+<img alt="Image 4" src="/images/CCA%20Track%20&amp;%20Field/T_F04.jpg">
 </label>
 <label class="slide" for="slide6">
 <img alt="Image 5" src="/images/CCA%20Track%20&amp;%20Field/T_F05v.png">
@@ -151,7 +151,7 @@ height: auto;
 <img alt="Image 9" src="/images/CCA%20Track%20&amp;%20Field/T_F09v.png">
 </label>
 <label class="slide" for="slide1">
-<img alt="Image 10" src="/images/CCA%20Track%20&amp;%20Field/T_F10v.png">
+<img alt="Image 10" src="/images/CCA%20Track%20&amp;%20Field/T_F10.jpg">
 </label>
 </div>
 </div>
