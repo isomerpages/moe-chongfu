@@ -24,11 +24,11 @@ variant: markdown
 .slides {
   display: flex;
   transition: transform 0.5s ease; /* Smooth transition for sliding */
-  width: 1000%; /* Adjust this to match the number of slides */
+  width: 1200%; /* Adjust this to match the number of slides */
 }
 
 .slide {
-  width: 10%; /* Each slide takes up 10% of the container (for 10 slides) */
+  width: 12%; /* Each slide takes up 10% of the container (for 10 slides) */
   height: auto;
 }
 
