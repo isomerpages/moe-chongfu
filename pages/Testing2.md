@@ -21,13 +21,12 @@ description: ""
 
 .slides {
   display: flex;
-  justify-content: space-evenly;
   transition: transform 0.5s ease; /* Smooth transition for sliding */
-  width: 1000%; /* Ensure all 10 slides fit in */
+  width: 1000%; /* Adjust this to match the number of slides */
 }
 
 .slide {
-  width: 10%; /* Each slide takes up 10% of the container width */
+  width: 10%; /* Each slide takes up 10% of the container (for 10 slides) */
   height: auto;
 }
 
@@ -64,7 +63,7 @@ description: ""
 }
 
 #slide7:checked ~ .slides {
-  transform: translateX(-60%); /* Move to the seventh slide */
+transform: translateX(-60%); /* Move to the seventh slide */
 }
 
 #slide8:checked ~ .slides {
@@ -81,17 +80,17 @@ description: ""
 
 /* Mobile Devices (up to 600px) */
 @media (max-width: 600px) {
-.slide img {
-width: 100%;
-height: auto;
+  .slide img {
+    width: 100%;
+    height: auto;
   }
 }
 
 /* Tablet devices (600px to 768px) */
 @media (max-width: 768px) {
-.slide img {
-width: 100%;
-height: auto;
+  .slide img {
+    width: 100%;
+    height: auto;
   }
 }
 
@@ -100,7 +99,7 @@ height: auto;
 .slide img {
 width: 80%;
 height: auto;
-  }
+}
 }
 </style>
 
@@ -109,6 +108,7 @@ height: auto;
 <p style="text-align:justify">Through intensive training and competition, students develop the values of sportsmanship, teamwork, and perseverance. These values not only shape their approach to track and field but also influence their overall mindset in life. Our goal is to instill a growth mindset, equipping students with skills that will inspire them to maintain a healthy lifestyle long after they graduate from Chongfu.</p>
 
 <div class="slideshow-container">
+
 <input checked="" id="slide1" name="slide" type="radio">
 <input id="slide2" name="slide" type="radio">
 <input id="slide3" name="slide" type="radio">
@@ -121,6 +121,7 @@ height: auto;
 <input id="slide10" name="slide" type="radio">
 
 <div class="slides">
+
 <label class="slide" for="slide1">
 <img alt="Image 1" src="/images/CCA%20Track%20&amp;%20Field/T_F01v.png">
 </label>
