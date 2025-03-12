@@ -18,6 +18,7 @@ max-width: 650px;
 margin: auto;
 overflow: hidden;
 position: relative;
+text-align:center;
 }
 
 .slides {
@@ -97,6 +98,7 @@ height: auto;
 <input checked="" id="slide1" name="slide" type="radio">
 <input id="slide2" name="slide" type="radio">
 <input id="slide3" name="slide" type="radio">
+	<p></p>
 <div class="slides">
 <label class="slide" for="slide2">
 <img alt="Image 1" src="/images/School_Information.png">
