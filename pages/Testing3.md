@@ -6,56 +6,35 @@ description: ""
 ---
 <style>
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
 }
 
 .slideshow-container {
-    width: 100%;
-    max-width: 600px;
-    margin: auto;
-    overflow: hidden;
-    position: relative;
+width: 100%;
+max-width: 600px;
+margin: auto;
+overflow: hidden;
+position: relative;
 }
 
 .slides {
-    display: flex;
-    transition: transform 0.5s ease; /* Smooth transition for sliding */
-    width: 300%; /* Total width for 3 slides */
+display: flex;
+transition: transform 0.5s ease; /* Smooth transition for sliding */
+width: 300%;
 }
 
 .slide {
-    width: 100%; /* Each slide takes up 100% of the container */
-    height: auto;
+width: 100%; /* Each slide takes up 100% of the container */
+height: auto;
 }
 
 .slide img {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-}
-
-/* Navigation arrows */
-.arrow {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 2em;
-    color: white;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 10px;
-    border: none;
-    cursor: pointer;
-    z-index: 10;
-}
-
-.arrow-left {
-    left: 10px;
-}
-
-.arrow-right {
-    right: 10px;
+width: 100%;
+height: auto;
+object-fit: cover;
+cursor: pointer; /* Make the images clickable */
 }
 
 /* Control the slide transition when the radio buttons are selected */
@@ -64,11 +43,11 @@ description: ""
 }
 
 #slide2:checked ~ .slides {
-    transform: translateX(-33%); /* Move the slides to the left */
+    transform: translateX(-33%); /* Move to the second slide */
 }
 
 #slide3:checked ~ .slides {
-    transform: translateX(-66%);
+    transform: translateX(-66%); /* Move to the third slide */
 }
 
 /* Disable left arrow when on the first slide */
@@ -99,22 +78,19 @@ description: ""
 </style>
 
 <div class="slideshow-container">
+
 <input checked="" id="slide1" name="slide" type="radio">
 <input id="slide2" name="slide" type="radio">
 <input id="slide3" name="slide" type="radio">
-
 <div class="slides">
-<div class="slide"><img alt="Image 1" src="/images/School_Information.png"></div>
-<div class="slide"><img alt="Image 2" src="/images/Primary_2_resize_.png"></div>
-<div class="slide"><img alt="Image 3" src="/images/School_Ethos_.jpg">
+<label class="slide" for="slide2">
+<img alt="Image 1" src="/images/School_Information.png">
+</label>
+<label class="slide" for="slide3">
+<img alt="Image 2" src="/images/Primary_2_resize_.png">
+</label>
+<label class="slide" for="slide1">
+<img alt="Image 3" src="/images/School_Ethos_.jpg">
+</label>
 </div>
 </div>
-
-
-<label title="Go to First Slide" class="arrow arrow-left" for="slide1">❮</label>
- 
-<label title="Go to Next Slide" class="arrow arrow-right" for="slide2">❯</label>
-
-<label title="Go to Last Slide" class="arrow arrow-right" for="slide3">❯</label>
-</div>
-
