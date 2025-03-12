@@ -13,7 +13,7 @@ box-sizing: border-box;
 
 .slideshow-container {
 width: 100%;
-max-width: 600px;
+max-width: 700px;
 margin: auto;
 overflow: hidden;
 position: relative;
