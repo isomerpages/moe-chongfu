@@ -39,55 +39,29 @@ cursor: pointer; /* Make the images clickable */
 
 /* Control the slide transition when the radio buttons are selected */
 #slide1:checked ~ .slides {
-    transform: translateX(0);
+transform: translateX(0);
 }
 
 #slide2:checked ~ .slides {
-    transform: translateX(-33%); /* Move to the second slide */
+transform: translateX(-33%); /* Move to the second slide */
 }
 
 #slide3:checked ~ .slides {
-    transform: translateX(-66%); /* Move to the third slide */
+transform: translateX(-66%); /* Move to the third slide */
 }
 
 /* Disable left arrow when on the first slide */
 #slide1:checked ~ .arrow-left {
-    pointer-events: none;
-    opacity: 0.3;
+pointer-events: none;
+opacity: 0.3;
 }
 
 /* Disable right arrow when on the last slide */
 #slide3:checked ~ .arrow-right {
-    pointer-events: none;
-    opacity: 0.3;
+pointer-events: none;
+opacity: 0.3;
 }
-/* Auto-play using @keyframes */
-@keyframes autoPlay {
-0% {
-#slide1:checked {
-display: block;
-}
-}
-33% {
-#slide2:checked {
-display: block;
-}
-}
-67% {
-#slide3:checked {
-display: block;
-}
-}
-100% {
-#slide1:checked {
-display: block;
-}
-}
-}
-
-.slideshow-container {
-animation: autoPlay 9s infinite; /* Set auto-play duration */
-}
+	
 @media (max-width: 768px) {
 .slide img {
 width: 100%;
@@ -96,10 +70,10 @@ height: auto;
 }
 
 @media (min-width: 769px) {
-    .slide img {
-        width: 80%;
-        height: auto;
-    }
+.slide img {
+width: 80%;
+height: auto;
+}
 }
 </style>
 
