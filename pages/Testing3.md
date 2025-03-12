@@ -63,36 +63,36 @@ cursor: pointer; /* Make the images clickable */
 }
 /* Auto-play using @keyframes */
 @keyframes autoPlay {
-    0% {
-        #slide1:checked {
-            display: block;
-        }
-    }
-    33% {
-        #slide2:checked {
-            display: block;
-        }
-    }
-    67% {
-        #slide3:checked {
-            display: block;
-        }
-    }
-    100% {
-        #slide1:checked {
-            display: block;
-        }
-    }
+0% {
+#slide1:checked {
+display: block;
+}
+}
+33% {
+#slide2:checked {
+display: block;
+}
+}
+67% {
+#slide3:checked {
+display: block;
+}
+}
+100% {
+#slide1:checked {
+display: block;
+}
+}
 }
 
 .slideshow-container {
-    animation: autoPlay 9s infinite; /* Set auto-play duration */
+animation: autoPlay 9s infinite; /* Set auto-play duration */
 }
 @media (max-width: 768px) {
-    .slide img {
-        width: 100%;
-        height: auto;
-    }
+.slide img {
+width: 100%;
+height: auto;
+}
 }
 
 @media (min-width: 769px) {
