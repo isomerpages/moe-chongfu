@@ -74,6 +74,7 @@ height: auto;
 .slide img {
 width: 80%;
 height: auto;
+flex:100%;
 }
 }
 </style>
