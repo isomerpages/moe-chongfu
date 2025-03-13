@@ -105,19 +105,15 @@ height: auto;
 }
 </style>
 
-<p style="text-align:justify">Art Club encourages imagination, self-expression, and exploration of various art forms. Our purpose is to provide students with an interest in art the opportunity to enjoy and experience art beyond the curriculum. Students work individually and in groups, participating in exhibitions, competitions like the Singapore Youth Festival (SYF), and more.</p>
-<p style="text-align:justify">Our Art Talent Programme (ATP), launched in 2022, develops selected students’ creativity, conceptual thinking and art skills. In ATP, students can expect:</p>
-<p style="text-align:justify">
-<span>
-</span></p><ul>
-<li>Enhanced and focused art programmes during CCA, including ceramics and another art form of their choice</li>
-<li>A balanced programme with studio practice, art criticism and museum curation</li>
-<li>Exploration of various materials, media, and creative processes</li>
-<li>Access to specialised facilities, equipment, and resources</li>
-<li>Learning from art professionals and practitioners</li>
-<li>Leadership opportunities through events, peer teaching and planning</li>
-</ul><p></p>
-<p style="text-align:justify">In Art Club, students can nurture their creativity and hone their artistic skills while stepping into leadership roles. The CCA brings together students who share a passion for art, offering a supportive space for them to grow, explore their potential and excel.</p>
+<p style="text-align:justify">Our ICT Club aims to develop students holistically by equipping them with essential digital and technological competencies for the future:</p>
+<p style="text-align:justify"><b>Introduction to New Media with Apple Technologies</b><br>
+With the support of IMDA, students utilise iPads and other Apple technologies to create innovative digital content. They learn to navigate the basics of planning, shooting, and editing video content, as well as capturing and enhancing digital photographs. Building on these skills, students then explore more advanced techniques as they delve into designing basic augmented reality (AR) experiences and creating intricate digital artwork. </p>
+<p style="text-align:justify"><b>Coding</b><br>
+Block-based coding introduces our younger learners to programming by allowing them to assign instructions through drag-and-drop blocks. This syntax-free approach encourages exploration and creativity, enabling our students to develop problem-solving skills while gaining confidence in computer science concepts.</p>
+<p style="text-align:justify"><b>3D Printing</b><br>
+3D printing turns digital designs into real objects by building them layer by layer. Our students get to learn an easy-to-use online tool, Tinkercad, to create their own 3D models. With Tinkercad and 3D printing, they can design and print toys, keychains, and more, bringing creativity to life.</p>
+<p style="text-align:justify"><b>Cultivating 21st Century Competencies</b>
+Through engaging and collaborative projects, our ICT Club also nurtures self-management, teamwork, and communication skills. Students are encouraged to think critically and creatively as they embark on the above tech-driven activities.</p>
 <div class="slideshow-container">
 
 <input checked="" id="slide1" name="slide" type="radio">
@@ -133,34 +129,34 @@ height: auto;
 <p></p>
 <div class="slides">
 <label class="slide" for="slide2">
-<img alt="Image 1" src="/images/CCA%20Art%20Club/AC_01v.jpg">
+<img alt="Image 1" src="/images/CCA%20ICT%20Club/IC_01v.jpg">
 </label>
 <label class="slide" for="slide3">
-<img alt="Image 2" src="/images/CCA%20Art%20Club/AC_02v.jpg">
+<img alt="Image 2" src="/images/CCA%20ICT%20Club/IC_02v.jpg">
 </label>
 <label class="slide" for="slide4">
-<img alt="Image 3" src="/images/CCA%20Art%20Club/AC_03v.jpg">
+<img alt="Image 3" src="/images/CCA%20ICT%20Club/IC_03v.jpg">
 </label>
 <label class="slide" for="slide5">
-<img alt="Image 4" src="/images/CCA%20Art%20Club/AC_04v.jpg">
+<img alt="Image 4" src="/images/CCA%20ICT%20Club/IC_04v.jpg">
 </label>
 <label class="slide" for="slide6">
-<img alt="Image 5" src="/images/CCA%20Art%20Club/AC_05v.jpg">
+<img alt="Image 5" src="/images/CCA%20ICT%20Club/IC_05v.jpg">
 </label>
 <label class="slide" for="slide7">
-<img alt="Image 6" src="/images/CCA%20Art%20Club/AC_06v.jpg">
+<img alt="Image 6" src="/images/CCA%20ICT%20Club/IC_06v.jpg">
 </label>
 <label class="slide" for="slide8">
-<img alt="Image 7" src="/images/CCA%20Art%20Club/AC_07v.jpg">
+<img alt="Image 7" src="/images/CCA%20ICT%20Club/IC_07v.jpg">
 </label>
 <label class="slide" for="slide9">
-<img alt="Image 8" src="/images/CCA%20Art%20Club/AC_08v.jpg">
+<img alt="Image 8" src="/images/CCA%20ICT%20Club/IC_08v.jpg">
 </label>
 <label class="slide" for="slide10">
-<img alt="Image 9" src="/images/CCA%20Art%20Club/AC_09v.jpg">
+<img alt="Image 9" src="/images/CCA%20ICT%20Club/IC_09v.jpg">
 </label>
 <label class="slide" for="slide1">
-<img alt="Image 10" src="/images/CCA%20Art%20Club/AC_10v.jpg">
+<img alt="Image 10" src="/images/CCA%20ICT%20Club/IC_10v.jpg">
 </label>
 </div>
 </div>
