@@ -60,7 +60,7 @@ body {
 </div>
 <div class="card">
 <h3><strong>Sports &amp; Games</strong></h3>
-<p><a href="/cca-athletics-club/" style="text-decoration:none">Track and Field</a><br>Football Girls (N2 Cluster)<br><a href="/cca-floorball/" style="text-decoration:none">Floorball</a><br><a href="/cca-fun-and-fitness/" style="text-decoration:none">Health and Fitness</a><br><a href="/cca-table-tennis/" style="text-decoration:none">Table Tennis</a><br><a href="/cca-wushu/" style="text-decoration:none">Wushu</a></p>
+<p><a href="/cca-athletics-club/" style="text-decoration:none">Track and Field</a><br><a href="/football-girls-n2-cluster/" style="text-decoration:none">Football Girls (N2 Cluster)</a><br><a href="/cca-floorball/" style="text-decoration:none">Floorball</a><br><a href="/cca-fun-and-fitness/" style="text-decoration:none">Health and Fitness</a><br><a href="/cca-table-tennis/" style="text-decoration:none">Table Tennis</a><br><a href="/cca-wushu/" style="text-decoration:none">Wushu</a></p>
 </div>
 <div class="card">
 <h3><strong>Uniformed Groups</strong></h3>
