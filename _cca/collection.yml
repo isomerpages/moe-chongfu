@@ -2,22 +2,18 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Brownies.md
-      - Uniformed Groups/Red Cross.md
-      - Uniformed Groups/Scouts.md
-      - Performing Arts/.keep
-      - Performing Arts/Guzheng Ensemble.md
-      - Performing Arts/Festive Drums.md
-      - Performing Arts/Chinese Orchestra.md
-      - Performing Arts/Modern Contemporary Dance.md
-      - Performing Arts/Malay Dance.md
       - Clubs and Society/.keep
       - Clubs and Society/English Club.md
       - Clubs and Society/Chinese Club.md
       - Clubs and Society/ICT Club.md
       - Clubs and Society/Art Club.md
       - Clubs and Society/Environmental Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Festive Drums.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Modern Contemporary Dance.md
+      - Performing Arts/Malay Dance.md
       - Sports & Games/.keep
       - Sports & Games/Floorball.md
       - Sports & Games/Football Girls (N2 Cluster).md
@@ -25,3 +21,7 @@ collections:
       - Sports & Games/Table Tennis.md
       - Sports & Games/Track and Field.md
       - Sports & Games/Wushu.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/Scouts.md
