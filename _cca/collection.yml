@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Clubs and Society/.keep
-      - Clubs and Society/English Club.md
-      - Clubs and Society/Chinese Club.md
-      - Clubs and Society/ICT Club.md
       - Clubs and Society/Art Club.md
+      - Clubs and Society/Chinese Club.md
+      - Clubs and Society/English Club.md
       - Clubs and Society/Environmental Club.md
+      - Clubs and Society/ICT Club.md
       - Performing Arts/.keep
       - Performing Arts/Guzheng Ensemble.md
       - Performing Arts/Festive Drums.md
