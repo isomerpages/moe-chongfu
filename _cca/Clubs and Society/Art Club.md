@@ -5,287 +5,162 @@ description: ""
 third_nav_title: Clubs and Society
 variant: markdown
 ---
-<p>The Art Club aims&nbsp;to encourage imagination, provide opportunities
-and encouragement to express oneself freely through play and exploration
-of various crafts and medium. The purpose of art club is&nbsp;to provide
-students who have an interest in art, an opportunity to Enjoy and Experience
-art and craft forms beyond what is offered in the curriculum. It gives
-students the opportunity to work individually and in groups through the
-various making art programmes.</p>
-<p>Here, students are also exposed to exhibitions, art competitions such
-as the Singapore Youth Festival (SYF) and many more where they can Excel
-in the respective craft that they are good at. We have a good track record
-for SYF in all three categories.</p>
-<p>The Art Talent Programme (ATP) curriculum that was launched in 2022 aims
-to develop selected students in their creativity, conceptual thinking and
-art skills, and thereby develop them as artists and leaders in art. ATP
-students can expect:</p>
-<ul>
-<li>
-<p>An enhanced and focused Art programme during their CCA. (Ceramics and
-1 other art form based on interest)</p>
-</li>
-<li>
-<p>A balanced and deeper programme comprising both studio practice, art criticism
-components and museum curation.</p>
-</li>
-<li>
-<p>Exploring and engaging a range of materials, media and creative processes.</p>
-</li>
-<li>
-<p>Access to specialised studio facilities (eg museum, kilns, etc), equipment
-and resources.</p>
-</li>
-<li>
-<p>Learning from art industry professionals and skilled practitioners.</p>
-</li>
-<li>
-<p>Opportunities to apply their leadership skills through, CCA open houses,
-planning, curation and presentation of artworks.
-<br>Some will also carry out peer teaching for the modules taught.</p>
-</li>
-</ul>
-<p><strong>Teachers In Charge: </strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Laila Binte Othman <strong>(I/C)</strong>
-</p>
-</li>
-<li>
-<p>Ms S Sunitha Pillay <strong>(2I/C)</strong>
-</p>
-</li>
-<li>
-<p>Mdm Noraini Binte Amin</p>
-</li>
-<li>
-<p>Ms Ng Ying Hui</p>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.slideshow-container {
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+	text-align:center;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease; /* Smooth transition for sliding */
+  width: 1000%; /* Adjust this to match the number of slides */
+}
+
+.slide {
+  width: 10%; /* Each slide takes up 10% of the container (for 10 slides) */
+  height: auto;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  cursor: pointer; /* Make the images clickable */
+}
+
+/* Control the slide transition when the radio buttons are selected */
+#slide1:checked ~ .slides {
+  transform: translateX(0);
+}
+
+#slide2:checked ~ .slides {
+  transform: translateX(-10%); /* Move to the second slide */
+}
+
+#slide3:checked ~ .slides {
+  transform: translateX(-20%); /* Move to the third slide */
+}
+
+#slide4:checked ~ .slides {
+  transform: translateX(-30%); /* Move to the fourth slide */
+}
+
+#slide5:checked ~ .slides {
+  transform: translateX(-40%); /* Move to the fifth slide */
+}
+
+#slide6:checked ~ .slides {
+  transform: translateX(-50%); /* Move to the sixth slide */
+}
+
+#slide7:checked ~ .slides {
+transform: translateX(-60%); /* Move to the seventh slide */
+}
+
+#slide8:checked ~ .slides {
+  transform: translateX(-70%); /* Move to the eighth slide */
+}
+
+#slide9:checked ~ .slides {
+  transform: translateX(-80%); /* Move to the ninth slide */
+}
+
+#slide10:checked ~ .slides {
+  transform: translateX(-90%); /* Move to the tenth slide */
+}
+
+/* Mobile Devices (up to 600px) */
+@media (max-width: 600px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Tablet devices (600px to 768px) */
+@media (max-width: 768px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Desktop devices (769px and above) */
+@media (min-width: 769px) {
+.slide img {
+width: 80%;
+height: auto;
+}
+}
+</style>
+
+<p style="text-align:justify">Art Club encourages imagination, self-expression, and exploration of various art forms. Our purpose is to provide students with an interest in art the opportunity to enjoy and experience art beyond the curriculum. Students work individually and in groups, participating in exhibitions, competitions like the Singapore Youth Festival (SYF), and more.</p>
+<p style="text-align:justify">Our Art Talent Programme (ATP), launched in 2022, develops selected students’ creativity, conceptual thinking and art skills. In ATP, students can expect:</p>
+<p style="text-align:justify">
+<span>
+</span></p><ul>
+<li>Enhanced and focused art programmes during CCA, including ceramics and another art form of their choice</li>
+<li>A balanced programme with studio practice, art criticism and museum curation</li>
+<li>Exploration of various materials, media, and creative processes</li>
+<li>Access to specialised facilities, equipment, and resources</li>
+<li>Learning from art professionals and practitioners</li>
+<li>Leadership opportunities through events, peer teaching and planning</li>
+</ul><p></p>
+<p style="text-align:justify">In Art Club, students can nurture their creativity and hone their artistic skills while stepping into leadership roles. The CCA brings together students who share a passion for art, offering a supportive space for them to grow, explore their potential and excel.</p>
+<div class="slideshow-container">
+
+<input checked="" id="slide1" name="slide" type="radio">
+<input id="slide2" name="slide" type="radio">
+<input id="slide3" name="slide" type="radio">
+<input id="slide4" name="slide" type="radio">
+<input id="slide5" name="slide" type="radio">
+<input id="slide6" name="slide" type="radio">
+<input id="slide7" name="slide" type="radio">
+<input id="slide8" name="slide" type="radio">
+<input id="slide9" name="slide" type="radio">
+<input id="slide10" name="slide" type="radio">
 <p></p>
-</li>
-</ul>
-<p><strong>CCA Day &amp; Venue:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesdays, 1.45pm – 3.45pm | Art Rooms</p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures31a.jpg">
+<div class="slides">
+<label class="slide" for="slide2">
+<img alt="Image 1" src="/images/CCA%20Track%20&amp;%20Field/T_F01.jpg">
+</label>
+<label class="slide" for="slide3">
+<img alt="Image 2" src="/images/CCA%20Track%20&amp;%20Field/T_F02.jpg">
+</label>
+<label class="slide" for="slide4">
+<img alt="Image 3" src="/images/CCA%20Track%20&amp;%20Field/T_F03.jpg">
+</label>
+<label class="slide" for="slide5">
+<img alt="Image 4" src="/images/CCA%20Track%20&amp;%20Field/T_F04.jpg">
+</label>
+<label class="slide" for="slide6">
+<img alt="Image 5" src="/images/CCA%20Track%20&amp;%20Field/T_F05v.png">
+</label>
+<label class="slide" for="slide7">
+<img alt="Image 6" src="/images/CCA%20Track%20&amp;%20Field/T_F06v.png">
+</label>
+<label class="slide" for="slide8">
+<img alt="Image 7" src="/images/CCA%20Track%20&amp;%20Field/T_F07v.png">
+</label>
+<label class="slide" for="slide9">
+<img alt="Image 8" src="/images/CCA%20Track%20&amp;%20Field/T_F08v.png">
+</label>
+<label class="slide" for="slide10">
+<img alt="Image 9" src="/images/CCA%20Track%20&amp;%20Field/T_F09v.png">
+</label>
+<label class="slide" for="slide1">
+<img alt="Image 10" src="/images/CCA%20Track%20&amp;%20Field/T_F10.jpg">
+</label>
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures1.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures21.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures6.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures7.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures8.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures9.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures10.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures11.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures12.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures13.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures14.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures15.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures16.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures17.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures18.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures19.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures20.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures22.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures23.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures24.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures25.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures26.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures27.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures28.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures29.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures30.jpg">
-</div>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures32_metalworks.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures33_metalworks.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures34_metalworks.jpeg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures35_cny.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures36_cny.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures37_cny.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures38_cny.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures39_cny.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures40_cny.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures41_cny.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures42_cny.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures43_cny.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures44_cny.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures45_cny.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 32.3%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art_cca_2023_pictures46_cny.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/Stitched-Art-1-1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/ArtClub_Picture1-1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/Batik-1-1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/ArtClub_Picture2-1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/ArtClub_Picture3-1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art%20club%202.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/art%20club%203.jpg">
-</div>
-<p></p>
-<p></p>
