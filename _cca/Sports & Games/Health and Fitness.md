@@ -105,9 +105,9 @@ height: auto;
 }
 </style>
 
-<p style="text-align:justify">Our Track &amp; Field CCA aims to equip students with essential skills in running, jumping, and throwing, while promoting overall physical development. Through structured training, students gain proficiency in these fundamental athletic techniques, building confidence in their abilities.</p>
-<p style="text-align:justify">In addition to regular training, select students are given the chance to participate in inter-school competitions, expanding their experiences and fostering a mindset focused on excellence and achievement. Track &amp; Field demands both mental and physical fitness, teaching students to challenge their limits and cultivate resilience.</p>
-<p style="text-align:justify">Through intensive training and competition, students develop the values of sportsmanship, teamwork, and perseverance. These values not only shape their approach to track and field but also influence their overall mindset in life. Our goal is to instill a growth mindset, equipping students with skills that will inspire them to maintain a healthy lifestyle long after they graduate from Chongfu.</p>
+<p style="text-align:justify">Our Health &amp; Fitness CCA at Chongfu School offers students a unique opportunity to explore a wide range of sports while developing key life skills. Activities such as taekwondo, tchoukball, rollerblading and rope skipping are just some of the ways we help students discover their interests and talents. Through these activities, students cultivate passion, leadership, teamwork, and a spirit of service to their peers.</p>
+<p style="text-align:justify">Our goal is to inspire students to develop a lifelong love for a particular sport and to lead a balanced, healthy lifestyle into adulthood. In addition to physical activities, students have the chance to research and learn about important health topics like myopia and healthy eating. These insights are shared with the school community through assemblies and recess engagements, offering students authentic opportunities to apply values, social-emotional skills, and 21st Century Competencies (E21CC).</p>
+<p style="text-align:justify">Health &amp; Fitness also fosters social interaction, providing a common space for students from diverse backgrounds to form friendships and feel a sense of belonging to the school. Through these experiences, we aim to help students build their identity and develop a strong connection with the school community.</p>
 
 <div class="slideshow-container">
 
