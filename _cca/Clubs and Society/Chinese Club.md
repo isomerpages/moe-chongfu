@@ -109,7 +109,6 @@ height: auto;
 <p style="text-align:justify">Through creative projects, performances, and cultural activities, students develop values like innovation, unity, and sincerity. They also build confidence by showcasing their skills and connecting with others. The club promotes teamwork, respect for Chinese traditions, and collaboration among students from diverse backgrounds. </p>
 <p style="text-align:justify">At its core, Chinese Club focuses on cultivating perseverance, commitment, and effective communication. It creates memorable experiences that enrich students’ understanding of both the Chinese language and culture, while reinforcing our school’s core values.</p>
 <p style="text-align:justify">Past programmes/ activities conducted include:</p>
-<span style="text-align:justify">
 <ul>
 <li>Speech &amp; Drama (戏剧表演)</li>
 <li>Puppet Making (布偶制作)</li>
@@ -123,7 +122,7 @@ height: auto;
 <li>Bean Art workshop (豆画)</li>
 <li>Weiqi (围棋)</li>
 <li>Chinese Calligraphy (书法)</li>
-</ul></span>
+</ul>
 
 <div class="slideshow-container">
 
