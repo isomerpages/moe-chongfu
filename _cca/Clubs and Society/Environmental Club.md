@@ -117,7 +117,6 @@ height: auto;
 <input id="slide7" name="slide" type="radio">
 <input id="slide8" name="slide" type="radio">
 <input id="slide9" name="slide" type="radio">
-<input id="slide10" name="slide" type="radio">
 <p></p>
 <div class="slides">
 <label class="slide" for="slide2">
