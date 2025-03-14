@@ -5,106 +5,162 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<p style="text-align:justify">Chongfu Red Cross unit was started in 2009, it brings out the best of our students and provide valuable exposure.</p>
-<p style="text-align:justify">Our weekly CCA activities comprises of the following badge programme:</p>
-<p><strong>Core Subjects</strong></p>
-<ol>
-	<li><p>Basic First Aid</p></li>
-	<li><p>Basic Red Cross Knowledge</p></li>
-	<li><p>Youth Ambassador Blood Programme</p></li>
-	<li><p>Red Cross Service</p></li>
-</ol>
-<p><strong>UG Fundamental Subjects</strong></p>
-<ol>
-	<li><p>Basic Foot Drill</p></li>
-	<li><p>Basic Outdoor Activities</p></li>
-	<li><p>Basic Disaster Management</p></li>
-</ol>
-<p><strong>Enrichment Subjects</strong></p>
-<ol data-tight="true" class="tight">
-	<li><p>Environment Education</p></li>
-	<li><p>Health Education</p></li>
-</ol>
-<p style="text-align:justify">Red Cross Youth organises a variety of programmes and activities every year to nurture compassionate leaders for humanity.</p>
-<p>Here are some programmes we take part in:</p>
-<ul data-tight="true" class="tight">
-	<li><p><strong>Linkamania</strong>&nbsp;is an annual camp for Red Cross Youth Links (primary school units) in Singapore.</p></li>
-	<li><p>An annual event to raise the awareness of the importance and relevance of first aid among youths, the&nbsp;<strong>National First Aid Competition</strong>&nbsp;is an exciting time where Red Cross Links hone their first aid skills. Chongfu Red Cross unit achieved the Gold Award in the 2022 competition!</p></li><li><p><strong>The World Red Cross Day</strong>&nbsp;commemorates the birth anniversary of the founder of the Red Cross and the International Committee of the Red Cross (ICRC) Henry Dunant.</p></li>
-	<li><p><strong>Singapore Red Cross Annual Fundraising Event - Grateful Hearts</strong>&nbsp;is our annual event when students come together for lifesaving efforts!</p></li>
-</ul>
-<p><strong>Teachers In Charge:</strong></p>
-<ul data-tight="true" class="tight">
-	<li><p>Mdm Chiang Yu Rong <strong>(I/C)</strong></p></li>
-	<li><p>Mdm Chow Yin</p></li>
-	<li><p>Mdm Ho Ser Hui</p></li>
-	<li><p>Ms Srinidta Gobinathan</p></li>
-</ul>
-<p><strong>CCA Day &amp; Venue:</strong></p>
-<ul data-tight="true" class="tight">
-	<li><p>Fridays, 1.45pm – 3.45pm <br>Seminar room / Teaching Lab</p></li>
-</ul>
-<div class="isomer-image-wrapper">
-	<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/redcross_cca_2023_picture13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-	<img style="float: left; width: 49%; margin-right: 2%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/redcross_cca_2023_picture4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-	<img style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/redcross_cca_2023_picture5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-	<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/redcross_cca_2023_picture16.jpg">
-</div>
-<div class="isomer-image-wrapper">
-	<img style="float: left; width: 55%; margin-right: 2%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/redcross_cca_2023_picture10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-	<img style="float: left; width: 41%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/redcross_cca_2023_picture11.jpg">
-</div>
-<div class="isomer-image-wrapper">
-	<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/redcross_cca_2023_picture3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-	<img style="float: left; width: 48%; margin-right: 2%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/redcross_cca_2023_picture2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-	<img style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/redcross_cca_2023_picture14.jpg">
-</div>
-<div class="isomer-image-wrapper">
-	<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/redcross_cca_2023_picture8.JPG">
-</div>
-<div class="isomer-image-wrapper">
-	<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/redcross_cca_2023_picture1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/red%20cross%201.png">
-</div>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.slideshow-container {
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+	text-align:center;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease; /* Smooth transition for sliding */
+  width: 1000%; /* Adjust this to match the number of slides */
+}
+
+.slide {
+  width: 10%; /* Each slide takes up 10% of the container (for 10 slides) */
+  height: auto;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  cursor: pointer; /* Make the images clickable */
+}
+
+/* Control the slide transition when the radio buttons are selected */
+#slide1:checked ~ .slides {
+  transform: translateX(0);
+}
+
+#slide2:checked ~ .slides {
+  transform: translateX(-10%); /* Move to the second slide */
+}
+
+#slide3:checked ~ .slides {
+  transform: translateX(-20%); /* Move to the third slide */
+}
+
+#slide4:checked ~ .slides {
+  transform: translateX(-30%); /* Move to the fourth slide */
+}
+
+#slide5:checked ~ .slides {
+  transform: translateX(-40%); /* Move to the fifth slide */
+}
+
+#slide6:checked ~ .slides {
+  transform: translateX(-50%); /* Move to the sixth slide */
+}
+
+#slide7:checked ~ .slides {
+transform: translateX(-60%); /* Move to the seventh slide */
+}
+
+#slide8:checked ~ .slides {
+  transform: translateX(-70%); /* Move to the eighth slide */
+}
+
+#slide9:checked ~ .slides {
+  transform: translateX(-80%); /* Move to the ninth slide */
+}
+
+#slide10:checked ~ .slides {
+  transform: translateX(-90%); /* Move to the tenth slide */
+}
+
+/* Mobile Devices (up to 600px) */
+@media (max-width: 600px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Tablet devices (600px to 768px) */
+@media (max-width: 768px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Desktop devices (769px and above) */
+@media (min-width: 769px) {
+.slide img {
+width: 80%;
+height: auto;
+}
+}
+</style>
+
+<p style="text-align:justify">Our Red Cross unit was established in 2009 with the goal of shaping future-ready leaders for humanity. </p>
+<p style="text-align:justify">Through our Red Cross programme, we strive to bring out the best in our students, offering them valuable experiences beyond the traditional school curriculum:</p>
+<p style="text-align:justify">Our students gain important lessons in serving vulnerable individuals within both local and global communities. By incorporating core subjects, we foster a spirit of care for others, connecting students’ knowledge from a local perspective to a broader global understanding.</p>
+<p style="text-align:justify">Each year, Red Cross Youth also organises a variety of programmes and activities designed to cultivate compassionate leaders for humanity:
+</p><ul>
+<li>World Red Cross Day</li>
+<li>Linkamania</li>
+<li>Grateful Hearts</li>
+<li>National First Aid Competition</li>
+<li>Blood Ambassadors Competition (ABC) </li>
+<li>Disaster Risk Management Competition (DRRC)</li>
 <p></p>
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/red%20cross%202.png">
-</div>
+
+<div class="slideshow-container">
+
+<input checked="" id="slide1" name="slide" type="radio">
+<input id="slide2" name="slide" type="radio">
+<input id="slide3" name="slide" type="radio">
+<input id="slide4" name="slide" type="radio">
+<input id="slide5" name="slide" type="radio">
+<input id="slide6" name="slide" type="radio">
+<input id="slide7" name="slide" type="radio">
+<input id="slide8" name="slide" type="radio">
+<input id="slide9" name="slide" type="radio">
+<input id="slide10" name="slide" type="radio">
 <p></p>
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/red%20cross%203.png">
+<div class="slides">
+<label class="slide" for="slide2">
+<img alt="Image 1" src="/images/CCA%20Red%20Cross/RC_01v.jpg">
+</label>
+<label class="slide" for="slide3">
+<img alt="Image 2" src="/images/CCA%20Red%20Cross/RC_02v.jpg">
+</label>
+<label class="slide" for="slide4">
+<img alt="Image 3" src="/images/CCA%20Red%20Cross/RC_03v.jpg">
+</label>
+<label class="slide" for="slide5">
+<img alt="Image 4" src="/images/CCA%20Red%20Cross/RC_04v.jpg">
+</label>
+<label class="slide" for="slide6">
+<img alt="Image 5" src="/images/CCA%20Red%20Cross/RC_05v.jpg">
+</label>
+<label class="slide" for="slide7">
+<img alt="Image 6" src="/images/CCA%20Red%20Cross/RC_06v.jpg">
+</label>
+<label class="slide" for="slide8">
+<img alt="Image 7" src="/images/CCA%20Red%20Cross/RC_07v.jpg">
+</label>
+<label class="slide" for="slide9">
+<img alt="Image 8" src="/images/CCA%20Red%20Cross/RC_08v.jpg">
+</label>
+<label class="slide" for="slide10">
+<img alt="Image 9" src="/images/CCA%20Red%20Cross/RC_09v.jpg">
+</label>
+<label class="slide" for="slide1">
+<img alt="Image 10" src="/images/CCA%20Red%20Cross/RC_10v.jpg">
+</label>
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RedCross_Picture9-rotated.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3263-2048x1152.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3265-scaled.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3272-2048x1536.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3286_A-2048x1186.jpg">
-</div>
-<p></p>
+</div></ul>
