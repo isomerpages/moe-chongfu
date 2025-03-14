@@ -5,71 +5,147 @@ description: ""
 third_nav_title: Clubs and Society
 variant: markdown
 ---
-<p style="text-align:justify">The Environment Club aims to bring about heightened awareness within the school, of environmental issues. This is achieved through empowering and
-developing our members to be activists, ambassadors and advocates for conservation
-and for protecting the environment. As a club, we often carry out upcycling
-of used items, gardening activities and have brainstorming sessions to
-solve current environmental problems and prevent new ones. The insights
-gained during CCA sessions often inspire change in the school’s environmental
-measures. The club also manages large-scale recycling in school-wide events
-and leads in the commemoration of events such as the World Earth Day. Our
-members also participated in various environment-related competitions and
-workshops.</p>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-<p style="text-align:justify">In recognition of our school’s efforts in promoting environmental awareness within and beyond our school community, we were awarded the prestigious
-Vanda Miss Joaquim Sustained Achievement Award, the pinnacle award under
-the SEC-Starhub School Green Awards as well as the North-West Outstanding
-School Partner Silver Award in 2021.</p>
-<p><strong>Teachers In Charge:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Sherlyn Ng Yee Theng <strong>(I/C)</strong>
-</p>
-</li>
-<li>
-<p>Mdm Aini Bte Bujang</p>
-</li>
-<li>
-<p>Ms Tricia Lim Xiu Xuan</p>
-</li>
-</ul>
-<p><strong>CCA Day &amp; Venue:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Fridays, 1.45pm – 3.45pm | Science Labs (Level 2 OB)</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/envrclubcca_2023_picture1.JPEG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/envrclubcca_2023_picture3.JPEG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/envrclubcca_2023_picture4.JPEG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/envrclubcca_2023_picture5.JPEG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/envrclubcca_2023_picture6.JPEG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/envrclubcca_2023_picture2.jpg">
-</div>
-<p><strong><em>Members of the Environmental Club in active participation at the 'Waterways Clean Up Programme' held at the Yishun Pond on 10 March 2023. Students had the opportunity to observe and learn about the impacts of litter on our waters and wildlife, and how our actions can contribute to keeping our waterways clean and safe for all.</em></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental%20club%201.png">
-</div>
+.slideshow-container {
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+	text-align:center;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease; /* Smooth transition for sliding */
+  width: 1000%; /* Adjust this to match the number of slides */
+}
+
+.slide {
+  width: 10%; /* Each slide takes up 10% of the container (for 10 slides) */
+  height: auto;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  cursor: pointer; /* Make the images clickable */
+}
+
+/* Control the slide transition when the radio buttons are selected */
+#slide1:checked ~ .slides {
+  transform: translateX(0);
+}
+
+#slide2:checked ~ .slides {
+  transform: translateX(-10%); /* Move to the second slide */
+}
+
+#slide3:checked ~ .slides {
+  transform: translateX(-20%); /* Move to the third slide */
+}
+
+#slide4:checked ~ .slides {
+  transform: translateX(-30%); /* Move to the fourth slide */
+}
+
+#slide5:checked ~ .slides {
+  transform: translateX(-40%); /* Move to the fifth slide */
+}
+
+#slide6:checked ~ .slides {
+  transform: translateX(-50%); /* Move to the sixth slide */
+}
+
+#slide7:checked ~ .slides {
+transform: translateX(-60%); /* Move to the seventh slide */
+}
+
+#slide8:checked ~ .slides {
+  transform: translateX(-70%); /* Move to the eighth slide */
+}
+
+#slide9:checked ~ .slides {
+  transform: translateX(-80%); /* Move to the ninth slide */
+}
+
+/* Mobile Devices (up to 600px) */
+@media (max-width: 600px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Tablet devices (600px to 768px) */
+@media (max-width: 768px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Desktop devices (769px and above) */
+@media (min-width: 769px) {
+.slide img {
+width: 80%;
+height: auto;
+}
+}
+</style>
+
+<p style="text-align:justify">Our Environmental Club CCA strives to raise awareness of environmental issues within the school by empowering and developing our members into activists, ambassadors, and advocates for conservation and environmental protection.</p>
+<p style="text-align:justify">Our club engages in various activities such as upcycling used items, gardening, and brainstorming solutions to tackle current environmental challenges and prevent future ones. Insights gained during CCA sessions often inspire improvements in the school's environmental initiatives. In addition, we oversee large-scale recycling efforts during school-wide events and take the lead in commemorating important occasions like World Earth Day. Our members actively participate in activities such as cleaning Yishun Pond and promoting energy conservation to neighbouring residents. They also take part in various environment-related competitions and workshops.</p>
+<p style="text-align:justify">In recognition of our school’s commitment to environmental awareness both within and beyond our community, we were honored with the prestigious Vanda Miss Joaquim Sustained Achievement Award, the highest accolade under the SEC-StarHub School Green Awards, as well as the NorthWest Outstanding School Partner Silver Award in 2024.</p>
+
+
+<div class="slideshow-container">
+
+<input checked="" id="slide1" name="slide" type="radio">
+<input id="slide2" name="slide" type="radio">
+<input id="slide3" name="slide" type="radio">
+<input id="slide4" name="slide" type="radio">
+<input id="slide5" name="slide" type="radio">
+<input id="slide6" name="slide" type="radio">
+<input id="slide7" name="slide" type="radio">
+<input id="slide8" name="slide" type="radio">
+<input id="slide9" name="slide" type="radio">
+<input id="slide10" name="slide" type="radio">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental%20club%202.png">
+<div class="slides">
+<label class="slide" for="slide2">
+<img alt="Image 1" src="/images/CCA%20Environmental%20Club/ENVC_01v.jpg">
+</label>
+<label class="slide" for="slide3">
+<img alt="Image 2" src="/images/CCA%20Environmental%20Club/ENVC_02v.jpg">
+</label>
+<label class="slide" for="slide4">
+<img alt="Image 3" src="/images/CCA%20Environmental%20Club/ENVC_03v.jpg">
+</label>
+<label class="slide" for="slide5">
+<img alt="Image 4" src="/images/CCA%20Environmental%20Club/ENVC_04v.jpg">
+</label>
+<label class="slide" for="slide6">
+<img alt="Image 5" src="/images/CCA%20Environmental%20Club/ENVC_05v.jpg">
+</label>
+<label class="slide" for="slide7">
+<img alt="Image 6" src="/images/CCA%20Environmental%20Club/ENVC_06v.jpg">
+</label>
+<label class="slide" for="slide8">
+<img alt="Image 7" src="/images/CCA%20Environmental%20Club/ENVC_07v.jpg">
+</label>
+<label class="slide" for="slide9">
+<img alt="Image 8" src="/images/CCA%20Environmental%20Club/ENVC_08v.jpg">
+</label>
+<label class="slide" for="slide1">
+<img alt="Image 9" src="/images/CCA%20Environmental%20Club/ENVC_09v.jpg">
+</label>
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental%20club%203.png">
 </div>
-<p></p>
