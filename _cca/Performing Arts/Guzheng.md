@@ -5,99 +5,153 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<p style="text-align:justify">The guzheng is a popular traditional Chinese instrument. The junior members meet on Tuesdays while the seniors attend sessions on Fridays. They learn
-a repertoire of songs and various techniques under the guidance of an instructor.
-The members learn what a performance entails – the movements, stage directions
-and help in the setting up of the equipment.</p>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-<p style="text-align:justify">Senior members help junior members improve their skills by encouraging and coaching them, motivating them to work together to put up outstanding
-performances. The strong team spirit demonstrated has enabled the ensemble
-to achieve Distinction in the SYF Arts Presentation since 2016. The ensemble
-was invited to perform at the Istana in 2019 for their Hari Raya Open House.</p>
+.slideshow-container {
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+	text-align:center;
+}
 
-<p style="text-align:justify">Opportunities such as promoting and marketing the CCA to the P2s during CCA Open House are provided for senior members to hone their leadership
-skills as well.</p>
+.slides {
+  display: flex;
+  transition: transform 0.5s ease; /* Smooth transition for sliding */
+  width: 1000%; /* Adjust this to match the number of slides */
+}
 
-<p><strong>Teachers In Charge: Tuesdays</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Tan Hui Yin <strong>(2I/C)</strong>
-</p>
-</li>
-<li>
-<p>Ms Li Pei Jie</p>
-</li>
-</ul>
-<p><strong>Teachers In Charge: Fridays</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Loo Ai Ling <strong>(I/C)</strong>
-</p>
-</li>
-<li>
-<p>Ms Yep Lee Yong</p>
-</li>
-</ul>
-<p><strong>CCA Day &amp; Venue:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesdays, 1.45pm – 3.45pm | Guzheng Room</p>
-</li>
-<li>
-<p>Fridays, 1.45pm – 3.45pm | Guzheng Room</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Guzheng_TitleImage-1.jpg">
+.slide {
+  width: 10%; /* Each slide takes up 10% of the container (for 10 slides) */
+  height: auto;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  cursor: pointer; /* Make the images clickable */
+}
+
+/* Control the slide transition when the radio buttons are selected */
+#slide1:checked ~ .slides {
+  transform: translateX(0);
+}
+
+#slide2:checked ~ .slides {
+  transform: translateX(-10%); /* Move to the second slide */
+}
+
+#slide3:checked ~ .slides {
+  transform: translateX(-20%); /* Move to the third slide */
+}
+
+#slide4:checked ~ .slides {
+  transform: translateX(-30%); /* Move to the fourth slide */
+}
+
+#slide5:checked ~ .slides {
+  transform: translateX(-40%); /* Move to the fifth slide */
+}
+
+#slide6:checked ~ .slides {
+  transform: translateX(-50%); /* Move to the sixth slide */
+}
+
+#slide7:checked ~ .slides {
+transform: translateX(-60%); /* Move to the seventh slide */
+}
+
+#slide8:checked ~ .slides {
+  transform: translateX(-70%); /* Move to the eighth slide */
+}
+
+#slide9:checked ~ .slides {
+  transform: translateX(-80%); /* Move to the ninth slide */
+}
+
+#slide10:checked ~ .slides {
+  transform: translateX(-90%); /* Move to the tenth slide */
+}
+
+/* Mobile Devices (up to 600px) */
+@media (max-width: 600px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Tablet devices (600px to 768px) */
+@media (max-width: 768px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Desktop devices (769px and above) */
+@media (min-width: 769px) {
+.slide img {
+width: 80%;
+height: auto;
+}
+}
+</style>
+
+<p style="text-align:justify">Our Guzheng Ensemble offers students valuable opportunities for beyond-school learning, fostering both musical skills and personal growth. Our junior members attend sessions on Tuesdays, while seniors meet on Fridays, where they refine their repertoire and performance techniques under the guidance of an instructor. Through these lessons, members not only learn musical mastery but also gain insight into the collaborative aspects of performance, such as stage directions, movements, and equipment setup.</p>
+<p style="text-align:justify">Our senior members play a vital role in mentoring juniors, fostering skill development, teamwork, and a strong sense of camaraderie. This mentorship strengthens team spirit, enabling the ensemble to consistently achieve distinction in the SYF Arts Presentation since 2016. In 2019, the ensemble's dedication was recognised when they were invited to perform at the Istana during the Hari Raya Open House.</p>
+<p style="text-align:justify">Senior members also take on leadership roles, promoting the CCA during the Open House for our Primary 2 students. This helps them build leadership and communication skills, while also reinforcing values like collaboration and resilience.</p>
+
+<div class="slideshow-container">
+
+<input checked="" id="slide1" name="slide" type="radio">
+<input id="slide2" name="slide" type="radio">
+<input id="slide3" name="slide" type="radio">
+<input id="slide4" name="slide" type="radio">
+<input id="slide5" name="slide" type="radio">
+<input id="slide6" name="slide" type="radio">
+<input id="slide7" name="slide" type="radio">
+<input id="slide8" name="slide" type="radio">
+<input id="slide9" name="slide" type="radio">
+<input id="slide10" name="slide" type="radio">
+<p></p>
+<div class="slides">
+<label class="slide" for="slide2">
+<img alt="Image 1" src="/images/CCA%20Guzheng/G_01v.jpg">
+</label>
+<label class="slide" for="slide3">
+<img alt="Image 2" src="/images/CCA%20Guzheng/G_02v.jpg">
+</label>
+<label class="slide" for="slide4">
+<img alt="Image 3" src="/images/CCA%20Guzheng/G_03v.jpg">
+</label>
+<label class="slide" for="slide5">
+<img alt="Image 4" src="/images/CCA%20Guzheng/G_04v.jpg">
+</label>
+<label class="slide" for="slide6">
+<img alt="Image 5" src="/images/CCA%20Guzheng/G_05v.jpg">
+</label>
+<label class="slide" for="slide7">
+<img alt="Image 6" src="/images/CCA%20Guzheng/G_06v.jpg">
+</label>
+<label class="slide" for="slide8">
+<img alt="Image 7" src="/images/CCA%20Guzheng/G_07v.jpg">
+</label>
+<label class="slide" for="slide9">
+<img alt="Image 8" src="/images/CCA%20Guzheng/G_08v.jpg">
+</label>
+<label class="slide" for="slide10">
+<img alt="Image 9" src="/images/CCA%20Guzheng/G_09v.jpg">
+</label>
+<label class="slide" for="slide1">
+<img alt="Image 10" src="/images/CCA%20Guzheng/G_10v.jpg">
+</label>
 </div>
-<p><strong> Performance at the Istana</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Guzheng_Picture1.jpg">
 </div>
-<p><strong>Performing at the SYF Arts Presentation 2022</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Guzheng_Picture2.jpg">
-</div>
-<p><strong>Waiting Area for SYF Arts Presentation 2022</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Guzheng.png">
-</div>
-<p><strong>Combined and Sectional Practice Sessions</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/guzheng_cca_2023_picture5.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/guzheng_cca_2023_picture4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/guzheng_cca_2023_picture3.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/guzheng_cca_2023_picture2.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/guzheng_cca_2023_picture1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/guzheng_cca_2023_picture6.jpg">
-</div>
-<p><strong><em>Students captivating the audience with an astounding performance at the 108th Founder's Day Program at the school's hall on the 14th April 2023</em></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/guzheng_cca_2023_picture10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/guzheng_cca_2023_picture8.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/guzheng_cca_2023_picture9.jpeg">
-</div>
-<p><strong><em>The success of mastering the traditional guzheng instrument requires efforts embedded in active practice. Its a regular sight to see students rigorously participate in weekly practice sessions to hone their skills, in line with the notion 'Practice makes Perfect'.</em></strong>
-</p>
