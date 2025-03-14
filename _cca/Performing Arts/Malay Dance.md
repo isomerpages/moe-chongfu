@@ -5,77 +5,153 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<p style="text-align:justify">In our Malay Dance Club, students are exposed to the different genres of Malay traditional dances namely Asli, Inang, Joget, Zapin and Masri.
-Through the weekly practices and exposure, we hope to ignite their interest
-and passion in deepening their appreciation for the Malay Culture and Heritage
-in a supportive environment.</p>
-<p style="text-align:justify">There are various platforms for our students to showcase their talents and hone their art. To date, our students have performed at school events
-such as National Day and also participated in the Singapore Youth Festival.
-They have also recently showcased a dance that celebrates the vibrancy
-of youth at the Groundbreaking Ceremony for Chong Pang Integrated Development,
-an event that was graced by the Prime Minister.</p>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-<p><strong>P3 and P4 Teachers In Charge: Tuesdays</strong></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Sabariah Bte Alwi <strong>(I/C)</strong>
-</p>
-</li>
-<li>
-<p>Ms Siti Sarah Bte Ahmad</p>
-</li>
-</ul>
-<p><strong>P5 and P6 Teachers In Charge: Fridays</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Sri Rahayu Binte Ramlan <strong>(2I/C)</strong>
-</p>
-</li>
-</ul>
-<p><strong>CCA Day &amp; Venue:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesdays, 1.45pm – 3.45pm | Dance Room</p>
-</li>
-<li>
-<p>Fridays, 1.45pm – 3.45pm | Dance Room</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture1.jpg">
-</div>
-<p style="text-align:justify"><strong><em>The Malay Dance CCA members had a prestigious photo opportunity with Minister Mr K Shanmugam during the 'Groundbreaking Ceremony of Chong Pang City' on 26 March 2023, where the members gave a pleasing performance to the audience.</em></strong></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 51%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture2.jpg">
-</div>
-<p style="text-align:justify"><strong><em>Rentak Ria, an upbeat dance that showcases a vibrant celebration of youthful vitality, was proudly presented by members of our Malay Dance CCA at the Groundbreaking Ceremony for the Chong Pang Integrated Development (CPID) in March 2023. It was an honour to represent Chongfu School in such an important community event.</em></strong></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture7.jpg">
-</div>
-<p><strong><em>After a two-year hiatus brought about by the pandemic, our members once again took to the stage to delight their fellow schoolmates and teachers during the bi-monthly 'Appreciation of the Arts' program.</em></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/malaydance_cca_2023_picture10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay%20dance%201.png">
-</div>
+.slideshow-container {
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+	text-align:center;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease; /* Smooth transition for sliding */
+  width: 1000%; /* Adjust this to match the number of slides */
+}
+
+.slide {
+  width: 10%; /* Each slide takes up 10% of the container (for 10 slides) */
+  height: auto;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  cursor: pointer; /* Make the images clickable */
+}
+
+/* Control the slide transition when the radio buttons are selected */
+#slide1:checked ~ .slides {
+  transform: translateX(0);
+}
+
+#slide2:checked ~ .slides {
+  transform: translateX(-10%); /* Move to the second slide */
+}
+
+#slide3:checked ~ .slides {
+  transform: translateX(-20%); /* Move to the third slide */
+}
+
+#slide4:checked ~ .slides {
+  transform: translateX(-30%); /* Move to the fourth slide */
+}
+
+#slide5:checked ~ .slides {
+  transform: translateX(-40%); /* Move to the fifth slide */
+}
+
+#slide6:checked ~ .slides {
+  transform: translateX(-50%); /* Move to the sixth slide */
+}
+
+#slide7:checked ~ .slides {
+transform: translateX(-60%); /* Move to the seventh slide */
+}
+
+#slide8:checked ~ .slides {
+  transform: translateX(-70%); /* Move to the eighth slide */
+}
+
+#slide9:checked ~ .slides {
+  transform: translateX(-80%); /* Move to the ninth slide */
+}
+
+#slide10:checked ~ .slides {
+  transform: translateX(-90%); /* Move to the tenth slide */
+}
+
+/* Mobile Devices (up to 600px) */
+@media (max-width: 600px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Tablet devices (600px to 768px) */
+@media (max-width: 768px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Desktop devices (769px and above) */
+@media (min-width: 769px) {
+.slide img {
+width: 80%;
+height: auto;
+}
+}
+</style>
+
+<p style="text-align:justify">Malay dance is an integral part of the cultural heritage in Singapore, showcasing the rich traditions and artistry of the Malay community. As a CCA, Malay Dance offers students an opportunity to immerse themselves in this vibrant art form while developing essential life skills, and a sense of identity and belonging. </p>
+<p style="text-align:justify">The five main genres of Malay Dance – Inang, Zapin, Masri, Ronggeng, and Asli - each have unique characteristics and historical significance, allowing students to appreciate the diversity within the Malay cultural landscape. Malay Dance also fosters teamwork, discipline, and an appreciation for cultural heritage. Through rehearsals and performances, students gain a deeper understanding of commitment and collaboration – key values for personal development. In addition, the CCA helps build confidence as students frequently perform before an audience.</p>
+<p style="text-align:justify">Malay Dance serves as a bridge connecting students to their roots, enhances their cultural appreciation, and contributes to their holistic development as responsible and culturally-aware individuals.</p>
+
+<div class="slideshow-container">
+
+<input checked="" id="slide1" name="slide" type="radio">
+<input id="slide2" name="slide" type="radio">
+<input id="slide3" name="slide" type="radio">
+<input id="slide4" name="slide" type="radio">
+<input id="slide5" name="slide" type="radio">
+<input id="slide6" name="slide" type="radio">
+<input id="slide7" name="slide" type="radio">
+<input id="slide8" name="slide" type="radio">
+<input id="slide9" name="slide" type="radio">
+<input id="slide10" name="slide" type="radio">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya-2.jpg">
+<div class="slides">
+<label class="slide" for="slide2">
+<img alt="Image 1" src="/images/CCA%20Malay%20Dance/MD_01v.jpg">
+</label>
+<label class="slide" for="slide3">
+<img alt="Image 2" src="/images/CCA%20Malay%20Dance/MD_02v.jpg">
+</label>
+<label class="slide" for="slide4">
+<img alt="Image 3" src="/images/CCA%20Malay%20Dance/MD_03v.jpg">
+</label>
+<label class="slide" for="slide5">
+<img alt="Image 4" src="/images/CCA%20Malay%20Dance/MD_04v.jpg">
+</label>
+<label class="slide" for="slide6">
+<img alt="Image 5" src="/images/CCA%20Malay%20Dance/MD_05v.jpg">
+</label>
+<label class="slide" for="slide7">
+<img alt="Image 6" src="/images/CCA%20Malay%20Dance/MD_06v.jpg">
+</label>
+<label class="slide" for="slide8">
+<img alt="Image 7" src="/images/CCA%20Malay%20Dance/MD_07v.jpg">
+</label>
+<label class="slide" for="slide9">
+<img alt="Image 8" src="/images/CCA%20Malay%20Dance/MD_08v.jpg">
+</label>
+<label class="slide" for="slide10">
+<img alt="Image 9" src="/images/CCA%20Malay%20Dance/MD_09v.jpg">
+</label>
+<label class="slide" for="slide1">
+<img alt="Image 10" src="/images/CCA%20Malay%20Dance/MD_10v.jpg">
+</label>
 </div>
-<p style="text-align:justify"><strong><em>Members develop their self-confidence and sense of commitment as they go about the rigour of weekly practices and rehearsals, an integral part of a successful and laudable performance.</em></strong></p>
+</div>
