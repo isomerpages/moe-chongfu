@@ -107,6 +107,7 @@ height: auto;
 
 <p style="text-align:justify">Our Red Cross unit was established in 2009 with the goal of shaping future-ready leaders for humanity. </p>
 <p style="text-align:justify">Through our Red Cross programme, we strive to bring out the best in our students, offering them valuable experiences beyond the traditional school curriculum:</p>
+<img style="width:85%" src="/images/CCA%20Red%20Cross/RC_Table.png">
 <p style="text-align:justify">Our students gain important lessons in serving vulnerable individuals within both local and global communities. By incorporating core subjects, we foster a spirit of care for others, connecting students’ knowledge from a local perspective to a broader global understanding.</p>
 <p style="text-align:justify">Each year, Red Cross Youth also organises a variety of programmes and activities designed to cultivate compassionate leaders for humanity:
 </p><ul>
