@@ -129,34 +129,34 @@ In addition, we organise learning journeys that broaden students’ perspectives
 <p></p>
 <div class="slides">
 <label class="slide" for="slide2">
-<img alt="Image 1" src="/images/CCA%20Track%20&amp;%20Field/T_F01.jpg">
+<img alt="Image 1" src="/images/CCA%20Scouts/Scouts_01v.jpg">
 </label>
 <label class="slide" for="slide3">
-<img alt="Image 2" src="/images/CCA%20Track%20&amp;%20Field/T_F02.jpg">
+<img alt="Image 2" src="/images/CCA%20Scouts/Scouts_02v.jpg">
 </label>
 <label class="slide" for="slide4">
-<img alt="Image 3" src="/images/CCA%20Track%20&amp;%20Field/T_F03.jpg">
+<img alt="Image 3" src="/images/CCA%20Scouts/Scouts_03v.jpg">
 </label>
 <label class="slide" for="slide5">
-<img alt="Image 4" src="/images/CCA%20Track%20&amp;%20Field/T_F04.jpg">
+<img alt="Image 4" src="/images/CCA%20Scouts/Scouts_04v.jpg">
 </label>
 <label class="slide" for="slide6">
-<img alt="Image 5" src="/images/CCA%20Track%20&amp;%20Field/T_F05v.png">
+<img alt="Image 5" src="/images/CCA%20Scouts/Scouts_05v.jpg">
 </label>
 <label class="slide" for="slide7">
-<img alt="Image 6" src="/images/CCA%20Track%20&amp;%20Field/T_F06v.png">
+<img alt="Image 6" src="/images/CCA%20Scouts/Scouts_06v.jpg">
 </label>
 <label class="slide" for="slide8">
-<img alt="Image 7" src="/images/CCA%20Track%20&amp;%20Field/T_F07v.png">
+<img alt="Image 7" src="/images/CCA%20Scouts/Scouts_07v.jpg">
 </label>
 <label class="slide" for="slide9">
-<img alt="Image 8" src="/images/CCA%20Track%20&amp;%20Field/T_F08v.png">
+<img alt="Image 8" src="/images/CCA%20Scouts/Scouts_08v.jpg">
 </label>
 <label class="slide" for="slide10">
-<img alt="Image 9" src="/images/CCA%20Track%20&amp;%20Field/T_F09v.png">
+<img alt="Image 9" src="/images/CCA%20Scouts/Scouts_09v.jpg">
 </label>
 <label class="slide" for="slide1">
-<img alt="Image 10" src="/images/CCA%20Track%20&amp;%20Field/T_F10.jpg">
+<img alt="Image 10" src="/images/CCA%20Scouts/Scouts_10v.jpg">
 </label>
 </div>
 </div>
