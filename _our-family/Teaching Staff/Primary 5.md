@@ -48,7 +48,7 @@ Ms Teo Wei Ren (张老师) <a target="_blank" rel="noopener noreferrer nofollow"
 		<tr> 
     <td class="tg-yhj3">Respectful</td>
     <td class="tg-yhj3">Ms Leow Ke Yun <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Leow_KE_YUN@schools.gov.sg">[Email]</a><br>
-			Ms Tan Jie Ying Rachel <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_jie_ying_rachel@schools.gov.sg">[Email]</a></td></tr>
+			Ms Nadrah</td></tr>
 	<tr>
     <td class="tg-yhj3">Achieving</td>
     <td class="tg-yhj3">Mr Chan Kai Chun Vincent <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_kai_chun_vincent@schools.gov.sg">[Email]</a><br>
