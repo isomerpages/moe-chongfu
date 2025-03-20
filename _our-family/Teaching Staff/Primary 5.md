@@ -30,8 +30,8 @@ third_nav_title: Teaching Staff
 <tr>
 <td class="tg-yhj3">Gracious</td>
 <td class="tg-yhj3">Ms Violet Soh Jingsi
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:soh_jingsi@schools.gov.sg">[Email]</a><br>Ms Teo Wei Ren (张老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_wei_ren@schools.gov.sg">[Email]</a>
-</td></tr>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:soh_jingsi@schools.gov.sg">[Email]</a><br>Ms Teo Wei Ren (张老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_wei_ren@schools.gov.sg">[Email]</a></td>
+</tr>
 <tr> 
 <td class="tg-yhj3">Respectful</td>
 <td class="tg-yhj3">Ms Leow Ke Yun <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Leow_KE_YUN@schools.gov.sg">[Email]</a><br>Ms Nadrah Binte Anuar <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nadrah_anuar@schools.gov.sg">[Email]</a></td>
