@@ -71,8 +71,7 @@ Ms Chiang Yu Rong (张老师)  <a target="_blank" rel="noopener noreferrer nofol
 		<tr>
     <td class="tg-yhj3">Sincere</td>
     <td class="tg-yhj3">Mdm Ho Ser Hui <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_ser_hui@schools.gov.sg">[Email]</a><br>
-			Ms Nur Syafiqah Binte Mohamad Sham <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_syafiqah_mohamad_sham@schools.gov.sg">[Email]</a><br>
-Mr Ngo Wee Heng David</td></tr>
+			Ms Nur Syafiqah Binte Mohamad Sham <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_syafiqah_mohamad_sham@schools.gov.sg">[Email]</a></td></tr>
 		<tr>
   
 </tr></tbody>
