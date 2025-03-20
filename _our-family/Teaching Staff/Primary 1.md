@@ -5,17 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Teaching Staff
 ---
-<h5 style="color:#000000">Assistant Year Head: Ms Madihah Binte Ghazali</h5><style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yhj3{background-color:#FFF;color:#0C463A;text-align:left;vertical-align:middle}
-.tg .tg-feqv{background-color:#E40D03;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
-</style>
-
+<h5 style="color:#000000">Assistant Year Head: Ms Madihah Binte Ghazali</h5>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
@@ -28,12 +18,10 @@ third_nav_title: Teaching Staff
 </style>
 
 <table class="tg" style="undefined;table-layout: fixed; width: 491px">
-</table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
 <col style="width: 200px">
 <col style="width: 360px">
 </colgroup>
-
 <tbody>
  <tr>
 <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Class</span></td>
