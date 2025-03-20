@@ -41,8 +41,7 @@ third_nav_title: Teaching Staff
   </tr>
 		<tr>
     <td class="tg-yhj3">Gracious</td>
-    <td class="tg-yhj3">Mr Andy Soh Lee Ming <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:andy_soh_lee_ming@schools.gov.sg">[Email]</a><br>
-Ms Nadrah Binte Anuar <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nadrah_anuar@schools.gov.sg">[Email]</a></td></tr>
+    <td class="tg-yhj3">Mr Andy Soh Lee Ming <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:andy_soh_lee_ming@schools.gov.sg">[Email]</a><br>Ms Julia Thong Si-Yi</td></tr>
 		<tr>
     <td class="tg-yhj3">Respectful</td>
     <td class="tg-yhj3">Mdm Sharifah Najibah <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sharifah_najibah_syed_mustapa@schools.gov.sg">[Email]</a><br> 
@@ -50,7 +49,7 @@ Ms Nadrah Binte Anuar <a target="_blank" rel="noopener noreferrer nofollow" href
 	<tr>
     <td class="tg-yhj3">Achieving</td>
     <td class="tg-yhj3">Ms Tricia Lim Xiu Xuan (林老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tricia_lim_xiu_xuan@schools.gov.sg">[Email]</a><br>
-Mdm Nurnadiah Begum Binte Asraffe <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nurnadiah_begum_asraffe@schools.gov.sg">[Email]</a><br></td></tr>
+Mdm Nurnadiah Begum Binte Asraffe <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nurnadiah_begum_asraffe@schools.gov.sg">[Email]</a><br>Mr Hilary</td></tr>
 <tr><td class="tg-yhj3">Caring</td>
     <td class="tg-yhj3">Ms Shalini d/o Sandra Mohan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shalini_sandra_mohan@schools.gov.sg">[Email]</a><br>
 Mdm Ong Shu Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_shu_ying@schools.gov.sg">[Email]</a><br>
@@ -59,7 +58,7 @@ Ms Chiang Yu Rong (张老师)  <a target="_blank" rel="noopener noreferrer nofol
 <tr>
     <td class="tg-yhj3">Innovative</td>
     <td class="tg-yhj3">Ms Lai Kexin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lai_kexin@schools.gov.sg">[Email]</a><br>
-			Mdm Zheng Shanbo (郑老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_shanbo@schools.gov.sg">[Email]</a></td></tr>
+			Mdm Zheng Shanbo (郑老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_shanbo@schools.gov.sg">[Email]</a><br>Miss Ke Chunchun</td></tr>
 			<tr>
     <td class="tg-yhj3">Observant</td>
     <td class="tg-yhj3">Mdm Eng Hwee Yen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:eng_hwee_yen@schools.gov.sg">[Email]</a><br>
@@ -67,12 +66,9 @@ Ms Chiang Yu Rong (张老师)  <a target="_blank" rel="noopener noreferrer nofol
 				<tr>
     <td class="tg-yhj3">United</td>
     <td class="tg-yhj3">Mr Shaik Muhammad Bin Mohamed Haleem <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shaik_muhammad_mohamed_haleem@schools.gov.sg">[Email]</a><br>
-			Ms Li Pei Jie <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_pei_jie@schools.gov.sg">[Email]</a></td></tr>
+			Ms Li Pei Jie <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_pei_jie@schools.gov.sg">[Email]</a><br>Ms Chen Xiu Qin</td></tr>
 		<tr>
     <td class="tg-yhj3">Sincere</td>
-    <td class="tg-yhj3">Mdm Ho Ser Hui <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_ser_hui@schools.gov.sg">[Email]</a><br>
-			Ms Nur Syafiqah Binte Mohamad Sham <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_syafiqah_mohamad_sham@schools.gov.sg">[Email]</a></td></tr>
-		<tr>
-  
-</tr></tbody>
+    <td class="tg-yhj3">Ms Nur Syafiqah Binte Mohamad Sham <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_syafiqah_mohamad_sham@schools.gov.sg">[Email]</a><br>Ms Liew Xinhua</td></tr>
+</tbody>
 </table>
