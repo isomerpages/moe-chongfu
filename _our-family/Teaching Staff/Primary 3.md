@@ -45,12 +45,11 @@ third_nav_title: Teaching Staff
 Ms Hasnah Pauzan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:hasnah_pauzan_a@schools.gov.sg">[Email]</a></td></tr>
 		<tr>
     <td class="tg-yhj3">Respectful</td>
-    <td class="tg-yhj3">Mr Kenn Roy Anthony <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:kenn_roy_anthony@schools.gov.sg">[Email]</a><br>
-			Mrs Raj (Santhi DO Nadasn)</td></tr>
+    <td class="tg-yhj3">Mr Kenn Roy Anthony <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:kenn_roy_anthony@schools.gov.sg">[Email]</a></td>
+</tr>
 	<tr>
     <td class="tg-yhj3">Achieving</td>
-    <td class="tg-yhj3">Mdm Tan Yu Ling Caroline <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_yu_ling_caroline@schools.gov.sg">[Email]</a><br>
-Ms Teow Meng Choo Josephine</td></tr>
+    <td class="tg-yhj3">Mdm Tan Yu Ling Caroline <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_yu_ling_caroline@schools.gov.sg">[Email]</a></td></tr>
 <tr><td class="tg-yhj3">Caring</td>
     <td class="tg-yhj3">Ms Png Jin Yee (方老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:png_jin_yee@schools.gov.sg">[Email]</a><br>
 Mdm Noraini Bte Amin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:noraini_amin@schools.gov.sg">[Email]</a><br>
