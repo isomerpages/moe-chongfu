@@ -4,139 +4,133 @@ permalink: /testing/
 variant: markdown
 description: ""
 ---
-<style type="text/css">
-  
-	body {
-  margin: 0;
-	padding:0;
-  background-color: #f4f4f4;
-  }
-
-  .card-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive grid */
-    gap: 20px; /* Adjust gap between cards */
-    width: 80%;
-    max-width: 1200px;
-    margin: 0 auto; /* Center the grid */
-  }
-
-  .card {
-    position: relative;
-    width: 100%;
-    padding-bottom: 75%; /* Aspect ratio for rectangular shape (can change this) */
-    background-color: #F8F8F8;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    border-radius: 10px;
-    cursor: pointer;
-    transition: transform 0.3s ease;
-  }
-
-  .card:hover {
-    transform: scale(1.05);
-  }
-
-  /* Title positioning */
-  .card .card-title {
-    font-size: 1.5em;
-	  font-weight: bold;
-    color: #708090;
-    background-color: #F8F8F8;
-    padding: 10px;
-    text-align: center;
-    border-radius: 5px 5px 0 0; /* Rounded top corners */
-    position: absolute;
-    top: 0;
-    width: 100%;
-    z-index: 1; /* Ensures title stays above the image */
-  }
-
-	.card:hover .card-title{
-	 color: #ffffff;
-	font-weight: bold;
-	background-color: #d0021b;
-	transition: opacity 3.0s ease-in-out; /* Smooth transition for opacity */
-	}
-	
-  /* Styling for images */
-  .card img {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Ensures the image fills the card */
-    transform: translate(-50%, -50%); /* Centers the image */
-    transition: opacity 0.5s ease-in-out; /* Smooth transition for opacity */
-  }
-
-  /* Default: image opacity set to 1 */
-  .card .image1 {
-    opacity: 1; /* Fully opaque initially */
-  }
-
-  /* On hover, change opacity of the image */
-  .card:hover .image1 {
-    opacity: 0.5; /* Make the image semi-transparent on hover */
-  }
-
-  .card .image-hover {
-    opacity: 0; /* Hide the second image initially */
-  }
-
-  /* On hover, fade image 1 out and fade image 2 in */
-  .card:hover .image-hover {
-    opacity: 1; /* Show the second image */
-  }
-
-  .card:hover .image1 {
-    opacity: 0; /* Hide the first image */
-  }
-	
-	/* Responsive for smaller screens */
-@media (max-width: 1024px) {
-    .card-container {
-        grid-template-columns: repeat(3, 1fr); /* 3 columns for medium screens */
-    }
+<style>
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
 }
 
-@media (max-width: 768px) {
-    .card-container {
-        grid-template-columns: repeat(2, 1fr); /* 2 columns for smaller screens */
-    }
+.slideshow-container {
+width: 100%;
+max-width: 600px;
+margin: auto;
+overflow: hidden;
+position: relative;
 }
 
-@media (max-width: 480px) {
-    .card-container {
-        grid-template-columns: 1fr; /* 1 column for mobile screens */
-    }
+.slides {
+display: flex;
+width: 300%; /* Total width = 100% * 3 images */
+transition: transform 100s ease;
+}
+
+.slide {
+width: 100%; /* Each slide takes up 100% of the container */
+height: auto;
+}
+
+.slide img {
+width: 100%;
+height: auto;
+object-fit: cover; /* Ensures images cover the space without distortion */
+}
+
+/* Hide radio buttons */
+input[type="radio"] {
+display: none;
+}
+
+/* Navigation arrows */
+.arrow {
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+font-size: 2em;
+color: white;
+background-color: rgba(0, 0, 0, 0.5);
+padding: 10px;
+border: none;
+cursor: pointer;
+z-index: 10;
+}
+
+.arrow-left {
+left: 10px;
+}
+
+.arrow-right {
+right: 10px;
+}
+
+/* Stop button */
+.stop-button {
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+right: 100px;
+font-size: 1.5em;
+color: white;
+background-color: rgba(255, 0, 0, 0.5);
+padding: 10px;
+border: none;
+cursor: pointer;
+z-index: 10;
+}
+
+/* Slide transition styles */
+#slide1:checked ~ .slides {
+transform: translateX(0);
+}
+
+#slide2:checked ~ .slides {
+transform: translateX(-100%);
+}
+
+#slide3:checked ~ .slides {
+ transform: translateX(-200%);
+ }
+
+/* Pause the slideshow (disable animation) */
+#pause:checked ~ .slides {
+transition: none; /* No sliding effect when paused */
+}
+
+/* Play the slideshow (enable animation) */
+#play:checked ~ .slides {
+transition: transform 0.5s ease; /* Enable sliding animation */
 }
 </style>
 
-<div class="card-grid">
-  <div class="card">
-		<div class="card-title">Our History</div>
-    <img class="image1" alt="Image 1" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842____Vivid_Cool.jpg">
-		<a href="/our-school/history/">
-    <img class="image-hover" alt="Image 2" src="/images/Our_History__Thian_Hock_Keng_Painting__Alfred_Agate_c__1842_.jpg"></a>
-  </div>
-  <div class="card">
-    <div class="card-title">School Ethos</div>
-    <img class="image1" alt="Image 3" src="/images/School_Ethos____Vivid_Cool.jpg">
-    <a href="/our-school/school-ethos/">
-			<img class="image-hover" alt="Image 4" src="/images/School_Ethos_.jpg"></a>
-  </div>
-  <div class="card">
-    <div class="card-title">School Identity</div>
-    <img class="image1" alt="Image 5" src="/images/School_Identity____Vivid_Cool.jpg">
-    <a href="/our-school/school-identity/">
-			<img class="image-hover" alt="Image 6" src="/images/School_Identity_.jpg"></a>
-  </div>
-	 <div class="card">
-		 <div class="card-title">School Information</div>
-		 <img class="image1" alt="Image 5" src="/images/School_Information____Vivid_Cool.jpg">
-		 <a href="/school-information/">
-			 <img class="image-hover" alt="Image 6" src="/images/School_Information_.jpg"></a>
-  </div>
+
+<div class="slideshow-container">
+
+<input checked="" id="slide1" name="slide" type="radio">
+<input id="slide2" name="slide" type="radio">
+<input id="slide3" name="slide" type="radio">
+    
+
+<input id="pause" type="radio">
+<input checked="" id="play" type="radio">
+    
+
+<div class="slides">
+<div class="slide"><img alt="Image 1" src="image1.jpg"></div>
+<div class="slide"><img alt="Image 2" src="image2.jpg"></div>
+<div class="slide"><img alt="Image 3" src="image3.jpg"></div>
 </div>
+
+
+<label class="arrow arrow-left" for="slide1">❮</label>
+<label class="arrow arrow-right" for="slide2">❯</label>
+<label class="arrow arrow-right" for="slide3">❯</label>
+
+
+<label class="play-pause-button" for="pause">⏸</label>
+<label class="play-pause-button" for="play">▶</label>
+</div>
+
+
+<div class="slide"><img alt="Image 1" src="/images/School_Information.png"></div>
+<div class="slide"><img alt="Image 2" src="/images/Primary_2_resize_.png"></div>
+<div class="slide"><img alt="Image 3" src="/images/School_Ethos_.jpg"></div>

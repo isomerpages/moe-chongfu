@@ -5,110 +5,155 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<p style="text-align:justify">Our Chinese Orchestra CCA aims to create the opportunity for students
-who have passion and interest in music. We will help the students to develop
-their musical skills and understand the tradition of Chinese musical culture.</p>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-<p style="text-align:justify">We will also develop students confident, teamwork &amp; leadership skills through the musical performances &amp; competitions.</p>
-<p><strong>Teachers In Charge: Tuesdays</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Sun Wei Wei <strong>(I/C)</strong>
-</p>
-</li>
-<li>
-<p>Ms Tee Sow Chin</p>
-</li>
-</ul>
-<p><strong>Teachers In Charge: Fridays</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Toh Guat Lay <strong>(2I/C)</strong>
-</p>
-</li>
-<li>
-<p>Ms Chen Xiuqin</p>
-</li>
-</ul>
-<p><strong>CCA Day &amp; Venue:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesdays, 1.45pm – 3.45pm |Various classrooms</p>
-</li>
-<li>
-<p>Fridays, 1.45pm – 3.45pm | Various classrooms</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture4.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture2.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture8.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture6.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture7.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture9.jpg">
-</div>
-<p><strong><em>Students gave a captivating performance which enthralled the audience at the 108th Founder's Day Program on the 14th April 2023</em></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture14.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture15.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture17.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture12.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture13.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture19.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture20.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture21.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="/images/chineseorchestra_cca_2023_picture10.JPG">
-</div>
-<p><strong><em>Students in a rigorous weekly training session guided by their instructors to hone and improve their skills in maneuvering the musical instruments to give an astounding performance for every occasion.</em></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/co%201.png">
-</div>
+.slideshow-container {
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+	text-align:center;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease; /* Smooth transition for sliding */
+  width: 1000%; /* Adjust this to match the number of slides */
+}
+
+.slide {
+  width: 10%; /* Each slide takes up 10% of the container (for 10 slides) */
+  height: auto;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  cursor: pointer; /* Make the images clickable */
+}
+
+/* Control the slide transition when the radio buttons are selected */
+#slide1:checked ~ .slides {
+  transform: translateX(0);
+}
+
+#slide2:checked ~ .slides {
+  transform: translateX(-10%); /* Move to the second slide */
+}
+
+#slide3:checked ~ .slides {
+  transform: translateX(-20%); /* Move to the third slide */
+}
+
+#slide4:checked ~ .slides {
+  transform: translateX(-30%); /* Move to the fourth slide */
+}
+
+#slide5:checked ~ .slides {
+  transform: translateX(-40%); /* Move to the fifth slide */
+}
+
+#slide6:checked ~ .slides {
+  transform: translateX(-50%); /* Move to the sixth slide */
+}
+
+#slide7:checked ~ .slides {
+transform: translateX(-60%); /* Move to the seventh slide */
+}
+
+#slide8:checked ~ .slides {
+  transform: translateX(-70%); /* Move to the eighth slide */
+}
+
+#slide9:checked ~ .slides {
+  transform: translateX(-80%); /* Move to the ninth slide */
+}
+
+#slide10:checked ~ .slides {
+  transform: translateX(-90%); /* Move to the tenth slide */
+}
+
+/* Mobile Devices (up to 600px) */
+@media (max-width: 600px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Tablet devices (600px to 768px) */
+@media (max-width: 768px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Desktop devices (769px and above) */
+@media (min-width: 769px) {
+.slide img {
+width: 80%;
+height: auto;
+}
+}
+</style>
+
+<p style="text-align:justify">Our Chinese Orchestra CCA offers students a platform for growth, discipline, and cultural appreciation.</p>
+<p style="text-align:justify">By learning traditional Chinese instruments such as the erhu, pipa, yangqin, and suona, students not only develop musical skills but also deepen their understanding of Chinese heritage.</p>
+<p style="text-align:justify">Through participation in school celebrations and external performances, students build confidence, teamwork, and a strong sense of responsibility. These experiences allow them to proudly represent the school while cultivating perseverance and commitment.</p>
+<p style="text-align:justify">Every two years, students compete in the Singapore Youth Festival (SYF), pushing themselves to achieve excellence. The dedication and effort required for this challenge help foster resilience, discipline, and a strong work ethic – qualities essential for their future.</p>
+<p style="text-align:justify">Through the Chinese Orchestra CCA, students gain valuable life skills while being part of a supportive and enriching community.</p>
+
+<div class="slideshow-container">
+
+<input checked="" id="slide1" name="slide" type="radio">
+<input id="slide2" name="slide" type="radio">
+<input id="slide3" name="slide" type="radio">
+<input id="slide4" name="slide" type="radio">
+<input id="slide5" name="slide" type="radio">
+<input id="slide6" name="slide" type="radio">
+<input id="slide7" name="slide" type="radio">
+<input id="slide8" name="slide" type="radio">
+<input id="slide9" name="slide" type="radio">
+<input id="slide10" name="slide" type="radio">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/co%202.png">
+<div class="slides">
+<label class="slide" for="slide2">
+<img alt="Image 1" src="/images/CCA%20Chinese%20Orchestra/CO_01v.jpg">
+</label>
+<label class="slide" for="slide3">
+<img alt="Image 2" src="/images/CCA%20Chinese%20Orchestra/CO_02v.jpg">
+</label>
+<label class="slide" for="slide4">
+<img alt="Image 3" src="/images/CCA%20Chinese%20Orchestra/CO_03v.jpg">
+</label>
+<label class="slide" for="slide5">
+<img alt="Image 4" src="/images/CCA%20Chinese%20Orchestra/CO_04v.jpg">
+</label>
+<label class="slide" for="slide6">
+<img alt="Image 5" src="/images/CCA%20Chinese%20Orchestra/CO_05v.jpg">
+</label>
+<label class="slide" for="slide7">
+<img alt="Image 6" src="/images/CCA%20Chinese%20Orchestra/CO_06v.jpg">
+</label>
+<label class="slide" for="slide8">
+<img alt="Image 7" src="/images/CCA%20Chinese%20Orchestra/CO_07v.jpg">
+</label>
+<label class="slide" for="slide9">
+<img alt="Image 8" src="/images/CCA%20Chinese%20Orchestra/CO_08v.jpg">
+</label>
+<label class="slide" for="slide10">
+<img alt="Image 9" src="/images/CCA%20Chinese%20Orchestra/CO_09v.jpg">
+</label>
+<label class="slide" for="slide1">
+<img alt="Image 10" src="/images/CCA%20Chinese%20Orchestra/CO_10v.jpg">
+</label>
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/co%203.png">
 </div>
-<p></p>

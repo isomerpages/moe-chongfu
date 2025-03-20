@@ -5,133 +5,153 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-<p style="text-align:justify">Chongfu School Table Tennis aims to provide all players with the opportunity to enjoy the sport regardless of their skill level. Players are provided with the opportunities to develop their skills at their own pace. Players who have the tenacity to train hard are given opportunities to represent schools at the zonal and national competitions.</p>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-<p style="text-align:justify">The objectives of Chongfu School Table Tennis are to nurture and develop discipline, confidence, resilience, and perseverance among our members. In Chongfu School Table Tennis, we believe that a high level of self-discipline brings about a high level of focus, which is a key to high level of achievement. We also inculcate the values of sportsmanship and teamwork during CCAs where players are given opportunities to work with each other and grow together.</p>
+.slideshow-container {
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+	text-align:center;
+}
 
-<p style="text-align:justify">During trainings, players will learn different techniques such as stroke play, footwork, ball control, serve, defence and attack strategies. In addition, sparring matches are incorporated during training&nbsp;to increase members’ cooperation, competitiveness and game readiness.</p>
+.slides {
+  display: flex;
+  transition: transform 0.5s ease; /* Smooth transition for sliding */
+  width: 1000%; /* Adjust this to match the number of slides */
+}
 
-<h3><strong>CCA Schedule (as of year 2024)</strong></h3>
-<b style="font-size:16px">P3 and P4 Teachers In Charge: Tuesdays</b>
-<ul>
-	<li style="font-size:16px">Mr Silas Abdul Karim <b>(I/C)</b></li>
-	<li style="font-size:16px">Mdm Zhou Wei Hua</li>
-	<li style="font-size:16px">Ms Shi Jia</li>
-</ul>
-<b style="font-size:16px">P5 and P6 Teachers In Charge: Fridays</b>
-<ul>
-	<li style="font-size:16px">Ms Jillyn Woo Wanyi <b>(I/C)</b></li>
-	<li style="font-size:16px">Mr Brian Reis</li>
-</ul>
-<span style="color:blue; font-size:16px"><b>CCA Coaches: </b></span><span style="font-size:16px">
-Mr Wang Xiaoke, Ms Xu Shuguang</span><br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.slide {
+  width: 10%; /* Each slide takes up 10% of the container (for 10 slides) */
+  height: auto;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  cursor: pointer; /* Make the images clickable */
+}
+
+/* Control the slide transition when the radio buttons are selected */
+#slide1:checked ~ .slides {
+  transform: translateX(0);
+}
+
+#slide2:checked ~ .slides {
+  transform: translateX(-10%); /* Move to the second slide */
+}
+
+#slide3:checked ~ .slides {
+  transform: translateX(-20%); /* Move to the third slide */
+}
+
+#slide4:checked ~ .slides {
+  transform: translateX(-30%); /* Move to the fourth slide */
+}
+
+#slide5:checked ~ .slides {
+  transform: translateX(-40%); /* Move to the fifth slide */
+}
+
+#slide6:checked ~ .slides {
+  transform: translateX(-50%); /* Move to the sixth slide */
+}
+
+#slide7:checked ~ .slides {
+transform: translateX(-60%); /* Move to the seventh slide */
+}
+
+#slide8:checked ~ .slides {
+  transform: translateX(-70%); /* Move to the eighth slide */
+}
+
+#slide9:checked ~ .slides {
+  transform: translateX(-80%); /* Move to the ninth slide */
+}
+
+#slide10:checked ~ .slides {
+  transform: translateX(-90%); /* Move to the tenth slide */
+}
+
+/* Mobile Devices (up to 600px) */
+@media (max-width: 600px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Tablet devices (600px to 768px) */
+@media (max-width: 768px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Desktop devices (769px and above) */
+@media (min-width: 769px) {
+.slide img {
+width: 80%;
+height: auto;
+}
+}
 </style>
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bold">Team</span></th>
-    <th class="tg-1wig"><span style="font-weight:bold">Day </span></th>
-    <th class="tg-1wig"><span style="font-weight:bold">Venue</span></th>
-    <th class="tg-1wig"><span style="font-weight:bold">Time</span></th>
-  </tr>
-</thead>
-<tbody>
+<p style="text-align:justify">Our Table Tennis programme provides students with meaningful learning experiences beyond the classroom, fostering both skill development and character growth. The programme offers an inclusive environment where students of all abilities can participate, develop their potential, and enjoy the sport. Those who demonstrate perseverance and dedication are given opportunities to represent the school in national competitions, allowing them to experience challenges that strengthen their resilience and sportsmanship.</p>
+<p style="text-align:justify">Beyond technical skills, students cultivate important values such as teamwork, self-discipline, and determination. Through regular training, they refine their techniques, including stroke play, footwork, ball control, and strategic gameplay. Sparring matches further enhance their competitive mindset, cooperation, and ability to adapt under pressure.</p>
+<p style="text-align:justify">Participating in table tennis nurtures confidence and perseverance, as students learn to embrace setbacks and strive for continuous improvement. The lessons they gain, such as setting goals, overcoming obstacles, and working collaboratively, extend beyond the sport, shaping them into well-rounded individuals who embody the school’s GRACIOUSLY values. </p>
 
+<div class="slideshow-container">
 
-  <tr>
-    <td class="tg-0lax">P3 and P4 Development Team</td>
-    <td class="tg-0lax">Tuesdays</td>
-    <td class="tg-0lax">CCA Room</td>
-    <td class="tg-0lax">1.45pm – 3.45pm</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P5 and P6 Development Team</td>
-    <td class="tg-0lax">Fridays</td>
-    <td class="tg-0lax">CCA Room</td>
-    <td class="tg-0lax">1.45pm – 3.45pm</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">School Team</td>
-    <td class="tg-0lax">Mondays (Term 1 &amp; Term 2)<br> Tuesdays, Fridays (Term 1 to Term 4)</td>
-    <td class="tg-0lax">TKKH Hall</td>
-    <td class="tg-0lax">1.45pm – 3.45pm</td>
-  </tr>
-</tbody>
-</table>
-
-<h3><strong>CCA Achievements</strong></h3>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bold">Year</span></th>
-    <th class="tg-1wig"><span style="font-weight:bold">Competition</span></th>
-    <th class="tg-1wig"><span style="font-weight:bold">Achievements</span></th>
-  </tr>
-</thead>
-<tbody>
-	<tr>
-    <td class="tg-0lax" rowspan="2">2024</td>
-    <td class="tg-0lax">National School Games Table Tennis Senior Division Girls (Nationals)</td>
-    <td class="tg-0lax">2nd position</td>
-  </tr>
-  <tr>
-  </tr><tr>
-    <td class="tg-0lax" rowspan="2">2022</td>
-    <td class="tg-0lax">National School Games Table Tennis Senior Division Boys (North Zone)</td>
-    <td class="tg-0lax">2nd position</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">National School Games Table Tennis Senior Division Girls (North Zone)</td>
-    <td class="tg-0lax">1st position</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" rowspan="2">2021</td>
-    <td class="tg-0lax">National School Games Table Tennis Senior Division Boys (North Zone)</td>
-    <td class="tg-0lax">2nd position</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">National School Games Table Tennis Senior Division Girls (North Zone)</td>
-    <td class="tg-0lax">1st position</td>
-  </tr>
-</tbody>
-</table>
-<br>
-<table style="width: 770px">
-<colgroup>
-<col style="width: 385px">
-<col style="width: 385px">
-</colgroup>
-<tbody>
-<tr>
-<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture01.jpg" style="width:95%"></td>
-<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture03.jpg" style="width:95%"></td>
-</tr>
-<tr>
-<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture02.jpg" style="width:95%"></td>
-<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture04.jpg" style="width:95%"></td>
-</tr>
-<tr>
-<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture05.jpg" style="width:95%"></td>
-<td style="border-color:transparent"><img src="/images/Table_Tennis_Picture06.jpg" style="width:95%"></td>
-</tr>
-</tbody>
-</table>
+<input checked="" id="slide1" name="slide" type="radio">
+<input id="slide2" name="slide" type="radio">
+<input id="slide3" name="slide" type="radio">
+<input id="slide4" name="slide" type="radio">
+<input id="slide5" name="slide" type="radio">
+<input id="slide6" name="slide" type="radio">
+<input id="slide7" name="slide" type="radio">
+<input id="slide8" name="slide" type="radio">
+<input id="slide9" name="slide" type="radio">
+<input id="slide10" name="slide" type="radio">
+<p></p>
+<div class="slides">
+<label class="slide" for="slide2">
+<img alt="Image 1" src="/images/CCA%20Table%20Tennis/TT_01v.jpg">
+</label>
+<label class="slide" for="slide3">
+<img alt="Image 2" src="/images/CCA%20Table%20Tennis/TT_02v.jpg">
+</label>
+<label class="slide" for="slide4">
+<img alt="Image 3" src="/images/CCA%20Table%20Tennis/TT_03v.jpg">
+</label>
+<label class="slide" for="slide5">
+<img alt="Image 4" src="/images/CCA%20Table%20Tennis/TT_04v.jpg">
+</label>
+<label class="slide" for="slide6">
+<img alt="Image 5" src="/images/CCA%20Table%20Tennis/TT_05v.jpg">
+</label>
+<label class="slide" for="slide7">
+<img alt="Image 6" src="/images/CCA%20Table%20Tennis/TT_06v.jpg">
+</label>
+<label class="slide" for="slide8">
+<img alt="Image 7" src="/images/CCA%20Table%20Tennis/TT_07v.jpg">
+</label>
+<label class="slide" for="slide9">
+<img alt="Image 8" src="/images/CCA%20Table%20Tennis/TT_08v.jpg">
+</label>
+<label class="slide" for="slide10">
+<img alt="Image 9" src="/images/CCA%20Table%20Tennis/TT_09v_.jpg">
+</label>
+<label class="slide" for="slide1">
+<img alt="Image 10" src="/images/CCA%20Table%20Tennis/TT_10v.jpg">
+</label>
+</div>
+</div>

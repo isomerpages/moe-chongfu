@@ -5,64 +5,158 @@ description: ""
 third_nav_title: Clubs and Society
 variant: markdown
 ---
-<p style="text-align:justify">Our English Club CCA aims to excite students about the learning of the English language through interesting and engaging activities in a fun environment, helping build their oracy and confidence in public speaking.</p>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-<p style="text-align:justify">The objectives of our CCA are to:</p>
+.slideshow-container {
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+	text-align:center;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease; /* Smooth transition for sliding */
+  width: 1000%; /* Adjust this to match the number of slides */
+}
+
+.slide {
+  width: 10%; /* Each slide takes up 10% of the container (for 10 slides) */
+  height: auto;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  cursor: pointer; /* Make the images clickable */
+}
+
+/* Control the slide transition when the radio buttons are selected */
+#slide1:checked ~ .slides {
+  transform: translateX(0);
+}
+
+#slide2:checked ~ .slides {
+  transform: translateX(-10%); /* Move to the second slide */
+}
+
+#slide3:checked ~ .slides {
+  transform: translateX(-20%); /* Move to the third slide */
+}
+
+#slide4:checked ~ .slides {
+  transform: translateX(-30%); /* Move to the fourth slide */
+}
+
+#slide5:checked ~ .slides {
+  transform: translateX(-40%); /* Move to the fifth slide */
+}
+
+#slide6:checked ~ .slides {
+  transform: translateX(-50%); /* Move to the sixth slide */
+}
+
+#slide7:checked ~ .slides {
+transform: translateX(-60%); /* Move to the seventh slide */
+}
+
+#slide8:checked ~ .slides {
+  transform: translateX(-70%); /* Move to the eighth slide */
+}
+
+#slide9:checked ~ .slides {
+  transform: translateX(-80%); /* Move to the ninth slide */
+}
+
+#slide10:checked ~ .slides {
+  transform: translateX(-90%); /* Move to the tenth slide */
+}
+
+/* Mobile Devices (up to 600px) */
+@media (max-width: 600px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Tablet devices (600px to 768px) */
+@media (max-width: 768px) {
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Desktop devices (769px and above) */
+@media (min-width: 769px) {
+.slide img {
+width: 80%;
+height: auto;
+}
+}
+</style>
+
+<p style="text-align:justify">Our English Club CCA aims to excite students about learning and appreciating the English language through interesting and engaging activities in a fun environment. </p>
+<span style="text-align:justify">Our objectives are:</span>
 <ul>
-	<li>Provide opportunities for students to use the English language purposefully.</li>
-	<li>Cultivate the love of the English language through storytelling and drama.</li>
-	<li>Develop confident speakers, effective communicators and creative thinkers.</li>
+<li>To provide ample opportunities for students to use the English language purposefully.</li>
+<li>To cultivate the love of the English language through storytelling and drama.</li>
+<li>To develop confident speakers, effective communicators and creative thinkers.</li>
 </ul>
-<p style="text-align:justify">Some activities that our English Club CCA carries out include the crafting of storytelling scripts and performing of skits to develop improvisation and characterisation skills, playing educational word games such as Scrabble, and theatre and literary arts appreciation.</p>
+<p style="text-align:justify">Our CCA activities frequently involve group work, helping students practice graciousness and respect during discussions. They also develop a sense of care, offering support and encouragement to their peers. Furthermore, activities such as writing drama scripts and creating news reports with the Moo-V app on iPads foster innovation, encouraging students to think critically and explore effective ways to communicate their ideas to others.</p>
+<p style="text-align:justify">Moreover, our club provides ample opportunities for beyond-school learning. Students get to participate in school events and external competitions/ programmes - e.g. Inter-School National Scrabble Championship (ISNSC), YMCA-Plain English Speaking Award (PESA), ACJC Mythos (Junior Orators) Competition and Moo-O Digital Storytelling Competition amongst many others. </p>
 
-<p style="text-align:justify">Selected students are also given the opportunity to participate in school events and external competitions/ programmes e.g. Wits &amp; Words: Inter-school Debate Championship, Primary School Debate Open (PSDO), Inter-School National Scrabble Championship (ISNSC), YMCA-Plain English Speaking Award (PESA), ACJC Mythos (Junior Orators) Competition, amongst many others.</p>
-
-<b>Teachers In Charge:</b>
-
-<ul>
-<li> Mr Ng Keh Siong Dave <b>(I/C)</b></li>
-<li> Mr Kenn Roy Anthony <b>(2I/C)</b></li>
-<li> Ms Geraldine Ann D'Cotta  </li>
-</ul>
-
-<b>CCA Day &amp; Venue:</b>
-
-<ul>
-<li>Fridays, 1.45pm – 3.45pm | Idea Lab 
-</li>
-</ul>
-
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture2_scrabble.jpg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture3_scrabble.jpeg">
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture4_scrabble.jpeg">
-<img style="float: left; width: 39%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture6_scrabble.jpeg">
-<img style="float: left; width: 59%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture7_scrabble.jpg">
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture8_scrabble.jpeg"> 
-	
-***Students gave an astounding performance at the 22nd Inter-School National Scrabble Championship 2023 and made Chongfu School proud.***
-
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture18_scrabbletraining.jpg">
-<img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture19_scrabbletraining.jpg">
-<img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture20_scrabbletraining.jpg">
-	<img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture21_scrabbletraining.jpeg">
-<img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture22_scrabbletraining.jpeg">
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture23_scrabbletraining.jpg">
-
-***Students having rigorous training sessions to hone their creativity and quick thinking as they expand on their vocabulary and spelling skills to up their experties in the scrabble game.***
-
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture14_debate.jpg">
-<img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture15_debate.jpg">
-<img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture16_debate.jpg">
-<img style="float: left; width: 48.5%; margin-right: 2%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture24_debate.jpeg">
-<img style="float: left; width: 48.5%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture25_debate.jpeg">
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture17_debate.jpg">
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="/images/english_club_cca_2023_picture13_debate.JPG">
-
-***Students rigorously training for one of many debate competitions under the tutelage of a capable and an experienced debate instructor.***
-
-![](/images/english%20club%201.png)
-![](/images/english%20club%202.png)
-![](/images/english%20club%203.png)
-![](/images/english%20club%204.png)
-![](/images/english%20club%205.png)
-![](/images/english%20club%206.png)
+<div class="slideshow-container">
+<input checked="" id="slide1" name="slide" type="radio">
+<input id="slide2" name="slide" type="radio">
+<input id="slide3" name="slide" type="radio">
+<input id="slide4" name="slide" type="radio">
+<input id="slide5" name="slide" type="radio">
+<input id="slide6" name="slide" type="radio">
+<input id="slide7" name="slide" type="radio">
+<input id="slide8" name="slide" type="radio">
+<input id="slide9" name="slide" type="radio">
+<input id="slide10" name="slide" type="radio">
+<p></p>
+<div class="slides">
+<label class="slide" for="slide2">
+<img alt="Image 1" src="/images/CCA%20English%20Club/EC_01v.jpg">
+</label>
+<label class="slide" for="slide3">
+<img alt="Image 2" src="/images/CCA%20English%20Club/EC_02v.jpg">
+</label>
+<label class="slide" for="slide4">
+<img alt="Image 3" src="/images/CCA%20English%20Club/EC_03v.jpg">
+</label>
+<label class="slide" for="slide5">
+<img alt="Image 4" src="/images/CCA%20English%20Club/EC_04v.jpg">
+</label>
+<label class="slide" for="slide6">
+<img alt="Image 5" src="/images/CCA%20English%20Club/EC_05v.jpg">
+</label>
+<label class="slide" for="slide7">
+<img alt="Image 6" src="/images/CCA%20English%20Club/EC_06v.jpg">
+</label>
+<label class="slide" for="slide8">
+<img alt="Image 7" src="/images/CCA%20English%20Club/EC_07v.jpg">
+</label>
+<label class="slide" for="slide9">
+<img alt="Image 8" src="/images/CCA%20English%20Club/EC_08v.jpg">
+</label>
+<label class="slide" for="slide10">
+<img alt="Image 9" src="/images/CCA%20English%20Club/EC_09v.jpg">
+</label>
+<label class="slide" for="slide1">
+<img alt="Image 10" src="/images/CCA%20English%20Club/EC_10v.jpg">
+</label>
+</div>
+</div>
