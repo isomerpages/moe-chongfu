@@ -16,10 +16,10 @@ third_nav_title: Teaching Staff
 .tg .tg-o5fr{background-color:#FFF;color:#FD6500;text-align:left;vertical-align:middle}
 </style>
 
-<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+<table class="tg" style="undefined;table-layout: fixed; width: 560px">
 <colgroup>
-<col style="width: 320px">
-<col style="width: 320px">
+<col style="width: 200px">
+<col style="width: 360px">
 </colgroup>
 <tbody>
 <tr>
