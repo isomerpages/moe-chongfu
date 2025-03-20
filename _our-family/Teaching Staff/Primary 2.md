@@ -42,7 +42,7 @@ third_nav_title: Teaching Staff
 		<tr>
     <td class="tg-yhj3">Gracious</td>
     <td class="tg-yhj3">Ms Siti Sarah Bte Ahmad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_sarah_ahmad@schools.gov.sg">[Email]</a><br>
-Ms Nurashikin Binte Rahmat </td></tr>
+</td></tr>
 		<tr>
     <td class="tg-yhj3">Respectful</td>
     <td class="tg-yhj3">Mdm Ng Ju Li <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_ju_li@schools.gov.sg">[Email]</a><br>
