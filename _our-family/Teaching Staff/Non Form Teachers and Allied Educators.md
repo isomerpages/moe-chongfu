@@ -17,38 +17,28 @@ third_nav_title: Teaching Staff
 </style>
 
 <table class="tg" style="undefined;table-layout: fixed; width: 491px">
-</table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
 <col style="width: 320px">
 <col style="width: 320px">
 </colgroup>
-
 <tbody>
-  <tr>
-    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
-    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
-  </tr>
-	<tr>
-    <td class="tg-yhj3">English and Science Teacher</td>
-    <td class="tg-yhj3"> Ms Liew Xinhua </td></tr>
-		<tr>
-    <td class="tg-yhj3">English and Maths Teacher</td>
-    <td class="tg-yhj3">Mdm Dione Chew Ying Ying </td></tr>
-		<tr>
-    <td class="tg-yhj3">Chinese Teacher</td>
-    <td class="tg-yhj3">Mdm Ding Hui </td></tr>
-		<tr>
-    <td class="tg-yhj3">School Counsellor</td>
-    <td class="tg-yhj3">Ms Ang Boon Hui Cheryl<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_boon_hui@schools.gov.sg">ang_boon_hui@schools.gov.sg</a></td></tr>
-	 <tr><td class="tg-yhj3">SEN Officer</td>
-    <td class="tg-yhj3">Mdm Chin Siew Foong<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chin_siew_foong@schools.gov.sg">chin_siew_foong@schools.gov.sg</a></td></tr>
- <tr><td class="tg-yhj3">SEN Officer</td>
-    <td class="tg-yhj3">Mdm Siti Norkamariah Binte Khalid<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_norkamariah_khalid@schools.gov.sg">siti_norkamariah_khalid@schools.gov.sg</a></td></tr>
- <tr><td class="tg-yhj3">SEN Officer</td>
-    <td class="tg-yhj3">Ms Thenmozhi  D/O Gunasegaran<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:thenmozhi_gunasegaran@schools.gov.sg">thenmozhi_gunasegaran@schools.gov.sg</a></td></tr>
+<tr>
+<td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
+<td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
+</tr>
+<tr>
+<td class="tg-yhj3">School Counsellor</td>
+<td class="tg-yhj3">Ms Ang Boon Hui Cheryl<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_boon_hui@schools.gov.sg">ang_boon_hui@schools.gov.sg</a></td></tr>
+<tr><td class="tg-yhj3">SEN Officer</td>
+<td class="tg-yhj3">Mdm Chin Siew Foong<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chin_siew_foong@schools.gov.sg">chin_siew_foong@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td class="tg-yhj3">SEN Officer</td>
+<td class="tg-yhj3">Mdm Siti Norkamariah Binte Khalid<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_norkamariah_khalid@schools.gov.sg">siti_norkamariah_khalid@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td class="tg-yhj3">SEN Officer</td>
+<td class="tg-yhj3">Ms Thenmozhi  D/O Gunasegaran<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:thenmozhi_gunasegaran@schools.gov.sg">thenmozhi_gunasegaran@schools.gov.sg</a></td>
+</tr>
 </tbody>
 </table>
