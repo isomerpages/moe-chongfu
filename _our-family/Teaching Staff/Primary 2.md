@@ -41,7 +41,7 @@ third_nav_title: Teaching Staff
   </tr>
 		<tr>
     <td class="tg-yhj3">Gracious</td>
-    <td class="tg-yhj3">Ms Siti Sarah Bte Ahmad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_sarah_ahmad@schools.gov.sg">[Email]</a><br>
+    <td class="tg-yhj3">Ms Siti Sarah Bte Ahmad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_sarah_ahmad@schools.gov.sg">[Email]</a><br>Mr Mohamed Izhar Bin Ramlan<br>Mdm Toh Guat Lay
 </td></tr>
 		<tr>
     <td class="tg-yhj3">Respectful</td>
