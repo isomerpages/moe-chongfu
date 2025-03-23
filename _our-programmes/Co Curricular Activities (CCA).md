@@ -56,7 +56,7 @@ body {
 </div>
 <div class="card">
 <h3><strong>Performing Arts</strong></h3>
-<p><a href="/cca-chinese-orchestra/" style="text-decoration:none">Chinese Orchestra</a><br><a href="/cca-festive-drums/" style="text-decoration:none">Festive Drums</a><br><a href="/cca-guzheng/" style="text-decoration:none">Guzheng Ensemble</a><br><a href="/cca-malay-dance/" style="text-decoration:none">Malay Dance</a><br><a href="/cca-modern-contemporary-dance/" style="text-decoration:none">Modern Contemporary Dance</a></p>
+<p><a href="/cca-chinese-orchestra/" style="text-decoration:none">Chinese Orchestra</a><br><a href="/cca-festive-drums/" style="text-decoration:none">Festive Drums</a><br><a href="/cca-guzheng/" style="text-decoration:none">Guzheng</a><br><a href="/cca-malay-dance/" style="text-decoration:none">Malay Dance</a><br><a href="/cca-modern-contemporary-dance/" style="text-decoration:none">Modern Contemporary Dance</a></p>
 </div>
 <div class="card">
 <h3><strong>Sports &amp; Games</strong></h3>
