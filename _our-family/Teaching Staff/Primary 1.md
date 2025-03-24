@@ -29,7 +29,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Gracious</td>
-<td class="tg-yhj3">Mdm Teo Le-Geak <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_le_geak@schools.gov.sg">[Email]</a><br>Mdm Ding Hui</td>
+<td class="tg-yhj3">Mdm Teo Le-Geak <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_le_geak@schools.gov.sg">[Email]</a><br>Mdm V. Devi<br>Mdm Ding Hui</td>
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
@@ -38,7 +38,7 @@ third_nav_title: Teaching Staff
 <tr>
 <td class="tg-yhj3">Achieving</td>
 <td class="tg-yhj3">Ms Luo Huixian Santarina <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:luo_huixian_santarina@schools.gov.sg">[Email]</a><br>
-Mr Muhammad Zulkhair Bin Mustaffa <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:muhammad_zulkhair_mustaffa@schools.gov.sg">[Email]</a></td>
+Mr Muhammad Zulkhair Bin Mustaffa <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:muhammad_zulkhair_mustaffa@schools.gov.sg">[Email]</a><br>Mr Lim Boon Jit Peter</td>
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
