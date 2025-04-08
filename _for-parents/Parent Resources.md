@@ -12,4 +12,4 @@ Please click <a href="/files/SEAB_Approved_Calculators.pdf" target="_blank" rel=
 
 <h4><strong>MIMS Portal Self-Help Guide</strong></h4>
 1. How to set up security questions on MIMS portal?<br>
-Please click 
+Please click
