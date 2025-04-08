@@ -12,4 +12,5 @@ Please click <a href="/files/SEAB_Approved_Calculators.pdf" target="_blank" rel=
 
 <h4><strong>MIMS Portal Self-Help Guide</strong></h4>
 1. How to set up security questions on MIMS portal?<br>
-Please click
+Please click <a href="/files/MIMS_Security_Questions_Guide__Parents__Students_.pdf" target="_blank" rel="noopener noreferrer">here</a> to access the PDF guide.<br><br>
+2. How to access Singapore Student Learning Space (SLS) Info-Site?<br>Please click <a href="/files/SLS_Guide__Parents_Students_.pdf" target="_blank" rel="noopener noreferrer">here</a> to access the PDF guide.<br><br>
