@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/parent-resources/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Parent Resources</div><div class="isomer-card-link">Approved Dictionaries and Calculators</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/parent-resources/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Parent Resources</div><div class="isomer-card-link">Approved Dictionaries and Calculators / MIMS Portal Self-Help Guide</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://chongfu.moe.edu.sg/parenting-tips" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Parenting Tips</div>
