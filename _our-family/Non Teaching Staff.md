@@ -51,11 +51,6 @@ variant: markdown
  <tr><td class="tg-yhj3">Administrative Executive (AE)</td>
     <td class="tg-yhj3">Ms Nurfitri Kasman<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: nurfitri_kasman@moe.edu.sg">nurfitri_kasman@moe.edu.sg</a></td></tr>
-<tr><td class="tg-yhj3">ICT Associate</td>
-    <td class="tg-yhj3">Ms Nur Ziela Binte Ramli<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto: 
-nur_ziela_ramli@moe.edu.sg">
-nur_ziela_ramli@moe.edu.sg</a></td></tr>
 <tr><td class="tg-yhj3">Management Support Officer (MSO)</td>
     <td class="tg-yhj3">Mdm Joyce Lim Kiat Huay<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: lim_kiat_huay@moe.edu.sg">lim_kiat_huay@moe.edu.sg</a></td></tr>
