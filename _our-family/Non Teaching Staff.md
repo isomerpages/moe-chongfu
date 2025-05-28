@@ -51,6 +51,9 @@ variant: markdown
  <tr><td class="tg-yhj3">Administrative Executive (AE)</td>
     <td class="tg-yhj3">Ms Nurfitri Kasman<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: nurfitri_kasman@moe.edu.sg">nurfitri_kasman@moe.edu.sg</a></td></tr>
+<tr><td class="tg-yhj3">Adjunct ICT Associate</td>
+    <td class="tg-yhj3">Ms Siti Razilah Binte Amir Khan<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto: siti_razilah@moe.edu.sg">siti_razilah@moe.edu.sg</a></td></tr>
 <tr><td class="tg-yhj3">Management Support Officer (MSO)</td>
     <td class="tg-yhj3">Mdm Joyce Lim Kiat Huay<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: lim_kiat_huay@moe.edu.sg">lim_kiat_huay@moe.edu.sg</a></td></tr>
@@ -112,10 +115,7 @@ variant: markdown
 </td></tr>
 <tr><td class="tg-yhj3">Desktop Engineer (DE)</td>
     <td class="tg-yhj3">Mr Yakub Hussain Mohamed Elias<br>
-</td></tr>
-<tr><td class="tg-yhj3">ICT Trainer</td>
-    <td class="tg-yhj3">Mdm Siti Razilah Binte Amir Khan<br></td></tr>
-<tr><td class="tg-yhj3">Operations Support Officer (OSO)</td>
+</td></tr><tr><td class="tg-yhj3">Operations Support Officer (OSO)</td>
     <td class="tg-yhj3">Mdm Suminah Bte Salim<br>
 </td></tr>
 <tr><td class="tg-yhj3"> Operations Support Officer (OSO)</td>
