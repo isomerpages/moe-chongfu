@@ -154,7 +154,7 @@ description: ""
     <div class="card-title">Non Teaching Staff</div>
     <img class="image1" alt="Image 5" src="/images/EAS_Staff_Cool_Light.jpg">
     <a href="/our-family/non-teaching-staff/">
-			<img class="image-hover" alt="Image 6" src="/images/EAS_Staff.jpg.png"></a>
+			<img class="image-hover" alt="Image 6" src="/images/EAS_Staff.jpg"></a>
   </div>
 	 <div class="card">
 		 <div class="card-title">Primary 1 Teachers</div>
