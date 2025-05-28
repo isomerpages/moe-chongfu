@@ -52,7 +52,7 @@ description: ""
 
   /* Title positioning */
   .card .card-title {
-    font-size: 1.3em;
+    font-size: 1.2em;
 	  font-weight: bold;
     color: #708090;
     background-color: #F8F8F8;
@@ -146,15 +146,15 @@ description: ""
   </div>
   <div class="card">
     <div class="card-title">School Steering Committee</div>
-    <img class="image1" alt="Image 3" src="/images/Steering_Committee__resize__Cool_Light.png">
+    <img class="image1" alt="Image 3" src="/images/Steering_Committee_Cool_Light.jpg">
     <a href="/our-family/school-steering-committee/">
-			<img class="image-hover" alt="Image 4" src="/images/Steering_Committee__resize_.png"></a>
+			<img class="image-hover" alt="Image 4" src="/images/Steering_Committee.jpg"></a>
   </div>
   <div class="card">
     <div class="card-title">Non Teaching Staff</div>
-    <img class="image1" alt="Image 5" src="/images/Executive_and_Administrative_Staff_resize__Cool_Light.png">
+    <img class="image1" alt="Image 5" src="/images/EAS_Staff_Cool_Light.jpg">
     <a href="/our-family/non-teaching-staff/">
-			<img class="image-hover" alt="Image 6" src="/images/Executive_and_Administrative_Staff_resize_.png"></a>
+			<img class="image-hover" alt="Image 6" src="/images/EAS_Staff.jpg.png"></a>
   </div>
 	 <div class="card">
 		 <div class="card-title">Primary 1 Teachers</div>
