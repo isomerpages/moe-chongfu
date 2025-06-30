@@ -47,7 +47,7 @@ Ms Lim Pei Jun (林老师) <a target="_blank" rel="noopener noreferrer nofollow"
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Ms Nachammai D/O Selva Nachiappan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nachammai_selva_nachiappan@schools.gov.sg">[Email]</a><br>Ms Tok Chai Leng (卓老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tok_chai_leng_a@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Nachammai D/O Selva Nachiappan (Mrs Arun) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nachammai_selva_nachiappan@schools.gov.sg">[Email]</a><br>Mdm Nurul Hakimah Binte Abdul Rahim</td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
