@@ -53,7 +53,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
-<td class="tg-yhj3">Mr Shaik Muhammad Bin Mohamed Haleem <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shaik_muhammad_mohamed_haleem@schools.gov.sg">[Email]</a><br>Ms Li Pei Jie <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_pei_jie@schools.gov.sg">[Email]</a><br>Ms Chen Xiuqin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chen_xiuqin@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mr Shaik Muhammad Bin Mohamed Haleem <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shaik_muhammad_mohamed_haleem@schools.gov.sg">[Email]</a><br>Ms Chen Xiuqin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chen_xiuqin@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
