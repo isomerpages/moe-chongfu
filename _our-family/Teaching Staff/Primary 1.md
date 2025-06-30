@@ -29,7 +29,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Gracious</td>
-<td class="tg-yhj3">Mdm Teo Le-Geak <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_le_geak@schools.gov.sg">[Email]</a><br>Mdm Ding Hui<br>Ms Nurfaeiqah Binte Omar</td>
+<td class="tg-yhj3">Mdm Teo Le-Geak <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_le_geak@schools.gov.sg">[Email]</a><br>Mdm Ding Hui<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Ding_Hui_A@schools.gov.sg">[Email]</a><br>Ms Nurfaeiqah Binte Omar<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Nurfaeiqah_Omar@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
