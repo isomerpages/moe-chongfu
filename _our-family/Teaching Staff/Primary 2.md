@@ -41,7 +41,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
-<td class="tg-yhj3">Mdm Nur Lailie Bte Jamal <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_lailie_jamal@schools.gov.sg">[Email]</a><br>Ms Shang Lingru (尚老師）<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shang_lingru@schools.gov.sg">[Email]</a><br> </td>
+<td class="tg-yhj3">Mdm Nur Lailie Bte Jamal <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_lailie_jamal@schools.gov.sg">[Email]</a><br>Ms Shang Lingru (尚老師）<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shang_lingru@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
