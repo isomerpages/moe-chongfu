@@ -55,11 +55,11 @@ Ms Lim Pei Jun (林老师) <a target="_blank" rel="noopener noreferrer nofollow"
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
-<td class="tg-yhj3">Ms Chew Geik Bee Angeline (Mrs Ong)<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chew_geik_bee_angeline@schools.gov.sg">[Email]</a><br>Ms Tay Lay Cheng</td>
+<td class="tg-yhj3">Ms Chew Geik Bee Angeline (Mrs Ong) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chew_geik_bee_angeline@schools.gov.sg">[Email]</a><br>Ms Tay Lay Cheng</td>
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
-<td class="tg-yhj3">Ms Nur Amirah Sabrina Binte Mohamad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_amirah_sabrina_mohamad@schools.gov.sg">[Email]</a><br>Ms Ang Hui Min Pauline <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: ang_hui_min_pauline@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Nur Amirah Sabrina Binte Mohamad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_amirah_sabrina_mohamad@schools.gov.sg">[Email]</a><br>Ms Ang Hui Min Pauline <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_hui_min_pauline@schools.gov.sg">[Email]</a></td>
 </tr>
 </tbody>
 </table>
