@@ -37,23 +37,23 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
-<td class="tg-yhj3">Ms Tricia Lim Xiu Xuan (林老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tricia_lim_xiu_xuan@schools.gov.sg">[Email]</a><br>Mdm Nurnadiah Begum Binte Asraffe <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nurnadiah_begum_asraffe@schools.gov.sg">[Email]</a><br>Mr Hilary Eric Nerva</td>
+<td class="tg-yhj3">Ms Tricia Lim Xiu Xuan (林老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tricia_lim_xiu_xuan@schools.gov.sg">[Email]</a><br>Mdm Nurnadiah Begum Binte Asraffe <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nurnadiah_begum_asraffe@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
-<td class="tg-yhj3">Ms Shalini d/o Sandra Mohan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shalini_sandra_mohan@schools.gov.sg">[Email]</a><br>Mdm Ong Shu Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_shu_ying@schools.gov.sg">[Email]</a><br>Ms Chiang Yu Rong (张老师)  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chiang_yu_rong@schools.gov.sg">[Email]</a><br></td>
+<td class="tg-yhj3">Ms Shalini d/o Sandra Mohan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shalini_sandra_mohan@schools.gov.sg">[Email]</a><br>Mdm Ong Shu Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_shu_ying@schools.gov.sg">[Email]</a><br>Ms Chiang Yu Rong (张老师)  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chiang_yu_rong@schools.gov.sg">[Email]</a><br>Mr Quek Chin Peng</td>
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Ms Lai Kexin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lai_kexin@schools.gov.sg">[Email]</a><br>Mdm Zheng Shanbo (郑老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_shanbo@schools.gov.sg">[Email]</a><br>Miss Ke Chun Chun <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ke_chunchun@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Lai Kexin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lai_kexin@schools.gov.sg">[Email]</a><br>Miss Ke Chun Chun <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ke_chunchun@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
-<td class="tg-yhj3">Mdm Eng Hwee Yen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:eng_hwee_yen@schools.gov.sg">[Email]</a><br>Mdm Wen Xiwen (闻老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:wen_xiwen_a@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Eng Hwee Yen Veron <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:eng_hwee_yen@schools.gov.sg">[Email]</a><br>Mdm Wen Xiwen (闻老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:wen_xiwen_a@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
-<td class="tg-yhj3">Mr Shaik Muhammad Bin Mohamed Haleem <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shaik_muhammad_mohamed_haleem@schools.gov.sg">[Email]</a><br>Ms Li Pei Jie <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_pei_jie@schools.gov.sg">[Email]</a><br>Ms Chen Xiuqin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chen_xiuqin@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mr Shaik Muhammad Bin Mohamed Haleem <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shaik_muhammad_mohamed_haleem@schools.gov.sg">[Email]</a><br>Ms Chen Xiuqin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chen_xiuqin@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>

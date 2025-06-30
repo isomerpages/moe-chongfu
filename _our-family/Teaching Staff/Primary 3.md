@@ -33,11 +33,11 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-    <td class="tg-yhj3">Mr Kenn Roy Anthony <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:kenn_roy_anthony@schools.gov.sg">[Email]</a><br>Mr Sughan A/L Chandran</td>
+    <td class="tg-yhj3">Mr Kenn Roy Anthony <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:kenn_roy_anthony@schools.gov.sg">[Email]</a><br>Mr Sughan A/L Chandran <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Sughan_Chandran@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
-<td class="tg-yhj3">Mdm Tan Yu Ling Caroline <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_yu_ling_caroline@schools.gov.sg">[Email]</a><br>Ms Rachel Tan Jie Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_jie_ying_rachel@schools.gov.sg">[Email]</a><br>Ms Sakinah Binte Nasri</td>
+<td class="tg-yhj3">Mdm Tan Yu Ling Caroline <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_yu_ling_caroline@schools.gov.sg">[Email]</a><br>Ms Hafidzah Abdullah<br>Ms Sakinah Binte Nasri</td>
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
@@ -49,7 +49,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
-<td class="tg-yhj3">Ms Chua Chia Mei (蔡老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_chia_mei@schools.gov.sg">[Email]</a><br>Ms Eileen Ho Yen Qing</td>
+<td class="tg-yhj3">Ms Chua Chia Mei (蔡老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_chia_mei@schools.gov.sg">[Email]</a><br>Ms Eileen Ho Yen Qing <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_yen_qing_eileen@schools.gov.sg">[Email]</a><br>Ms Normalah Binte Ismail </td>
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
