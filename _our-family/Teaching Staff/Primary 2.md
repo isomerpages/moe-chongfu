@@ -33,7 +33,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-<td class="tg-yhj3">Mdm Ng Ju Li <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_ju_li@schools.gov.sg">[Email]</a><br>Ms Thiyagarajan Kaviya <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:thiyagarajan_kaviya@schools.gov.sg">[Email]</a><br>Ms Bai Yang <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:BAI_YANG@schools.gov.sg">[Email]</a> </td>
+<td class="tg-yhj3">Mdm Ng Ju Li (Mrs Tan) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_ju_li@schools.gov.sg">[Email]</a><br>Ms Thiyagarajan Kaviya <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:thiyagarajan_kaviya@schools.gov.sg">[Email]</a><br>Ms Bai Yang <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:BAI_YANG@schools.gov.sg">[Email]</a> </td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
