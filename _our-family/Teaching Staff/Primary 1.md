@@ -42,8 +42,7 @@ Mr Muhammad Zulkhair Bin Mustaffa <a target="_blank" rel="noopener noreferrer no
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
-<td class="tg-yhj3">Ms Lin Wan Ting Joli (林老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lin_wanting_joli@schools.gov.sg">[Email]</a><br>
-Mdm Lilys Satini Thamrin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lilys_satini_thamrin@schools.gov.sg">[Email]</a><br>Ms Tham Loke Mun <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tham_loke_mun_a@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Lin Wan Ting Joli (林老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lin_wanting_joli@schools.gov.sg">[Email]</a><br>Ms Tham Loke Mun <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tham_loke_mun_a@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
