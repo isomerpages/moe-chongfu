@@ -50,7 +50,7 @@ Mr Muhammad Zulkhair Bin Mustaffa <a target="_blank" rel="noopener noreferrer no
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
-<td class="tg-yhj3">Mdm Goh Siew Peng (吴老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_siew_peng@schools.gov.sg">[Email]</a><br>Ms Shona Cha Siew Lian <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shona_cha_siew_lian@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Goh Siew Peng (吴老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_siew_peng@schools.gov.sg">[Email]</a><br>Ms Shona Cha Siew Lian <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shona_cha_siew_lian@schools.gov.sg">[Email]</a><br>Ms Wang Zhuoyun Cindy</td>
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
