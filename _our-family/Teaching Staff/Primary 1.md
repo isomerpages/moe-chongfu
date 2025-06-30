@@ -33,7 +33,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-<td class="tg-yhj3">Ms Chan Jing Ling (陈老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_jing_ling@schools.gov.sg">[Email]</a><br>Ms Dione Chew Ying Ying</td>
+<td class="tg-yhj3">Ms Chan Jing Ling (陈老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_jing_ling@schools.gov.sg">[Email]</a><br>Ms Dione Chew Ying Ying<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Dione_Chew_Ying_Ying@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
@@ -46,7 +46,7 @@ Mr Muhammad Zulkhair Bin Mustaffa <a target="_blank" rel="noopener noreferrer no
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Mdm Ngiam Wen Yuan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ngiam_wen_yuan@schools.gov.sg">[Email]</a><br>Mr Chia Eng Lee <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chia_eng_lee_a@schools.gov.sg">[Email]</a><br>Ms Siti Nabilah Binte Othman</td>
+<td class="tg-yhj3">Mdm Ngiam Wen Yuan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ngiam_wen_yuan@schools.gov.sg">[Email]</a><br>Mr Chia Eng Lee <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chia_eng_lee_a@schools.gov.sg">[Email]</a><br>Ms Siti Nabilah Binte Othman<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Siti_Nabilah_Othman@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
