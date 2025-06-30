@@ -38,7 +38,7 @@ third_nav_title: Teaching Staff
 <tr>
 <td class="tg-yhj3">Achieving</td>
 <td class="tg-yhj3">Ms Luo Huixian Santarina <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:luo_huixian_santarina@schools.gov.sg">[Email]</a><br>
-Mr Muhammad Zulkhair Bin Mustaffa <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:muhammad_zulkhair_mustaffa@schools.gov.sg">[Email]</a><br>Mr Lim Boon Jit Peter</td>
+Mr Muhammad Zulkhair Bin Mustaffa <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:muhammad_zulkhair_mustaffa@schools.gov.sg">[Email]</a><br>Ms Thyra Binte Juhari<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:thyra_juhari@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
