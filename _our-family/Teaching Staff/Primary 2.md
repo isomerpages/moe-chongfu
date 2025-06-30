@@ -53,7 +53,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
-<td class="tg-yhj3">Ms Malani D/O Selvaraj <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:malani_selvaraj@schools.gov.sg">[Email]</a><br>Mrs V J Naidu	<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:vadugaiah_vasavthra_devi@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mr Mui Chee Kee Alan<br>Mrs V J Naidu</td>
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
