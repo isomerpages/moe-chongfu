@@ -49,7 +49,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
-<td class="tg-yhj3">Ms Chua Chia Mei (蔡老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_chia_mei@schools.gov.sg">[Email]</a><br>Ms Eileen Ho Yen Qing<br>Ms Normalah Binte Ismail</td>
+<td class="tg-yhj3">Ms Chua Chia Mei (蔡老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_chia_mei@schools.gov.sg">[Email]</a><br>Ms Eileen Ho Yen Qing <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_yen_qing_eileen@schools.gov.sg">[Email]</a><br>Ms Normalah Binte Ismail </td>
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
