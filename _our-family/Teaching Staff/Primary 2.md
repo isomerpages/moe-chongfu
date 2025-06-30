@@ -29,11 +29,11 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Gracious</td>
-<td class="tg-yhj3">Ms Siti Sarah Bte Ahmad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_sarah_ahmad@schools.gov.sg">[Email]</a><br>Mdm Toh Guat Lay <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_guat_lay@schools.gov.sg">[Email]</a><br>Mr Mohamed Izhar Bin Ramlan<br></td>
+<td class="tg-yhj3">Ms Siti Sarah Bte Ahmad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_sarah_ahmad@schools.gov.sg">[Email]</a><br>Mdm Toh Guat Lay <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_guat_lay@schools.gov.sg">[Email]</a><br>Mr Mohamed Izhar Bin Ramlan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mohamad_izhar_ramlan@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-<td class="tg-yhj3">Mdm Ng Ju Li <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_ju_li@schools.gov.sg">[Email]</a><br>Ms Thiyagarajan Kaviya <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:thiyagarajan_kaviya@schools.gov.sg">[Email]</a><br>Ms Bai Yang </td>
+<td class="tg-yhj3">Mdm Ng Ju Li <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_ju_li@schools.gov.sg">[Email]</a><br>Ms Thiyagarajan Kaviya <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:thiyagarajan_kaviya@schools.gov.sg">[Email]</a><br>Ms Bai Yang <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:BAI_YANG@schools.gov.sg">[Email]</a> </td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
@@ -53,7 +53,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
-<td class="tg-yhj3">Mr Mui Chee Kee Alan<br>Mrs V J Naidu</td>
+<td class="tg-yhj3">Mr Mui Chee Kee Alan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mui_chee_kee@schools.gov.sg">[Email]</a><br>Mrs V J Naidu <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Vadugaiah_Vasanthra_Devi@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
