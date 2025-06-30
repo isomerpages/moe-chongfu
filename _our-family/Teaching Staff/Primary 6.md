@@ -44,7 +44,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Ms Lee Huoy Fen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lee_huoy_fen@schools.gov.sg">[Email]</a><br>Mr Sarkunan S/O Shanmugam<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sarkunan_shanmugam@schools.gov.sg">[Email]</a><br>Mdm Aini Bujang</td>
+<td class="tg-yhj3">Ms Lee Huoy Fen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lee_huoy_fen@schools.gov.sg">[Email]</a><br>Mr Sarkunan S/O Shanmugam<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sarkunan_shanmugam@schools.gov.sg">[Email]</a><br>Mdm Aini Bujang <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:aini_bujang@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
