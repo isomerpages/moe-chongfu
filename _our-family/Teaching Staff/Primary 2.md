@@ -65,7 +65,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Youthful</td>
-<td class="tg-yhj3">Mdm Tan Hui Yin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_hui_yin@schools.gov.sg">[Email]</a><br>Mrs Lim Meng Wah <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_meng_wah@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Tan Hui Yin (Mrs Lau) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_hui_yin@schools.gov.sg">[Email]</a><br>Mrs Lim Meng Wah <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_meng_wah@schools.gov.sg">[Email]</a></td>
 </tr>
 </tbody>
 </table>
