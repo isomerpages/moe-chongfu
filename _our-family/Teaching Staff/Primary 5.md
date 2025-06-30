@@ -47,11 +47,11 @@ Ms Lim Pei Jun (林老师) <a target="_blank" rel="noopener noreferrer nofollow"
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Ms Nachammai D/O Selva Nachiappan (Mrs Arun) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nachammai_selva_nachiappan@schools.gov.sg">[Email]</a><br>Mdm Nurul Hakimah Binte Abdul Rahim</td>
+<td class="tg-yhj3">Ms Nachammai D/O Selva Nachiappan (Mrs Arun) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nachammai_selva_nachiappan@schools.gov.sg">[Email]</a><br>Mdm Nurul Hakimah Binte Abdul Rahim <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nurul_hakimah@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
-<td class="tg-yhj3">Ms Loh Jasmine <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loh_jasmine@schools.gov.sg">[Email]</a><br>Mdm Sri Rahayu Binte Ramlan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sri_rahayu_ramlan@schools.gov.sg">[Email]</a><br>Ms Preeti Kajol Kaur D/O Hardeep Singh</td>
+<td class="tg-yhj3">Ms Loh Jasmine <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loh_jasmine@schools.gov.sg">[Email]</a><br>Mdm Sri Rahayu Binte Ramlan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sri_rahayu_ramlan@schools.gov.sg">[Email]</a><br>Ms Preeti Kajol Kaur D/O Hardeep Singh <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Preeti_Kajol_Kaur_Hardeep@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
