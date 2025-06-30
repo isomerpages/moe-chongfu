@@ -51,7 +51,7 @@ Ms Lim Pei Jun (林老师) <a target="_blank" rel="noopener noreferrer nofollow"
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
-<td class="tg-yhj3">Ms Loh Jasmine <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loh_jasmine@schools.gov.sg">[Email]</a><br>Mdm Sri Rahayu Binte Ramlan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sri_rahayu_ramlan@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Loh Jasmine <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loh_jasmine@schools.gov.sg">[Email]</a><br>Mdm Sri Rahayu Binte Ramlan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sri_rahayu_ramlan@schools.gov.sg">[Email]</a><br>Ms Preeti Kajol Kaur D/O Hardeep Singh</td>
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
