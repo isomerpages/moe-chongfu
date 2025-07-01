@@ -93,6 +93,11 @@ variant: markdown
     <td class="tg-yhj3">Mdm Ang Hui Min Pauline <br>
 			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_hui_min_pauline@schools.gov.sg">ang_hui_min_pauline@schools.gov.sg</a></td>
  </tr>		
+			<tr>
+    <td class="tg-yhj3">Head of Department<br>Physical Education</td>
+    <td class="tg-yhj3">Mr Alan Mui <br>
+			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_hui_min_pauline@schools.gov.sg">mui_chee_kee@schools.gov.sg</a></td>
+ </tr>		
 	<tr>
     <td class="tg-yhj3">Year Head<br>Primary 3 and 4</td>
     <td class="tg-yhj3">Mdm Ong Shu Ying <br>
