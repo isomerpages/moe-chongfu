@@ -37,7 +37,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
-<td class="tg-yhj3">Mdm Tan Yu Ling Caroline <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_yu_ling_caroline@schools.gov.sg">[Email]</a><br>Ms Hafidzah Abdullah<br>Ms Sakinah Binte Nasri</td>
+<td class="tg-yhj3">Mdm Tan Yu Ling Caroline <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_yu_ling_caroline@schools.gov.sg">[Email]</a><br>Ms Hafidzah Abdullah <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Hafidzah_Abdullah@schools.gov.sg">[Email]</a><br>Ms Sakinah Binte Nasri <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Sakinah_Nasri@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
@@ -49,7 +49,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
-<td class="tg-yhj3">Ms Chua Chia Mei (蔡老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_chia_mei@schools.gov.sg">[Email]</a><br>Ms Eileen Ho Yen Qing <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_yen_qing_eileen@schools.gov.sg">[Email]</a><br>Ms Normalah Binte Ismail </td>
+<td class="tg-yhj3">Ms Chua Chia Mei (蔡老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_chia_mei@schools.gov.sg">[Email]</a><br>Ms Eileen Ho Yen Qing <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_yen_qing_eileen@schools.gov.sg">[Email]</a><br>Ms Normalah Binte Ismail <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:normalah_ismail@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
