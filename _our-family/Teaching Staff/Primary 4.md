@@ -57,7 +57,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
-<td class="tg-yhj3">Ms Nur Syafiqah Binte Mohamad Sham <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_syafiqah_mohamad_sham@schools.gov.sg">[Email]</a><br>Ms Liew Xinhua</td>
+<td class="tg-yhj3">Ms Nur Syafiqah Binte Mohamad Sham <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_syafiqah_mohamad_sham@schools.gov.sg">[Email]</a><br>Ms Liew Xinhua <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Liew_Xinhua@schools.gov.sg">[Email]</a></td>
 </tr>
 </tbody>
 </table>
