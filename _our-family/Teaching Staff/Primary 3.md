@@ -33,7 +33,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-    <td class="tg-yhj3">Mr Kenn Roy Anthony <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:kenn_roy_anthony@schools.gov.sg">[Email]</a><br>Mr Sughan A/L Chandran <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Sughan_Chandran@schools.gov.sg">[Email]</a></td>
+    <td class="tg-yhj3">Mr Kenn Roy Anthony <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:kenn_roy_anthony@schools.gov.sg">[Email]</a><br>Mr Sughan Chandran <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Sughan_Chandran@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
@@ -45,7 +45,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Ms Jillyn Woo Wanyi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jillyn_woo_wan_yi@schools.gov.sg">[Email]</a><br>Ms Sunitha Pillay <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:s_sunitha_pillay@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Jillyn Woo Wanyi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jillyn_woo_wan_yi@schools.gov.sg">[Email]</a><br>Ms Sunitha Pillay <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:s_sunitha_pillay@schools.gov.sg">[Email]</a><br>Ms Ummuz Zsakiyyah Binte Arifin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Ummuz_Zsakiyyah_Arifin@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
