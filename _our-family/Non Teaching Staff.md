@@ -109,9 +109,9 @@ variant: markdown
 	 <tr><td class="tg-yhj3">Dental Nurse</td>
     <td class="tg-yhj3">Mdm Ang Yoke Hoo<br></td></tr>
  <tr><td class="tg-yhj3">Science Lab Assistant</td>
-    <td class="tg-yhj3">Ms Ain Syafiqa Binte Mohd Azhar<br></td></tr>
- <tr><td class="tg-yhj3">Desktop Engineer (DE)</td>
-    <td class="tg-yhj3">Mr Ravinder Supparamaiam<br>
+    <td class="tg-yhj3">Ms Kumarasamy Rajesparee<br></td></tr>
+ <tr><td class="tg-yhj3">Receptionist</td>
+    <td class="tg-yhj3">Mdm Dania Lestari Binte Wan Yusof<br>
 </td></tr>
 <tr><td class="tg-yhj3">Desktop Engineer (DE)</td>
     <td class="tg-yhj3">Mr Yakub Hussain Mohamed Elias<br>
