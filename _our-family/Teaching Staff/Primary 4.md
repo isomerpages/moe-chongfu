@@ -41,11 +41,11 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
-<td class="tg-yhj3">Ms Shalini d/o Sandra Mohan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shalini_sandra_mohan@schools.gov.sg">[Email]</a><br>Mdm Ong Shu Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_shu_ying@schools.gov.sg">[Email]</a><br>Ms Chiang Yu Rong (张老师)  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chiang_yu_rong@schools.gov.sg">[Email]</a><br>Mr Quek Chin Peng <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Quek_Chin_Peng_B@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Shalini d/o Sandra Mohan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shalini_sandra_mohan@schools.gov.sg">[Email]</a><br>Mdm Ong Shu Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_shu_ying@schools.gov.sg">[Email]</a><br>Mr Quek Chin Peng <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Quek_Chin_Peng_B@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Ms Lai Kexin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lai_kexin@schools.gov.sg">[Email]</a><br>Miss Ke Chun Chun <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ke_chunchun@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Lai Kexin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lai_kexin@schools.gov.sg">[Email]</a><br>Miss Ke Chun Chun <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ke_chunchun@schools.gov.sg">[Email]</a><br>Ms Liu Chang <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Liu_Chang_E@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
