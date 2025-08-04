@@ -144,9 +144,6 @@ variant: markdown
 		<td class="tg-yhj3">Ms Soh Jingsi (Violet)<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:soh_jingsi@schools.gov.sg">soh_jingsi@schools.gov.sg</a></td>
 	</tr>
 	<tr>
-		</tr><tr>
-    <td class="tg-yhj3">Subject Head<br>Physical Education</td>
-		<td class="tg-yhj3">Mdm Ngiam Wen Yuan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ngiam_wen_yuan@schools.gov.sg">ngiam_wen_yuan@schools.gov.sg</a></td>
 	</tr>
 	<tr>
     <td class="tg-yhj3">Subject Head<br>Student Discipline</td>
