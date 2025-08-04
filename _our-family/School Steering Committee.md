@@ -76,7 +76,7 @@ variant: markdown
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_yijun_elaine@schools.gov.sg">zheng_yijun_elaine@schools.gov.sg</a></td>
   </tr>	
 	<tr>
-    <td class="tg-yhj3">Head of Department<br>Mother Tongue Language</td>
+    <td class="tg-yhj3">Head of Department<br>Mother Tongue Languages</td>
     <td class="tg-yhj3">Ms Low Hwee Pin<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:low_hwee_pin@schools.gov.sg">low_hwee_pin@schools.gov.sg</a></td>
   </tr>
@@ -94,7 +94,7 @@ variant: markdown
 			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_hui_min_pauline@schools.gov.sg">ang_hui_min_pauline@schools.gov.sg</a></td>
  </tr>		
 			<tr>
-    <td class="tg-yhj3">Head of Department<br>Physical Education</td>
+    <td class="tg-yhj3">Head of Department<br>Physical Education &amp; Co-curricular Activities </td>
     <td class="tg-yhj3">Mr Alan Mui <br>
 			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_hui_min_pauline@schools.gov.sg">mui_chee_kee@schools.gov.sg</a></td>
  </tr>		
