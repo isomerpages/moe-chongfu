@@ -29,6 +29,9 @@ third_nav_title: Teaching Staff
 <tr>
 <td class="tg-yhj3">Senior School Counsellor</td>
 <td class="tg-yhj3">Ms Ang Boon Hui Cheryl<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_boon_hui@schools.gov.sg">ang_boon_hui@schools.gov.sg</a></td></tr>
+<tr>
+<td class="tg-yhj3">School Counsellor</td>
+<td class="tg-yhj3">Ms Jeevitha D/O Thamil Selvan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jeevitha_thamil_selvan@schools.gov.sg">jeevitha_thamil_selvan@schools.gov.sg</a></td></tr>
 <tr><td class="tg-yhj3">Senior SEN Officer</td>
 <td class="tg-yhj3">Mdm Chin Siew Foong<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chin_siew_foong@schools.gov.sg">chin_siew_foong@schools.gov.sg</a></td>
 </tr>
