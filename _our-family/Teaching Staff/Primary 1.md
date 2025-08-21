@@ -62,7 +62,7 @@ Mr Muhammad Zulkhair Bin Mustaffa <a target="_blank" rel="noopener noreferrer no
 </tr>
 <tr>
 <td class="tg-yhj3">Loyal</td>
-<td class="tg-yhj3">Ms Yeo Seow Mei Jenny (杨老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jenny_yeo_seow_mei@schools.gov.sg">[Email]</a><br>Ms Norhayati Maksom <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:norhayati_maksom@schools.gov.sg">[Email]</a><br>Ms Li Pei Jie <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_pei_jie@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Yeo Seow Mei Jenny (杨老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jenny_yeo_seow_mei@schools.gov.sg">[Email]</a><br>Ms Li Pei Jie <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_pei_jie@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Youthful</td>
