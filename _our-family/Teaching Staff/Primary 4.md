@@ -45,7 +45,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Ms Lai Kexin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lai_kexin@schools.gov.sg">[Email]</a><br>Miss Ke Chun Chun <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ke_chunchun@schools.gov.sg">[Email]</a><br>Ms Liu Chang <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Liu_Chang_E@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Lai Kexin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lai_kexin@schools.gov.sg">[Email]</a><br>Ms Liu Chang <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Liu_Chang_E@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
