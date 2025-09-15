@@ -4,7 +4,7 @@ permalink: /for-students/
 variant: tiptap
 description: ""
 ---
-<h4><strong>MOE Check-in Survey Term 1 2025</strong></h4>
+<h4><strong>MOE Check-in Survey Term 4 2025</strong></h4>
 <p></p>
 <p>Primary 1<em>: </em><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vKLzn7</a>
 </p>
