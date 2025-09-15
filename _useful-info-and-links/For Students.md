@@ -6,16 +6,17 @@ description: ""
 ---
 <h4><strong>MOE Check-in Survey Term 1 2025</strong></h4>
 <p></p>
-<p>Primary 1<em>: <a rel="noopener noreferrer nofollow" target="_blank">https://www.dancemattypingguide.com/dance-mat-typing-level-1/stage-1/</a></em>
+<p>Primary 1<em>: </em><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vKLzn7</a>
 </p>
-<p>Primary 2: <a href="https://forms.moe.edu.sg/forms/oanY1e" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oanY1e</a>
+<p>Primary 2: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JBB29l</a>
 </p>
-<p>Primary 3: <a href="https://forms.moe.edu.sg/forms/vyOw7w" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vyOw7w</a>
+<p>Primary 3: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J5DERp</a>
 </p>
-<p>Primary 4: <a href="https://forms.moe.edu.sg/forms/vwZEbN" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vwZEbN</a>
+<p>Primary 4: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JAz3pG</a>
 </p>
-<p>Primary 5: <a href="https://forms.moe.edu.sg/forms/J2O8Rm" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J2O8Rm</a>
+<p>Primary 5: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oOqLdV</a>
 </p>
-<p>Primary 6: <a href="https://forms.moe.edu.sg/forms/J9bgdx" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J9bgdx</a>
+<p>Primary 6: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/odKlaW</a>
 </p>
+<p></p>
 <p></p>
