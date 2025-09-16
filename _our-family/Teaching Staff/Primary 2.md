@@ -29,7 +29,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Gracious</td>
-<td class="tg-yhj3">Ms Siti Sarah Bte Ahmad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_sarah_ahmad@schools.gov.sg">[Email]</a><br>Mdm Toh Guat Lay (Mrs Teng) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_guat_lay@schools.gov.sg">[Email]</a><br>Mr Mohamed Izhar Bin Ramlan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mohamad_izhar_ramlan@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Toh Guat Lay (Mrs Teng) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_guat_lay@schools.gov.sg">[Email]</a><br>Mr Mohamed Izhar Bin Ramlan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mohamad_izhar_ramlan@schools.gov.sg">[Email]</a><br>Ms Siti Zulaika Binte Salleh</td>
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
@@ -37,7 +37,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
-<td class="tg-yhj3">Ms M Monessha Nair <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:m_monessha_nair@schools.gov.sg">[Email]</a><br>Mdm Lilys Satini Thamrin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lilys_satini_thamrin@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms M Monessha Nair <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:m_monessha_nair@schools.gov.sg">[Email]</a><br>Mdm Lilys Satini Thamrin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lilys_satini_thamrin@schools.gov.sg">[Email]</a><br>Ms Sung Wei Yee</td>
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
