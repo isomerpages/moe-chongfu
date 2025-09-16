@@ -33,7 +33,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-<td class="tg-yhj3">Mdm Sharifah Najibah <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sharifah_najibah_syed_mustapa@schools.gov.sg">[Email]</a><br> Mdm Ho Ser Hui <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_ser_hui@moe.edu.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Sharifah Najibah <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sharifah_najibah_syed_mustapa@schools.gov.sg">[Email]</a><br> Mdm Ho Ser Hui </td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
