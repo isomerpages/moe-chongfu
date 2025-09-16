@@ -33,7 +33,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-<td class="tg-yhj3">Mdm Sharifah Najibah <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sharifah_najibah_syed_mustapa@schools.gov.sg">[Email]</a><br> Ms Leau Wan Hwee <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:leau_wan_hwee@schools.edu.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Sharifah Najibah <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sharifah_najibah_syed_mustapa@schools.gov.sg">[Email]</a><br> Mdm Ho Ser Hui <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_ser_hui@moe.edu.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
@@ -41,7 +41,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
-<td class="tg-yhj3">Ms Shalini d/o Sandra Mohan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shalini_sandra_mohan@schools.gov.sg">[Email]</a><br>Mdm Ong Shu Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_shu_ying@schools.gov.sg">[Email]</a><br>Mr Quek Chin Peng <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Quek_Chin_Peng_B@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Chiang Yu Rong <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chiang_yu_rong@schools.gov.sg">[Email]</a><br>Ms Shalini d/o Sandra Mohan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shalini_sandra_mohan@schools.gov.sg">[Email]</a><br>Mdm Ong Shu Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_shu_ying@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
@@ -53,7 +53,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
-<td class="tg-yhj3">Mr Shaik Muhammad Bin Mohamed Haleem <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shaik_muhammad_mohamed_haleem@schools.gov.sg">[Email]</a><br>Ms Chen Xiuqin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chen_xiuqin@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mr Shaik Muhammad Bin Mohamed Haleem <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shaik_muhammad_mohamed_haleem@schools.gov.sg">[Email]</a><br>Ms Chen Xiuqin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chen_xiuqin@schools.gov.sg">[Email]</a><br>Ms Dhurga Devi d/o Ramasamy <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Dhurga_Devi_Ramasamy@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
