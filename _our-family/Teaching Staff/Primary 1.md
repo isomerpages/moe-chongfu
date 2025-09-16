@@ -58,7 +58,7 @@ Mr Muhammad Zulkhair Bin Mustaffa <a target="_blank" rel="noopener noreferrer no
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
-<td class="tg-yhj3">Ms Chong Yue Yen Juliana <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chong_yue_yen@schools.gov.sg">[Email]</a><br>Ms Tee Sow Chin (郑老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tee_sow_chin@schools.gov.sg">[Email]</a><br>Ms Dhurga Devi d/o Ramasamy <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:dhurga_devi_ramasamy@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Chong Yue Yen Juliana <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chong_yue_yen@schools.gov.sg">[Email]</a><br>Ms Tee Sow Chin (郑老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tee_sow_chin@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Loyal</td>
