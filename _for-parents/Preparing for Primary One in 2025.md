@@ -50,5 +50,4 @@ variant: markdown
 
 *   [Passion Application Form_FormSG](https://go.gov.sg/rt226d)
 *   [The Dads@Chongfu Video](http://shorturl.at/cwF14)
-*   [Parent Support Group (PASSION) Video](https://tinyurl.com/y6rhd9vy)
 *   [Parent Support Group (PASSION) Video](https://docs.google.com/presentation/d/e/2PACX-1vSJ1wFR1a6yzrldyqiRn2Ipe4Jrjimq5VGb4_NOrNOEd7xQCOqQoqCkM_u73mBVTQ9La7AzdGZADXhw/pub?start=true&amp;loop=true&amp;delayms=3000)
