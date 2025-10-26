@@ -48,6 +48,10 @@ variant: markdown
  <tr><td class="tg-yhj3">Vice-Principal <br>(Academic)</td>
     <td class="tg-yhj3">Ms Angelynna Lim Hwee Mien<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
+	 <tr><td class="tg-yhj3">Vice-Principal <br>(Academic)</td>
+    <td class="tg-yhj3">Ms Lea Shu Hui<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
+	
  <tr><td class="tg-yhj3">Vice-Principal <br>(Administration)</td>
     <td class="tg-yhj3">Mr Tan Jin Lieng, Alvin<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
