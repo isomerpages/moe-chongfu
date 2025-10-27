@@ -9,45 +9,47 @@ variant: markdown
 <strong><u>GIRO and Enrichment Programme Standing Order (EPSO) for Edusave Account</u></strong>
 
 *   [Information on School fees](https://www.moe.gov.sg/financial-matters/fees?toggle-id=giro)
-*   [MOE eGIRO Services](https://www.moe.gov.sg/financial-matters/fees/egiro)
 *   [Information on Edusave Account](https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds?toggle-id=moe-funded-schools)
-*   [Application for EPSO](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
+*  [(A) Information Sheet - GIRO and Edusave Standing Order (SC Students)](/files/A__Information_Sheet___GIRO_and_Edusave_Standing_Order__SC_Students_.pdf)
+*  [(B) Information Sheet - GIRO Standing Order (non-SC Students)](/files/B__Information_Sheet___GIRO_Standing_Order__non_SC_Students_.pdf)
 
 **<u>Declaration on Medical Conditions/ Special Educational Needs</u>**
-*  Link: [https://form.gov.sg/6715cff8380689b626de9c51](https://form.gov.sg/6715cff8380689b626de9c51)
+*  Link: [https://form.gov.sg/68d4f633cc8c39d8e83f620b](https://form.gov.sg/68d4f633cc8c39d8e83f620b)
 
 
 **<u>MOE Financial Assistance Scheme (MOE FAS)</u>**
 
-* [MOE FAS Pamphlet](/files/MOE_FAS_Pamphlet.pdf)
 
-* [MOE FAS Application Form](https://go.gov.sg/moe-efas)
+* [MOE Press Release ](https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students)
 
-* [Financial Assistance Eligibility checker ](https://www.moe.gov.sg/financial-matters/financial-assistance)
+* [MOE FAS Application Form](https://go.gov.sg/moe-efasggas)
 
 
 
 **<u>School Essential Supplies - Textbooks &amp; Stationeries</u>**
 
-* [P1 Booklist 2025](/files/Booklist.pdf)
+* [P1 Booklist 2026](/files/P1_2026_Booklist.pdf)
 
-* [Online Purchase (from 7 November 2024 – 14 December 2024)](https://www.pacificbookstores.com/public/)
+* [Online Purchase (from 11 November 2025 – 13 December 2025)](https://www.pacificbookstores.com/public/)
 
 **<u>School Essential Supplies - Uniform</u>**
-* [CFS Uniform Selling Dates](/files/Uniform_Sale_Dates.pdf)
+* [CFS Uniform Selling Dates](/files/2025_Sales_Date_for_CFS___Uniform.pdf)
 * [Online Purchase](https://www.euniforms.com.sg/shop/product-category/primary-schools/cfps/)
 
 **<u>Application for Bus Transport</u>**
-*   [School Bus Registration](https://www.tongtar.com) (Please register by **30 November 2024**)
+*   [School Bus Registration](https://www.tongtar.com/school-bus-registration/chongfu-school/) (Please register by **30 November 2025**)
 *   Contact: 6261 5537 / 9773 0426 (Whatsapp or SMS)
 *   Email: chongfu@tongtar.com
 
+**<u>Application for School Dental Services</u>**
+*  [School Dental Programme](https://www.healthhub.sg/programmes/school_dental_programme)
+*  [Youth Preventive Dental Service Video](https://go.gov.sg/schdentalservices)
+
+
 **<u>Application for Student Care Service</u>**
-*  [Student Care Registration](/files/Student_Care.pdf)
+*  [Student Care Registration](/files/SSC_Registration_Form.pdf)
 *  [Big Heart Student Care Corporate Video](https://youtu.be/SyIR_kgAnks)
 
 **<u>Parent Support Group (PASSION)</u>**
 
-*   [Passion Application Form_FormSG](https://go.gov.sg/rt226d)
-*   [The Dads@Chongfu Video](http://shorturl.at/cwF14)
-*   [Parent Support Group (PASSION) Video](https://docs.google.com/presentation/d/e/2PACX-1vSJ1wFR1a6yzrldyqiRn2Ipe4Jrjimq5VGb4_NOrNOEd7xQCOqQoqCkM_u73mBVTQ9La7AzdGZADXhw/pub?start=true&amp;loop=true&amp;delayms=3000)
+*   [Passion Application Form_FormSG](https://go.gov.sg/passion-2026)
