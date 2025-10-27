@@ -4,7 +4,7 @@ permalink: /useful-links/for-parents/preparing-for-primary-one-in-2026/
 description: ""
 variant: markdown
 ---
-**Preparing for Primary One in 2025**
+**Preparing for Primary One in 2026**
 
 <strong><u>GIRO and Enrichment Programme Standing Order (EPSO) for Edusave Account</u></strong>
 
