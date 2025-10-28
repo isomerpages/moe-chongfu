@@ -19,4 +19,8 @@ description: ""
 <p>Primary 6: <a href="https://forms.moe.edu.sg/forms/odKlaW" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/odKlaW</a>
 </p>
 <p></p>
+<h4><strong>P2 VLJ 2025</strong></h4>
+<p>link: <a href="https://www.harokostudio.com/wp-content/uploads/project/chinatown-heritage-centre/chc.html" rel="noopener noreferrer nofollow" target="_blank">https://www.harokostudio.com/wp-content/uploads/project/chinatown-heritage-centre/chc.html</a>
+</p>
+<p></p>
 <p></p>
