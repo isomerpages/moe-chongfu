@@ -42,4 +42,4 @@ description: ""
 * [Primary 6 Foundation Booklist](/files/2025_Primary_P6__Foundation__Booklist.pdf)
 
 
-[Back to Links for Parents](/links-for-parents/)
+[Back to Links for Parents](/for-parents/)
