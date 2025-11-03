@@ -8,7 +8,7 @@ third_nav_title: PASSION
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main-Pic.jpeg">
 </div>
-<p style="text-align:justify">To sign up or renew as a PASSION member, please click <a href="https://go.gov.sg/passion-2025" rel="noopener noreferrer nofollow" target="_blank">here</a> and complete the form.</p>
+<p style="text-align:justify">To sign up or renew as a PASSION member, please click <a href="https://go.gov.sg/passion-2026" rel="noopener noreferrer nofollow" target="_blank">here</a> and complete the form.</p>
 <p></p>
 <h4>Our&nbsp;<strong>PASSION</strong>&nbsp;aims to:</h4>
 <ul>
