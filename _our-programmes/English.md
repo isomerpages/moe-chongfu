@@ -254,4 +254,30 @@ _Click on the following links to find out more._
 <a href="https://heyzine.com/flip-book/094af7ff89.html">P6 Poems</a>	
 </div>  
 </li>
+<li>  
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion11">  
+<label for="accordion11"><b>Chongfu Anthology 2025</b></label>  
+<div>
+<p style="text-align:justify">Every year, the Chongfu Anthology brings together the voices of our young writers, offering a window into their thoughts, experiences, and imagination. The 2025 edition continues this tradition by celebrating the joy of writing and the unique perspectives of our students.</p>
+
+<p style="text-align:justify">This year, our writers explored three heartfelt themes — <b>My Best Buddy, My Hobby,</b> and <b>My Aspiration</b>. Whether they wrote about friendships that brighten their days, activities that spark joy, or dreams that inspire them, each piece reflects the individuality and creativity that our students bring to the English classroom.</p>
+
+<p style="text-align:justify">At the EL Department, we believe that every child has a story worth telling. The Chongfu Anthology provides a space for them to express themselves confidently in the English Language, while discovering the power of words to communicate, connect, and inspire.</p>
+
+<p style="text-align:justify">We invite you to enjoy the 2025 collection — a showcase of voices filled with sincerity, imagination, and youthful hope.</p>
+	
+<p><b>Flipbook copies:</b></p>
+<a href="https://heyzine.com/flip-book/84c907e84d.html">P1 Anthology 2025</a>
+<br>
+<a href="https://heyzine.com/flip-book/c0819648cf.html">P2 Anthology 2025</a>
+<br>
+<a href="https://heyzine.com/flip-book/e9a7b73043.html">P3 Anthology 2025</a>	
+<br>
+<a href="https://heyzine.com/flip-book/f56b33acad.html">P4 Anthology 2025</a>	
+<br>
+	<a href="https://heyzine.com/flip-book/d10a170ff7.html">P5 Anthology 2025</a>	
+<br>
+<a href="https://heyzine.com/flip-book/a888040603.html">P6 Anthology 2025</a>	
+</div>  
+</li>
 </ul>
