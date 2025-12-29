@@ -74,11 +74,6 @@ variant: markdown
     <td class="tg-yhj3">Mdm Yong Yock Hone Katherine<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yong_yock_hone_katherin@schools.gov.sg">yong_yock_hone_katherine@schools.gov.sg</a></td></tr>
 	<tr>
-    <td class="tg-yhj3">Head of Department<br>English Language</td>
-    <td class="tg-yhj3">Ms Zheng Yijun Elaine<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_yijun_elaine@schools.gov.sg">zheng_yijun_elaine@schools.gov.sg</a></td>
-  </tr>	
-	<tr>
     <td class="tg-yhj3">Head of Department<br>Mother Tongue Languages</td>
     <td class="tg-yhj3">Ms Low Hwee Pin<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:low_hwee_pin@schools.gov.sg">low_hwee_pin@schools.gov.sg</a></td>
@@ -95,26 +90,34 @@ variant: markdown
     <td class="tg-yhj3">Head of Department<br>Aesthetics</td>
     <td class="tg-yhj3">Mdm Ang Hui Min Pauline <br>
 			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_hui_min_pauline@schools.gov.sg">ang_hui_min_pauline@schools.gov.sg</a></td>
- </tr>		
+ </tr>
+		<tr>
+    <td class="tg-yhj3">Head of Department<br>Character &amp; Citizenship Education</td>
+		<td class="tg-yhj3">Mdm Nur Lailie Bte Jamal<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_lailie_jamal@schools.gov.sg">nur_lailie_jamal@schools.gov.sg</a></td>
+	</tr>
+		<tr>
+    <td class="tg-yhj3">Head of Department<br>Information &amp; Communications Technology</td>
+		<td class="tg-yhj3">Ms Soh Jingsi (Violet)<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:soh_jingsi@schools.gov.sg">soh_jingsi@schools.gov.sg</a></td>
+	</tr>
 			<tr>
     <td class="tg-yhj3">Head of Department<br>Physical Education &amp; Co-curricular Activities </td>
     <td class="tg-yhj3">Mr Alan Mui <br>
 			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mui_chee_kee@schools.gov.sg">mui_chee_kee@schools.gov.sg</a></td>
  </tr>		
 	<tr>
-    <td class="tg-yhj3">Year Head<br>Primary 3 and 4</td>
-    <td class="tg-yhj3">Mdm Ong Shu Ying <br>
-			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_shu_ying@schools.gov.sg">ong_shu_ying@schools.gov.sg</a></td>
+    <td class="tg-yhj3">Head of Department<br>Student Management </td>
+    <td class="tg-yhj3">Mdm Mahalakshmi Kalyanam<br>
+			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mahalakshmi_kalyanam@schools.gov.sg">mahalakshmi_kalyanam@schools.gov.sg</a></td>
+ </tr>		
+	<tr>
+    <td class="tg-yhj3">Year Head<br>Lower Primary</td>
+  			<td class="tg-yhj3">Ms Madihah Binte Ghazali<br>
+			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:madihah_ghazali@schools.gov.sg">madihah_ghazali@schools.gov.sg</a></td>
  </tr>
 	<tr>
-    <td class="tg-yhj3">Year Head<br>Primary 5 and 6</td>
+    <td class="tg-yhj3">Year Head<br>Upper Primary</td>
     <td class="tg-yhj3">Ms Yap Xin Yi Filicia <br>
 			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yap_xin_yi_filicia@schools.gov.sg">yap_xin_yi_filicia@schools.gov.sg</a></td>
- </tr>
-		<tr>
-    <td class="tg-yhj3">Assistant Year Head<br>Primary 1 and 2</td>
-    <td class="tg-yhj3">Ms Madihah Binte Ghazali<br>
-			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:madihah_ghazali@schools.gov.sg">madihah_ghazali@schools.gov.sg</a></td>
  </tr>
 	<tr>
     <td class="tg-yhj3">Subject Head<br>English Language</td>
@@ -139,22 +142,16 @@ variant: markdown
 		<td class="tg-yhj3">Mdm Aini Bte Bujang<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:aini_bujang@schools.gov.sg">aini_bujang@schools.gov.sg</a></td>
 	</tr>
 	<tr>
-    <td class="tg-yhj3">Subject Head<br>Character &amp; Citizenship Education</td>
-		<td class="tg-yhj3">Mdm Nur Lailie Bte Jamal<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_lailie_jamal@schools.gov.sg">nur_lailie_jamal@schools.gov.sg</a></td>
-	</tr>
-		<tr>
-    <td class="tg-yhj3">Subject Head<br>Information &amp; Communications Technology</td>
-		<td class="tg-yhj3">Ms Soh Jingsi (Violet)<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:soh_jingsi@schools.gov.sg">soh_jingsi@schools.gov.sg</a></td>
-	</tr>
-	<tr>
-	</tr>
-	<tr>
     <td class="tg-yhj3">Subject Head<br>Student Discipline</td>
       <td class="tg-yhj3">Mr Brian Jeremy Reis<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:brian_jeremy_reis@schools.gov.sg">brian_jeremy_reis@schools.gov.sg</a></td>
 	</tr>
 	<tr>
     <td class="tg-yhj3">Subject Head<br>Student Leadership</td>
  	 <td class="tg-yhj3">Ms Nachammal D/O Selva Nachiappan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nachammai_selva_nachiappan@schools.gov.sg">nachammai_selva_nachiappan@schools.gov.sg</a></td>
+	</tr>
+		<tr>
+    <td class="tg-yhj3">Subject Head<br>Student Well-being</td>
+ 	 <td class="tg-yhj3">Ms Ng Z-Ting<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_z-ting@schools.gov.sg">ng_z-ting@schools.gov.sg</a></td>
 	</tr>
 </tbody>
 </table>
@@ -200,6 +197,9 @@ variant: markdown
 	 <tr><td class="tg-yhj3">Senior Teacher<br> Chinese Language</td>
     <td class="tg-yhj3">Ms Chiang Yu Rong<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chiang_yu_rong@schools.gov.sg">chiang_yu_rong@schools.gov.sg</a></td></tr>
+	<tr><td class="tg-yhj3">Senior Teacher<br> Chinese Language</td>
+    <td class="tg-yhj3">Mdm Li Fuxiao<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_fuxiao@schools.gov.sg">li_fuxiao@schools.gov.sg</a></td></tr>
  <tr><td class="tg-yhj3">Senior Teacher<br>Mathematics</td>
     <td class="tg-yhj3">Mdm Toh Guat Lay<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_guat_lay@schools.gov.sg">toh_guat_lay@schools.gov.sg</a></td></tr>
