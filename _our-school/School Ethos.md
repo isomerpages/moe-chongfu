@@ -5,21 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h3>Our Vision 远景</h3>
-<p>A community of thinkers who are&nbsp;<strong>patriotic</strong>,&nbsp;<strong>gracious</strong>&nbsp;and&nbsp;<strong>global</strong>&nbsp;in
-outlook.</p>
-<p>聪颖才思 &nbsp; &nbsp; &nbsp;优雅社会
-<br>心系祖国 &nbsp; &nbsp; &nbsp;放眼世界</p>
+<p>A community of learners, thinkers and leaders</p>
+<p>乐于求学、善于思考、勇于引领</p>
+<p></p>
 <h3>Our Mission 育人目标</h3>
-<p>Developing pupils in five core areas, namely&nbsp;<strong>moral, intellectual, physical, social</strong>&nbsp;and&nbsp;<strong>aesthetics</strong>&nbsp;and
-thereby preparing them for the future.</p>
-<p>通过德智体群美五育,
-<br>造就未来的新人</p>
+<p>To develop all-rounded students, grounded in values and exemplary in character.</p>
+<p>培养全面发展、坚守价值观、品格优良的学生</p>
 <h3>Our Motto</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/motto-copy.jpeg">
 </div>
 <h3>Our Values</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graciously_word_updated.png">
-</div>
+<p><strong>I</strong>ntegrity, <strong>S</strong>incerity,<strong> P</strong>erseverance, <strong>A</strong>chieving, <strong>R</strong>esponsibility, <strong>K</strong>indness</p>
 <p></p>
