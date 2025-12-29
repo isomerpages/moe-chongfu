@@ -16,5 +16,6 @@ variant: tiptap
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/motto-copy.jpeg">
 </div>
 <h3>Our Values</h3>
-<p><strong>I</strong>ntegrity, <strong>S</strong>incerity,<strong> P</strong>erseverance, <strong>A</strong>chieving, <strong>R</strong>esponsibility, <strong>K</strong>indness</p>
+<p>Integrity 正直 , Sincerity 真诚, Perseverance 坚毅, Achieving 进取, Responsibility
+责任, Kindness 仁善</p>
 <p></p>
