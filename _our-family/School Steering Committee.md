@@ -43,9 +43,6 @@ variant: markdown
     <td class="tg-yhj3">Mr Tan King Ming<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
 	 <tr><td class="tg-yhj3">Vice-Principal <br>(Academic)</td>
-    <td class="tg-yhj3">Ms Angelynna Lim Hwee Mien<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
-	 <tr><td class="tg-yhj3">Vice-Principal <br>(Academic)</td>
     <td class="tg-yhj3">Ms Lea Shu Hui<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cfs@moe.edu.sg">cfs@moe.edu.sg</a></td></tr>
 	 <tr><td class="tg-yhj3">Vice Principal <br>(Academic)</td>
@@ -57,7 +54,7 @@ variant: markdown
 </tbody>
 </table>
 
-<h4 style="color:#000000"><center><b>Steering Committee</b></center></h4>
+<h4 style="color:#000000"><center><b>Head of Departments </b></center></h4>
 <table class="tg" style="undefined;table-layout: fixed; width: 491px">
 </table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
 <colgroup>
@@ -109,16 +106,29 @@ variant: markdown
     <td class="tg-yhj3">Mdm Mahalakshmi Kalyanam<br>
 			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mahalakshmi_kalyanam@schools.gov.sg">mahalakshmi_kalyanam@schools.gov.sg</a></td>
  </tr>		
-	<tr>
+		<tr>
+    <td class="tg-yhj3">Year Head<br>Upper Primary</td>
+    <td class="tg-yhj3">Ms Yap Xin Yi Filicia <br>
+			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yap_xin_yi_filicia@schools.gov.sg">yap_xin_yi_filicia@schools.gov.sg</a></td>
+ </tr><tr>
     <td class="tg-yhj3">Year Head<br>Lower Primary</td>
   			<td class="tg-yhj3">Ms Madihah Binte Ghazali<br>
 			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:madihah_ghazali@schools.gov.sg">madihah_ghazali@schools.gov.sg</a></td>
  </tr>
-	<tr>
-    <td class="tg-yhj3">Year Head<br>Upper Primary</td>
-    <td class="tg-yhj3">Ms Yap Xin Yi Filicia <br>
-			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yap_xin_yi_filicia@schools.gov.sg">yap_xin_yi_filicia@schools.gov.sg</a></td>
- </tr>
+</tbody>
+</table>
+<h4 style="color:#000000"><center><b>Subject Heads / Level Heads</b></center></h4>
+<table class="tg" style="undefined;table-layout: fixed; width: 491px">
+</table><table class="tg" style="undefined;table-layout: fixed; width: 491px">
+<colgroup>
+<col style="width: 320px">
+<col style="width: 320px">
+</colgroup>
+<tbody>
+	  <tr>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Designation</span></td>
+    <td class="tg-feqv"><span style="color:#FFFFFF;background-color:#E40D03">Name</span></td>
+  </tr>
 	<tr>
     <td class="tg-yhj3">Subject Head<br>English Language</td>
     <td class="tg-yhj3">Mr Ng Keh Siong<br>
@@ -152,6 +162,10 @@ variant: markdown
 		<tr>
     <td class="tg-yhj3">Subject Head<br>Student Well-being</td>
  	 <td class="tg-yhj3">Ms Ng Z-Ting<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_z-ting@schools.gov.sg">ng_z-ting@schools.gov.sg</a></td>
+	</tr>
+			<tr>
+    <td class="tg-yhj3">Assistant Year Head<br>Upper Primary</td>
+ 	 <td class="tg-yhj3">Ms Loh Jasmine<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loh_jasmine@schools.gov.sg">loh_jasmine@schools.gov.sg</a></td>
 	</tr>
 </tbody>
 </table>
