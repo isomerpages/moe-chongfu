@@ -49,10 +49,10 @@ variant: markdown
     <td class="tg-yhj3">Mdm Mardiana Bte Omar<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: mardiana_omar@moe.edu.sg">mardiana_omar@moe.edu.sg</a></td></tr>
  <tr><td class="tg-yhj3">Administrative Executive (AE)</td>
-    <td class="tg-yhj3">Ms Nurfitri Kasman<br>
+    <td class="tg-yhj3">Mdm Nurfitri Kasman<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: nurfitri_kasman@moe.edu.sg">nurfitri_kasman@moe.edu.sg</a></td></tr>
 <tr><td class="tg-yhj3">ICT Associate</td>
-    <td class="tg-yhj3">Ms Siti Razilah Binte Amir Khan<br>
+    <td class="tg-yhj3">Mdm Siti Razilah Binte Amir Khan<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: siti_razilah@moe.edu.sg">siti_razilah@moe.edu.sg</a></td></tr>
 <tr><td class="tg-yhj3">Management Support Officer (MSO)</td>
     <td class="tg-yhj3">Mdm Joyce Lim Kiat Huay<br>
@@ -64,7 +64,7 @@ variant: markdown
 	<td class="tg-yhj3">Mdm Tan Pek Ning<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: tan_pek_ning@moe.edu.sg">tan_pek_ning@moe.edu.sg</a></td></tr>
 <tr><td class="tg-yhj3">Corporate Support Officer (CSO)</td>
-<td class="tg-yhj3">Ms Nur Afiqah Binte Abuyamin<br>
+<td class="tg-yhj3">Mdm Nur Afiqah Binte Abuyamin<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: nur_afiqah_abuyamin@moe.edu.sg">nur_afiqah_abuyamin@moe.edu.sg</a></td></tr>
 </tbody>
 </table>
@@ -109,22 +109,25 @@ variant: markdown
 	 <tr><td class="tg-yhj3">Dental Nurse</td>
     <td class="tg-yhj3">Mdm Ang Yoke Hoo<br></td></tr>
  <tr><td class="tg-yhj3">Science Lab Assistant</td>
-    <td class="tg-yhj3">Ms Kumarasamy Rajesparee<br></td></tr>
- <tr><td class="tg-yhj3">Receptionist</td>
-    <td class="tg-yhj3">Mdm Dania Lestari Binte Wan Yusof<br>
-</td></tr>
+    <td class="tg-yhj3">Mdm Zaiton Bte Mohamed Yusof<br></td></tr>
+
 <tr><td class="tg-yhj3">Desktop Engineer (DE)</td>
     <td class="tg-yhj3">Mr Yakub Hussain Mohamed Elias<br>
+</td></tr><tr></tr><tr><td class="tg-yhj3">Desktop Engineer (DE)</td>
+    <td class="tg-yhj3">Mr Muhammad Akram Bin Abu<br>
 </td></tr><tr><td class="tg-yhj3">Operations Support Officer (OSO)</td>
     <td class="tg-yhj3">Mdm Suminah Bte Salim<br>
 </td></tr>
 <tr><td class="tg-yhj3"> Operations Support Officer (OSO)</td>
     <td class="tg-yhj3">Mr Then Yoon Fatt<br></td></tr>
 <tr><td class="tg-yhj3"> Operations Support Officer (OSO)</td>
-    <td class="tg-yhj3">Mr Subramaniam Suranthan(Suresh)<br></td></tr>
+    <td class="tg-yhj3">Mr Subramaniam Suranthan (Suresh)<br></td></tr>
 <tr><td class="tg-yhj3"> Operations Support Officer (OSO)</td>
     <td class="tg-yhj3">Mr Tan Meng Hee<br></td></tr>
 <tr><td class="tg-yhj3"> Operations Support Officer (OSO)</td>
-    <td class="tg-yhj3">Mr Abdul Razak Bin Hasan<br></td></tr>
+    <td class="tg-yhj3">Mr Abdul Razak Bin Hasan<br></td></tr><tr><td class="tg-yhj3"> Operations Support Officer (OSO)</td>
+    <td class="tg-yhj3">Mr Zaini Bin Rahmat<br></td></tr>
+		<tr><td class="tg-yhj3"> Operations Support Officer (OSO)</td>
+    <td class="tg-yhj3">Mr Ng  Choon Hock<br></td></tr>
 </tbody>
 </table>
