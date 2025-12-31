@@ -112,7 +112,7 @@ variant: markdown
 			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yap_xin_yi_filicia@schools.gov.sg">yap_xin_yi_filicia@schools.gov.sg</a></td>
  </tr><tr>
     <td class="tg-yhj3">Year Head<br>Lower Primary</td>
-  			<td class="tg-yhj3">Ms Madihah Binte Ghazali<br>
+  			<td class="tg-yhj3">Mdm Madihah Binte Ghazali<br>
 			<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:madihah_ghazali@schools.gov.sg">madihah_ghazali@schools.gov.sg</a></td>
  </tr>
 </tbody>
