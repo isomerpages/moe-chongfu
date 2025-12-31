@@ -29,8 +29,8 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Gracious</td>
-<td class="tg-yhj3">Ms Lim Pei Jun (林姵君)
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Lim_Pei_Jun@schools.gov.sg">[Email]</a><br>Mr Sarkunan S/O Shanmugam <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sarkunan_shanmugam@schools.gov.sg">[Email]</a><br>Mdm Yap Xin Yi Filicia <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yap_xin_yi_filicia@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mr Sarkunan S/O Shanmugam <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sarkunan_shanmugam@schools.gov.sg">[Email]</a><br>Ms Lim Pei Jun (林老师)
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Lim_Pei_Jun@schools.gov.sg">[Email]</a><br>Ms Yap Xin Yi Filicia <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yap_xin_yi_filicia@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr> 
 <td class="tg-yhj3">Respectful</td>
@@ -38,7 +38,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
-<td class="tg-yhj3">Mdm Mahalakshmi D/O Kalyanam <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mahalakshmi_kalyanam@schools.gov.sg">[Email]</a><br>Ms Tricia Lim Xiu Xuan (林秀暄) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Tricia_Lim_Xiu_Xuan@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Tricia Lim Xiu Xuan (林老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Tricia_Lim_Xiu_Xuan@schools.gov.sg">[Email]</a><br>Mdm Mahalakshmi D/O Kalyanam <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mahalakshmi_kalyanam@schools.gov.sg">[Email]</a></td>
 </tr>	
 <tr>
 <td class="tg-yhj3">Caring</td>
@@ -47,7 +47,7 @@ Mdm Sabariah Bte Alwi <a target="_blank" rel="noopener noreferrer nofollow" href
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Mdm Chiang Yu Rong (张毓容) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chiang_yu_rong@schools.gov.sg">[Email]</a><br>Mdm Noraini Bte Amin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Noraini_Amin@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Chiang Yu Rong (张老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chiang_yu_rong@schools.gov.sg">[Email]</a><br>Mdm Noraini Bte Amin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Noraini_Amin@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
