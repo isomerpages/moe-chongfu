@@ -29,8 +29,8 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Gracious</td>
-<td class="tg-yhj3">Ms Soh Jingsi Violet
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:soh_jingsi@schools.gov.sg">[Email]</a><br>Mdm Teo Wei Ren  张薇仁	<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_wei_ren@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Teo Wei Ren (张老师)	<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_wei_ren@schools.gov.sg">[Email]</a><br>Ms Soh Jingsi (Violet)
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:soh_jingsi@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr> 
 <td class="tg-yhj3">Respectful</td>
@@ -40,7 +40,7 @@ third_nav_title: Teaching Staff
 <td class="tg-yhj3">Mr Chan Kai Chun Vincent <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_kai_chun_vincent@schools.gov.sg">[Email]</a><br>Ms Gu Xiaoyan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:gu_xiaoyan@schools.gov.sg">[Email]</a></td>
 </tr>	
 <tr><td class="tg-yhj3">Caring</td>
-<td class="tg-yhj3">Ms Low Hwee Pin (刘慧彬)  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:low_hwee_pin@schools.gov.sg">[Email]</a><br>Mr Yong Chung Wan Benin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yong_chung_wan@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mr Yong Chung Wan Benin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yong_chung_wan@schools.gov.sg">[Email]</a><br>Ms Low Hwee Pin (刘老师)  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:low_hwee_pin@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
@@ -56,7 +56,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
-<td class="tg-yhj3">Mdm Ang Hui Min Pauline<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_hui_min_pauline@schools.gov.sg">[Email]</a><br>Ms Nur Amirah Sabrina Binte Mohamad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_amirah_sabrina_mohamad@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Nur Amirah Sabrina Binte Mohamad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_amirah_sabrina_mohamad@schools.gov.sg">[Email]</a><br>Mdm Ang Hui Min Pauline<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_hui_min_pauline@schools.gov.sg">[Email]</a></td>
 </tr>
 </tbody>
 </table>
