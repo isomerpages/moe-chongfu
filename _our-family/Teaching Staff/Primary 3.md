@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Teaching Staff
 ---
-<h5 style="color:#000000">Year Head: Mdm Ong Shu Ying </h5>
+<h5 style="color:#000000">Year Head: Mdm Madihah Binte Ghazali</h5>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
@@ -33,7 +33,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-    <td class="tg-yhj3">Mdm Shi Jia (石佳) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shi_jia@schools.gov.sg">[Email]</a><br>Mdm Jillyn Woo Wanyi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jillyn_woo_wan_yi@schools.gov.sg">[Email]</a><br>Mdm Hasnah Pauzan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Hasnah_Pauzan_A@schools.gov.sg">[Email]</a></td>
+    <td class="tg-yhj3">Mdm Jillyn Woo Wanyi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jillyn_woo_wan_yi@schools.gov.sg">[Email]</a><br>Mdm Shi Jia (石老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shi_jia@schools.gov.sg">[Email]</a><br>Mdm Hasnah Pauzan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Hasnah_Pauzan_A@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
@@ -41,11 +41,11 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
-<td class="tg-yhj3">Mdm Loo Ai Ling (吕爱玲) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loo_ai_ling@schools.gov.sg">[Email]</a><br>Ms Ang Li Yen </td>
+<td class="tg-yhj3">Mdm Loo Ai Ling (吕老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loo_ai_ling@schools.gov.sg">[Email]</a><br>Ms Ang Li Yen </td>
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Mdm Li Fuxiao (李拂晓) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_fuxiao@schools.gov.sg">[Email]</a><br>Mdm Siak Yim Peng Cassie </td>
+<td class="tg-yhj3">Mdm Li Fuxiao (李老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_fuxiao@schools.gov.sg">[Email]</a><br>Mdm Siak Yim Peng Cassie </td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
@@ -53,7 +53,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
-<td class="tg-yhj3">Ms Liew Xinhua <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Liew_Xinhua@schools.gov.sg">[Email]</a><br>Mdm Sun Weiwei (孙维维) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sun_weiwei@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Liew Xinhua <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Liew_Xinhua@schools.gov.sg">[Email]</a><br>Mdm Sun Weiwei (孙老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sun_weiwei@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
