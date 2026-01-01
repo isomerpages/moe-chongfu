@@ -41,7 +41,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
-<td class="tg-yhj3">Mdm Loo Ai Ling (吕老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loo_ai_ling@schools.gov.sg">[Email]</a><br>Ms Ang Li Yen </td>
+<td class="tg-yhj3">Mdm Loo Ai Ling (吕老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loo_ai_ling@schools.gov.sg">[Email]</a><br>Ms Ang Li Yen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Ang_Li_Yen@schools.gov.sg">[Email] </a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
