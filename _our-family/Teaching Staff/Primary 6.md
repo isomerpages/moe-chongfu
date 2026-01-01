@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Teaching Staff
 ---
-<h5 style="color:#000000">Year Head: Ms Yap Xin Yi Filicia </h5>
+<h5 style="color:#000000">Assistant Year Head: Ms Loh Jasmine </h5>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
