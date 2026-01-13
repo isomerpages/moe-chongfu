@@ -56,15 +56,15 @@ responsible decisions to keep themselves safe from sexuality-related risks.</li>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_SEL_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_SE_Page_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 98%" height="auto" width="100%" alt="" src="/images/P5_SEL_2025__2_.png">
+<img style="width: 98%" height="auto" width="100%" alt="" src="/images/2026_SE_page_2.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SEC P6" src="/images/P6_SEL_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="SEC P6" src="/images/2026_SE_Page_3.png">
 </div>
 <p></p>
 
@@ -72,6 +72,6 @@ responsible decisions to keep themselves safe from sexuality-related risks.</li>
 
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
 <br>
-<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/SEL_Opt_Out_Form_2025__Annex_A_.pdf" target="_blank" rel="noopener noreferrer">here</a>. <b style="color:red">The completed opt-out form is to be submitted by <u>31/01/2025.</u></b></li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/SEL_Opt_Out_Form_2025__Annex_A_.pdf" target="_blank" rel="noopener noreferrer">here</a>. <b style="color:red">(Please upload parents opt-out form found in Annex A and insert a hyperlink for parents to download the form)</b>. The completed opt-out form is to be submitted by <u>22/01/2026.</u></li>
 <br>
 <li>Parents can contact the school at <b style="color:blue">67585527</b> for discussion or to seek clarification about the school’s Sexuality Education programme.</li></ol>
