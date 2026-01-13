@@ -30,7 +30,7 @@ mainstream values and attitudes about sexuality that are premised on the family 
 	</ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
 on MOE Sexuality Education.</p>
-<p><strong>OVERVIEW OF CHONGFU SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></p>
+<p><strong>OVERVIEW OF CHONGFU SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></p>
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
@@ -51,7 +51,7 @@ other sources.</li>
 these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</li>
 <p></p>
-<p><strong>At Chongfu School, the following Sexuality Education lessons will be taught in <u>2025</u>: </strong>
+<p><strong>At Chongfu School, the following Sexuality Education lessons will be taught in <u>2026</u>: </strong>
 </p>
 <p></p>
 <p></p>
