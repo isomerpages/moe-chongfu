@@ -56,15 +56,15 @@ responsible decisions to keep themselves safe from sexuality-related risks.</li>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_SE_Page_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_SEL_Page_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 98%" height="auto" width="100%" alt="" src="/images/2026_SE_page_2.png">
+<img style="width: 98%" height="auto" width="100%" alt="" src="/images/2026_SEL_Page_2.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SEC P6" src="/images/2026_SE_Page_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="SEC P6" src="/images/2026_SEL_Page_3.png">
 </div>
 <p></p>
 
