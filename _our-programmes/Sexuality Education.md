@@ -67,7 +67,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</li>
 <img style="width: 100%" height="auto" width="100%" alt="SEC P6" src="/images/2026_SEL_Page_3.png">
 </div>
 <p></p>
-
+	
 <p><strong><u>INFORMATION FOR PARENTS</u></strong></p>
 
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
