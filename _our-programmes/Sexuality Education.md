@@ -30,7 +30,7 @@ mainstream values and attitudes about sexuality that are premised on the family 
 	</ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
 on MOE Sexuality Education.</p>
-<p><strong>OVERVIEW OF CHONGFU SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></p>
+<p><strong>OVERVIEW OF CHONGFU SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></p>
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
@@ -51,27 +51,27 @@ other sources.</li>
 these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</li>
 <p></p>
-<p><strong>At Chongfu School, the following Sexuality Education lessons will be taught in <u>2025</u>: </strong>
+<p><strong>At Chongfu School, the following Sexuality Education lessons will be taught in <u>2026</u>: </strong>
 </p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_SEL_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_SEL_Page_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 98%" height="auto" width="100%" alt="" src="/images/P5_SEL_2025__2_.png">
+<img style="width: 98%" height="auto" width="100%" alt="" src="/images/2026_SEL_Page_2.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SEC P6" src="/images/P6_SEL_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="SEC P6" src="/images/2026_SEL_Page_3.png">
 </div>
 <p></p>
-
+	
 <p><strong><u>INFORMATION FOR PARENTS</u></strong></p>
 
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
 <br>
-<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/SEL_Opt_Out_Form_2025__Annex_A_.pdf" target="_blank" rel="noopener noreferrer">here</a>. <b style="color:red">The completed opt-out form is to be submitted by <u>31/01/2025.</u></b></li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/Parents_Opt_Out_Form_2026_Annex_A.pdf" target="_blank" rel="noopener noreferrer">here</a>. <b style="color:red"> The completed opt-out form is to be submitted by <u>22/01/2026.</u></b></li>
 <br>
 <li>Parents can contact the school at <b style="color:blue">67585527</b> for discussion or to seek clarification about the school’s Sexuality Education programme.</li></ol>
