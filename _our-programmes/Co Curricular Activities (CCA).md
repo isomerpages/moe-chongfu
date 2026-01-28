@@ -68,5 +68,5 @@ body {
 </div>
 </div>
 <br>
-<p><img src="/images/CCA_timing_02.png" style="width:60%"></p>
+<p><img src="/images/CCA_timing_02.png" style="width:45%"></p>
 <p></p>
