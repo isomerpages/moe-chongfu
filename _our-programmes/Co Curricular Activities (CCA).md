@@ -67,6 +67,6 @@ body {
 <p><a href="/cca-brownies/" style="text-decoration:none">Brownies</a><br><a href="/cca-red-cross/" style="text-decoration:none">Red Cross</a><br><a href="/cca-cub-scouts/" style="text-decoration:none">Scouts</a></p>
 </div>
 </div>
-<br><br>
-<p><img src="/images/CCA_Days___Edited01.png" style="width:80%"></p>
+<br>
+<p><img src="/images/CCA_Days___Edited01.png" style="width:50%"></p>
 <p></p>
