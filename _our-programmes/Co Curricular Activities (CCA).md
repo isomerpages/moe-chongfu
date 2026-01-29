@@ -67,3 +67,6 @@ body {
 <p><a href="/cca-brownies/" style="text-decoration:none">Brownies</a><br><a href="/cca-red-cross/" style="text-decoration:none">Red Cross</a><br><a href="/cca-cub-scouts/" style="text-decoration:none">Scouts</a></p>
 </div>
 </div>
+<h4><strong><center>CCA Schedule</center></strong></h4>
+<p><img src="/images/CCA_timing_02.png" style="width:45%"></p>
+<p></p>
