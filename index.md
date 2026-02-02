@@ -14,5 +14,5 @@ sections:
           url: /news
         - title: SOCIAL MEDIA
           description: Stay connected with us!
-          url: https://www.facebook.com/ChongfuSch/
+          url: https://www.instagram.com/chongfu_official_ig/?__d=1
 ---
