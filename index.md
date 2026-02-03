@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Chongfu_School_Website_Updated_ETHOS_Banner.gif
+      background: /images/Chongfu_School_Website_Banner_01__2_.gif
       key_highlights:
         - title: NEWS AND UPDATES
           description: View our latest happenings!
@@ -15,4 +15,5 @@ sections:
         - title: SOCIAL MEDIA
           description: Stay connected with us!
           url: https://www.instagram.com/chongfu_official_ig/?__d=1
+      variant: center
 ---
