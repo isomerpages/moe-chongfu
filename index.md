@@ -15,5 +15,5 @@ sections:
         - title: SOCIAL MEDIA
           description: Stay connected with us!
           url: https://www.instagram.com/chongfu_official_ig/?__d=1
-      variant: image
+      variant: center
 ---
