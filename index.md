@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Chongfu_School_Website_Updated_ETHOS_Banner_1_2.gif
+      background: /images/Chongfu_School_Banner.gif
       key_highlights:
         - title: NEWS AND UPDATES
           description: View our latest happenings!
