@@ -109,6 +109,9 @@ variant: markdown
 <tr>
     <td class="tg-yhj3">Librarian</td>
     <td class="tg-yhj3">Ms Nur Aqilah Binte Ahmah<br></td><td></td></tr>
+<tr>
+    <td class="tg-yhj3">Receptionist</td>
+    <td class="tg-yhj3">Mdm Hajjah Nor Izah Mohd Ismail<br></td><td></td></tr>
 	 <tr><td class="tg-yhj3">Dental Nurse</td>
     <td class="tg-yhj3">Mdm Ang Yoke Hoo<br></td></tr>
  <tr><td class="tg-yhj3">Science Lab Assistant</td>
