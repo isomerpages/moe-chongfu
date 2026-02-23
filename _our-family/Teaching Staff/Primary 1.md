@@ -29,7 +29,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Gracious</td>
-<td class="tg-yhj3">Mdm Norhayati Binte Maksom <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:norhayati_maksom@schools.gov.sg">[Email]</a><br>Mdm Siti Sarah Binte Ahmad <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Siti_Sarah_Ahmad@schools.gov.sg">[Email]</a><br>Mdm Wen Xiwen (闻老师)<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Wen_Xiwen_A@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Norhayati Binte Maksom <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:norhayati_maksom@schools.gov.sg">[Email]</a><br>Mdm Farhani Binte Kosaini<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Farhani_Kosaini@schools.gov.sg">[Email]</a><br>Mdm Wen Xiwen (闻老师)<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Wen_Xiwen_A@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
