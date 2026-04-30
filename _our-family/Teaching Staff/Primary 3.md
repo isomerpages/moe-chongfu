@@ -49,7 +49,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
-<td class="tg-yhj3">Mdm Nurul Hakimah Binte Abdul Rahim <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nurul_hakimah@schools.gov.sg">[Email]</a><br>Mr Andy Soh Lee Ming <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:andy_soh_lee_ming@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mr Andy Soh Lee Ming <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:andy_soh_lee_ming@schools.gov.sg">[Email]</a><br>Ms Nurul Syamelia Binte Rosmaizan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Nurul_Syamelia_Rosmaizan@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
