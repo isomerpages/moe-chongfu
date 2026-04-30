@@ -33,7 +33,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-<td class="tg-yhj3">Mr Kenn Roy Anthony <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Kenn_Roy_Anthony@schools.gov.sg">[Email]</a><br>Ms Andrea Roshni Sutvinder Singh </td>
+<td class="tg-yhj3">Mr Kenn Roy Anthony <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Kenn_Roy_Anthony@schools.gov.sg">[Email]</a><br>Ms Andrea Roshni Sutvinder Singh <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Andrea_Roshni_Sutvinder_Singh@schools.gov.sg">[Email]</a><br>Ms Kajal Narah Singh <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Kajal_Narah_Singh@schools.gov.sg">[Email]</a> </td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
@@ -45,7 +45,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Ms Lai Kexin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lai_kexin@schools.gov.sg">[Email]</a><br>Ms Sunitha Pillay <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:S_Sunitha_Pillay@schools.gov.sg">[Email]</a><br>Ms Kajal Narah Singh <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Kajal_Narah_Singh@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Lai Kexin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lai_kexin@schools.gov.sg">[Email]</a><br>Ms Sunitha Pillay <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:S_Sunitha_Pillay@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
