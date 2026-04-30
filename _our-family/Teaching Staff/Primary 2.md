@@ -33,7 +33,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-<td class="tg-yhj3">Ms Chan Jing Ling (陈老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_jing_ling@schools.gov.sg">[Email]</a><br>Mdm Dione Chew Ying Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Dione_Chew_Ying_Ying@schools.gov.sg">[Email]</a><br>Ms Joey Ng Jia Yi </td>
+<td class="tg-yhj3">Ms Chan Jing Ling (陈老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_jing_ling@schools.gov.sg">[Email]</a><br>Mdm Dione Chew Ying Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Dione_Chew_Ying_Ying@schools.gov.sg">[Email]</a><br>Ms Joey Ng Jia Yi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:joey_ng_jia_yi@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
@@ -53,7 +53,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
-<td class="tg-yhj3">Mdm Siti Salha Bte Salihoddin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_salha_salihoddin@schools.gov.sg">[Email]</a><br>Mdm Madihah Binte Ghazali <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:madihah_ghazali@schools.gov.sg">[Email]</a><br>Ms Nurul Syamelia Binte Rosmaizan </td>
+<td class="tg-yhj3">Mdm Siti Salha Bte Salihoddin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_salha_salihoddin@schools.gov.sg">[Email]</a><br>Mdm Madihah Binte Ghazali <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:madihah_ghazali@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
