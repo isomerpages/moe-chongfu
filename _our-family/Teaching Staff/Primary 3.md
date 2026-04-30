@@ -37,7 +37,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
-<td class="tg-yhj3">Ms Nur Syafiqah Binte Mohamad Sham <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Nur_Syafiqah_Mohamad_Sham@schools.gov.sg">[Email]</a><br>Ms Alicia Yip Mei Wei <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Alicia_Yip_Mei_Wei@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Nur Syafiqah Binte Mohamad Sham <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Nur_Syafiqah_Mohamad_Sham@schools.gov.sg">[Email]</a><br>Ms Alicia Yip Mei Wei <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Alicia_Yip_Mei_Wei@schools.gov.sg">[Email]</a><br>Mr Alistair Yap <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Yap_Yiow_Zhoong_Alistair@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
