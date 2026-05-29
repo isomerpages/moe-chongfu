@@ -41,7 +41,7 @@ variant: tiptap
 <p>Guzheng Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction</p>
+<p>Accomplishment</p>
 </td>
 </tr>
 <tr>
