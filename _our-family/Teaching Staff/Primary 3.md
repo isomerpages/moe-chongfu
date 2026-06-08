@@ -33,7 +33,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-    <td class="tg-yhj3">Mdm Jillyn Woo Wanyi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jillyn_woo_wan_yi@schools.gov.sg">[Email]</a><br>Mdm Shi Jia (石老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shi_jia@schools.gov.sg">[Email]</a><br>Mdm Hasnah Pauzan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Hasnah_Pauzan_A@schools.gov.sg">[Email]</a></td>
+    <td class="tg-yhj3">Mdm Shi Jia (石老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shi_jia@schools.gov.sg">[Email]</a><br>Mdm Hasnah Pauzan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Hasnah_Pauzan_A@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
