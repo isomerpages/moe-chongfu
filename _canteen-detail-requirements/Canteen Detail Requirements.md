@@ -40,7 +40,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
