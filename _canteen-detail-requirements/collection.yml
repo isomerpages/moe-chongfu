@@ -2,4 +2,5 @@ collections:
   canteen-detail-requirements:
     output: true
     order:
+      - Canteen Detail Requirement.md
       - Canteen Detail Requirements.md
