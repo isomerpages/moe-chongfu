@@ -1,4 +1,5 @@
 collections:
   canteen-detail-requirements:
     output: true
-    order: []
+    order:
+      - Canteen Detail Requirements.md
