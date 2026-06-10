@@ -34,7 +34,8 @@ description: ""
 <p>24th June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please Click Here</p>
+<p>Please Click <a href="https://chongfu.moe.edu.sg/canteen-detail-requirements/" rel="noopener nofollow" target="_blank">Here</a>
+</p>
 </td>
 </tr>
 </tbody>
