@@ -2,6 +2,7 @@ collections:
   useful-info-and-links:
     output: true
     order:
+      - Canteen Advertisement.md
       - What’s Inside.md
       - For Parents.md
       - For Students.md
