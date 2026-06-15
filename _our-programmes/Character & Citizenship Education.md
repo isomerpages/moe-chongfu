@@ -20,10 +20,10 @@ variant: markdown
 <strong>Responsibility 责任</strong>
 <br>
 <strong>Kindness 仁善</strong>
-
-
-
 </p>
+
+
+<p></p>
 <p style="text-align:justify">The approach adopted for the Character and Citizenship Education of our students is to develop them in 5 core areas, namely:</p>
 <p>
 <strong>德 Moral</strong> 
