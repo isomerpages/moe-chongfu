@@ -10,7 +10,7 @@ variant: markdown
 <p style="text-align:justify">Anchored on the CCE Framework are our core values i-SPARK, which are unpacked as follows:</p>
 <p>
 <strong>Integrity 正直</strong>
-	
+<br><br>
 <strong>Sincerity 真诚</strong>
 
 <strong>Perseverance 坚毅</strong>
