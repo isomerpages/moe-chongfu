@@ -5,30 +5,24 @@ description: ""
 variant: markdown
 ---
 <h3><strong>Introduction</strong></h3>
-<p style="text-align:justify">The school’s Character and Citizenship Education programmes aim to equip our students with socio-emotional competencies and skills to exercise responsible citizenship so as to become gracious, persevering, confident and resilient leaders of tomorrow.</p>
+<p style="text-align:justify">The school’s Character and Citizenship Education programmes aim to equip our students with socio-emotional competencies and skills to exercise responsible citizenship so as to become all-rounded students, grounded in values and exemplary in character.</p>
 
-<p style="text-align:justify">Anchored on the CCE Framework are our core values GRACIOUSLY, which are interconnected with Social and Emotional Learning (SEL). The values are unpacked as follows:</p>
+<p style="text-align:justify">Anchored on the CCE Framework are our core values i-SPARK, which are unpacked as follows:</p>
 <p>
-<strong>优雅 Gracious</strong>
-<br>-to be polite, kind, pleasant and generous<br><br>
-<strong>恭敬 Respectful</strong>
-<br>-to believe in one’s own self-worth and the intrinsic worth of other people<br><br>
-<strong>成就 Achieving</strong>
-<br>-to accomplish one’s purpose, attain his goal and to succeed<br><br>
-<strong>关怀 Caring</strong>
-<br>-to act with kindness and compassion and contributes to the betterment of the community and the world<br><br>
-<strong>革新 Innovative</strong>
-<br>-to be creative and come up with new ideas, new inventions, and new ways of doing things<br><br>
-<strong>敏锐 Observant</strong>
-<br>-to be sensitive to the environment and have a keen perception of things<br><br>
-<strong>团结 United</strong>
-<br>-to stand together for a common purpose<br><br>
-<strong>真诚 Sincere</strong>
-<br>-to be honest and true<br><br>
-<strong>忠诚 Loyal</strong>
-<br>-to stay devoted to one’s values and roots<br><br>
-<strong>朝气 Youthful</strong>
-<br>-to be vigorous, fresh and energetic
+<strong>Integrity 正直</strong>
+	
+<strong>Sincerity 真诚</strong>
+
+<strong>Perseverance 坚毅</strong>
+
+<strong>Achieving 进取</strong>
+
+<strong>Responsibility 责任</strong>
+
+<strong>Kindness 仁善</strong>
+
+
+
 </p>
 <p style="text-align:justify">The approach adopted for the Character and Citizenship Education of our students is to develop them in 5 core areas, namely:</p>
 <p>
