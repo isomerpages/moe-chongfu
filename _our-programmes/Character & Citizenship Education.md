@@ -9,16 +9,11 @@ variant: markdown
 
 <p style="text-align:justify">Anchored on the CCE Framework are our core values i-SPARK, which are unpacked as follows:</p>
 <p>
-<strong>Integrity 正直</strong>
-<br>
-<strong>Sincerity 真诚</strong>
-<br>
-<strong>Perseverance 坚毅</strong>
-<br>
-<strong>Achieving 进取</strong>
-<br>
-<strong>Responsibility 责任</strong>
-<br>
+<strong>Integrity 正直</strong><br>
+<strong>Sincerity 真诚</strong><br>
+<strong>Perseverance 坚毅</strong><br>
+<strong>Achieving 进取</strong><br>
+<strong>Responsibility 责任</strong><br>
 <strong>Kindness 仁善</strong>
 </p>
 
