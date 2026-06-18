@@ -33,7 +33,8 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-<td class="tg-yhj3">Ms Chan Jing Ling (陈老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chan_jing_ling@schools.gov.sg">[Email]</a><br>Mdm Dione Chew Ying Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Dione_Chew_Ying_Ying@schools.gov.sg">[Email]</a><br>Ms Joey Ng Jia Yi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:joey_ng_jia_yi@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Dione Chew Ying Ying 
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Dione_Chew_Ying_Ying@schools.gov.sg">[Email]</a><br>Ms Joey Ng Jia Yi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:joey_ng_jia_yi@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
@@ -61,7 +62,8 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Loyal</td>
-<td class="tg-yhj3">Mdm Li Pei Jie <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_pei_jie@schools.gov.sg">[Email]</a><br>Mdm Yeo Seow Mei Jenny (杨老师)  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Jenny_Yeo_Seow_Mei@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Yeo Seow Mei Jenny (杨老师)
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Jenny_Yeo_Seow_Mei@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Youthful</td>
