@@ -61,7 +61,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Loyal</td>
-<td class="tg-yhj3">Mdm Li Pei Jie <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_pei_jie@schools.gov.sg">[Email]</a><br>Mdm Yeo Seow Mei Jenny (杨老师)  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Jenny_Yeo_Seow_Mei@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3"> <a target="_blank" rel="noopener noreferrer nofollow" href=""></a>Mdm Yeo Seow Mei Jenny (杨老师)  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Jenny_Yeo_Seow_Mei@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Youthful</td>
