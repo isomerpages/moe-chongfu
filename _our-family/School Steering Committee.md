@@ -135,15 +135,15 @@ variant: markdown
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_keh_siong@schools.gov.sg">ng_keh_siong@schools.gov.sg</a></td>
   </tr>
 	<tr>
-    <td class="tg-yhj3">Subject Head<br>Chinese Language</td>
-    <td class="tg-yhj3">Mdm Goh Siew Peng<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_siew_peng@schools.gov.sg">goh_siew_peng@schools.gov.sg</a></td>
-  </tr><tr>
     <td class="tg-yhj3">Subject Head<br>Malay Language</td>
     <td class="tg-yhj3">Mdm Sri Rahayu Binte Ramlan<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sri_rahayu_ramlan@schools.gov.sg">sri_rahayu_ramlan@schools.gov.sg</a></td>
   </tr>
 	<tr>
+    <td class="tg-yhj3">Level Head<br>Chinese Language</td>
+    <td class="tg-yhj3">Ms Lua Li Wen<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lua_li_wen@schools.gov.sg">lua_li_wen@schools.gov.sg</a></td>
+  </tr><tr>
     <td class="tg-yhj3">Level Head<br>Mathematics</td>
     <td class="tg-yhj3">Ms Shalini D/O Sandra Mohan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shalini_sandra_mohan@schools.gov.sg">shalini_sandra_mohan@schools.gov.sg</a></td>
 	</tr>
