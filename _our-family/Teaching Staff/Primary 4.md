@@ -33,7 +33,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Respectful</td>
-<td class="tg-yhj3">Mr Kenn Roy Anthony <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Kenn_Roy_Anthony@schools.gov.sg">[Email]</a><br>Ms Andrea Roshni Sutvinder Singh <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Andrea_Roshni_Sutvinder_Singh@schools.gov.sg">[Email]</a><br>Ms Kajal Narah Singh <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Kajal_Narah_Singh@schools.gov.sg">[Email]</a> </td>
+<td class="tg-yhj3">Mr Kenn Roy Anthony <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Kenn_Roy_Anthony@schools.gov.sg">[Email]</a><br>Ms Kajal Narah Singh <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Kajal_Narah_Singh@schools.gov.sg">[Email]</a> </td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
@@ -41,7 +41,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
-<td class="tg-yhj3">Mdm Sherlyn Ng Yee Theng <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_yee_theng_sherlyn@schools.gov.sg">[Email]</a><br>Ms Png Jin Yee (方老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:png_jin_yee@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Mdm Sherlyn Ng Yee Theng <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_yee_theng_sherlyn@schools.gov.sg">[Email]</a><br>Ms Png Jin Yee (方老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:png_jin_yee@schools.gov.sg">[Email]</a><br>Ms Siti Nur Diyanah Binte Zulkifli <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Siti_Nur_Diyanah_Zulkifli@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
