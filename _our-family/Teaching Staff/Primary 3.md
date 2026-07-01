@@ -37,15 +37,15 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
-<td class="tg-yhj3">Ms Nur Syafiqah Binte Mohamad Sham <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Nur_Syafiqah_Mohamad_Sham@schools.gov.sg">[Email]</a><br>Ms Alicia Yip Mei Wei <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Alicia_Yip_Mei_Wei@schools.gov.sg">[Email]</a><br>Mr Alistair Yap <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Yap_Yiow_Zhoong_Alistair@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Nur Syafiqah Binte Mohamad Sham <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Nur_Syafiqah_Mohamad_Sham@schools.gov.sg">[Email]</a><br>Ms Alicia Yip Mei Wei <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Alicia_Yip_Mei_Wei@schools.gov.sg">[Email]</a><br>Mdm Lim Hui Min <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Lim_Hui_Min_G@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Caring</td>
-<td class="tg-yhj3">Mdm Loo Ai Ling (吕老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loo_ai_ling@schools.gov.sg">[Email]</a><br>Ms Ang Li Yen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Ang_Li_Yen@schools.gov.sg">[Email] </a></td>
+<td class="tg-yhj3">Mdm Loo Ai Ling (吕老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:loo_ai_ling@schools.gov.sg">[Email]</a><br>Mdm Dhurga Devi Ramasamy <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Dhurga_Devi_Ramasamy@schools.gov.sg">[Email] </a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Mdm Li Fuxiao (李老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_fuxiao@schools.gov.sg">[Email]</a><br>Mdm Siak Yim Peng Cassie </td>
+<td class="tg-yhj3">Mdm Li Fuxiao (李老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:li_fuxiao@schools.gov.sg">[Email]</a><br>Ms Ho Yen Qing Eileen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_yen_qing_eileen@schools.gov.sg">[Email]</a><br>Ms Loo Jia Rui, Cheryl <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Loo_Jia_Rui_Cheryl_A@schools.gov.sg">[Email]</a> </td>
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>

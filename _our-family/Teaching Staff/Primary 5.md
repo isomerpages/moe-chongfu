@@ -60,7 +60,7 @@ Mdm Sabariah Bte Alwi <a target="_blank" rel="noopener noreferrer nofollow" href
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
-<td class="tg-yhj3">Mdm Aini Bte Bujang <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:aini_bujang@schools.gov.sg">[Email]</a><br>Mr Abbas Bin K Abdulla Kutty <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Abbas_K_Abdulla_Kutty_A@schools.gov.sg">[Email]</a>
+<td class="tg-yhj3">Mdm Aini Bte Bujang <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:aini_bujang@schools.gov.sg">[Email]</a><br>Mdm Khadijah Binte Jantan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:khadijah_jantan@schools.gov.sg">[Email]</a>
 	</td>
 </tr>
 </tbody>
