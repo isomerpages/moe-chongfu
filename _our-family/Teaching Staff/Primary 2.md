@@ -34,7 +34,7 @@ third_nav_title: Teaching Staff
 <tr>
 <td class="tg-yhj3">Respectful</td>
 <td class="tg-yhj3">Mdm Dione Chew Ying Ying 
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Dione_Chew_Ying_Ying@schools.gov.sg">[Email]</a><br>Ms Joey Ng Jia Yi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:joey_ng_jia_yi@schools.gov.sg">[Email]</a></td>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Dione_Chew_Ying_Ying@schools.gov.sg">[Email]</a><br>Ms Kang Qian <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Kang_Qian@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Achieving</td>
@@ -50,7 +50,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
-<td class="tg-yhj3">Mdm Goh Siew Peng (吴老师）<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_siew_peng@schools.gov.sg">[Email]</a><br>Ms Shona Cha Siew Lian <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Shona_Cha_Siew_Lian@schools.gov.sg">[Email]</a><br>Mr Mohamad Izhar Bin Ramlan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mohamad_izhar_ramlan@schools.gov.sg">[Email]</a></td>
+<td class="tg-yhj3">Ms Lua Li Wen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lua_li_wen@schools.gov.sg">[Email]</a><br>Ms Shona Cha Siew Lian <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Shona_Cha_Siew_Lian@schools.gov.sg">[Email]</a><br>Mr Mohamad Izhar Bin Ramlan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mohamad_izhar_ramlan@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">United</td>
@@ -58,12 +58,12 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
-<td class="tg-yhj3">Ms Chong Yue Yen Juliana <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Chong_Yue_Yen@schools.gov.sg">[Email]</a><br>Ms Tee Sow Chin (郑老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Tee_SOW_CHIN_A@schools.gov.sg">[Email]</a><br></td>
+<td class="tg-yhj3">Ms Chong Yue Yen Juliana <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Chong_Yue_Yen@schools.gov.sg">[Email]</a><br>Ms Oh Shi Ying <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Oh_Shi_Ying_A@schools.gov.sg">[Email]</a><br></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Loyal</td>
 <td class="tg-yhj3">Mdm Yeo Seow Mei Jenny (杨老师)
-<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Jenny_Yeo_Seow_Mei@schools.gov.sg">[Email]</a></td>
+<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Jenny_Yeo_Seow_Mei@schools.gov.sg">[Email]</a><br>Ms Joey Ng Jia Yi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:joey_ng_jia_yi@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Youthful</td>
