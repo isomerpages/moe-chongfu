@@ -46,8 +46,8 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
-<td class="tg-yhj3">Mr Low Yee Leong (罗老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:low_yee_leong@schools.gov.sg">[Email]</a><br>Mdm Siti Nabilah Binte Othman <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Siti_Nabilah_Othman@schools.gov.sg">[Email]</a><br>Ms Tan Siyin <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Tan_Siyin@schools.gov.sg">[Email]</a></td>
-</tr>
+<td class="tg-yhj3">Mr Low Yee Leong (罗老师) <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:low_yee_leong@schools.gov.sg">[Email]</a><br>Mdm Siti Nabilah Binte Othman <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Siti_Nabilah_Othman@schools.gov.sg">[Email]</a>
+</td></tr>
 <tr>
 <td class="tg-yhj3">Observant</td>
 <td class="tg-yhj3">Ms Lua Li Wen <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lua_li_wen@schools.gov.sg">[Email]</a><br>Ms Shona Cha Siew Lian <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Shona_Cha_Siew_Lian@schools.gov.sg">[Email]</a><br>Mr Mohamad Izhar Bin Ramlan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mohamad_izhar_ramlan@schools.gov.sg">[Email]</a></td>
