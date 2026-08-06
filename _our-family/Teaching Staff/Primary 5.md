@@ -43,7 +43,7 @@ third_nav_title: Teaching Staff
 <tr>
 <td class="tg-yhj3">Caring</td>
 <td class="tg-yhj3">Mdm Chua Jennifer Joanne  <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_jennifer_joanne@schools.gov.sg">[Email]</a><br>
-Mdm Sabariah Bte Alwi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Sabariah_Alwi@schools.gov.sg">[Email]</a></td>
+Mdm Sabariah Bte Alwi <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Sabariah_Alwi@schools.gov.sg">[Email]</a><br>Mdm Gaithri K Raveendran <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Gaithri_K_Raveendran@schools.gov.sg">[Email]</a></td>
 </tr>
 <tr>
 <td class="tg-yhj3">Innovative</td>
@@ -60,7 +60,7 @@ Mdm Sabariah Bte Alwi <a target="_blank" rel="noopener noreferrer nofollow" href
 </tr>
 <tr>
 <td class="tg-yhj3">Sincere</td>
-<td class="tg-yhj3">Mdm Aini Bte Bujang <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:aini_bujang@schools.gov.sg">[Email]</a><br>Mdm Khadijah Binte Jantan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:khadijah_jantan@schools.gov.sg">[Email]</a>
+<td class="tg-yhj3">Mdm Aini Bte Bujang <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:aini_bujang@schools.gov.sg">[Email]</a><br>Mdm Khadijah Binte Jantan <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:khadijah_jantan@schools.gov.sg">[Email]</a><br>Mdm Subramanian Subha <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Subramanian_Subha@schools.gov.sgg">[Email]</a>
 	</td>
 </tr>
 </tbody>
